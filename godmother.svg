@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground sparkle hint -->
+  <ellipse cx="145" cy="228" rx="80" ry="6" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+
+  <!-- GODMOTHER FULL BODY (sparkles + crown of stars + nurturing) -->
+  <!-- flowing gown -->
+  <path d="M104 130 Q80 210 86 222 L204 222 Q210 210 186 130 Z" fill="#7c3fac" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- gown trim -->
+  <path d="M88 214 Q145 222 202 214" fill="none" stroke="#f2e40d" stroke-width="3" stroke-linecap="round"/>
+  <!-- shoes -->
+  <ellipse cx="118" cy="222" rx="8" ry="4" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="172" cy="222" rx="8" ry="4" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <!-- bodice -->
+  <path d="M118 86 L110 134 L180 134 L172 86 Q145 78 118 86 Z" fill="#392170" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- collar v -->
+  <path d="M132 86 L145 100 L158 86" fill="#7c3fac" stroke="#000000" stroke-width="2"/>
+  <!-- neck -->
+  <rect x="138" y="68" width="14" height="16" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- head -->
+  <ellipse cx="145" cy="50" rx="20" ry="22" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- hair (long, flowing) -->
+  <path d="M124 50 Q124 28 145 26 Q166 28 166 50 L168 86 L160 82 L160 60 Q156 44 145 42 Q134 44 130 60 L130 82 L122 86 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="138" cy="52" r="2.2" fill="#000000"/>
+  <circle cx="152" cy="52" r="2.2" fill="#000000"/>
+  <!-- warm smile -->
+  <path d="M137 60 Q145 66 153 60" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- cheeks -->
+  <circle cx="130" cy="58" r="3" fill="#f4a4b2" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="160" cy="58" r="3" fill="#f4a4b2" stroke="#000000" stroke-width="1.5"/>
+
+  <!-- CROWN OF STARS over head -->
+  <path d="M122 24 L126 16 L130 24 L138 22 L132 28 L136 34 L128 32 L122 38 L120 30 L114 26 Z" fill="#f2e40d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M141 12 L145 4 L149 12 L157 10 L151 16 L155 22 L147 20 L141 26 L139 18 L133 14 Z" fill="#f2e40d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M160 24 L164 16 L168 24 L176 22 L170 28 L174 34 L166 32 L160 38 L158 30 L152 26 Z" fill="#f2e40d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- arms outstretched / nurturing -->
+  <path d="M110 96 Q72 134 84 168 L96 162 Q90 138 122 118 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M180 96 Q218 134 206 168 L194 162 Q200 138 168 118 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="90" cy="166" r="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <circle cx="200" cy="166" r="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+
+  <!-- magic wand sparkles -->
+  <path d="M40 80 L44 72 L48 80 L56 78 L50 84 L54 92 L46 90 L40 96 L38 88 L32 84 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M244 110 L246 104 L250 110 L256 108 L252 114 L256 120 L248 118 L244 124 L242 118 L238 114 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="36" cy="160" r="3" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="252" cy="180" r="3" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="60" cy="200" r="2.5" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="228" cy="60" r="2.5" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+</svg>

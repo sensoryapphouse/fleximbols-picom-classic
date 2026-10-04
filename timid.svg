@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Neck -->
+  <rect x="128" y="152" width="34" height="24" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shoulders / bust - hunched, smaller, pulled in -->
+  <path d="M78 240 Q78 202 104 196 L145 190 L186 196 Q212 202 212 240 Z" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Hunched shoulders raised up (tension lines) -->
+  <path d="M78 210 Q90 196 104 196" stroke="#7f7f7f" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M212 210 Q200 196 186 196" stroke="#7f7f7f" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Head - smaller, looking slightly sideways/away (offset) -->
+  <ellipse cx="148" cy="112" rx="55" ry="58" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <ellipse cx="148" cy="66" rx="55" ry="20" fill="#7d5e23" stroke="#000000" stroke-width="5"/>
+  <rect x="93" y="58" width="110" height="18" rx="7" fill="#7d5e23" stroke="#000000" stroke-width="5"/>
+  <!-- Hair partially covering one side of face (looking away) -->
+  <path d="M93 66 Q80 80 83 100 Q85 110 93 114 L93 66 Z" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Eyebrows - raised inner corners (worried/anxious) -->
+  <path d="M105 89 Q115 82 128 88" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Right brow (partially obscured by hair direction) -->
+  <path d="M155 87 Q166 81 178 87" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Eyes - looking away to the side, small/darting -->
+  <ellipse cx="116" cy="106" rx="12" ry="10" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- Pupils looking left/away -->
+  <ellipse cx="112" cy="107" rx="7" ry="7" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="166" cy="106" rx="12" ry="10" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="162" cy="107" rx="7" ry="7" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- Sweat drop (nervous) -->
+  <path d="M196 82 Q200 74 204 82 Q204 88 200 90 Q196 88 196 82 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Nose -->
+  <path d="M143 118 L139 129 L145 131 L151 129 L148 118" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tiny nervous smile - very small, trembling line -->
+  <path d="M130 144 Q143 150 158 146" stroke="#000000" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wavy / uncertain lines under mouth (nervousness) -->
+  <path d="M130 150 Q136 153 142 150 Q148 147 154 150 Q158 152 162 150" stroke="#7f7f7f" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Small figure body cues: shoulders pulled in -->
+  <!-- Pale blush - meek, not bright -->
+  <ellipse cx="104" cy="120" rx="10" ry="7" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="178" cy="118" rx="10" ry="7" fill="#f4a4b2" stroke="none"/>
+</svg>

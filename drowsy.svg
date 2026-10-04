@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- "Z" drawn as small zig-zag polygon (NOT text) - floating upper right -->
+  <!-- Z shape: top line, diagonal, bottom line made as polygon -->
+  <polygon points="218,28 248,28 218,56 248,56" fill="none" stroke="#4d4d4d" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Smaller Z above and to the right -->
+  <polygon points="240,8 260,8 240,26 260,26" fill="none" stroke="#7f7f7f" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Shoulders -->
+  <path d="M65 240 Q78 190 112 180 Q145 174 178 180 Q212 190 225 240 Z" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="128" y="155" width="34" height="30" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="116" rx="62" ry="64" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Very sleepy half-closed eyes (just slits) -->
+  <!-- Left eye - heavy drooping lid, nearly closed -->
+  <ellipse cx="112" cy="112" rx="18" ry="10" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="113" cy="114" r="7" fill="#4d4d4d"/>
+  <!-- Heavy lid drooping - covers top 2/3 of eye -->
+  <path d="M94 112 Q112 98 130 112" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Right eye - same heavy droop -->
+  <ellipse cx="178" cy="112" rx="18" ry="10" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="179" cy="114" r="7" fill="#4d4d4d"/>
+  <path d="M160 112 Q178 98 196 112" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Yawning mouth - open oval -->
+  <ellipse cx="145" cy="155" rx="24" ry="18" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <!-- Teeth top -->
+  <path d="M122 152 Q145 148 168 152" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Relaxed low eyebrows -->
+  <path d="M94 90 Q112 86 130 90" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M160 90 Q178 86 196 90" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Soft rosy cheeks -->
+  <ellipse cx="88" cy="130" rx="14" ry="9" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="202" cy="130" rx="14" ry="9" fill="#f4a4b2" stroke="none"/>
+  <!-- Nose -->
+  <path d="M140 120 Q145 130 150 120" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

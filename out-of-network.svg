@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Red network boundary (broken/dashed circle) on left -->
+  <circle cx="100" cy="120" r="85" fill="#dff3fd" stroke="#d01424" stroke-width="6" stroke-dasharray="14,8"/>
+  <!-- Inner boundary -->
+  <circle cx="100" cy="120" r="78" fill="none" stroke="#d01424" stroke-width="2" stroke-dasharray="6,4"/>
+  <!-- Doctor FULL BODY OUTSIDE boundary (positioned to right, partly outside) -->
+  <!-- Head -->
+  <circle cx="215" cy="78" r="16" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Hair -->
+  <path d="M201 75 Q201 64 215 64 Q229 64 229 75 Q225 70 215 70 Q205 70 201 75 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="210" cy="78" r="1.5" fill="#000000"/>
+  <circle cx="220" cy="78" r="1.5" fill="#000000"/>
+  <path d="M211 85 Q215 87 219 85" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="211" y="93" width="8" height="6" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- White coat -->
+  <path d="M195 100 L235 100 L242 165 L188 165 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M215 100 L208 130 L215 138 L222 130 Z" fill="#efefef" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Stethoscope -->
+  <path d="M207 100 Q200 115 205 130 Q210 138 215 138 Q220 138 225 130 Q230 115 223 100" fill="none" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="215" cy="142" r="4" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <circle cx="215" cy="120" r="2" fill="#000000"/>
+  <!-- Arms -->
+  <path d="M195 102 L180 150 L188 155 L202 112 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M235 102 L250 150 L242 155 L228 112 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="184" cy="153" r="6" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <circle cx="246" cy="153" r="6" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- Pants -->
+  <rect x="193" y="165" width="20" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <rect x="217" y="165" width="20" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="202" cy="205" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="227" cy="205" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- Warning triangle in upper area -->
+  <path d="M30 50 L60 8 L90 50 Z" fill="#f2e40d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Exclamation in triangle -->
+  <rect x="57" y="22" width="6" height="18" fill="#000000"/>
+  <circle cx="60" cy="45" r="3" fill="#000000"/>
+  <!-- Higher cost dollar (up arrow + dollar) lower right -->
+  <circle cx="65" cy="200" r="22" fill="#f2e40d" stroke="#000000" stroke-width="3"/>
+  <path d="M65 188 L65 210 M59 192 Q59 188 65 188 L70 188 Q74 188 74 192 Q74 196 70 197 L65 198 Q59 199 59 204 Q59 207 63 207 L70 207 Q74 207 74 204" fill="none" stroke="#d01424" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Up arrow next to dollar (higher cost) -->
+  <path d="M95 200 L100 192 L105 200 M100 192 L100 210" fill="#d01424" stroke="#d01424" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- X / no-entry on the boundary -->
+  <circle cx="160" cy="120" r="18" fill="#d01424" stroke="#000000" stroke-width="3"/>
+  <path d="M150 110 L170 130 M170 110 L150 130" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+</svg>

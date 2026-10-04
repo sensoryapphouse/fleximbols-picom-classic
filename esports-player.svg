@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- desk -->
+  <rect x="28" y="158" width="234" height="13" rx="4" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="42" y="171" width="11" height="36" rx="3" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="237" y="171" width="11" height="36" rx="3" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- left monitor -->
+  <rect x="30" y="82" width="88" height="58" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="36" y="87" width="76" height="47" rx="3" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="40" y="91" width="68" height="39" rx="2" fill="#2a4ec0" stroke="none"/>
+  <!-- game content left monitor -->
+  <rect x="44" y="95" width="28" height="28" rx="2" fill="#529929" stroke="none"/>
+  <rect x="76" y="95" width="28" height="28" rx="2" fill="#f8130d" stroke="none"/>
+  <rect x="40" y="126" width="64" height="6" rx="2" fill="#f7de58" stroke="none"/>
+  <!-- left monitor stand -->
+  <rect x="68" y="140" width="10" height="10" rx="2" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="60" y="148" width="26" height="6" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- centre monitor (main) -->
+  <rect x="101" y="72" width="88" height="68" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="107" y="78" width="76" height="56" rx="3" fill="#000000" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="110" y="81" width="70" height="48" rx="2" fill="#1d0e82" stroke="none"/>
+  <!-- centre screen gameplay -->
+  <rect x="113" y="84" width="34" height="36" rx="2" fill="#392170" stroke="none"/>
+  <rect x="151" y="84" width="26" height="36" rx="2" fill="#7c3fac" stroke="none"/>
+  <rect x="110" y="122" width="70" height="5" rx="2" fill="#f7de58" stroke="none"/>
+  <!-- centre monitor stand -->
+  <rect x="139" y="140" width="12" height="10" rx="2" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="130" y="148" width="30" height="6" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- right monitor -->
+  <rect x="172" y="82" width="88" height="58" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="178" y="87" width="76" height="47" rx="3" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="182" y="91" width="68" height="39" rx="2" fill="#2a4ec0" stroke="none"/>
+  <rect x="186" y="95" width="56" height="28" rx="2" fill="#4d4d4d" stroke="none"/>
+  <rect x="178" y="126" width="64" height="6" rx="2" fill="#90a7d6" stroke="none"/>
+  <!-- right monitor stand -->
+  <rect x="210" y="140" width="10" height="10" rx="2" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="202" y="148" width="26" height="6" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- trophy on desk right side - key prop -->
+  <rect x="248" y="134" width="16" height="20" rx="3" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="244" y="130" width="24" height="10" rx="4" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="250" y="154" width="12" height="5" rx="2" fill="#f2e40d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="246" y="158" width="20" height="4" rx="2" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- handles on trophy cup -->
+  <path d="M244 134 Q238 140 244 146" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M268 134 Q274 140 268 146" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- keyboard on desk -->
+  <rect x="98" y="154" width="94" height="8" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- chair -->
+  <rect x="106" y="192" width="68" height="13" rx="5" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="160" y="166" width="14" height="30" rx="5" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="110" y1="205" x2="106" y2="226" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="170" y1="205" x2="174" y2="226" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- torso leaning forward -->
+  <rect x="114" y="155" width="46" height="40" rx="8" fill="#000000" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- team jersey stripe -->
+  <rect x="114" y="162" width="46" height="8" rx="3" fill="#f8130d" stroke="none"/>
+  <!-- arms on keyboard -->
+  <line x1="114" y1="165" x2="92" y2="158" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="88" cy="157" rx="8" ry="7" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="160" y1="165" x2="182" y2="158" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="186" cy="157" rx="8" ry="7" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- head -->
+  <ellipse cx="137" cy="138" rx="21" ry="21" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- hair -->
+  <path d="M117 131 Q122 115 137 117 Q152 115 157 131 Q154 118 137 118 Q120 118 117 131Z" fill="#4d4d4d" stroke="none"/>
+  <!-- headset band - key prop -->
+  <path d="M118 129 Q122 112 137 112 Q152 112 156 129" fill="none" stroke="#f8130d" stroke-width="7" stroke-linecap="round"/>
+  <rect x="114" y="126" width="8" height="14" rx="3" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="155" y="126" width="8" height="14" rx="3" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- mic boom on headset -->
+  <line x1="114" y1="136" x2="102" y2="144" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="100" cy="145" r="4" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- intense eyes -->
+  <circle cx="129" cy="136" r="3" fill="#000000"/>
+  <circle cx="145" cy="136" r="3" fill="#000000"/>
+  <!-- determined mouth -->
+  <line x1="130" y1="145" x2="144" y2="145" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

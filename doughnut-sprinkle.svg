@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- donut-sprinkle: round donut with hole, pink frosting, rainbow sprinkles on top -->
+  <!-- Donut body -->
+  <circle cx="145" cy="130" r="98" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Donut hole -->
+  <circle cx="145" cy="130" r="38" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+  <!-- Pink frosting layer on top half -->
+  <path d="M 47,130 Q 47,62 145,62 Q 243,62 243,130 Q 200,100 145,98 Q 90,100 47,130 Z" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Frosting inner edge (around hole) -->
+  <path d="M 107,130 Q 107,100 145,98 Q 183,100 183,130 Q 175,112 145,110 Q 115,112 107,130 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Rainbow sprinkles scattered on frosting -->
+  <!-- Red sprinkles -->
+  <rect x="90" y="88" width="14" height="5" rx="2" fill="#f8130d" stroke="#000000" stroke-width="2" transform="rotate(-30 97 90)"/>
+  <rect x="160" y="75" width="14" height="5" rx="2" fill="#f8130d" stroke="#000000" stroke-width="2" transform="rotate(20 167 77)"/>
+  <!-- Orange sprinkles -->
+  <rect x="120" y="72" width="14" height="5" rx="2" fill="#ff9900" stroke="#000000" stroke-width="2" transform="rotate(10 127 74)"/>
+  <rect x="185" y="95" width="14" height="5" rx="2" fill="#ff9900" stroke="#000000" stroke-width="2" transform="rotate(-25 192 97)"/>
+  <!-- Yellow sprinkles -->
+  <rect x="108" y="96" width="14" height="5" rx="2" fill="#f2e40d" stroke="#000000" stroke-width="2" transform="rotate(40 115 98)"/>
+  <rect x="172" y="82" width="14" height="5" rx="2" fill="#f2e40d" stroke="#000000" stroke-width="2" transform="rotate(-15 179 84)"/>
+  <!-- Green sprinkles -->
+  <rect x="78" y="108" width="14" height="5" rx="2" fill="#529929" stroke="#000000" stroke-width="2" transform="rotate(-45 85 110)"/>
+  <rect x="195" y="108" width="14" height="5" rx="2" fill="#529929" stroke="#000000" stroke-width="2" transform="rotate(35 202 110)"/>
+  <!-- Blue sprinkles -->
+  <rect x="135" y="68" width="14" height="5" rx="2" fill="#2a4ec0" stroke="#000000" stroke-width="2" transform="rotate(-20 142 70)"/>
+  <rect x="148" y="92" width="14" height="5" rx="2" fill="#2a4ec0" stroke="#000000" stroke-width="2" transform="rotate(50 155 94)"/>
+  <!-- Purple sprinkles -->
+  <rect x="100" y="112" width="14" height="5" rx="2" fill="#7c3fac" stroke="#000000" stroke-width="2" transform="rotate(25 107 114)"/>
+  <rect x="168" y="105" width="14" height="5" rx="2" fill="#7c3fac" stroke="#000000" stroke-width="2" transform="rotate(-40 175 107)"/>
+</svg>

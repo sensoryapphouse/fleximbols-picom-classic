@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Xhosa pattern backdrop on left -->
+  <rect x="15" y="25" width="80" height="190" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Geometric pattern stripes -->
+  <rect x="15" y="50" width="80" height="12" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <rect x="15" y="90" width="80" height="12" fill="#000000" stroke="none"/>
+  <rect x="15" y="130" width="80" height="12" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <rect x="15" y="170" width="80" height="12" fill="#000000" stroke="none"/>
+  <!-- Pattern triangles -->
+  <path d="M 20,70 L 30,80 L 20,90 Z" fill="#ff9900" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 45,70 L 55,80 L 45,90 Z" fill="#ff9900" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 70,70 L 80,80 L 70,90 Z" fill="#ff9900" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 20,150 L 30,160 L 20,170 Z" fill="#ff9900" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 45,150 L 55,160 L 45,170 Z" fill="#ff9900" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 70,150 L 80,160 L 70,170 Z" fill="#ff9900" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Xhosa person bust with face paint (identity) -->
+  <!-- Neck -->
+  <rect x="170" y="155" width="20" height="20" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Shoulders/torso top -->
+  <path d="M 130,215 Q 130,180 180,178 Q 230,180 230,215 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Beaded necklace - layered colourful beads -->
+  <path d="M 145,188 Q 180,205 215,188" fill="none" stroke="#137827" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="155" cy="192" r="3" fill="#137827" stroke="#000000" stroke-width="1"/>
+  <circle cx="165" cy="197" r="3" fill="#fff200" stroke="#000000" stroke-width="1"/>
+  <circle cx="175" cy="200" r="3" fill="#d01424" stroke="#000000" stroke-width="1"/>
+  <circle cx="185" cy="200" r="3" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <circle cx="195" cy="197" r="3" fill="#1d0e82" stroke="#000000" stroke-width="1"/>
+  <circle cx="205" cy="192" r="3" fill="#ff9900" stroke="#000000" stroke-width="1"/>
+  <!-- Head -->
+  <ellipse cx="180" cy="115" rx="40" ry="48" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- White face paint dots (umcako) - traditional Xhosa face paint -->
+  <circle cx="158" cy="100" r="3" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <circle cx="158" cy="115" r="3" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <circle cx="158" cy="130" r="3" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <circle cx="202" cy="100" r="3" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <circle cx="202" cy="115" r="3" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <circle cx="202" cy="130" r="3" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <circle cx="180" cy="85" r="3" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <!-- Eyes -->
+  <circle cx="168" cy="115" r="3" fill="#000000" stroke="none"/>
+  <circle cx="192" cy="115" r="3" fill="#000000" stroke="none"/>
+  <!-- Nose -->
+  <path d="M 180,122 L 176,135 L 184,135 Z" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Mouth -->
+  <path d="M 170,145 Q 180,150 190,145" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Beaded head crown -->
+  <path d="M 140,90 Q 180,55 220,90" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="148" cy="86" r="3" fill="#d01424" stroke="#000000" stroke-width="1"/>
+  <circle cx="160" cy="76" r="3" fill="#fff200" stroke="#000000" stroke-width="1"/>
+  <circle cx="172" cy="68" r="3" fill="#137827" stroke="#000000" stroke-width="1"/>
+  <circle cx="188" cy="68" r="3" fill="#1d0e82" stroke="#000000" stroke-width="1"/>
+  <circle cx="200" cy="76" r="3" fill="#ff9900" stroke="#000000" stroke-width="1"/>
+  <circle cx="212" cy="86" r="3" fill="#d01424" stroke="#000000" stroke-width="1"/>
+</svg>

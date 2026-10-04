@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- BBQ grill body (kettle shape) - upper half bowl -->
+  <path d="M45 118 Q45 75 145 75 Q245 75 245 118 Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Grill rim -->
+  <rect x="42" y="113" width="206" height="12" rx="6" fill="#7f7f7f" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Lower bowl -->
+  <path d="M45 125 Q45 158 145 158 Q245 158 245 125 L42 125 Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Legs -->
+  <line x1="105" y1="158" x2="90" y2="225" stroke="#4d4d4d" stroke-width="8" stroke-linecap="round"/>
+  <line x1="145" y1="158" x2="145" y2="225" stroke="#4d4d4d" stroke-width="8" stroke-linecap="round"/>
+  <line x1="185" y1="158" x2="200" y2="225" stroke="#4d4d4d" stroke-width="8" stroke-linecap="round"/>
+  <!-- Leg crossbar -->
+  <line x1="90" y1="200" x2="200" y2="200" stroke="#4d4d4d" stroke-width="6" stroke-linecap="round"/>
+  <!-- Coals / embers in lower bowl -->
+  <ellipse cx="145" cy="142" rx="85" ry="14" fill="#d01424" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="120" cy="141" rx="16" ry="8" fill="#f8130d" stroke="none"/>
+  <ellipse cx="155" cy="140" rx="18" ry="9" fill="#ff9900" stroke="none"/>
+  <ellipse cx="185" cy="142" rx="14" ry="7" fill="#f8130d" stroke="none"/>
+  <ellipse cx="105" cy="143" rx="12" ry="6" fill="#ff9900" stroke="none"/>
+  <!-- Coal embers (dark with bright centers) -->
+  <circle cx="95" cy="144" r="5" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="115" cy="142" r="4" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="138" cy="141" r="5" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="163" cy="140" r="4" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="185" cy="142" r="5" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="200" cy="144" r="4" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <!-- Grill grate bars (horizontal) -->
+  <line x1="52" y1="121" x2="238" y2="121" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Grill grate bars (vertical) -->
+  <line x1="75" y1="115" x2="75" y2="127" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="98" y1="115" x2="98" y2="127" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="121" y1="115" x2="121" y2="127" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="145" y1="115" x2="145" y2="127" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="169" y1="115" x2="169" y2="127" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="192" y1="115" x2="192" y2="127" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="215" y1="115" x2="215" y2="127" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Sausages on grill -->
+  <ellipse cx="95" cy="112" rx="30" ry="10" fill="#9d7246" stroke="#000000" stroke-width="4" transform="rotate(-15 95 112)"/>
+  <ellipse cx="145" cy="108" rx="30" ry="10" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="195" cy="112" rx="30" ry="10" fill="#9d7246" stroke="#000000" stroke-width="4" transform="rotate(15 195 112)"/>
+  <!-- Sausage grill marks -->
+  <line x1="82" y1="108" x2="78" y2="118" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="94" y1="104" x2="91" y2="118" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="130" y1="107" x2="130" y2="117" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="145" y1="105" x2="145" y2="117" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="160" y1="107" x2="160" y2="117" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="183" y1="107" x2="186" y2="118" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="197" y1="104" x2="200" y2="118" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Flames licking up through grate -->
+  <path d="M110 128 Q107 118 112 108 Q117 118 114 128 Z" fill="#ff9900" stroke="none"/>
+  <path d="M155 128 Q152 116 157 106 Q162 116 159 128 Z" fill="#ff9900" stroke="none"/>
+  <path d="M175 128 Q172 119 177 110 Q181 119 178 128 Z" fill="#f8130d" stroke="none"/>
+  <!-- Smoke wisps -->
+  <path d="M90 104 Q86 93 90 83 Q94 74 90 64" fill="none" stroke="#7f7f7f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M145 104 Q141 93 145 83 Q149 74 145 64" fill="none" stroke="#7f7f7f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M195 104 Q191 93 195 83 Q199 74 195 64" fill="none" stroke="#7f7f7f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M118 100 Q114 90 118 80 Q122 71 118 62" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M170 100 Q166 90 170 80 Q174 71 170 62" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(460,5) scale(0.4825) translate(-166,-5)"><polygon points="82,149 83,157 84,166 86,174 89,182 92,189 97,196 101,202 107,208 113,214 119,219 126,223 134,226 141,229 149,231 158,232 166,233 175,232 183,231 191,229 199,226 206,223 213,219 220,214 226,208 231,202 236,196 240,189 244,182 246,174 249,166 250,157 250,149 250,140 249,132 246,124 244,116 240,109 236,102 231,95 226,89 220,84 213,79 206,75 199,71 191,69 183,67 175,65 166,65 158,65 149,67 141,69 134,71 126,75 119,79 113,84 107,89 101,95 97,102 92,109 89,116 86,124 84,132 83,140 82,149" fill="#ffffff" stroke="#000000" stroke-width="8" fill-rule="evenodd"/><polyline points="166,209 166,225" fill="none" stroke="#000000" stroke-width="8"/><polyline points="106,149 90,149"  fill="none" stroke="#000000" stroke-width="8"/><polyline points="243,149 226,149" fill="none" stroke="#000000" stroke-width="8"/><polyline points="124,191 112,203" fill="none" stroke="#000000" stroke-width="8"/><polyline points="220,95 209,106"  fill="none" stroke="#000000" stroke-width="8"/><polyline points="220,203 209,191" fill="none" stroke="#000000" stroke-width="8"/><polyline points="112,95 123,106"  fill="none" stroke="#000000" stroke-width="8"/><polygon points="158,81 159,84 161,87 164,89 167,90 171,89 173,87 175,84 176,81 175,77 173,74 171,72 167,72 164,72 161,74 159,77 158,81" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="168,98 174,153 159,151 168,98" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="157,149 158,152 160,155 163,157 166,158 170,157 173,155 175,152 175,149 175,145 173,142 170,141 166,140 163,141 160,142 158,145 157,149" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="112,256 205,256 205,243 251,272 205,301 205,288 112,288" fill="#e03734" stroke="#000000" stroke-width="6"/></g></svg>

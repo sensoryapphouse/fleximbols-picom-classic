@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,32.304) scale(0.8654)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- FULL BODY cousin figure (left) -->
+  <circle cx="70" cy="50" r="20" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <path d="M50,46 Q55,30 70,29 Q85,30 90,46" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="63" cy="50" r="2.5" fill="#000000"/>
+  <circle cx="77" cy="50" r="2.5" fill="#000000"/>
+  <path d="M63,58 Q70,63 77,58" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M48,72 L92,72 L96,150 L44,150 Z" fill="#7c3fac" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="48" y1="82" x2="26" y2="120" stroke="#e6b98a" stroke-width="11" stroke-linecap="round"/>
+  <line x1="48" y1="82" x2="26" y2="120" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="92" y1="82" x2="114" y2="120" stroke="#e6b98a" stroke-width="11" stroke-linecap="round"/>
+  <line x1="92" y1="82" x2="114" y2="120" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <rect x="50" y="150" width="16" height="55" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <rect x="74" y="150" width="16" height="55" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="58" cy="210" rx="10" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="82" cy="210" rx="10" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="4"/>
+
+  <!-- Family tree on right (2-degree: great-grandparent + grandparents + parents + cousins) -->
+  <!-- great-grandparent (top) -->
+  <circle cx="220" cy="22" r="7" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <!-- grandparents (siblings) -->
+  <circle cx="195" cy="58" r="7" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <circle cx="245" cy="58" r="7" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- parents -->
+  <circle cx="180" cy="100" r="7" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <circle cx="260" cy="100" r="7" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <!-- 2nd cousins -->
+  <circle cx="180" cy="142" r="7" fill="#f266aa" stroke="#000000" stroke-width="3"/>
+  <circle cx="260" cy="142" r="7" fill="#f266aa" stroke="#000000" stroke-width="3"/>
+  <!-- connectors -->
+  <line x1="220" y1="29" x2="195" y2="51" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="220" y1="29" x2="245" y2="51" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="195" y1="65" x2="180" y2="93" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="245" y1="65" x2="260" y2="93" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="180" y1="107" x2="180" y2="135" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="260" y1="107" x2="260" y2="135" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- separation link -->
+  <line x1="187" y1="142" x2="253" y2="142" stroke="#f8130d" stroke-width="4" stroke-linecap="round" stroke-dasharray="6,4"/>
+
+  <!-- Big drawn "2" badge bottom right -->
+  <circle cx="220" cy="190" r="28" fill="#fff200" stroke="#000000" stroke-width="5"/>
+  <!-- numeral 2 strokes -->
+  <path d="M208,180 Q208,170 220,170 Q232,170 232,180 Q232,188 220,196 L208,208 L232,208" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g><g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl656" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl656)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

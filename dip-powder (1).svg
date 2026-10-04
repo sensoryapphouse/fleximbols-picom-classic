@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Hand dipping into open jar of coloured nail powder (synonym of dip-powder) -->
+  <!-- Open jar -->
+  <ellipse cx="145" cy="175" rx="82" ry="18" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M63 175 L73 225 Q145 240 217 225 L227 175" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Powder surface (different colour to differentiate from original dip-powder which is pink) -->
+  <ellipse cx="145" cy="175" rx="74" ry="13" fill="#90a7d6" stroke="#000000" stroke-width="2"/>
+  <!-- Powder texture dots -->
+  <circle cx="100" cy="175" r="2" fill="#2a4ec0"/>
+  <circle cx="125" cy="177" r="2" fill="#2a4ec0"/>
+  <circle cx="160" cy="173" r="2" fill="#2a4ec0"/>
+  <circle cx="185" cy="177" r="2" fill="#2a4ec0"/>
+  <circle cx="140" cy="178" r="1.5" fill="#2a4ec0"/>
+  <circle cx="115" cy="172" r="1.5" fill="#2a4ec0"/>
+  <circle cx="175" cy="172" r="1.5" fill="#2a4ec0"/>
+  <!-- Jar rim outline -->
+  <ellipse cx="145" cy="175" rx="82" ry="18" fill="none" stroke="#000000" stroke-width="3"/>
+  <!-- Jar label (modern, sleek) -->
+  <rect x="105" y="195" width="80" height="22" rx="3" ry="3" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <line x1="115" y1="206" x2="175" y2="206" stroke="#2a4ec0" stroke-width="2"/>
+  <line x1="120" y1="212" x2="170" y2="212" stroke="#7f7f7f" stroke-width="1.5"/>
+  <!-- Hand dipping (from above) -->
+  <path d="M105 35 L105 135 Q105 150 115 155 Q125 160 145 163 Q165 165 185 157 Q200 150 200 135 L200 55 Q200 45 195 43 L190 43 L190 35 Q188 27 180 27 Q172 27 170 35 L170 43 L160 43 L160 30 Q158 22 150 22 Q142 22 140 30 L140 43 L130 43 L130 32 Q128 24 120 24 Q112 24 110 32 L110 43 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Fingertips covered in blue powder (different colour - modern variant) -->
+  <ellipse cx="120" cy="160" rx="9" ry="7" fill="#90a7d6" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="145" cy="163" rx="9" ry="7" fill="#90a7d6" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="170" cy="160" rx="9" ry="7" fill="#90a7d6" stroke="#000000" stroke-width="2"/>
+  <!-- Powder puffs around -->
+  <circle cx="78" cy="160" r="4" fill="#dff3fd" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="215" cy="163" r="5" fill="#dff3fd" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="225" cy="150" r="3" fill="#dff3fd" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="68" cy="150" r="3" fill="#dff3fd" stroke="#000000" stroke-width="1.5"/>
+  <!-- Modern accent: small sparkle to differentiate from the original dip-powder.svg -->
+  <path d="M240 70 L243 76 L249 76 L244 80 L246 86 L240 82 L234 86 L236 80 L231 76 L237 76 Z" fill="#fff200" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M50 95 L52 99 L56 99 L53 102 L54 106 L50 103 L46 106 L47 102 L44 99 L48 99 Z" fill="#fff200" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

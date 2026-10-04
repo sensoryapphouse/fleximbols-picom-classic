@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sky background -->
+  <rect x="26" y="32" width="238" height="176" rx="8" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Round dome canopy -->
+  <path d="M75,110 Q75,45 145,45 Q215,45 215,110 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Canopy panels alternating colour -->
+  <path d="M145,45 Q155,75 150,110 L145,110 Q140,75 145,45 Z" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M145,110 Q160,78 185,95 L175,110 Z" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M145,110 Q130,78 105,95 L115,110 Z" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Canopy bottom edge -->
+  <line x1="75" y1="110" x2="215" y2="110" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Suspension lines left side -->
+  <line x1="85" y1="110" x2="125" y2="175" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="105" y1="110" x2="128" y2="175" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="125" y1="110" x2="131" y2="175" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Suspension lines right side -->
+  <line x1="205" y1="110" x2="165" y2="175" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="185" y1="110" x2="162" y2="175" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="165" y1="110" x2="159" y2="175" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Harness risers -->
+  <line x1="125" y1="175" x2="140" y2="183" stroke="#7d5e23" stroke-width="4" stroke-linecap="round"/>
+  <line x1="165" y1="175" x2="150" y2="183" stroke="#7d5e23" stroke-width="4" stroke-linecap="round"/>
+  <!-- Jumper head -->
+  <circle cx="145" cy="175" r="12" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Helmet -->
+  <path d="M133,172 Q145,160 157,172" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Body -->
+  <rect x="130" y="186" width="30" height="28" rx="6" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Arms out to sides gripping risers -->
+  <line x1="130" y1="193" x2="112" y2="183" stroke="#eed5b6" stroke-width="5" stroke-linecap="round"/>
+  <line x1="160" y1="193" x2="178" y2="183" stroke="#eed5b6" stroke-width="5" stroke-linecap="round"/>
+  <!-- Legs dangling -->
+  <line x1="138" y1="213" x2="132" y2="230" stroke="#2a4ec0" stroke-width="5" stroke-linecap="round"/>
+  <line x1="152" y1="213" x2="158" y2="230" stroke="#2a4ec0" stroke-width="5" stroke-linecap="round"/>
+  <!-- Boots -->
+  <ellipse cx="130" cy="231" rx="7" ry="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="160" cy="231" rx="7" ry="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+</svg>

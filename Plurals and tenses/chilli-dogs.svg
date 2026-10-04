@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Chili dog: side view. Long sausage in a bun, chili heaped on top, sausage ends poke out -->
+  <!-- sausage ends poking out of the bun (drawn first, behind bun) -->
+  <ellipse cx="40" cy="138" rx="16" ry="13" fill="#9d4b2a" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="250" cy="138" rx="16" ry="13" fill="#9d4b2a" stroke="#000000" stroke-width="5"/>
+  <!-- lower bun roll (the cradle) -->
+  <path d="M44 150 Q40 178 78 180 L212 180 Q250 178 246 150 Q246 140 232 140 L58 140 Q44 140 44 150 Z"
+        fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- sausage body visible between bun and chili -->
+  <path d="M56 140 Q52 124 76 124 L214 124 Q238 124 234 140 Q234 150 214 148 L76 148 Q56 150 56 140 Z"
+        fill="#9d4b2a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- upper bun roll (back lip, behind chili) -->
+  <path d="M52 132 Q48 108 80 106 L210 106 Q242 108 238 132"
+        fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- chili sauce heaped along the top of the sausage -->
+  <path d="M62 134 Q60 116 86 114 Q104 104 126 112 Q148 102 170 112 Q194 104 210 116 Q232 118 226 134 Q226 142 212 140 Q145 134 78 140 Q62 142 62 134 Z"
+        fill="#b3331a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- chili chunks (mince) -->
+  <ellipse cx="84" cy="126" rx="6.5" ry="5" fill="#7a2410" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="108" cy="120" rx="6.5" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="132" cy="127" rx="6.5" ry="5" fill="#7a2410" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="156" cy="120" rx="6.5" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="180" cy="127" rx="6.5" ry="5" fill="#7a2410" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="202" cy="122" rx="6.5" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <!-- kidney beans -->
+  <path d="M96 131 q6 -5 11 0 q-5 4 -11 0 z" fill="#8a3b1e" stroke="#000000" stroke-width="1.5"/>
+  <path d="M168 131 q6 -5 11 0 q-5 4 -11 0 z" fill="#8a3b1e" stroke="#000000" stroke-width="1.5"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl524" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl524)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

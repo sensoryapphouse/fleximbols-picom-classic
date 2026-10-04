@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Left flip-flop: top-down view, toes at top, foot-shaped sole -->
+  <path d="M 62 24 Q 90 24 93 68 Q 95 122 82 173 Q 74 200 62 202 Q 50 200 42 173 Q 29 122 31 68 Q 34 24 62 24 Z" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Footbed (lighter insole area) -->
+  <path d="M 62 34 Q 84 34 86 72 Q 88 120 77 167 Q 71 191 62 193 Q 53 191 47 167 Q 36 120 38 72 Q 40 34 62 34 Z" fill="#f4a4b2" stroke="none"/>
+  <!-- Y-strap left arm -->
+  <path d="M 32 120 Q 47 100 62 76" fill="none" stroke="#7c3fac" stroke-width="10" stroke-linecap="round"/>
+  <!-- Y-strap right arm -->
+  <path d="M 62 76 Q 77 100 92 120" fill="none" stroke="#7c3fac" stroke-width="10" stroke-linecap="round"/>
+  <!-- Strap outline for definition -->
+  <path d="M 32 120 Q 47 100 62 76 Q 77 100 92 120" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Toe post -->
+  <circle cx="62" cy="74" r="7" fill="#7c3fac" stroke="#000000" stroke-width="3"/>
+
+  <!-- Right flip-flop (offset +166px) -->
+  <path d="M 228 24 Q 256 24 259 68 Q 261 122 248 173 Q 240 200 228 202 Q 216 200 208 173 Q 195 122 197 68 Q 200 24 228 24 Z" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 228 34 Q 250 34 252 72 Q 254 120 243 167 Q 237 191 228 193 Q 219 191 213 167 Q 202 120 204 72 Q 206 34 228 34 Z" fill="#f4a4b2" stroke="none"/>
+  <!-- Y-strap left arm -->
+  <path d="M 198 120 Q 213 100 228 76" fill="none" stroke="#7c3fac" stroke-width="10" stroke-linecap="round"/>
+  <!-- Y-strap right arm -->
+  <path d="M 228 76 Q 243 100 258 120" fill="none" stroke="#7c3fac" stroke-width="10" stroke-linecap="round"/>
+  <path d="M 198 120 Q 213 100 228 76 Q 243 100 258 120" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Toe post -->
+  <circle cx="228" cy="74" r="7" fill="#7c3fac" stroke="#000000" stroke-width="3"/>
+</svg>

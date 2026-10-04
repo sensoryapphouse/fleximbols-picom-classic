@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- celebrant: full body officiating, open book, ceremonial robe -->
+  <!-- ground -->
+  <rect x="20" y="218" width="250" height="10" fill="#f5e7c4" stroke="#000000" stroke-width="2"/>
+
+  <!-- legs under robe (just hint of shoes) -->
+  <ellipse cx="135" cy="222" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="160" cy="222" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+
+  <!-- ceremonial robe (white with purple stole) -->
+  <path d="M105 115 L88 218 L207 218 L190 115 Q190 95 148 92 Q105 95 105 115 Z" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- gold trim along bottom -->
+  <path d="M88 215 L207 215" stroke="#f2e40d" stroke-width="4" stroke-linecap="round"/>
+  <!-- purple stole around neck draping down -->
+  <path d="M128 100 L122 200 L138 200 L142 102 Z" fill="#7c3fac" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M168 100 L154 102 L158 200 L174 200 Z" fill="#7c3fac" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- gold cross on stole -->
+  <rect x="127" y="150" width="4" height="12" fill="#f2e40d" stroke="#000000" stroke-width="1"/>
+  <rect x="123" y="153" width="12" height="4" fill="#f2e40d" stroke="#000000" stroke-width="1"/>
+  <rect x="165" y="150" width="4" height="12" fill="#f2e40d" stroke="#000000" stroke-width="1"/>
+  <rect x="161" y="153" width="12" height="4" fill="#f2e40d" stroke="#000000" stroke-width="1"/>
+
+  <!-- arms holding open book in front -->
+  <path d="M108 118 L92 158 L102 162 L116 124 Z" fill="#efefef" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M187 118 L203 158 L193 162 L179 124 Z" fill="#efefef" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- hands -->
+  <circle cx="97" cy="162" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <circle cx="198" cy="162" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+
+  <!-- open book -->
+  <path d="M95 158 L148 150 L200 158 L200 182 L148 174 L95 182 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M148 150 L148 174" stroke="#000000" stroke-width="2"/>
+  <path d="M105 162 L140 157 M105 168 L140 163 M156 157 L192 162 M156 163 L192 168" stroke="#7f7f7f" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M95 182 L95 185 L148 177 L200 185 L200 182" fill="#1d0e82" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- head -->
+  <circle cx="148" cy="68" r="24" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M126 64 Q126 44 148 42 Q170 44 170 64 Q168 54 148 52 Q128 54 126 64 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="140" cy="68" r="2" fill="#000000"/>
+  <circle cx="156" cy="68" r="2" fill="#000000"/>
+  <path d="M140 78 Q148 82 156 78" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+</svg>

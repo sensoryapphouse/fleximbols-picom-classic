@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Head -->
+  <ellipse cx="145" cy="162" rx="44" ry="50" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="127" y="203" width="36" height="20" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Turban base layer -->
+  <path d="M101 148 Q100 108 145 102 Q190 108 189 148 Q165 160 145 158 Q125 160 101 148 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Wrap fold 1 -->
+  <path d="M101 148 Q118 138 145 140 Q172 138 189 148" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Wrap fold 2 -->
+  <path d="M104 134 Q122 124 145 126 Q168 124 186 134" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Wrap fold 3 -->
+  <path d="M110 120 Q126 112 145 113 Q164 112 180 120" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Top knot/peak -->
+  <ellipse cx="145" cy="103" rx="18" ry="10" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Face: eyes -->
+  <ellipse cx="131" cy="164" rx="5" ry="6" fill="#4d4d4d"/>
+  <ellipse cx="159" cy="164" rx="5" ry="6" fill="#4d4d4d"/>
+  <!-- Nose -->
+  <path d="M145 171 Q141 180 145 183 Q149 180 145 171" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Mouth -->
+  <path d="M134 190 Q145 197 156 190" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+</svg>

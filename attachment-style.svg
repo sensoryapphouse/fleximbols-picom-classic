@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Parent FULL BODY (left, taller) -->
+  <!-- Head -->
+  <circle cx="65" cy="55" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Hair -->
+  <path d="M48 50 Q50 38 65 36 Q80 38 82 50" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Eyes + smile -->
+  <circle cx="59" cy="55" r="2" fill="#000000"/>
+  <circle cx="71" cy="55" r="2" fill="#000000"/>
+  <path d="M59 64 Q65 68 71 64" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Torso -->
+  <path d="M48 76 L48 140 Q65 148 82 140 L82 76 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Arms - one reaches toward child -->
+  <path d="M48 92 Q35 110 35 130" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M82 92 Q105 105 122 118" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <!-- Legs -->
+  <rect x="50" y="142" width="13" height="62" rx="5" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <rect x="68" y="142" width="13" height="62" rx="5" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <!-- Feet -->
+  <ellipse cx="56" cy="210" rx="9" ry="6" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="74" cy="210" rx="9" ry="6" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
+  <!-- Child FULL BODY (right, shorter) -->
+  <!-- Head -->
+  <circle cx="225" cy="90" r="15" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Hair -->
+  <path d="M211 86 Q213 76 225 74 Q237 76 239 86" fill="#9d7246" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Eyes + smile -->
+  <circle cx="220" cy="90" r="2" fill="#000000"/>
+  <circle cx="230" cy="90" r="2" fill="#000000"/>
+  <path d="M220 98 Q225 101 230 98" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Torso -->
+  <path d="M211 107 L211 155 Q225 162 239 155 L239 107 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Arms - one reaches toward parent -->
+  <path d="M211 118 Q190 125 170 125" fill="none" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M239 118 Q252 130 252 145" fill="none" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <!-- Legs -->
+  <rect x="213" y="157" width="11" height="48" rx="4" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <rect x="226" y="157" width="11" height="48" rx="4" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <!-- Feet -->
+  <ellipse cx="218" cy="211" rx="7" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="232" cy="211" rx="7" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
+  <!-- Heart link between them -->
+  <path d="M145 105 Q145 92 155 92 Q165 92 165 102 Q165 92 175 92 Q185 92 185 105 Q185 118 165 132 Q145 118 145 105 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Connector line behind heart -->
+  <path d="M122 118 L145 110" fill="none" stroke="#7c3fac" stroke-width="3" stroke-linecap="round"/>
+  <path d="M185 110 L170 122" fill="none" stroke="#7c3fac" stroke-width="3" stroke-linecap="round"/>
+  <!-- Strength meter (bar chart below heart) -->
+  <rect x="138" y="160" width="10" height="20" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <rect x="152" y="150" width="10" height="30" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <rect x="166" y="140" width="10" height="40" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <rect x="180" y="130" width="10" height="50" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <!-- Meter baseline -->
+  <path d="M132 182 L196 182" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Hand pulling zip pull UP on trousers, zipper teeth, waistband visible -->
+  <!-- Trousers front panel -->
+  <!-- Left trouser leg -->
+  <path d="M80 108 L128 108 L122 232 L75 232 Q68 232 68 224 L68 116 Q68 108 80 108Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Right trouser leg -->
+  <path d="M150 108 L210 108 Q222 108 222 116 L222 224 Q222 232 215 232 L168 232 L162 108Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- WAISTBAND (top of trousers) -->
+  <rect x="68" y="92" width="154" height="20" rx="5" ry="5" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Belt loops hint -->
+  <rect x="90" y="88" width="10" height="28" rx="3" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <rect x="190" y="88" width="10" height="28" rx="3" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <!-- Fly/zipper area (center of trousers) -->
+  <rect x="128" y="108" width="34" height="90" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- ZIPPER TEETH (interlocking pattern up the center) -->
+  <!-- Left teeth -->
+  <rect x="130" y="115" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="130" y="125" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="130" y="135" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="130" y="145" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="130" y="155" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="130" y="165" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="130" y="175" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <!-- Right teeth (offset/interlocking) -->
+  <rect x="153" y="120" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="153" y="130" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="153" y="140" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="153" y="150" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="153" y="160" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="153" y="170" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="153" y="180" width="7" height="5" rx="1" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <!-- Zip slider (being pulled up) -->
+  <rect x="126" y="100" width="38" height="18" rx="5" ry="5" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- ZIP PULL tab (pointing up, being grabbed) -->
+  <path d="M139 100 L139 72 Q139 65 145 65 Q151 65 151 72 L151 100Z" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Hole in zip pull tab -->
+  <rect x="140" y="75" width="10" height="16" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- HAND pulling zip pull UP -->
+  <!-- Palm and fingers gripping the tab -->
+  <ellipse cx="145" cy="52" rx="20" ry="13" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Thumb -->
+  <path d="M128 52 Q120 46 118 38 Q118 32 124 32 Q130 32 130 40Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Index finger -->
+  <path d="M132 42 Q130 30 134 22" stroke="#000000" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Middle finger -->
+  <path d="M140 40 Q140 28 144 20" stroke="#000000" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Ring finger -->
+  <path d="M148 40 Q150 29 153 22" stroke="#000000" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Little finger -->
+  <path d="M156 44 Q160 34 162 28" stroke="#000000" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Wrist going right and down -->
+  <path d="M162 55 Q182 58 200 50" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M160 65 Q180 68 200 62 Q206 60 206 54 Q206 48 200 50 Q188 56 162 52Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Motion arrow up showing zip direction -->
+  <path d="M220 120 L220 95" stroke="#000000" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M214 102 L220 92 L226 102" stroke="#000000" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- prayer flags string across top -->
+  <path d="M10 25 Q145 50 280 25" fill="none" stroke="#4d4d4d" stroke-width="2"/>
+  <path d="M30 30 L30 60 L52 60 L52 32 Z" fill="#1d0e82" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M62 32 L62 62 L84 62 L84 35 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M94 35 L94 65 L116 65 L116 37 Z" fill="#f8130d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M126 37 L126 67 L148 67 L148 38 Z" fill="#529929" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M158 37 L158 67 L180 67 L180 35 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M190 35 L190 65 L212 65 L212 33 Z" fill="#1d0e82" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M222 33 L222 63 L244 63 L244 30 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Dalai Lama silhouette (monk full body, glasses) -->
+  <circle cx="80" cy="120" r="20" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <circle cx="72" cy="118" r="5" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="88" cy="118" r="5" fill="none" stroke="#000000" stroke-width="2"/>
+  <line x1="77" y1="118" x2="83" y2="118" stroke="#000000" stroke-width="2"/>
+  <path d="M75 130 Q80 133 85 130" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- robe -->
+  <path d="M58 140 Q80 138 102 140 L110 215 L50 215 Z" fill="#e65a00" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M58 150 L102 150 L100 165 L60 165 Z" fill="#f2e40d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- arms -->
+  <path d="M58 160 L42 195 L55 215" fill="none" stroke="#e65a00" stroke-width="9" stroke-linecap="round"/>
+  <path d="M102 160 L118 195 L105 215" fill="none" stroke="#e65a00" stroke-width="9" stroke-linecap="round"/>
+  <!-- prayer wheel right -->
+  <rect x="190" y="100" width="14" height="120" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="197" cy="155" rx="32" ry="22" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <path d="M168 155 Q197 145 226 155 Q197 165 168 155 Z" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <circle cx="183" cy="158" r="3" fill="#1d0e82" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="197" cy="160" r="3" fill="#1d0e82" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="211" cy="158" r="3" fill="#1d0e82" stroke="#000000" stroke-width="1.5"/>
+  <!-- handle ring -->
+  <circle cx="240" cy="150" r="8" fill="none" stroke="#f2e40d" stroke-width="4"/>
+  <path d="M230 150 L218 155" fill="none" stroke="#7d5e23" stroke-width="3"/>
+  <!-- Tibetan endless knot bottom-left -->
+  <path d="M250 195 L260 195 L260 205 L270 205 L270 215 L260 215 L260 225 L250 225 L250 215 L240 215 L240 205 L250 205 Z" fill="#3aa6a0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M245 200 L265 220 M265 200 L245 220" stroke="#000000" stroke-width="1.5"/>
+</svg>

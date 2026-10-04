@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Head bust - pained expression -->
+  <ellipse cx="145" cy="90" rx="62" ry="66" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="120" y="144" width="50" height="28" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Shoulders -->
+  <ellipse cx="145" cy="193" rx="78" ry="28" fill="#7f7f7f" stroke="#000000" stroke-width="5"/>
+  <!-- Eyes scrunched in pain -->
+  <path d="M108 78 Q118 86 128 78" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M162 78 Q172 86 182 78" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Furrowed brow - pain lines -->
+  <path d="M112 65 Q128 60 135 68" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M178 65 Q162 60 155 68" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Nose -->
+  <ellipse cx="145" cy="100" rx="9" ry="7" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Open pained mouth - downturned -->
+  <path d="M120 125 Q145 118 170 125 Q158 145 145 148 Q132 145 120 125 Z" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Mouth interior dark -->
+  <ellipse cx="145" cy="133" rx="16" ry="10" fill="#4d4d4d" stroke="none"/>
+  <!-- Hand on forehead -->
+  <!-- Arm from left shoulder up to forehead -->
+  <path d="M80 193 Q68 160 88 130 Q100 110 118 90" fill="none" stroke="#eed5b6" stroke-width="18" stroke-linecap="round"/>
+  <!-- Hand on forehead -->
+  <ellipse cx="120" cy="82" rx="22" ry="13" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Fingers -->
+  <ellipse cx="106" cy="72" rx="7" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="115" cy="68" rx="7" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="125" cy="66" rx="7" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="135" cy="67" rx="7" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Wavy discomfort lines (ohh) coming from mouth -->
+  <path d="M172 130 Q180 125 188 130 Q196 135 204 130" fill="none" stroke="#b8b8b8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M175 142 Q183 137 191 142 Q199 147 207 142" fill="none" stroke="#b8b8b8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M178 154 Q186 149 194 154 Q202 159 210 154" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Sweat drop - pain indicator -->
+  <path d="M185 70 Q183 62 188 56 Q193 62 191 70 Q189 75 185 70 Z" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+</svg>

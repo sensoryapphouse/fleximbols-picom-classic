@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Room background -->
+  <rect x="26" y="32" width="238" height="176" rx="8" fill="#dff3fd" stroke="#000000" stroke-width="4"/>
+  <!-- Crescent moon top-right -->
+  <path d="M238 38 Q260 50 258 72 Q248 58 228 56 Q232 44 238 38 Z" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <!-- Stars -->
+  <polygon points="202,42 205,35 208,42 215,42 210,47 212,54 205,49 198,54 200,47 195,42" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <!-- Bed frame -->
+  <rect x="25" y="108" width="50" height="90" rx="6" fill="#9d7246" stroke="#000000" stroke-width="5"/>
+  <rect x="25" y="155" width="240" height="55" rx="6" fill="#9d7246" stroke="#000000" stroke-width="5"/>
+  <rect x="235" y="140" width="30" height="70" rx="6" fill="#9d7246" stroke="#000000" stroke-width="5"/>
+  <!-- Mattress -->
+  <rect x="55" y="143" width="180" height="42" rx="4" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- Pillow -->
+  <rect x="65" y="140" width="60" height="30" rx="8" fill="#efefef" stroke="#000000" stroke-width="4"/>
+  <!-- Blanket being pulled up -->
+  <rect x="55" y="155" width="180" height="35" rx="6" fill="#2a4ec0" stroke="#000000" stroke-width="5"/>
+  <!-- Blanket fold -->
+  <path d="M55 162 Q145 170 235 162" fill="none" stroke="#90a7d6" stroke-width="3"/>
+  <!-- Figure lying in bed: head on pillow -->
+  <circle cx="95" cy="148" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Sleepy half-closed eyes -->
+  <path d="M84 144 Q89 149 94 144" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M96 144 Q101 149 106 144" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Soft smile -->
+  <path d="M88 155 Q95 160 102 155" fill="none" stroke="#000000" stroke-width="3"/>
+  <!-- Hair -->
+  <path d="M76 138 Q82 128 95 126 Q108 128 114 138" fill="#7d5e23" stroke="#000000" stroke-width="4"/>
+  <!-- Arm pulling blanket up -->
+  <path d="M140 162 Q148 150 158 154" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="162" cy="155" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Body lump under blanket -->
+  <path d="M118 170 Q160 163 225 170" fill="none" stroke="#1d0e82" stroke-width="5" stroke-linecap="round"/>
+  <!-- ZZZ using bold path-drawn letters -->
+  <!-- Z1 large -->
+  <polyline points="210,110 232,110 210,130 232,130" fill="none" stroke="#7c3fac" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Z2 medium -->
+  <polyline points="220,90 237,90 220,105 237,105" fill="none" stroke="#7c3fac" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Z3 small -->
+  <polyline points="228,74 241,74 228,86 241,86" fill="none" stroke="#7c3fac" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

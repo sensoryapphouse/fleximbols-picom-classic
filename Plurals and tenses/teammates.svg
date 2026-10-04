@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- TEAMMATE: full-body teammates side by side + team shield (logo) + united (arms over shoulders) + 'TEAM' path letters -->
+  <!-- Team shield/logo top centre -->
+  <path d="M120,16 L170,16 L172,42 Q172,58 145,68 Q118,58 118,42 Z" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="145,28 149,38 159,38 151,44 154,54 145,48 136,54 139,44 131,38 141,38" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- TEAMMATE A (left) full body -->
+  <circle cx="80" cy="120" r="16" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <path d="M64,118 Q68,102 80,100 Q92,102 96,118" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="75" cy="122" r="2.5" fill="#000000"/>
+  <circle cx="85" cy="122" r="2.5" fill="#000000"/>
+  <path d="M75,128 Q80,132 85,128" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="74" y="134" width="12" height="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Team jersey -->
+  <path d="M58,144 L70,142 L80,148 L90,142 L102,144 L104,196 L56,196 Z" fill="#d01424" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Jersey number -->
+  <path d="M76,158 L84,158 M80,158 L80,180" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <!-- Outer arm (down) -->
+  <line x1="58" y1="152" x2="44" y2="184" stroke="#d01424" stroke-width="12" stroke-linecap="round"/>
+  <line x1="58" y1="152" x2="44" y2="184" stroke="#000000" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <circle cx="42" cy="186" r="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Inner arm OVER shoulder of teammate B -->
+  <line x1="102" y1="148" x2="148" y2="140" stroke="#d01424" stroke-width="12" stroke-linecap="round"/>
+  <line x1="102" y1="148" x2="148" y2="140" stroke="#000000" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <circle cx="150" cy="140" r="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Legs -->
+  <rect x="62" y="196" width="14" height="32" rx="4" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="84" y="196" width="14" height="32" rx="4" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="58" y="226" width="22" height="10" rx="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <rect x="82" y="226" width="22" height="10" rx="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- TEAMMATE B (right) full body -->
+  <circle cx="210" cy="120" r="16" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <path d="M194,118 Q198,102 210,100 Q222,102 226,118" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="205" cy="122" r="2.5" fill="#000000"/>
+  <circle cx="215" cy="122" r="2.5" fill="#000000"/>
+  <path d="M205,128 Q210,132 215,128" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="204" y="134" width="12" height="8" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M188,144 L200,142 L210,148 L220,142 L232,144 L234,196 L186,196 Z" fill="#d01424" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M206,158 L214,158 M210,158 L210,180" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <!-- Inner arm OVER shoulder of teammate A -->
+  <line x1="188" y1="148" x2="142" y2="140" stroke="#d01424" stroke-width="12" stroke-linecap="round"/>
+  <line x1="188" y1="148" x2="142" y2="140" stroke="#000000" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Outer arm down -->
+  <line x1="232" y1="152" x2="246" y2="184" stroke="#d01424" stroke-width="12" stroke-linecap="round"/>
+  <line x1="232" y1="152" x2="246" y2="184" stroke="#000000" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <circle cx="248" cy="186" r="6" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <rect x="192" y="196" width="14" height="32" rx="4" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="214" y="196" width="14" height="32" rx="4" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="188" y="226" width="22" height="10" rx="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <rect x="212" y="226" width="22" height="10" rx="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- team shield (replaces TEAM text) -->
+  <path d="M28 14 L52 14 L52 34 Q52 42 40 46 Q28 42 28 34 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M32 28 L38 34 L50 20" fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl2865" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl2865)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Face (left side) bust/cheek view -->
+  <ellipse cx="100" cy="120" rx="72" ry="86" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M 34 96 Q 32 38 100 32 Q 168 38 166 96" fill="#5e1f0a" stroke="#000000" stroke-width="5"/>
+  <!-- Eye left -->
+  <ellipse cx="76" cy="102" rx="12" ry="8" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="78" cy="102" r="5" fill="#392170" stroke="#000000" stroke-width="2"/>
+  <!-- Eye right -->
+  <ellipse cx="124" cy="102" rx="12" ry="8" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="122" cy="102" r="5" fill="#392170" stroke="#000000" stroke-width="2"/>
+  <!-- Eyebrows -->
+  <path d="M 64 90 Q 76 84 88 90" fill="none" stroke="#5e1f0a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 112 90 Q 124 84 136 90" fill="none" stroke="#5e1f0a" stroke-width="4" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M 100 110 L 94 128 Q 100 132 106 128 Z" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Smile -->
+  <path d="M 84 152 Q 100 164 116 152" fill="none" stroke="#d01424" stroke-width="4" stroke-linecap="round"/>
+  <!-- Blush on right cheekbone — rosy pink dusted area -->
+  <ellipse cx="130" cy="132" rx="26" ry="16" fill="#f4a4b2" stroke="#000000" stroke-width="3"/>
+  <!-- Blush dusting specks to show powder -->
+  <circle cx="120" cy="128" r="3" fill="#f266aa" stroke="none"/>
+  <circle cx="136" cy="124" r="3" fill="#f266aa" stroke="none"/>
+  <circle cx="142" cy="134" r="3" fill="#f266aa" stroke="none"/>
+  <circle cx="126" cy="140" r="3" fill="#f266aa" stroke="none"/>
+
+  <!-- Blush compact (bottom right) -->
+  <!-- Compact base -->
+  <rect x="168" y="155" width="112" height="72" rx="16" fill="#f266aa" stroke="#000000" stroke-width="5"/>
+  <!-- Compact inner surface (mirror / powder) -->
+  <rect x="178" y="164" width="92" height="54" rx="10" fill="#f4a4b2" stroke="#000000" stroke-width="4"/>
+  <!-- Blush powder pan circle -->
+  <circle cx="224" cy="191" r="22" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <!-- Shine highlight on compact lid -->
+  <ellipse cx="200" cy="168" rx="18" ry="6" fill="#ffffff" stroke="none"/>
+
+  <!-- Big fluffy round brush (between face and compact) -->
+  <!-- Brush handle -->
+  <rect x="154" y="52" width="12" height="100" rx="6" fill="#9d7246" stroke="#000000" stroke-width="5"/>
+  <!-- Ferrule band -->
+  <rect x="152" y="128" width="16" height="12" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="4"/>
+  <!-- Fluffy round brush head -->
+  <circle cx="160" cy="42" r="30" fill="#f4a4b2" stroke="#000000" stroke-width="5"/>
+  <!-- Bristle texture lines on brush head -->
+  <line x1="148" y1="30" x2="142" y2="22" stroke="#f266aa" stroke-width="3" stroke-linecap="round"/>
+  <line x1="158" y1="26" x2="156" y2="16" stroke="#f266aa" stroke-width="3" stroke-linecap="round"/>
+  <line x1="168" y1="28" x2="170" y2="18" stroke="#f266aa" stroke-width="3" stroke-linecap="round"/>
+  <line x1="177" y1="36" x2="182" y2="28" stroke="#f266aa" stroke-width="3" stroke-linecap="round"/>
+  <line x1="138" y1="38" x2="130" y2="32" stroke="#f266aa" stroke-width="3" stroke-linecap="round"/>
+  <!-- Powder dust puffs from brush to cheek -->
+  <circle cx="148" cy="118" r="6" fill="#f4a4b2" stroke="#000000" stroke-width="2"/>
+  <circle cx="140" cy="126" r="5" fill="#f4a4b2" stroke="#000000" stroke-width="2"/>
+</svg>

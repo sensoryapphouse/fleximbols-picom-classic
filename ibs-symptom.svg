@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- figure torso -->
+  <rect x="112" y="108" width="66" height="72" rx="12" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="145" cy="78" r="26" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- discomfort face: worried brow -->
+  <line x1="132" y1="70" x2="140" y2="74" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="150" y1="74" x2="158" y2="70" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- eyes -->
+  <circle cx="136" cy="78" r="3" fill="#000000"/>
+  <circle cx="154" cy="78" r="3" fill="#000000"/>
+  <!-- grimace mouth -->
+  <path d="M136 88 Q145 84 154 88" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- left arm -->
+  <line x1="112" y1="120" x2="82" y2="154" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="76" cy="160" rx="10" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- right arm — hand on abdomen -->
+  <line x1="178" y1="120" x2="178" y2="148" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="178" cy="156" rx="10" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- legs -->
+  <line x1="128" y1="180" x2="116" y2="218" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="162" y1="180" x2="174" y2="218" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- highlighted abdomen zone -->
+  <ellipse cx="145" cy="158" rx="26" ry="20" fill="#f4a4b2" stroke="#f8130d" stroke-width="4" stroke-linejoin="round"/>
+  <!-- intestine swirl inside abdomen zone -->
+  <path d="M138 152 Q148 146 152 154 Q156 162 146 164 Q136 166 136 158 Q136 150 142 148" fill="none" stroke="#d01424" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- discomfort waves radiating from abdomen -->
+  <path d="M120 158 Q116 150 120 142" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M116 160 Q110 149 116 138" fill="none" stroke="#f8130d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M170 158 Q174 150 170 142" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M174 160 Q180 149 174 138" fill="none" stroke="#f8130d" stroke-width="2" stroke-linecap="round"/>
+</svg>

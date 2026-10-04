@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- half-broken heart top centre, jagged split -->
+  <path d="M138 28 C128 16 110 24 122 42 L145 66 L145 30 Z" fill="#f8130d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M152 28 C162 16 180 24 168 42 L145 66 L145 30 Z" fill="#f8130d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- crack -->
+  <path d="M145 18 L142 28 L148 38 L142 48 L148 58 L145 66" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- ground -->
+  <path d="M10 215 L280 215" fill="none" stroke="#000000" stroke-width="3"/>
+
+  <!-- LEFT figure full body, smile (but confused brow) -->
+  <circle cx="75" cy="95" r="20" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M56 90 Q56 72 75 70 Q95 72 94 92 Q88 84 78 82 Q68 84 60 88 Q57 90 56 90 Z" fill="#ff9900" stroke="#000000" stroke-width="2.5"/>
+  <!-- confused eyebrows (one up, one down) -->
+  <path d="M64 84 L72 82" stroke="#000000" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M78 80 L86 84" stroke="#000000" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <circle cx="68" cy="93" r="2.2" fill="#000000"/>
+  <circle cx="82" cy="93" r="2.2" fill="#000000"/>
+  <!-- smile -->
+  <path d="M68 104 Q75 110 82 104" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="70" y="113" width="10" height="6" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <path d="M55 119 L95 119 L100 178 L50 178 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M55 122 Q42 150 45 175" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M57 121 Q47 148 48 173 Q44 177 40 173 Q40 148 52 120 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5"/>
+  <path d="M95 122 Q108 150 105 175" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M93 121 Q103 148 102 173 Q106 177 110 173 Q110 148 98 120 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5"/>
+  <rect x="58" y="178" width="14" height="32" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <rect x="78" y="178" width="14" height="32" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="65" cy="212" rx="10" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="85" cy="212" rx="10" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+
+  <!-- RIGHT figure full body, frown -->
+  <circle cx="215" cy="95" r="20" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M196 90 Q196 72 215 70 Q235 72 234 92 Q228 84 218 82 Q208 84 200 88 Q197 90 196 90 Z" fill="#7d5e23" stroke="#000000" stroke-width="2.5"/>
+  <!-- confused eyebrows (mirrored) -->
+  <path d="M204 84 L212 80" stroke="#000000" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M218 82 L226 84" stroke="#000000" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <circle cx="208" cy="93" r="2.2" fill="#000000"/>
+  <circle cx="222" cy="93" r="2.2" fill="#000000"/>
+  <!-- frown -->
+  <path d="M208 108 Q215 102 222 108" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="210" y="113" width="10" height="6" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <path d="M195 119 L235 119 L240 178 L190 178 Z" fill="#137827" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M195 122 Q182 150 185 175" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M197 121 Q187 148 188 173 Q184 177 180 173 Q180 148 192 120 Z" fill="#137827" stroke="#000000" stroke-width="2.5"/>
+  <path d="M235 122 Q248 150 245 175" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M233 121 Q243 148 242 173 Q246 177 250 173 Q250 148 238 120 Z" fill="#137827" stroke="#000000" stroke-width="2.5"/>
+  <rect x="198" y="178" width="14" height="32" fill="#1d0e82" stroke="#000000" stroke-width="2.5"/>
+  <rect x="218" y="178" width="14" height="32" fill="#1d0e82" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="205" cy="212" rx="10" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="225" cy="212" rx="10" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+</svg>

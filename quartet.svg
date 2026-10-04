@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- String quartet: 2 violins, viola, cello - 4 seated/standing musicians full body -->
+
+  <!-- FIGURE 1 LEFT: violin 1 (standing) -->
+  <!-- Legs -->
+  <rect x="22" y="158" width="9" height="46" rx="3" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="34" y="158" width="9" height="46" rx="3" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="26" cy="206" rx="7" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="39" cy="206" rx="7" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Torso -->
+  <rect x="18" y="110" width="28" height="56" rx="4" fill="#2a4ec0" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Head -->
+  <circle cx="32" cy="86" r="15" fill="#eed5b6" stroke="#000000" stroke-width="3.5"/>
+  <path d="M18 84 Q20 70 32 68 Q44 70 46 84 L43 82 Q39 74 32 74 Q25 74 21 82 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="28" cy="86" r="2" fill="#000000"/>
+  <circle cx="36" cy="86" r="2" fill="#000000"/>
+  <path d="M28 92 Q32 95 36 92" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Violin tucked under chin -->
+  <ellipse cx="58" cy="108" rx="14" ry="22" fill="#9d7246" stroke="#000000" stroke-width="3" transform="rotate(35 58 108)"/>
+  <!-- Violin neck -->
+  <rect x="42" y="92" width="14" height="6" rx="1" fill="#5e1f0a" stroke="#000000" stroke-width="2" transform="rotate(35 49 95)"/>
+  <!-- Bow -->
+  <line x1="38" y1="118" x2="80" y2="138" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Arms holding violin/bow -->
+  <path d="M18 122 L12 138 L36 142" fill="none" stroke="#eed5b6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M46 122 L55 102" fill="none" stroke="#eed5b6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- FIGURE 2: violin 2 -->
+  <rect x="92" y="158" width="9" height="46" rx="3" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="104" y="158" width="9" height="46" rx="3" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="96" cy="206" rx="7" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="109" cy="206" rx="7" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <rect x="88" y="110" width="28" height="56" rx="4" fill="#d01424" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <circle cx="102" cy="86" r="15" fill="#e6b98a" stroke="#000000" stroke-width="3.5"/>
+  <path d="M88 84 Q88 66 102 64 Q116 66 116 84 L116 96 L113 94 Q111 74 102 74 Q93 74 91 94 L88 96 Z" fill="#7d5e23" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="98" cy="86" r="2" fill="#000000"/>
+  <circle cx="106" cy="86" r="2" fill="#000000"/>
+  <path d="M98 92 Q102 95 106 92" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="128" cy="108" rx="14" ry="22" fill="#9d7246" stroke="#000000" stroke-width="3" transform="rotate(35 128 108)"/>
+  <rect x="112" y="92" width="14" height="6" rx="1" fill="#5e1f0a" stroke="#000000" stroke-width="2" transform="rotate(35 119 95)"/>
+  <line x1="108" y1="118" x2="150" y2="138" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M88 122 L82 138 L106 142" fill="none" stroke="#e6b98a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M116 122 L125 102" fill="none" stroke="#e6b98a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- FIGURE 3: viola (slightly larger violin held same way) -->
+  <rect x="162" y="158" width="9" height="46" rx="3" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="174" y="158" width="9" height="46" rx="3" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="166" cy="206" rx="7" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="179" cy="206" rx="7" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <rect x="158" y="110" width="28" height="56" rx="4" fill="#137827" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <circle cx="172" cy="86" r="15" fill="#eed5b6" stroke="#000000" stroke-width="3.5"/>
+  <path d="M158 84 Q160 70 172 68 Q184 70 186 84 L183 82 Q179 74 172 74 Q165 74 161 82 Z" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="168" cy="86" r="2" fill="#000000"/>
+  <circle cx="176" cy="86" r="2" fill="#000000"/>
+  <path d="M168 92 Q172 95 176 92" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="200" cy="110" rx="16" ry="24" fill="#7d5e23" stroke="#000000" stroke-width="3" transform="rotate(35 200 110)"/>
+  <rect x="182" y="92" width="16" height="6" rx="1" fill="#5e1f0a" stroke="#000000" stroke-width="2" transform="rotate(35 190 95)"/>
+  <line x1="178" y1="120" x2="222" y2="140" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M158 122 L152 138 L176 142" fill="none" stroke="#eed5b6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M186 122 L195 102" fill="none" stroke="#eed5b6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- FIGURE 4: cellist (seated, cello held vertically between legs) -->
+  <!-- Legs spread (seated) -->
+  <rect x="232" y="158" width="9" height="46" rx="3" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="265" y="158" width="9" height="46" rx="3" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="236" cy="206" rx="7" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="270" cy="206" rx="7" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Torso -->
+  <rect x="238" y="100" width="30" height="60" rx="4" fill="#7c3fac" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Head -->
+  <circle cx="253" cy="78" r="15" fill="#e6b98a" stroke="#000000" stroke-width="3.5"/>
+  <path d="M238 76 Q240 60 253 58 Q266 60 268 76 L265 74 Q260 66 253 66 Q246 66 241 74 Z" fill="#4d4d4d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="249" cy="78" r="2" fill="#000000"/>
+  <circle cx="257" cy="78" r="2" fill="#000000"/>
+  <path d="M249 84 Q253 87 257 84" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cello body (large, in front of body) -->
+  <ellipse cx="253" cy="155" rx="22" ry="32" fill="#9d7246" stroke="#000000" stroke-width="3.5"/>
+  <line x1="253" y1="123" x2="253" y2="187" stroke="#000000" stroke-width="2"/>
+  <!-- Cello neck up to head -->
+  <rect x="248" y="80" width="10" height="46" rx="2" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Arms -->
+  <path d="M238 116 L226 130" fill="none" stroke="#e6b98a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M268 116 L278 138" fill="none" stroke="#e6b98a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

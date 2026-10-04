@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="100" y="168" width="158" height="14" rx="6" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="128" y="182" width="16" height="32" rx="5" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="228" y="182" width="16" height="32" rx="5" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  
+  
+  <ellipse cx="196" cy="158" rx="52" ry="22" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  
+  <circle cx="146" cy="150" r="22" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  
+  <ellipse cx="132" cy="136" rx="10" ry="18" fill="#9d7246" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="162" cy="136" rx="10" ry="14" fill="#9d7246" stroke="#000000" stroke-width="5"/>
+  
+  <circle cx="142" cy="148" r="5" fill="#000000"/>
+  <circle cx="144" cy="146" r="2" fill="#ffffff"/>
+  
+  <ellipse cx="150" cy="162" rx="6" ry="4" fill="#000000"/>
+  
+  <path d="M248 148 Q264 134 262 122 Q260 114 252 118" fill="none" stroke="#e6b98a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M248 148 Q264 134 262 122 Q260 114 252 118" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  
+  <rect x="164" y="174" width="14" height="22" rx="6" fill="#e6b98a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="186" y="174" width="14" height="22" rx="6" fill="#e6b98a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  
+  <path d="M108 130 Q100 140 104 152 Q108 162 116 160" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="118" cy="161" r="7" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  
+  
+  <circle cx="60" cy="52" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  
+  <path d="M42 46 Q60 30 78 46" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  
+  <rect x="36" y="74" width="48" height="68" rx="8" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  
+  <rect x="44" y="80" width="32" height="60" rx="5" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  
+  <path d="M36 84 Q22 96 20 114" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  
+  <path d="M52 74 Q42 68 36 76 Q28 86 32 100 Q36 112 46 114" fill="none" stroke="#4d4d4d" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="48" cy="116" r="5" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  
+  <path d="M84 84 Q100 100 110 124" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="112" cy="128" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  
+  <rect x="40" y="142" width="22" height="60" rx="8" fill="#3aa6a0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="58" y="142" width="22" height="60" rx="8" fill="#3aa6a0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  
+  <ellipse cx="51" cy="203" rx="14" ry="7" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="69" cy="203" rx="14" ry="7" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  
+  <circle cx="244" cy="42" r="26" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+  
+  <circle cx="244" cy="46" r="9" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  
+  <circle cx="233" cy="34" r="5" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <circle cx="244" cy="30" r="5" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <circle cx="255" cy="34" r="5" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  
+  <rect x="237" y="56" width="14" height="5" rx="2" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="241" y="52" width="6" height="13" rx="2" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

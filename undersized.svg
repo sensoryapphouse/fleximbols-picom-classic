@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Undersized: figure that is below a height-measure line (too short / below standard) -->
+
+  <!-- Height measurement bar (tall vertical ruler on left) -->
+  <rect x="42" y="28" width="22" height="196" rx="4" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Tick marks on ruler -->
+  <line x1="64" y1="48" x2="78" y2="48" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="64" y1="76" x2="78" y2="76" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="64" y1="104" x2="78" y2="104" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="64" y1="132" x2="78" y2="132" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="64" y1="160" x2="78" y2="160" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="64" y1="188" x2="78" y2="188" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Half ticks -->
+  <line x1="64" y1="62" x2="72" y2="62" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="64" y1="90" x2="72" y2="90" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="64" y1="118" x2="72" y2="118" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="64" y1="146" x2="72" y2="146" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="64" y1="174" x2="72" y2="174" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Minimum height threshold line (horizontal red bar) extending right from ruler tick at ~y=132 -->
+  <line x1="42" y1="132" x2="248" y2="132" stroke="#f8130d" stroke-width="5" stroke-linecap="round" stroke-dasharray="10,6"/>
+  <!-- Arrow on threshold line pointing down with X = "below this" -->
+  <polyline points="230,132 240,122 250,132" fill="none" stroke="#f8130d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Small figure whose head is well BELOW the threshold line -->
+  <!-- Figure head top ~y=160, bottom of feet ~y=228 = ~68px figure, short -->
+  <circle cx="170" cy="172" r="18" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Eyes -->
+  <circle cx="163" cy="169" r="3" fill="#000000"/>
+  <circle cx="177" cy="169" r="3" fill="#000000"/>
+  <!-- Mouth (frown) -->
+  <path d="M164 179 Q170 175 176 179" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Body -->
+  <rect x="154" y="189" width="32" height="30" rx="6" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Arms (short) -->
+  <rect x="138" y="192" width="16" height="10" rx="5" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="186" y="192" width="16" height="10" rx="5" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Legs -->
+  <rect x="156" y="218" width="11" height="16" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="173" y="218" width="11" height="16" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Ground line -->
+  <line x1="42" y1="228" x2="248" y2="228" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Down-arrow from threshold to figure's head showing the gap -->
+  <line x1="210" y1="134" x2="210" y2="154" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <polyline points="203,147 210,154 217,147" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

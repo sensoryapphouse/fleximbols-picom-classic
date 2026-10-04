@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Ground -->
+  <rect x="20" y="195" width="250" height="25" rx="4" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Stall frame left post -->
+  <rect x="35" y="105" width="14" height="95" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Stall frame right post -->
+  <rect x="241" y="105" width="14" height="95" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Awning stripes (back to front) -->
+  <path d="M25 110 L265 110 L255 75 L35 75 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="60" y="75" width="22" height="35" fill="#ffffff"/>
+  <rect x="104" y="75" width="22" height="35" fill="#ffffff"/>
+  <rect x="148" y="75" width="22" height="35" fill="#ffffff"/>
+  <rect x="192" y="75" width="22" height="35" fill="#ffffff"/>
+  <!-- Awning front valance -->
+  <path d="M25 110 L265 110 L265 125 L25 125 Z" fill="#d01424" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Valance scallop -->
+  <path d="M25 125 Q40 140 55 125 Q70 140 85 125 Q100 140 115 125 Q130 140 145 125 Q160 140 175 125 Q190 140 205 125 Q220 140 235 125 Q250 140 265 125" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Table surface -->
+  <rect x="40" y="155" width="210" height="16" rx="4" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Produce crate left -->
+  <rect x="50" y="125" width="48" height="32" rx="4" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="74" y1="125" x2="74" y2="157" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="50" y1="141" x2="98" y2="141" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Carrots in left crate -->
+  <ellipse cx="62" cy="133" rx="8" ry="5" fill="#ff9900" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="84" cy="133" rx="8" ry="5" fill="#ff9900" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="62" cy="149" rx="8" ry="5" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="84" cy="149" rx="8" ry="5" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <!-- Produce crate centre -->
+  <rect x="121" y="125" width="48" height="32" rx="4" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="145" y1="125" x2="145" y2="157" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="121" y1="141" x2="169" y2="141" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Apples in centre crate -->
+  <circle cx="133" cy="133" r="6" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <circle cx="157" cy="133" r="6" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <circle cx="133" cy="149" r="6" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <circle cx="157" cy="149" r="6" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <!-- Produce crate right -->
+  <rect x="192" y="125" width="48" height="32" rx="4" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="216" y1="125" x2="216" y2="157" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="192" y1="141" x2="240" y2="141" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Lemons in right crate -->
+  <ellipse cx="204" cy="133" rx="8" ry="6" fill="#fff200" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="228" cy="133" rx="8" ry="6" fill="#fff200" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="204" cy="149" rx="8" ry="6" fill="#ff9900" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="228" cy="149" rx="8" ry="6" fill="#ff9900" stroke="#000000" stroke-width="3"/>
+  <!-- Vendor figure body -->
+  <circle cx="145" cy="35" r="14" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="130" y="49" width="30" height="38" rx="8" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Apron -->
+  <rect x="134" y="55" width="22" height="30" rx="4" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Arms -->
+  <line x1="130" y1="58" x2="110" y2="75" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="160" y1="58" x2="178" y2="72" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="110" cy="75" r="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <circle cx="178" cy="72" r="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Legs -->
+  <line x1="138" y1="87" x2="133" y2="105" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="152" y1="87" x2="157" y2="105" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+</svg>

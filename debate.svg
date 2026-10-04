@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- WOODEN PODIUM / LECTERN -->
+  <!-- Main slanted face -->
+  <polygon points="85,85 205,85 218,195 72,195" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Podium top flat surface -->
+  <rect x="82" y="75" width="126" height="18" rx="5" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Podium panel detail (center raised panel) -->
+  <polygon points="108,102 182,102 192,178 98,178" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Podium leg left -->
+  <rect x="78" y="193" width="22" height="32" rx="4" fill="#7d5e23" stroke="#000000" stroke-width="4"/>
+  <!-- Podium leg right -->
+  <rect x="190" y="193" width="22" height="32" rx="4" fill="#7d5e23" stroke="#000000" stroke-width="4"/>
+  <!-- Podium base crossbar -->
+  <rect x="72" y="218" width="146" height="10" rx="4" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- MICROPHONE on podium top -->
+  <!-- Mic stand rod -->
+  <rect x="142" y="45" width="6" height="33" rx="2" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- Mic head -->
+  <ellipse cx="145" cy="38" rx="12" ry="16" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Mic grille lines -->
+  <line x1="145" y1="24" x2="145" y2="52" stroke="#7f7f7f" stroke-width="2"/>
+  <line x1="135" y1="30" x2="155" y2="30" stroke="#7f7f7f" stroke-width="2"/>
+  <line x1="133" y1="38" x2="157" y2="38" stroke="#7f7f7f" stroke-width="2"/>
+  <line x1="135" y1="46" x2="155" y2="46" stroke="#7f7f7f" stroke-width="2"/>
+  <!-- Mic base clip -->
+  <rect x="136" y="75" width="18" height="8" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3"/>
+  <!-- SPEECH BUBBLE LEFT (pointing right toward podium) -->
+  <path d="M15 35 Q15 10 45 10 L100 10 Q130 10 130 35 Q130 60 100 60 L55 60 L40 78 L50 60 L45 60 Q15 60 15 35 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Bubble content dots (speech indicator) -->
+  <circle cx="55" cy="35" r="7" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="75" cy="35" r="7" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="95" cy="35" r="7" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- SPEECH BUBBLE RIGHT (pointing left toward podium) -->
+  <path d="M275 35 Q275 10 245 10 L190 10 Q160 10 160 35 Q160 60 190 60 L235 60 L250 78 L240 60 L245 60 Q275 60 275 35 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Bubble content dashes -->
+  <rect x="178" y="28" width="26" height="8" rx="3" fill="#ffffff"/>
+  <rect x="210" y="28" width="18" height="8" rx="3" fill="#ffffff"/>
+  <rect x="178" y="42" width="40" height="8" rx="3" fill="#ffffff"/>
+</svg>

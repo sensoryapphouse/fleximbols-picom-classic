@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,40.008) scale(0.8333)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<line x1="0" y1="40" x2="290" y2="40" stroke="#5c3a26" stroke-width="3.80"></line>
+<line x1="145" y1="40" x2="145" y2="60" stroke="#1a1a1a" stroke-width="2.85"></line>
+<rect x="135" y="55" width="20" height="15" fill="#1a1a1a"></rect>
+<path d="M80 70 L210 70 L215 85 L75 85 Z" fill="#5c3a26" stroke="#1a1a1a" stroke-width="2.85"></path>
+<path d="M85 85 Q70 130 80 175 Q90 195 145 200 Q200 195 210 175 Q220 130 205 85 Z" fill="#7b808b" stroke="#1a1a1a" stroke-width="3.32" stroke-linejoin="round"></path>
+<g stroke="#5b606b" stroke-width="1.90" fill="none"><path d="M85 110 Q145 115 205 110"></path><path d="M85 135 Q145 140 205 135"></path><path d="M85 165 Q145 170 205 165"></path></g>
+<g stroke="#5b606b" stroke-width="1.42" fill="none"><circle cx="100" cy="120" r="2"></circle><circle cx="115" cy="125" r="2"></circle><circle cx="135" cy="125" r="2"></circle><circle cx="155" cy="125" r="2"></circle><circle cx="175" cy="125" r="2"></circle><circle cx="190" cy="120" r="2"></circle></g>
+<path d="M75 200 L215 200 L210 220 L80 220 Z" fill="#5b606b" stroke="#1a1a1a" stroke-width="2.85"></path>
+<rect x="125" y="170" width="40" height="14" fill="#4a4e58" stroke="#1a1a1a" stroke-width="2.38"></rect>
+<text x="145" y="150" text-anchor="middle" font-family="serif" font-size="32" font-weight="900" fill="#5b606b">梵</text>
+<g transform="translate(245 130) rotate(-20)">
+<rect x="-4" y="-30" width="8" height="50" fill="#5c3a26"></rect>
+<ellipse cx="0" cy="20" rx="14" ry="6" fill="#9d734d" stroke="#1a1a1a" stroke-width="1.90"></ellipse>
+</g>
+<g stroke="#f8e49c" stroke-width="1.90" fill="none" opacity="0.6"><circle cx="145" cy="145" r="110"></circle><circle cx="145" cy="145" r="125"></circle></g>
+</g></g><g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl2873" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl2873)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

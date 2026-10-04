@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Chin-up: hanging with UNDERHAND grip (palms facing toward face) -->
+  <!-- Horizontal bar -->
+  <line x1="40" y1="28" x2="250" y2="28" stroke="#4d4d4d" stroke-width="10" stroke-linecap="round"/>
+  <!-- Bar mounting supports -->
+  <line x1="60" y1="28" x2="60" y2="10" stroke="#4d4d4d" stroke-width="6" stroke-linecap="round"/>
+  <line x1="230" y1="28" x2="230" y2="10" stroke="#4d4d4d" stroke-width="6" stroke-linecap="round"/>
+  <!-- Head (chin level with bar) -->
+  <circle cx="145" cy="54" r="16" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- UNDERHAND grip: narrower grip, elbows closer in, palms facing face -->
+  <!-- Left arm: elbow bent, palm facing head (underhand) -->
+  <path d="M134 44 Q120 36 110 28" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <!-- Right arm: elbow bent, palm facing head (underhand) -->
+  <path d="M156 44 Q170 36 180 28" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <!-- Underhand grip indicators (palm/wrist facing up = fingers point away from viewer) -->
+  <ellipse cx="110" cy="28" rx="7" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="180" cy="28" rx="7" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Palm-face arrows showing underhand orientation (small arcs at wrist) -->
+  <path d="M106 24 Q110 20 114 24" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M176 24 Q180 20 184 24" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Torso hanging, biceps-curl-like pull -->
+  <rect x="127" y="70" width="36" height="56" rx="8" fill="#137827" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Legs hanging straight -->
+  <path d="M132 126 l-10 52" fill="none" stroke="#4d4d4d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M158 126 l10 52" fill="none" stroke="#4d4d4d" stroke-width="9" stroke-linecap="round"/>
+  <!-- Feet -->
+  <ellipse cx="122" cy="183" rx="12" ry="6" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="168" cy="183" rx="12" ry="6" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+</svg>

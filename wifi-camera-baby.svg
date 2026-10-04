@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- wall mount bracket -->
+  <rect x="125" y="35" width="40" height="14" fill="#b8b8b8" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="145" y1="49" x2="145" y2="70" stroke="#4d4d4d" stroke-width="5" stroke-linecap="round"/>
+  <!-- dome camera body -->
+  <path d="M85 90 Q145 60 205 90 L205 140 Q205 165 175 175 L115 175 Q85 165 85 140 Z" fill="#efefef" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- dome lens -->
+  <circle cx="145" cy="135" r="36" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <circle cx="145" cy="135" r="22" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <circle cx="153" cy="127" r="6" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- status LED -->
+  <circle cx="100" cy="105" r="4" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <!-- wifi signal arcs -->
+  <path d="M30 80 Q55 65 80 80" fill="none" stroke="#2a4ec0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M22 70 Q55 50 88 70" fill="none" stroke="#2a4ec0" stroke-width="4" stroke-linecap="round"/>
+  <path d="M14 60 Q55 35 96 60" fill="none" stroke="#2a4ec0" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="55" cy="92" r="4" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <!-- baby icon below camera view -->
+  <circle cx="220" cy="200" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M205 215 Q220 230 235 215" fill="#f4a4b2" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="215" cy="198" r="1.7" fill="#000000"/>
+  <circle cx="225" cy="198" r="1.7" fill="#000000"/>
+  <path d="M215 205 Q220 208 225 205" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

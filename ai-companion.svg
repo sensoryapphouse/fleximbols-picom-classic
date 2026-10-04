@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Chat bubble (background, right) -->
+  <path d="M170 30 L270 30 C278 30 278 38 278 38 L278 100 C278 108 270 108 270 108 L200 108 L180 125 L185 108 L170 108 C162 108 162 100 162 100 L162 38 C162 30 170 30 170 30 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Heart inside bubble -->
+  <path d="M220 50 C214 42 200 46 200 58 C200 70 220 90 220 90 C220 90 240 70 240 58 C240 46 226 42 220 50 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Friendly avatar (left, full upper body) -->
+  <!-- shoulders/body -->
+  <path d="M30 220 L30 175 C30 150 55 145 80 145 C105 145 130 150 130 175 L130 220 Z" fill="#7c3fac" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- neck -->
+  <rect x="68" y="135" width="24" height="20" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- head -->
+  <circle cx="80" cy="105" r="38" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- hair -->
+  <path d="M44 102 C44 70 116 70 116 102 C116 92 110 86 105 84 C100 76 60 76 55 84 C50 86 44 92 44 102 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="67" cy="105" r="4" fill="#000000"/>
+  <circle cx="93" cy="105" r="4" fill="#000000"/>
+  <!-- cheeks -->
+  <circle cx="60" cy="118" r="5" fill="#f4a4b2" stroke="#000000" stroke-width="1"/>
+  <circle cx="100" cy="118" r="5" fill="#f4a4b2" stroke="#000000" stroke-width="1"/>
+  <!-- smile -->
+  <path d="M68 122 C74 130 86 130 92 122" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- AI sparkle on head -->
+  <path d="M115 60 L118 70 L128 73 L118 76 L115 86 L112 76 L102 73 L112 70 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- AI badge on chest -->
+  <circle cx="80" cy="190" r="14" fill="#fff200" stroke="#000000" stroke-width="3"/>
+  <path d="M72 198 L77 182 L83 198 L80 198 L79 194 L75 194 L74 198 Z" fill="#1d0e82" stroke="#000000" stroke-width="1"/>
+  <rect x="86" y="182" width="3" height="16" fill="#1d0e82" stroke="#000000" stroke-width="1"/>
+  <!-- sparkles -->
+  <path d="M155 145 L157 153 L165 155 L157 157 L155 165 L153 157 L145 155 L153 153 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M250 130 L252 138 L260 140 L252 142 L250 150 L248 142 L240 140 L248 138 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+</svg>

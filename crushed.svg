@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shirt/shoulders - hunched heavy -->
+  <path d="M60 240 Q64 215 96 207 Q120 200 145 202 Q170 200 194 207 Q226 215 230 240 Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="128" y="185" width="34" height="20" rx="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head - face partially covered by hand, slightly bowed -->
+  <ellipse cx="145" cy="120" rx="56" ry="57" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M89 108 Q92 72 118 62 Q145 52 172 62 Q198 72 201 108" fill="#000000" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Devastated mouth - wide open sob -->
+  <path d="M126 155 Q145 148 164 155 Q160 168 145 172 Q130 168 126 155 Z" fill="#000000" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M126 155 Q145 148 164 155" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Squint crying eyes - deeply sad -->
+  <path d="M116 108 Q127 101 138 108 Q130 116 116 108 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M152 108 Q163 101 174 108 Q166 116 152 108 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shut crying eyes -->
+  <path d="M116 108 Q127 112 138 108" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M152 108 Q163 112 174 108" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Extremely sad brows - very sharp inner up -->
+  <path d="M113 98 Q127 90 141 98" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M149 98 Q163 90 177 98" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M137 94 L145 88 L153 94" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Heavy tears - streaming down both cheeks -->
+  <path d="M115 116 Q120 125 118 135 Q116 140 112 142 Q108 138 110 130 Q112 122 115 116 Z" fill="#dff3fd" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M175 116 Q170 125 172 135 Q174 140 178 142 Q182 138 180 130 Q178 122 175 116 Z" fill="#dff3fd" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Hand covering lower face/cheek - right hand up to face -->
+  <path d="M175 168 Q185 158 192 145 Q196 132 188 126 Q180 122 174 132 Q168 142 166 155 Q163 168 168 178 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Fingers of the covering hand -->
+  <path d="M192 145 Q200 138 198 128 Q196 120 190 124" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M196 138 Q204 132 202 122 Q200 114 194 118" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Broken shattered heart - floating beside head left -->
+  <!-- Left heart piece -->
+  <path d="M44 78 Q44 70 52 68 Q60 66 60 74 Q60 82 50 90 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right heart piece - slightly offset and tilted -->
+  <path d="M64 80 Q64 72 72 70 Q80 68 80 76 Q80 84 70 92 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Crack/break line between them -->
+  <path d="M58 68 L62 74 L57 80 L63 86 L58 92" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Small heart fragments -->
+  <path d="M46 96 Q48 92 52 94 Q50 98 46 96 Z" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <path d="M76 60 Q78 56 82 58 Q80 62 76 60 Z" fill="#d01424" stroke="#000000" stroke-width="2"/>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Floor -->
+  <path d="M 20,218 L 270,218" stroke="#000000" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Barbell on floor: bar (very wide to match stance) -->
+  <rect x="30" y="193" width="230" height="8" rx="4" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Left weight plate -->
+  <rect x="30" y="176" width="22" height="42" rx="7" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Right weight plate -->
+  <rect x="238" y="176" width="22" height="42" rx="7" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Left collar -->
+  <rect x="52" y="188" width="10" height="18" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Right collar -->
+  <rect x="228" y="188" width="10" height="18" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- VERY wide stance: Left leg splayed far left, knee pointing outward -->
+  <!-- Left thigh (angled far left and down) -->
+  <path d="M 128,140 Q 96,155 64,172 L 68,186 Q 98,170 132,154 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left shin (nearly vertical down) -->
+  <path d="M 64,172 L 58,218 L 80,218 L 78,176 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left foot (toed out) -->
+  <ellipse cx="69" cy="218" rx="16" ry="6" fill="#000000" stroke="#000000" stroke-width="3" transform="rotate(-20,69,218)"/>
+  <!-- Right thigh (angled far right and down) -->
+  <path d="M 162,140 Q 194,155 226,172 L 222,186 Q 192,170 158,154 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right shin (nearly vertical down) -->
+  <path d="M 226,172 L 232,218 L 210,218 L 212,176 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right foot (toed out) -->
+  <ellipse cx="221" cy="218" rx="16" ry="6" fill="#000000" stroke="#000000" stroke-width="3" transform="rotate(20,221,218)"/>
+  <!-- Torso (more upright, hinging slightly, back straight) -->
+  <path d="M 128,88 Q 122,100 116,140 L 128,140 Q 134,106 145,94 Q 156,106 162,140 L 174,140 Q 168,100 162,88 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left arm reaching DOWN to bar BETWEEN the legs (sumo grip: inside legs) -->
+  <path d="M 116,140 Q 120,162 124,192" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 114,138 Q 118,160 120,190 L 130,192 Q 126,162 122,138 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left hand gripping bar (inside) -->
+  <ellipse cx="125" cy="196" rx="10" ry="7" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Right arm reaching DOWN to bar BETWEEN the legs -->
+  <path d="M 174,140 Q 170,162 166,192" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 176,138 Q 172,160 170,190 L 160,192 Q 164,162 168,138 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right hand gripping bar (inside) -->
+  <ellipse cx="165" cy="196" rx="10" ry="7" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Head -->
+  <circle cx="145" cy="64" r="23" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Hair -->
+  <path d="M 123,57 Q 125,41 145,41 Q 165,41 167,57 Q 158,47 145,48 Q 132,47 123,57 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <ellipse cx="137" cy="62" rx="3" ry="3.5" fill="#000000"/>
+  <ellipse cx="153" cy="62" rx="3" ry="3.5" fill="#000000"/>
+  <!-- Focused mouth -->
+  <path d="M 138,74 L 152,74" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>

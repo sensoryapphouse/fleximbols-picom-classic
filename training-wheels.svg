@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Close-up of rear of small bike: two small stabiliser wheels -->
+  <!-- Main rear wheel (large, central) -->
+  <circle cx="145" cy="135" r="60" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <circle cx="145" cy="135" r="40" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <circle cx="145" cy="135" r="8" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- Spokes on main wheel -->
+  <path d="M 145 75 L 145 195 M 85 135 L 205 135 M 102 92 L 188 178 M 188 92 L 102 178" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Left training wheel (small) -->
+  <circle cx="70" cy="195" r="22" fill="#d01424" stroke="#000000" stroke-width="3"/>
+  <circle cx="70" cy="195" r="10" fill="#fff200" stroke="#000000" stroke-width="2"/>
+  <circle cx="70" cy="195" r="3" fill="#000000"/>
+  <!-- Right training wheel (small) -->
+  <circle cx="220" cy="195" r="22" fill="#d01424" stroke="#000000" stroke-width="3"/>
+  <circle cx="220" cy="195" r="10" fill="#fff200" stroke="#000000" stroke-width="2"/>
+  <circle cx="220" cy="195" r="3" fill="#000000"/>
+  <!-- Attachment bracket left -->
+  <path d="M 145 135 L 70 195" stroke="#7f7f7f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 145 135 L 70 195" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Attachment bracket right -->
+  <path d="M 145 135 L 220 195" stroke="#7f7f7f" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 145 135 L 220 195" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Highlight arrows pointing to training wheels -->
+  <path d="M 50 220 L 65 210" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 50 220 L 58 215 M 50 220 L 55 212" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 240 220 L 225 210" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 240 220 L 232 215 M 240 220 L 235 212" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+</svg>

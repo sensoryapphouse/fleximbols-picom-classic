@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Figure walking purposefully toward office building in distance -->
+  <!-- Sky background hint - road/path -->
+  <rect x="20" y="175" width="250" height="45" rx="4" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <!-- Road dashes -->
+  <rect x="120" y="193" width="30" height="7" rx="2" fill="#ffffff" stroke="none"/>
+  <rect x="165" y="193" width="30" height="7" rx="2" fill="#ffffff" stroke="none"/>
+  <!-- Ground line -->
+  <line x1="20" y1="218" x2="270" y2="218" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Office building (distant, smaller, right side) -->
+  <rect x="188" y="90" width="70" height="90" rx="4" fill="#90a7d6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Building roof detail -->
+  <rect x="186" y="84" width="74" height="12" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <!-- Building windows grid -->
+  <rect x="198" y="100" width="14" height="12" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <rect x="218" y="100" width="14" height="12" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <rect x="238" y="100" width="14" height="12" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <rect x="198" y="118" width="14" height="12" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <rect x="218" y="118" width="14" height="12" rx="2" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <rect x="238" y="118" width="14" height="12" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <rect x="198" y="136" width="14" height="12" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <rect x="218" y="136" width="14" height="12" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <rect x="238" y="136" width="14" height="12" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- Building entrance -->
+  <rect x="210" y="155" width="30" height="25" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- Walking figure (larger, left/front) -->
+  <!-- Body torso -->
+  <rect x="62" y="112" width="44" height="54" rx="10" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Head -->
+  <circle cx="84" cy="92" r="26" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M59 86 Q63 66 84 64 Q105 66 109 86" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- Eyes -->
+  <circle cx="76" cy="90" r="3.5" fill="#000000"/>
+  <circle cx="92" cy="90" r="3.5" fill="#000000"/>
+  <!-- Determined mouth (straight/slight smile) -->
+  <path d="M76 102 Q84 107 92 102" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left leg striding forward -->
+  <path d="M66 166 Q60 188 52 218" fill="none" stroke="#4d4d4d" stroke-width="16" stroke-linecap="round"/>
+  <!-- Right leg pushing back -->
+  <path d="M90 166 Q98 188 108 218" fill="none" stroke="#4d4d4d" stroke-width="16" stroke-linecap="round"/>
+  <!-- Shoes -->
+  <ellipse cx="50" cy="218" rx="16" ry="7" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="108" cy="218" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Right arm swinging forward (with work bag) -->
+  <path d="M106 128 Q124 148 132 168" fill="none" stroke="#eed5b6" stroke-width="13" stroke-linecap="round"/>
+  <!-- Work bag / briefcase hanging from right hand -->
+  <rect x="128" y="165" width="36" height="30" rx="6" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Briefcase handle -->
+  <path d="M136 165 Q146 154 158 165" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Briefcase clasp -->
+  <rect x="140" y="174" width="16" height="8" rx="3" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <!-- Left arm swinging back -->
+  <path d="M62 128 Q46 148 40 165" fill="none" stroke="#eed5b6" stroke-width="13" stroke-linecap="round"/>
+  <!-- Left hand -->
+  <circle cx="40" cy="167" r="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+</svg>

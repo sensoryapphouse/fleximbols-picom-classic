@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Full-body figure patting face/body dry with fluffy towel -->
+  <!-- Head -->
+  <circle cx="145" cy="52" r="40" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair peeking above towel -->
+  <path d="M105,40 Q110,16 145,18 Q180,16 185,40 Q174,26 145,28 Q116,26 105,40 Z" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <ellipse cx="131" cy="50" rx="8" ry="9" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="159" cy="50" rx="8" ry="9" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="133" cy="51" r="4" fill="#1d0e82"/>
+  <circle cx="161" cy="51" r="4" fill="#1d0e82"/>
+  <!-- Happy expression -->
+  <path d="M131,72 Q145,80 159,72" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="130" y="90" width="30" height="16" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Body -->
+  <path d="M80,106 Q90,100 145,97 Q200,100 210,106 L215,185 L75,185 Z" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Legs -->
+  <rect x="100" y="182" width="32" height="50" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="158" y="182" width="32" height="50" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <ellipse cx="116" cy="232" rx="18" ry="10" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="174" cy="232" rx="18" ry="10" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Fluffy towel held up patting face/neck — left side -->
+  <path d="M58,85 Q42,90 38,108 Q35,122 42,135 Q52,148 68,145 Q82,142 90,128 Q95,115 88,100 Q80,88 68,86 Z" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Fluffy texture bumps on left towel -->
+  <path d="M44,100 Q40,94 46,92" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M44,108 Q38,104 43,100" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M46,118 Q39,115 44,110" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M50,128 Q43,126 47,120" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M58,137 Q52,136 53,128" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M68,141 Q63,142 62,135" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Fluffy towel right side -->
+  <path d="M202,85 Q218,90 222,108 Q225,122 218,135 Q208,148 192,145 Q178,142 170,128 Q165,115 172,100 Q180,88 192,86 Z" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Fluffy texture bumps on right towel -->
+  <path d="M216,100 Q220,94 214,92" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M216,110 Q222,106 217,100" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M214,120 Q221,117 216,112" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M210,130 Q217,128 213,122" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M202,138 Q208,137 207,130" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M192,141 Q197,142 198,135" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Left arm holding towel -->
+  <path d="M82,115 Q68,110 60,105" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <!-- Right arm holding towel -->
+  <path d="M208,115 Q222,110 230,105" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <!-- Pat motion lines (small curved lines near face) -->
+  <path d="M96,80 Q100,74 98,68" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M104,76 Q110,70 109,64" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M186,76 Q180,70 181,64" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M194,80 Q190,74 192,68" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

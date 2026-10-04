@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- person meditating + repeating text bubble with lotus symbol -->
+  <!-- meditation cushion -->
+  <ellipse cx="100" cy="218" rx="64" ry="10" fill="#7c3fac" stroke="#000000" stroke-width="3"/>
+  <!-- crossed legs (lotus position) -->
+  <path d="M40 210 Q60 180 100 180 Q140 180 160 210 Q140 218 100 218 Q60 218 40 210 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- feet poking out -->
+  <ellipse cx="58" cy="200" rx="10" ry="6" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="142" cy="200" rx="10" ry="6" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- torso -->
+  <path d="M72 116 L128 116 L138 184 L62 184 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms in lap (palms up, mudra) -->
+  <path d="M64 152 Q56 174 80 184 L120 184 Q144 174 136 152 Q132 168 110 172 L90 172 Q68 168 64 152 Z" fill="#e6b98a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- neck -->
+  <rect x="92" y="106" width="16" height="14" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- head -->
+  <circle cx="100" cy="86" r="24" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- hair / topknot -->
+  <path d="M76 80 Q80 56 100 52 Q120 56 124 80 Q120 70 100 66 Q80 70 76 80 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="100" cy="50" r="6" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
+  <!-- closed peaceful eyes -->
+  <path d="M86 86 Q92 90 96 86" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M104 86 Q110 90 114 86" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- gentle smile -->
+  <path d="M94 96 Q100 100 106 96" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- repeating speech bubbles (mantra repetition) -->
+  <!-- small bubble close -->
+  <circle cx="170" cy="120" r="5" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="184" cy="108" r="8" fill="#ffffff" stroke="#000000" stroke-width="2.5"/>
+  <!-- main bubble with lotus -->
+  <path d="M210 60 Q254 56 274 76 Q284 100 264 118 Q244 132 220 124 L208 132 L212 118 Q198 110 198 90 Q200 70 210 60 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- lotus inside bubble -->
+  <!-- centre petal -->
+  <ellipse cx="240" cy="86" rx="8" ry="18" fill="#f266aa" stroke="#000000" stroke-width="2"/>
+  <!-- side petals -->
+  <path d="M240 96 Q224 90 220 78 Q230 76 240 90 Z" fill="#f4a4b2" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M240 96 Q256 90 260 78 Q250 76 240 90 Z" fill="#f4a4b2" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M240 96 Q220 100 212 92 Q220 84 232 92 Z" fill="#7c3fac" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M240 96 Q260 100 268 92 Q260 84 248 92 Z" fill="#7c3fac" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- lotus base -->
+  <path d="M222 100 Q240 108 258 100 Q252 110 240 110 Q228 110 222 100 Z" fill="#529929" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- repetition arrows around bubble -->
+  <path d="M204 50 Q218 42 232 50" fill="none" stroke="#7c3fac" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M228 46 L232 50 L228 54" fill="none" stroke="#7c3fac" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

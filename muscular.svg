@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Head -->
+  <circle cx="145" cy="38" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Neck -->
+  <rect x="136" y="55" width="18" height="12" rx="2" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Wide muscular torso -->
+  <path d="M108,65 L182,65 L188,130 L102,130 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Pec definition lines -->
+  <path d="M130,78 Q145,90 160,78" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left arm: bicep flexed upward -->
+  <path d="M108,80 Q72,75 66,98 Q62,118 82,122 Q102,126 108,108" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left forearm down to fist -->
+  <line x1="82" y1="122" x2="72" y2="148" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="70" cy="155" r="10" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm: bicep flexed upward -->
+  <path d="M182,80 Q218,75 224,98 Q228,118 208,122 Q188,126 182,108" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Right forearm down to fist -->
+  <line x1="208" y1="122" x2="218" y2="148" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="220" cy="155" r="10" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Abs definition -->
+  <rect x="130" y="100" width="30" height="12" rx="3" fill="none" stroke="#000000" stroke-width="3"/>
+  <rect x="130" y="114" width="30" height="12" rx="3" fill="none" stroke="#000000" stroke-width="3"/>
+  <!-- Hips/shorts -->
+  <path d="M102,130 L108,168 L145,162 L182,168 L188,130 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left leg upper -->
+  <line x1="122" y1="168" x2="115" y2="200" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <!-- Right leg upper -->
+  <line x1="168" y1="168" x2="175" y2="200" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <!-- Calves -->
+  <line x1="115" y1="200" x2="112" y2="222" stroke="#eed5b6" stroke-width="11" stroke-linecap="round"/>
+  <line x1="175" y1="200" x2="178" y2="222" stroke="#eed5b6" stroke-width="11" stroke-linecap="round"/>
+  <!-- Feet -->
+  <ellipse cx="109" cy="226" rx="14" ry="7" fill="#5e1f0a" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="181" cy="226" rx="14" ry="7" fill="#5e1f0a" stroke="#000000" stroke-width="4"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Table runner: long decorative cloth on a table with dishes on top -->
+  <!-- Table top (perspective rectangle) -->
+  <path d="M30,90 L260,90 L275,150 L15,150 Z" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Table legs -->
+  <rect x="40" y="150" width="14" height="65" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="236" y="150" width="14" height="65" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Runner: long strip across the table with overhang -->
+  <path d="M120,80 L170,80 L185,160 L190,225 L120,225 L105,160 Z" fill="#d01424" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Runner fringe at bottom -->
+  <path d="M120,225 L122,232 M132,225 L134,232 M144,225 L146,225 L146,232 M156,225 L158,232 M168,225 L170,232 M180,225 L182,232" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Runner pattern: diamonds along the runner -->
+  <path d="M145,95 L155,105 L145,115 L135,105 Z" fill="#fff200" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M147,130 L158,140 L149,150 L138,140 Z" fill="#fff200" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M150,165 L162,175 L152,185 L140,175 Z" fill="#fff200" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Plate on top of runner -->
+  <ellipse cx="145" cy="105" rx="38" ry="10" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="145" cy="105" rx="26" ry="6" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <!-- Cup on left side of runner area on table -->
+  <ellipse cx="75" cy="115" rx="18" ry="5" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <path d="M58,115 L62,138 L88,138 L92,115 Z" fill="#90a7d6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Bowl on right side -->
+  <ellipse cx="220" cy="120" rx="22" ry="6" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <path d="M200,120 Q200,140 220,140 Q240,140 240,120" fill="#3aa6a0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+</svg>

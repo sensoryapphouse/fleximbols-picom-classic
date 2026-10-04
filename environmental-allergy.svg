@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="160" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <!-- ground -->
+  <rect x="10" y="170" width="270" height="20" fill="#67832d" stroke="#000000" stroke-width="3"/>
+  <!-- tree (left) -->
+  <rect x="32" y="105" width="14" height="65" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <circle cx="39" cy="85" r="28" fill="#137827" stroke="#000000" stroke-width="3"/>
+  <circle cx="22" cy="78" r="15" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <circle cx="55" cy="78" r="15" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <!-- pet (cat, right of person) -->
+  <ellipse cx="225" cy="155" rx="28" ry="14" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <circle cx="250" cy="142" r="13" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <!-- cat ears -->
+  <path d="M243 132 L240 122 L248 132 Z" fill="#9d7246" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M257 132 L260 122 L252 132 Z" fill="#9d7246" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- cat face -->
+  <circle cx="247" cy="142" r="1.5" fill="#000000"/>
+  <circle cx="253" cy="142" r="1.5" fill="#000000"/>
+  <path d="M250 146 L250 148 M248 148 Q250 150 252 148" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- cat legs -->
+  <path d="M210 170 L210 165 M222 170 L222 165 M232 170 L232 165 M244 170 L244 165" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- cat tail -->
+  <path d="M198 150 Q190 140 195 130" fill="none" stroke="#9d7246" stroke-width="6" stroke-linecap="round"/>
+  <path d="M198 150 Q190 140 195 130" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- dust specks -->
+  <circle cx="100" cy="40" r="3" fill="#b8b8b8" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="130" cy="55" r="3" fill="#b8b8b8" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="170" cy="40" r="3" fill="#b8b8b8" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="200" cy="55" r="3" fill="#b8b8b8" stroke="#000000" stroke-width="1.5"/>
+  <!-- pollen specks -->
+  <circle cx="85" cy="65" r="3" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="115" cy="75" r="3" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="155" cy="70" r="3" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="190" cy="80" r="3" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <!-- person FULL BODY (centre) -->
+  <!-- head -->
+  <circle cx="140" cy="80" r="16" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- closed eyes -->
+  <path d="M133 78 L137 80 M143 80 L147 78" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- red nose -->
+  <circle cx="140" cy="84" r="3" fill="#f4a4b2" stroke="#000000" stroke-width="2"/>
+  <!-- mouth -->
+  <ellipse cx="140" cy="91" rx="3" ry="2" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <!-- torso -->
+  <rect x="126" y="96" width="28" height="42" fill="#d01424" stroke="#000000" stroke-width="3"/>
+  <!-- arms -->
+  <path d="M126 102 Q108 110 110 130" fill="none" stroke="#d01424" stroke-width="10" stroke-linecap="round"/>
+  <path d="M154 102 Q170 110 170 130" fill="none" stroke="#d01424" stroke-width="10" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M133 138 L129 170" fill="none" stroke="#1d0e82" stroke-width="10" stroke-linecap="round"/>
+  <path d="M147 138 L151 170" fill="none" stroke="#1d0e82" stroke-width="10" stroke-linecap="round"/>
+  <!-- warning triangle (corner) -->
+  <path d="M255 30 L280 75 L230 75 Z" fill="#f2e40d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M255 44 L255 62" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="255" cy="68" r="2" fill="#000000"/>
+  <!-- dust/pollen cloud puff (replaces ENV text) -->
+  <path d="M126 220 Q132 210 142 215 Q144 208 152 210 Q158 204 165 210 Q170 206 173 214 Q178 211 177 220 L126 220 Z" fill="#f2e40d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

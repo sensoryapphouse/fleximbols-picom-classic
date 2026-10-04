@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Drone (quadcopter) upper area -->
+  <!-- Drone body -->
+  <rect x="178" y="30" width="36" height="22" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Drone arms -->
+  <line x1="186" y1="38" x2="162" y2="24" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="206" y1="38" x2="230" y2="24" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="186" y1="46" x2="162" y2="60" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="206" y1="46" x2="230" y2="60" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Propellers -->
+  <ellipse cx="158" cy="22" rx="18" ry="5" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="234" cy="22" rx="18" ry="5" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="158" cy="62" rx="18" ry="5" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="234" cy="62" rx="18" ry="5" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <!-- Drone camera pod -->
+  <circle cx="196" cy="52" r="7" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <circle cx="196" cy="52" r="4" fill="#1d0e82"/>
+  <!-- Drone LED -->
+  <circle cx="184" cy="35" r="3" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <!-- Remote controller -->
+  <rect x="105" y="148" width="70" height="48" rx="8" fill="#000000" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="107" y="150" width="66" height="44" rx="7" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Controller joysticks -->
+  <circle cx="122" cy="168" r="9" fill="#7f7f7f" stroke="#000000" stroke-width="3"/>
+  <circle cx="122" cy="168" r="5" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <circle cx="158" cy="168" r="9" fill="#7f7f7f" stroke="#000000" stroke-width="3"/>
+  <circle cx="158" cy="168" r="5" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <!-- Controller buttons -->
+  <circle cx="122" cy="186" r="4" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <circle cx="136" cy="186" r="4" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <circle cx="150" cy="186" r="4" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <circle cx="158" cy="186" r="4" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <!-- Antenna on controller -->
+  <line x1="118" y1="150" x2="112" y2="132" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="162" y1="150" x2="168" y2="132" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Person body -->
+  <rect x="35" y="125" width="70" height="85" rx="10" fill="#ff9900" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Head - looking up -->
+  <circle cx="70" cy="100" r="28" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Eyes looking up -->
+  <ellipse cx="61" cy="94" rx="4" ry="5" fill="#000000"/>
+  <ellipse cx="79" cy="94" rx="4" ry="5" fill="#000000"/>
+  <!-- Smile (excited) -->
+  <path d="M59 107 Q70 116 81 107" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Hair -->
+  <path d="M42 90 Q45 70 70 70 Q95 70 98 90" fill="#000000" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Arms holding controller -->
+  <path d="M35 140 Q22 155 30 175" fill="none" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M105 140 Q118 155 110 175" fill="none" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <!-- Hands on controller sides -->
+  <path d="M30 170 Q55 185 105 170" fill="none" stroke="#e6b98a" stroke-width="13" stroke-linecap="round"/>
+  <!-- Legs -->
+  <rect x="38" y="205" width="28" height="25" rx="8" fill="#e65a00" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="74" y="205" width="28" height="25" rx="8" fill="#e65a00" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+</svg>

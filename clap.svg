@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- two hands clapping together with motion lines, yellow hands -->
+  <!-- left hand palm (angled right) -->
+  <ellipse cx="106" cy="138" rx="46" ry="62" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round" transform="rotate(-18 106 138)"/>
+  <!-- left hand fingers -->
+  <rect x="63" y="74" width="22" height="40" rx="11" ry="11" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round" transform="rotate(-22 74 94)"/>
+  <rect x="86" y="66" width="22" height="44" rx="11" ry="11" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round" transform="rotate(-14 97 88)"/>
+  <rect x="110" y="63" width="22" height="42" rx="11" ry="11" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round" transform="rotate(-6 121 84)"/>
+  <rect x="133" y="68" width="20" height="38" rx="10" ry="10" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round" transform="rotate(4 143 87)"/>
+  <!-- right hand palm (angled left) -->
+  <ellipse cx="184" cy="138" rx="46" ry="62" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round" transform="rotate(18 184 138)"/>
+  <!-- right hand fingers -->
+  <rect x="149" y="68" width="20" height="38" rx="10" ry="10" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" transform="rotate(-4 159 87)"/>
+  <rect x="172" y="63" width="22" height="42" rx="11" ry="11" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" transform="rotate(6 183 84)"/>
+  <rect x="196" y="66" width="22" height="44" rx="11" ry="11" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" transform="rotate(14 207 88)"/>
+  <rect x="219" y="74" width="22" height="40" rx="11" ry="11" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" transform="rotate(22 230 94)"/>
+  <!-- impact line between palms -->
+  <line x1="120" y1="124" x2="170" y2="124" stroke="#000000" stroke-width="4.5" stroke-linecap="round"/>
+  <!-- motion burst lines above -->
+  <line x1="145" y1="34" x2="145" y2="56" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="108" y1="42" x2="121" y2="61" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="182" y1="42" x2="169" y2="61" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="79" y1="58" x2="96" y2="72" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="211" y1="58" x2="194" y2="72" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

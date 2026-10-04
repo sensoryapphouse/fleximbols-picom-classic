@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Ground -->
+  <path d="M 20 215 Q 145 208 270 215" fill="none" stroke="#9d7246" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Distant mountains -->
+  <path d="M 20 215 Q 60 155 110 170 Q 160 185 200 140 Q 240 100 270 160 L 270 215 Z" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 200 140 L 188 162 L 212 162 Z" fill="#ffffff" stroke="none"/>
+  <!-- Large backpack (behind figure, drawn first) -->
+  <rect x="72" y="88" width="46" height="80" rx="8" fill="#529929" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pack top lid -->
+  <rect x="74" y="82" width="42" height="16" rx="6" fill="#137827" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pack pockets -->
+  <rect x="78" y="138" width="34" height="24" rx="4" fill="#67832d" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pack compression straps -->
+  <line x1="74" y1="110" x2="116" y2="110" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="74" y1="126" x2="116" y2="126" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sleeping bag roll on top -->
+  <ellipse cx="95" cy="82" rx="20" ry="8" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure head (in front of pack) -->
+  <circle cx="120" cy="62" r="17" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Cap -->
+  <path d="M 104 60 Q 120 44 136 60" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="100" y1="61" x2="136" y2="61" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure torso -->
+  <path d="M 108 93 Q 120 86 132 93 L 134 145 Q 120 150 106 145 Z" fill="#f5e7c4" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Pack shoulder straps over torso -->
+  <path d="M 102 90 Q 95 100 96 120 Q 97 138 106 145" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 138 90 Q 118 95 116 168" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Hip belt -->
+  <path d="M 96 145 Q 120 152 134 145 L 134 153 Q 120 160 96 153 Z" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Trousers -->
+  <path d="M 106 153 Q 120 158 134 153 L 132 175 Q 120 180 108 175 Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left leg (striding back) -->
+  <line x1="110" y1="175" x2="96" y2="215" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right leg (striding forward) -->
+  <line x1="130" y1="175" x2="144" y2="210" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Boots -->
+  <path d="M 88 213 Q 90 222 104 222 Q 106 216 96 215 Z" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 137 208 Q 139 218 153 218 Q 154 212 144 210 Z" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left arm with trekking pole -->
+  <line x1="108" y1="105" x2="86" y2="138" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="86" y1="138" x2="74" y2="215" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="74" cy="215" r="4" fill="#b8b8b8" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right arm swinging -->
+  <line x1="132" y1="105" x2="158" y2="128" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right hand -->
+  <circle cx="158" cy="128" r="5" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

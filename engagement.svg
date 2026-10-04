@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Proposer kneeling on left (male, full body) -->
+  <circle cx="65" cy="100" r="20" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M47 96 Q49 76 65 74 Q83 76 85 96 Q85 88 65 86 Q47 90 47 96 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="58" cy="100" r="2" fill="#000000"/>
+  <circle cx="72" cy="100" r="2" fill="#000000"/>
+  <path d="M57 112 Q65 118 73 112" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Torso -->
+  <rect x="48" y="120" width="36" height="50" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Arm reaching out with ring box -->
+  <path d="M84 125 L130 135 L130 150 L80 142 Z" fill="#e6b98a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Other arm down -->
+  <path d="M48 125 L36 175 L46 178 L58 130 Z" fill="#e6b98a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Front knee on ground -->
+  <path d="M48 170 L34 200 L82 200 L72 170 Z" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Back leg kneeling (folded under) -->
+  <path d="M72 170 L80 190 L100 210 L110 200 L96 180 L84 170 Z" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="32" y="198" width="22" height="10" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <rect x="100" y="205" width="22" height="10" fill="#000000" stroke="#000000" stroke-width="2"/>
+
+  <!-- Ring box in hand -->
+  <rect x="125" y="125" width="22" height="20" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Big diamond ring on box -->
+  <circle cx="136" cy="116" r="8" fill="#f2e40d" stroke="#000000" stroke-width="3"/>
+  <path d="M132 110 L136 102 L140 110 L136 118 Z" fill="#dff3fd" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- Proposee standing on right (female, full body, hands to face delighted) -->
+  <circle cx="215" cy="58" r="22" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M193 56 Q195 26 215 24 Q239 26 239 70 Q239 78 235 84 Q235 48 215 44 Q193 48 193 56 Z" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="208" cy="58" r="2" fill="#000000"/>
+  <circle cx="222" cy="58" r="2" fill="#000000"/>
+  <path d="M205 72 Q215 78 225 72" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Torso (dress) -->
+  <path d="M198 80 L195 160 L235 160 L232 80 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Arms up to face -->
+  <path d="M200 88 L195 60 L205 55 L210 85 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M230 88 L235 60 L225 55 L220 85 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Skirt flare -->
+  <path d="M198 140 L180 205 L250 205 L232 140 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="200" y="205" width="14" height="22" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <rect x="220" y="205" width="14" height="22" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <rect x="197" y="223" width="20" height="9" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <rect x="217" y="223" width="20" height="9" fill="#000000" stroke="#000000" stroke-width="2"/>
+
+  <!-- Heart up top -->
+  <path d="M150 35 C 140 20, 125 28, 130 45 C 135 60, 155 70, 155 70 C 155 70, 175 60, 180 45 C 185 28, 170 20, 160 35 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Sparkles -->
+  <path d="M120 40 L124 50 L134 54 L124 58 L120 68 L116 58 L106 54 L116 50 Z" fill="#f2e40d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M255 100 L258 108 L266 111 L258 114 L255 122 L252 114 L244 111 L252 108 Z" fill="#f2e40d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M30 60 L33 68 L41 71 L33 74 L30 82 L27 74 L19 71 L27 68 Z" fill="#f2e40d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+</svg>

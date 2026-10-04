@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Dark blue field -->
+  <rect x="40" y="50" width="210" height="140" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- White/red/white horizontal band at lower-middle (approx 60% down) -->
+  <rect x="40" y="144" width="210" height="9" fill="#ffffff" stroke="none"/>
+  <rect x="40" y="153" width="210" height="12" fill="#d01424" stroke="none"/>
+  <rect x="40" y="165" width="210" height="9" fill="#ffffff" stroke="none"/>
+  <!-- Ring of 10 small yellow 5-point stars, centred slightly left of centre at ~y=148 (near band) -->
+  <!-- Stars arranged in a circle of radius ~44 centred at (135, 148) -->
+  <!-- Angle step = 36 degrees, starting from top -->
+  <!-- Star 1: 270 deg (top) -->
+  <polygon points="135,104 137,110 143,110 138,114 140,120 135,116 130,120 132,114 127,110 133,110" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Star 2: 306 deg -->
+  <polygon points="161,111 163,117 169,117 164,121 166,127 161,123 156,127 158,121 153,117 159,117" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Star 3: 342 deg -->
+  <polygon points="178,133 180,139 186,139 181,143 183,149 178,145 173,149 175,143 170,139 176,139" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Star 4: 18 deg -->
+  <polygon points="178,161 180,167 186,167 181,171 183,177 178,173 173,177 175,171 170,167 176,167" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Star 5: 54 deg -->
+  <polygon points="161,183 163,189 169,189 164,193 166,199 161,195 156,199 158,193 153,189 159,189" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Star 6: 90 deg (bottom) - clipped to flag, place at y=191 -->
+  <polygon points="135,189 137,195 143,195 138,199 140,205 135,201 130,205 132,199 127,195 133,195" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Star 7: 126 deg -->
+  <polygon points="109,183 111,189 117,189 112,193 114,199 109,195 104,199 106,193 101,189 107,189" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Star 8: 162 deg -->
+  <polygon points="92,161 94,167 100,167 95,171 97,177 92,173 87,177 89,171 84,167 90,167" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Star 9: 198 deg -->
+  <polygon points="92,133 94,139 100,139 95,143 97,149 92,145 87,149 89,143 84,139 90,139" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Star 10: 234 deg -->
+  <polygon points="109,111 111,117 117,117 112,121 114,127 109,123 104,127 106,121 101,117 107,117" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Pole -->
+  <rect x="30" y="45" width="12" height="150" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- scientific paper right -->
+  <rect x="170" y="30" width="100" height="130" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- title bar -->
+  <rect x="180" y="40" width="80" height="8" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <!-- ML formula squiggle -->
+  <path d="M180 60 q5 -4 10 0 t10 0 t10 0 t10 0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M180 72 q5 -4 10 0 t10 0 t10 0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- a fake equation E=mc -->
+  <path d="M182 88 h8 m-8 4 h6 m-6 4 h8" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- mini equation glyphs -->
+  <path d="M195 92 q4 0 4 -4 q0 -4 -4 -4 q-4 0 -4 4 q0 4 4 4" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <path d="M205 86 l8 8 m0 -8 l-8 8" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M222 92 l5 -8 l5 8" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 110 q5 -4 10 0 t10 0 t10 0 t10 0 t10 0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M180 122 q5 -4 10 0 t10 0 t10 0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- experiment beaker bottom-right of paper -->
+  <path d="M218 135 v8 l-6 12 q-2 5 4 5 h18 q6 0 4 -5 l-6 -12 v-8 z" fill="#3aa6a0" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="220" cy="150" r="2" fill="#ffffff"/>
+  <circle cx="228" cy="146" r="1.5" fill="#ffffff"/>
+  <!-- researcher full body left -->
+  <circle cx="75" cy="85" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- glasses -->
+  <circle cx="69" cy="86" r="4" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="81" cy="86" r="4" fill="none" stroke="#000000" stroke-width="2"/>
+  <line x1="73" y1="86" x2="77" y2="86" stroke="#000000" stroke-width="2"/>
+  <path d="M59 80 q0 -14 16 -16 q16 2 16 16 q-6 -4 -16 -4 q-10 0 -16 4 z" fill="#7f7f7f" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M68 94 q7 3 14 0" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- lab coat torso -->
+  <path d="M57 107 h36 v45 h-36 z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="75" y1="107" x2="75" y2="152" stroke="#000000" stroke-width="2"/>
+  <!-- arms -->
+  <path d="M57 110 q-14 10 -14 26" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="43" cy="138" r="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <path d="M93 110 q16 6 22 22" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="116" cy="135" r="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <rect x="60" y="152" width="13" height="38" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="77" y="152" width="13" height="38" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="66" cy="194" rx="9" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="83" cy="194" rx="9" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ROOF / SHELTER (back layer) -->
+  <polygon points="145,30 235,105 55,105" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- ROOF edge ridge -->
+  <line x1="145" y1="30" x2="145" y2="30" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- HOUSE walls -->
+  <rect x="70" y="103" width="150" height="75" rx="4" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- HEART on roof -->
+  <path d="M135,58 C135,52 129,47 124,51 C119,55 120,62 125,68 L135,78 L145,68 C150,62 151,55 146,51 C141,47 135,52 135,58 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- ADULT body (parent, left-center) -->
+  <!-- head -->
+  <circle cx="118" cy="135" r="16" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- hair -->
+  <path d="M102,130 Q105,117 118,116 Q131,117 134,130" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- face dots (eyes) -->
+  <circle cx="112" cy="134" r="2.5" fill="#000000"/>
+  <circle cx="124" cy="134" r="2.5" fill="#000000"/>
+  <!-- smile -->
+  <path d="M112,141 Q118,146 124,141" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- torso -->
+  <rect x="104" y="151" width="28" height="38" rx="5" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- arms -->
+  <line x1="104" y1="158" x2="86" y2="175" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <line x1="132" y1="158" x2="148" y2="173" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <!-- legs -->
+  <rect x="104" y="187" width="11" height="28" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="121" y="187" width="11" height="28" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- feet -->
+  <ellipse cx="109" cy="215" rx="9" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="127" cy="215" rx="9" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- CHILD body (small, under protective arm, right of adult) -->
+  <!-- head -->
+  <circle cx="165" cy="158" r="12" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- hair -->
+  <path d="M153,153 Q156,144 165,143 Q174,144 177,153" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="160" cy="157" r="2" fill="#000000"/>
+  <circle cx="170" cy="157" r="2" fill="#000000"/>
+  <!-- smile -->
+  <path d="M160,163 Q165,167 170,163" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- torso -->
+  <rect x="154" y="170" width="22" height="28" rx="5" fill="#f4a4b2" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- arms -->
+  <line x1="154" y1="176" x2="143" y2="187" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <line x1="176" y1="176" x2="184" y2="187" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <!-- legs -->
+  <rect x="155" y="196" width="8" height="21" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="167" y="196" width="8" height="21" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- feet -->
+  <ellipse cx="159" cy="217" rx="7" ry="4" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="171" cy="217" rx="7" ry="4" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Protective arm over child -->
+  <path d="M132,158 Q150,148 160,165" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

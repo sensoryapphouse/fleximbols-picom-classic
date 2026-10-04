@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- night/party background atmosphere - disco light dots -->
+  <circle cx="30" cy="25" r="5" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="60" cy="15" r="4" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="95" cy="25" r="4" fill="#3aa6a0" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="135" cy="12" r="5" fill="#ff9900" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="170" cy="25" r="4" fill="#7c3fac" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="205" cy="14" r="5" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="240" cy="25" r="4" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="265" cy="15" r="4" fill="#3aa6a0" stroke="#000000" stroke-width="1.5"/>
+  <!-- disco ball -->
+  <circle cx="145" cy="40" r="14" fill="#90a7d6" stroke="#000000" stroke-width="2"/>
+  <path d="M132 38 L158 38 M133 44 L157 44 M138 32 L152 32 M138 50 L152 50 M145 26 L145 54 M139 28 L139 52 M151 28 L151 52" stroke="#1d0e82" stroke-width="1.2" fill="none"/>
+  <path d="M145 18 L145 26" stroke="#000000" stroke-width="2"/>
+  <!-- disco light beams -->
+  <path d="M145 50 L100 110" stroke="#f7de58" stroke-width="2" fill="none"/>
+  <path d="M145 50 L190 110" stroke="#f266aa" stroke-width="2" fill="none"/>
+  <!-- floor line -->
+  <path d="M0 220 L290 220" stroke="#000000" stroke-width="2" fill="none"/>
+  <!-- LEFT PERSON full body - singing -->
+  <!-- head -->
+  <circle cx="80" cy="90" r="15" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- hair -->
+  <path d="M65 88 Q65 75 80 73 Q95 75 95 88 L93 82 Q88 78 80 78 Q72 78 67 82 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- mouth open singing -->
+  <ellipse cx="80" cy="97" rx="4" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="1.5"/>
+  <!-- eyes -->
+  <circle cx="75" cy="88" r="1.8" fill="#000000"/>
+  <circle cx="85" cy="88" r="1.8" fill="#000000"/>
+  <!-- torso -->
+  <path d="M65 105 L95 105 L98 170 L62 170 Z" fill="#d01424" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- arm holding mic up -->
+  <path d="M65 110 Q45 105 42 80" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M65 110 Q45 105 42 80" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- other arm -->
+  <path d="M95 110 Q108 120 110 145" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M95 110 Q108 120 110 145" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M70 170 L67 220" stroke="#1d0e82" stroke-width="9" stroke-linecap="round"/>
+  <path d="M70 170 L67 220" stroke="#000000" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M90 170 L93 220" stroke="#1d0e82" stroke-width="9" stroke-linecap="round"/>
+  <path d="M90 170 L93 220" stroke="#000000" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- shoes -->
+  <ellipse cx="65" cy="222" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="95" cy="222" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+  <!-- microphone in left hand -->
+  <rect x="36" y="65" width="12" height="20" rx="2" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="42" cy="62" rx="9" ry="7" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- RIGHT PERSON full body - singing -->
+  <!-- head -->
+  <circle cx="210" cy="90" r="15" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- hair (long) -->
+  <path d="M195 88 Q193 70 210 68 Q227 70 225 88 L228 105 L222 100 Q220 80 210 80 Q200 80 198 100 L192 105 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- mouth open singing -->
+  <ellipse cx="210" cy="97" rx="4" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="205" cy="88" r="1.8" fill="#000000"/>
+  <circle cx="215" cy="88" r="1.8" fill="#000000"/>
+  <!-- torso (dress) -->
+  <path d="M195 105 L225 105 L232 170 L188 170 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- arm holding mic up -->
+  <path d="M225 110 Q245 105 248 80" fill="none" stroke="#e6b98a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M225 110 Q245 105 248 80" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- other arm raised -->
+  <path d="M195 110 Q180 115 178 140" fill="none" stroke="#e6b98a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M195 110 Q180 115 178 140" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M198 170 L195 220" stroke="#392170" stroke-width="9" stroke-linecap="round"/>
+  <path d="M198 170 L195 220" stroke="#000000" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M222 170 L225 220" stroke="#392170" stroke-width="9" stroke-linecap="round"/>
+  <path d="M222 170 L225 220" stroke="#000000" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <ellipse cx="193" cy="222" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="225" cy="222" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+  <!-- microphone in right hand -->
+  <rect x="242" y="65" width="12" height="20" rx="2" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="248" cy="62" rx="9" ry="7" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- music notes -->
+  <path d="M125 115 L125 132 Q120 136 117 132 Q117 127 125 128 Z" fill="#000000" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M125 115 L135 113" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M155 130 L155 148 Q150 152 147 148 Q147 143 155 144 Z" fill="#000000" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M155 130 L167 127 L167 133" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

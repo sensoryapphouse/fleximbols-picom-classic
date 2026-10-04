@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- wobble: figure swaying side-to-side IN PLACE, double-sided lean arrows, knees shaky -->
+
+  <!-- Ground line -->
+  <line x1="50" y1="218" x2="240" y2="218" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Left foot -->
+  <ellipse cx="128" cy="216" rx="16" ry="8" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Right foot -->
+  <ellipse cx="168" cy="216" rx="16" ry="8" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+
+  <!-- Left leg — shaky, slightly bowed -->
+  <path d="M120 216 Q112 195 118 180 L130 180 Q136 195 136 216Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Right leg — shaky, slightly bowed opposite -->
+  <path d="M160 216 Q156 195 160 180 L172 180 Q178 195 176 216Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Knee wobble marks (shaky lines at knee level) -->
+  <path d="M108 190 L116 186 L110 182" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 190 L172 186 L178 182" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Torso — slightly leaning right (mid-sway) -->
+  <path d="M126 180 L164 180 L168 138 L130 138Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Neck -->
+  <rect x="140" y="122" width="14" height="16" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Head (slightly tilted with sway) -->
+  <circle cx="152" cy="106" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+
+  <!-- Face: wide worried eyes -->
+  <ellipse cx="145" cy="102" rx="4" ry="4" fill="#000000"/>
+  <ellipse cx="159" cy="102" rx="4" ry="4" fill="#000000"/>
+  <!-- Wavy worried mouth -->
+  <path d="M144 113 Q148 110 152 113 Q156 116 160 113" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Hair -->
+  <path d="M131 96 Q152 82 172 97" fill="none" stroke="#4d4d4d" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Left arm — out to the side for balance -->
+  <path d="M130 148 L86 138 L82 150 L126 160Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="78" cy="144" rx="12" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Right arm — out to other side -->
+  <path d="M168 148 L212 138 L216 150 L172 160Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="220" cy="144" rx="12" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Double-sided sway arrows (left) -->
+  <path d="M55 108 Q48 120 55 132" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <polygon points="52,106 60,112 55,115" fill="#000000"/>
+  <polygon points="52,134 60,128 55,125" fill="#000000"/>
+
+  <!-- Double-sided sway arrows (right) -->
+  <path d="M240 108 Q247 120 240 132" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <polygon points="243,106 235,112 240,115" fill="#000000"/>
+  <polygon points="243,134 235,128 240,125" fill="#000000"/>
+</svg>

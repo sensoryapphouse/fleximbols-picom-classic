@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- curtsey: figure in a dress bending knees with skirt held out, slight bow -->
+
+  <!-- Ground line -->
+  <line x1="50" y1="225" x2="240" y2="225" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Left foot (extended out to left, toe pointed) -->
+  <ellipse cx="100" cy="222" rx="18" ry="7" fill="#9d7246" stroke="#000000" stroke-width="4" transform="rotate(-15, 100, 222)"/>
+
+  <!-- Right foot (planted) -->
+  <ellipse cx="162" cy="223" rx="16" ry="7" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+
+  <!-- Left leg behind skirt -->
+  <path d="M100 220 L108 195 L120 190 L116 220Z" fill="#f4a4b2" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Right leg bent at knee behind skirt -->
+  <path d="M156 223 L156 195 L168 190 L170 223Z" fill="#f4a4b2" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- DRESS / SKIRT — wide A-line, held out at sides -->
+  <path d="M118 190 Q90 210 70 220 Q100 228 145 228 Q185 228 218 220 Q198 210 172 190Z" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Skirt highlight/trim -->
+  <path d="M70 220 Q108 232 145 232 Q182 232 218 220" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Bodice / upper torso -->
+  <path d="M126 135 L158 135 L162 190 L118 190Z" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Bodice front detail -->
+  <path d="M142 138 L142 185" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="4,4"/>
+
+  <!-- Neck -->
+  <rect x="135" y="120" width="13" height="15" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Head — slightly bowed downward -->
+  <circle cx="148" cy="105" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+
+  <!-- Face: gentle downcast eyes (slight bow) -->
+  <path d="M140 101 Q143 98 146 101" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M150 101 Q153 98 156 101" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Polite smile -->
+  <path d="M141 112 Q148 117 155 112" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Hair — tied up / neat bun -->
+  <path d="M128 96 Q148 82 168 96" fill="none" stroke="#7d5e23" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="148" cy="84" rx="10" ry="7" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+
+  <!-- Left arm — holding skirt out to left -->
+  <path d="M126 148 L85 175 L80 165 L122 138Z" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="76" cy="170" rx="11" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Fingers holding skirt -->
+  <path d="M76 170 L68 218" stroke="#eed5b6" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Right arm — holding skirt out to right -->
+  <path d="M158 148 L198 175 L204 165 L162 138Z" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="208" cy="170" rx="11" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Fingers holding skirt -->
+  <path d="M208 170 L218 218" stroke="#eed5b6" stroke-width="4" stroke-linecap="round"/>
+</svg>

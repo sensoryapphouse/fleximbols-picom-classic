@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shoulders -->
+  <path d="M55,240 L55,188 Q75,168 100,162 L145,158 L190,162 Q215,168 235,188 L235,240 Z" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shirt -->
+  <path d="M100,162 Q115,178 145,181 Q175,178 190,162" fill="#529929" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="126" y="142" width="38" height="25" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="105" rx="58" ry="62" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Hair -->
+  <path d="M88,100 Q87,62 100,50 Q115,38 145,36 Q175,38 190,50 Q203,62 202,100 Q196,74 178,64 Q163,57 145,57 Q127,57 112,64 Q94,74 88,100 Z" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Worried left eye - furrowed look -->
+  <ellipse cx="120" cy="106" rx="12" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="120" cy="107" rx="6" ry="6" fill="#4d4d4d" stroke="none"/>
+  <ellipse cx="122" cy="105" rx="2.5" ry="2.5" fill="#ffffff" stroke="none"/>
+  <!-- Right eye -->
+  <ellipse cx="170" cy="106" rx="12" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="170" cy="107" rx="6" ry="6" fill="#4d4d4d" stroke="none"/>
+  <ellipse cx="172" cy="105" rx="2.5" ry="2.5" fill="#ffffff" stroke="none"/>
+  <!-- Worried inward angled brows -->
+  <path d="M108,92 Q118,86 130,90" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M160,90 Q172,86 182,92" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wavy uneasy mouth -->
+  <path d="M124,131 Q131,127 138,131 Q145,135 152,131 Q159,127 166,131" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Nail biting hand at mouth - right hand -->
+  <path d="M175,120 Q188,115 195,122 Q200,128 196,133 Q192,137 185,135 L175,133 Q170,128 175,120 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Finger near mouth -->
+  <path d="M165,128 Q172,124 178,128 Q182,132 178,136 Q173,138 167,135 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sweat bead left side of forehead -->
+  <ellipse cx="98" cy="92" rx="6" ry="8" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M98,84 Q101,79 98,84" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Forehead worry lines -->
+  <path d="M128,80 Q133,77 138,80" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M126,87 Q133,84 140,87" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

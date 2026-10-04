@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- left head silhouette (facing right) -->
+  <circle cx="72" cy="62" r="32" fill="#90a7d6" stroke="#000000" stroke-width="5"/>
+  <!-- left head neck + shoulders -->
+  <rect x="58" y="88" width="28" height="18" rx="5" fill="#90a7d6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M38,106 Q38,130 58,130 L100,130 Q120,130 120,106" fill="#90a7d6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- left eye -->
+  <circle cx="80" cy="58" r="5" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <!-- left eyebrow raised (mirroring concern) -->
+  <path d="M70,46 Q80,40 90,44" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- left mouth (gentle empathetic curve) -->
+  <path d="M65,76 Q72,82 82,78" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- right head silhouette (facing left) -->
+  <circle cx="218" cy="62" r="32" fill="#f4a4b2" stroke="#000000" stroke-width="5"/>
+  <!-- right head neck + shoulders -->
+  <rect x="204" y="88" width="28" height="18" rx="5" fill="#f4a4b2" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M170,106 Q170,130 190,130 L232,130 Q252,130 252,106" fill="#f4a4b2" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- right eye -->
+  <circle cx="210" cy="58" r="5" fill="#d01424" stroke="#000000" stroke-width="3"/>
+  <!-- right eyebrow (distressed) -->
+  <path d="M200,44 Q210,40 220,46" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- right mouth (downward — the emotion being mirrored) -->
+  <path d="M208,78 Q214,73 222,76" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- shared heart bridging between the two heads -->
+  <!-- heart left lobe -->
+  <path d="M145,105 C145,92 126,86 122,98 C118,108 132,122 145,135 C158,122 172,108 168,98 C164,86 145,92 145,105 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- mirroring lines from left head to heart -->
+  <path d="M108,80 Q128,90 130,100" fill="none" stroke="#90a7d6" stroke-width="4" stroke-linecap="round" stroke-dasharray="7,5"/>
+  <!-- mirroring lines from right head to heart -->
+  <path d="M182,80 Q162,90 160,100" fill="none" stroke="#f4a4b2" stroke-width="4" stroke-linecap="round" stroke-dasharray="7,5"/>
+
+  <!-- emotion wave arcs below heads — mirrored posture lines -->
+  <path d="M48,155 Q72,142 96,155 Q120,168 144,155" fill="none" stroke="#90a7d6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M146,155 Q170,142 194,155 Q218,168 242,155" fill="none" stroke="#f4a4b2" stroke-width="4" stroke-linecap="round"/>
+</svg>

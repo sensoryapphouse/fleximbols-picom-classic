@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- subpoena document (centre/right) -->
+  <rect x="100" y="15" width="160" height="170" rx="3" ry="3" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- header SUBPOENA banner -->
+  <rect x="100" y="15" width="160" height="32" fill="#392170" stroke="#000000" stroke-width="3"/>
+  <!-- text lines -->
+  <line x1="115" y1="60" x2="245" y2="60" stroke="#4d4d4d" stroke-width="2"/>
+  <line x1="115" y1="70" x2="245" y2="70" stroke="#4d4d4d" stroke-width="2"/>
+  <line x1="115" y1="80" x2="225" y2="80" stroke="#4d4d4d" stroke-width="2"/>
+  <line x1="115" y1="90" x2="245" y2="90" stroke="#4d4d4d" stroke-width="2"/>
+  <line x1="115" y1="100" x2="240" y2="100" stroke="#4d4d4d" stroke-width="2"/>
+  <line x1="115" y1="110" x2="220" y2="110" stroke="#4d4d4d" stroke-width="2"/>
+  <line x1="115" y1="120" x2="245" y2="120" stroke="#4d4d4d" stroke-width="2"/>
+  <line x1="115" y1="130" x2="200" y2="130" stroke="#4d4d4d" stroke-width="2"/>
+  <!-- official seal -->
+  <circle cx="220" cy="160" r="16" fill="#d01424" stroke="#000000" stroke-width="3"/>
+  <circle cx="220" cy="160" r="11" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <polygon points="220,152 222,158 228,158 223,162 225,168 220,164 215,168 217,162 212,158 218,158" fill="#fff200" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- signature swoop -->
+  <path d="M115 160 q10 -6 18 0 q5 5 10 -2 q5 6 10 0" fill="none" stroke="#1d0e82" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="115" y1="170" x2="180" y2="170" stroke="#000000" stroke-width="1.5"/>
+  <!-- figure FULL BODY receiving document (left, reaching for it) -->
+  <circle cx="50" cy="80" r="14" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M36 78 q14 -12 28 0" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <rect x="38" y="94" width="24" height="40" rx="3" ry="3" fill="#3aa6a0" stroke="#000000" stroke-width="3"/>
+  <!-- one arm reaching out (to document) -->
+  <line x1="62" y1="104" x2="100" y2="110" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <line x1="62" y1="104" x2="100" y2="110" stroke="#3aa6a0" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="103" cy="110" r="5" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- other arm down -->
+  <line x1="38" y1="106" x2="28" y2="130" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <line x1="38" y1="106" x2="28" y2="130" stroke="#3aa6a0" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="26" cy="132" r="4" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- legs -->
+  <rect x="38" y="134" width="11" height="32" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <rect x="51" y="134" width="11" height="32" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="43" cy="170" rx="7" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="56" cy="170" rx="7" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- exclamation badge (urgency) -->
+  <polygon points="80,200 100,200 90,180" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="90" y1="186" x2="90" y2="194" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="90" cy="198" r="1.8" fill="#ffffff"/>
+  <!-- ground -->
+  <line x1="10" y1="218" x2="280" y2="218" stroke="#000000" stroke-width="3"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- grass strip -->
+  <path d="M10 215 L280 215 L280 230 L10 230 Z" fill="#529929" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- tent base shadow line -->
+  <path d="M40 215 L250 215" fill="none" stroke="#000000" stroke-width="2"/>
+  <!-- left tent panel (red) -->
+  <path d="M145 40 L60 215 L145 215 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- right tent panel (yellow) -->
+  <path d="M145 40 L230 215 L145 215 Z" fill="#f2e40d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- centre seam -->
+  <path d="M145 40 L145 215" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- left circus stripe -->
+  <path d="M115 110 L100 140 L130 140 L145 110 Z" fill="#1d0e82" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- right circus stripe -->
+  <path d="M145 110 L160 140 L190 140 L175 110 Z" fill="#1d0e82" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- door opening triangle -->
+  <path d="M120 215 L145 130 L170 215 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- door rolled flap -->
+  <path d="M120 215 L145 150 L145 130" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- flag pole -->
+  <path d="M145 40 L145 18" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- flag -->
+  <path d="M145 18 L175 26 L145 34 Z" fill="#f8130d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- top knob -->
+  <circle cx="145" cy="40" r="5" fill="#ff9900" stroke="#000000" stroke-width="2"/>
+  <!-- guy rope left -->
+  <path d="M60 215 L40 225" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- guy rope right -->
+  <path d="M230 215 L250 225" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- peg left -->
+  <path d="M40 222 L40 232" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- peg right -->
+  <path d="M250 222 L250 232" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

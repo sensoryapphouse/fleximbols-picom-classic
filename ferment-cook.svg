@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Mason jar lid (metal band) -->
+  <rect x="90" y="36" width="110" height="20" rx="4" fill="#7f7f7f" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Lid disc -->
+  <rect x="98" y="28" width="94" height="14" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="4"/>
+  <!-- Jar body -->
+  <path d="M82 56 L208 56 L218 84 L218 200 Q214 218 196 218 L94 218 Q76 218 72 200 L72 84 Z" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Jar shoulder seam -->
+  <path d="M72 86 L218 86" stroke="#000000" stroke-width="3"/>
+  <!-- Fermenting liquid (cloudy pale-yellow) -->
+  <path d="M82 96 L208 96 L212 200 Q208 212 196 212 L94 212 Q82 212 78 200 Z" fill="#f5e7c4" stroke="none"/>
+  <!-- Solid pieces (cabbage / vegetable chunks fermenting) -->
+  <ellipse cx="100" cy="140" rx="14" ry="9" fill="#67832d" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="140" cy="152" rx="16" ry="10" fill="#529929" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="180" cy="142" rx="14" ry="9" fill="#67832d" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="112" cy="170" rx="13" ry="8" fill="#529929" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="160" cy="175" rx="15" ry="9" fill="#67832d" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="195" cy="172" rx="12" ry="8" fill="#529929" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="100" cy="192" rx="13" ry="7" fill="#67832d" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="145" cy="198" rx="14" ry="7" fill="#529929" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="190" cy="196" rx="12" ry="7" fill="#67832d" stroke="#000000" stroke-width="2.5"/>
+  <!-- Bubbles rising up through liquid -->
+  <circle cx="108" cy="110" r="6" fill="#ffffff" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="130" cy="120" r="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="155" cy="108" r="5" fill="#ffffff" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="175" cy="118" r="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="190" cy="106" r="5" fill="#ffffff" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="118" cy="130" r="3" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="167" cy="132" r="3" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="200" cy="128" r="3" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- FERMENT label band on jar -->
+  <rect x="80" y="60" width="130" height="22" rx="3" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- Time clock (top-right corner) -->
+  <circle cx="248" cy="40" r="22" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="248" cy="40" r="17" fill="#f5e7c4" stroke="#000000" stroke-width="2"/>
+  <line x1="248" y1="40" x2="248" y2="28" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="248" y1="40" x2="258" y2="44" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="248" cy="40" r="2" fill="#000000" stroke="none"/>
+  <!-- CO2 bubbles + timer icon (replaces FERMENT text) -->
+  <circle cx="110" cy="150" r="6" fill="none" stroke="#dff3fd" stroke-width="2.5"/>
+  <circle cx="125" cy="140" r="4" fill="none" stroke="#dff3fd" stroke-width="2"/>
+  <circle cx="138" cy="148" r="5" fill="none" stroke="#dff3fd" stroke-width="2.5"/>
+  <circle cx="152" cy="138" r="4" fill="none" stroke="#dff3fd" stroke-width="2"/>
+  <circle cx="165" cy="145" r="6" fill="none" stroke="#dff3fd" stroke-width="2.5"/>
+</svg>

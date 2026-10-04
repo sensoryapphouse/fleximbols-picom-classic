@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Floor -->
+  <line x1="25" y1="218" x2="265" y2="218" stroke="#b8b8b8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Desk legs -->
+  <line x1="68" y1="148" x2="62" y2="218" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="210" y1="148" x2="216" y2="218" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Desk surface -->
+  <rect x="48" y="138" width="182" height="14" rx="4" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Monitor on desk -->
+  <rect x="115" y="88" width="72" height="50" rx="5" fill="#efefef" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Monitor screen content -->
+  <rect x="120" y="93" width="62" height="40" rx="3" fill="#dff3fd" stroke="none"/>
+  <!-- Monitor stand neck -->
+  <line x1="151" y1="138" x2="151" y2="148" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Monitor base -->
+  <rect x="138" y="148" width="26" height="5" rx="2" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Keyboard on desk -->
+  <rect x="98" y="140" width="58" height="10" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Ergonomic chair back -->
+  <path d="M 58 108 Q 52 148 55 175 Q 60 182 72 180 Q 80 148 78 108 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Chair lumbar support bulge -->
+  <path d="M 54 155 Q 46 162 54 168" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Chair seat -->
+  <path d="M 52 178 Q 68 185 92 182 Q 96 175 90 170 Q 70 172 58 168 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Chair base + wheels -->
+  <line x1="72" y1="182" x2="72" y2="210" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="72" y1="210" x2="48" y2="218" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="72" y1="210" x2="96" y2="218" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="48" cy="218" r="5" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="96" cy="218" r="5" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Armrest -->
+  <rect x="82" y="162" width="16" height="6" rx="3" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="90" y1="168" x2="90" y2="180" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Figure: seated upright, good posture -->
+  <!-- Hips on seat -->
+  <!-- Thigh horizontal -->
+  <line x1="72" y1="175" x2="108" y2="175" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lower leg vertical (feet flat) -->
+  <line x1="108" y1="175" x2="108" y2="218" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Foot flat -->
+  <path d="M 100 216 Q 102 222 116 222 Q 118 216 108 216 Z" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Torso upright (spine straight) -->
+  <line x1="75" y1="130" x2="75" y2="175" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head -->
+  <circle cx="75" cy="116" r="16" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shirt -->
+  <path d="M 63 140 Q 75 133 87 140 L 88 168 Q 75 173 62 168 Z" fill="#f5e7c4" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right arm on armrest, hand at keyboard -->
+  <line x1="87" y1="148" x2="110" y2="152" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left arm -->
+  <line x1="63" y1="148" x2="50" y2="155" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Ergonomic angle indicators -->
+  <!-- 90-degree arc at elbow (right) -->
+  <path d="M 96 146 Q 100 140 108 144" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 90-degree arc at knee -->
+  <path d="M 98 175 Q 104 168 108 175" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Spine alignment arrow -->
+  <line x1="42" y1="130" x2="42" y2="175" stroke="#529929" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="42,122 37,134 47,134" fill="#529929" stroke="none"/>
+  <!-- Eye-level line to monitor -->
+  <line x1="91" y1="116" x2="115" y2="113" stroke="#f8130d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3"/>
+</svg>

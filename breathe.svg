@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g>
+    <!-- Shoulders / chest bust -->
+    <path d="M60,240 Q62,195 100,182 Q120,175 145,173 Q170,175 190,182 Q228,195 230,240 Z" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+    <!-- Shirt -->
+    <path d="M62,240 Q64,210 100,200 Q120,194 145,193 Q170,194 190,200 Q226,210 228,240 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+    <!-- Chest expansion indicator — curved arc on shirt -->
+    <path d="M105,220 Q145,210 185,220" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+    <!-- Neck -->
+    <polygon points="122,175 127,194 163,194 168,175 157,180 145,182 133,180" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+    <!-- Head — calm, neutral -->
+    <path d="M72,108 Q74,58 145,28 Q216,58 218,108 Q220,148 200,172 Q172,196 145,197 Q118,196 90,172 Q70,148 72,108 Z" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+    <!-- Left ear -->
+    <ellipse cx="67" cy="110" rx="13" ry="19" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+    <!-- Right ear -->
+    <ellipse cx="223" cy="110" rx="13" ry="19" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+    <!-- Hair -->
+    <path d="M84,78 Q92,28 145,22 Q198,28 206,78 Q192,42 145,40 Q98,42 84,78 Z" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+    <!-- Calm eyes — serene, open -->
+    <ellipse cx="113" cy="95" rx="10" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+    <circle cx="114" cy="96" r="5" fill="#000000"/>
+    <circle cx="115" cy="94" r="2" fill="#ffffff"/>
+    <ellipse cx="177" cy="95" rx="10" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+    <circle cx="178" cy="96" r="5" fill="#000000"/>
+    <circle cx="179" cy="94" r="2" fill="#ffffff"/>
+    <!-- Eyebrows relaxed -->
+    <polyline points="103,82 116,80" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+    <polyline points="165,80 178,82" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+    <!-- Nose -->
+    <path d="M141,110 Q137,122 133,125 Q140,128 145,126 Q150,128 157,125 Q153,122 149,110" fill="#e6b98a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+    <!-- Mouth — gently open, neutral breathing -->
+    <path d="M120,148 Q132,143 145,144 Q158,143 170,148 Q160,155 145,156 Q130,155 120,148 Z" fill="#f4a4b2" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M120,148 Q132,146 145,146 Q158,146 170,148" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+    <!-- Two-way air flow arrow at nose/mouth — in and out curved -->
+    <!-- Inward arrow (left side — air coming in) -->
+    <path d="M68,128 Q80,132 88,140" fill="none" stroke="#dff3fd" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="88,140 78,138 82,129" fill="#dff3fd" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Outward arrow (right side — air going out) -->
+    <path d="M202,128 Q214,123 222,116" fill="none" stroke="#dff3fd" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="222,116 220,126 212,120" fill="#dff3fd" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Small breath wave lines near mouth -->
+    <path d="M80,145 Q84,140 88,145 Q92,150 96,145" fill="none" stroke="#90a7d6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M194,145 Q198,140 202,145 Q206,150 210,145" fill="none" stroke="#90a7d6" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>

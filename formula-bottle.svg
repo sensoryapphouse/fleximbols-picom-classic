@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- formula canister (tin) with scoop - distinguishes from feeding bottle -->
+  <!-- formula canister body -->
+  <rect x="60" y="80" width="130" height="135" rx="6" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <!-- canister lid -->
+  <rect x="55" y="65" width="140" height="22" rx="4" fill="#e65a00" stroke="#000000" stroke-width="4"/>
+  <!-- lid top edge -->
+  <path d="M60 65 L190 65" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- product label panel -->
+  <rect x="72" y="100" width="106" height="80" rx="3" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- "FORMULA" indicator: baby bottle icon on label -->
+  <path d="M115 115 L115 110 L135 110 L135 115" stroke="#000000" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M112 115 L138 115 L138 155 Q138 160 133 160 L117 160 Q112 160 112 155 Z" fill="#dff3fd" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M114 138 L136 138 L136 155 Q136 158 133 158 L117 158 Q114 158 114 155 Z" fill="#f5e7c4" stroke="#000000" stroke-width="1.5"/>
+  <path d="M118 128 L132 128" stroke="#000000" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- label text bars -->
+  <rect x="82" y="168" width="86" height="6" fill="#1d0e82" stroke="#000000" stroke-width="1.5"/>
+  <!-- nutrition stripe at bottom of can -->
+  <rect x="60" y="190" width="130" height="14" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <path d="M70 197 L82 197 M88 197 L100 197 M106 197 L118 197 M124 197 L136 197 M142 197 L154 197 M160 197 L172 197" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <!-- scoop coming out of top -->
+  <!-- scoop handle -->
+  <path d="M210 75 L255 50" stroke="#efefef" stroke-width="10" stroke-linecap="round"/>
+  <path d="M210 75 L255 50" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- scoop bowl -->
+  <path d="M195 85 Q190 100 200 115 Q220 120 225 100 Q225 85 215 78 Z" fill="#efefef" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- powder in scoop -->
+  <path d="M200 92 Q208 88 220 92 Q218 105 208 108 Q200 105 200 92 Z" fill="#f5e7c4" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- powder spill grains -->
+  <circle cx="190" cy="118" r="2" fill="#f5e7c4" stroke="#000000" stroke-width="1"/>
+  <circle cx="183" cy="125" r="2" fill="#f5e7c4" stroke="#000000" stroke-width="1"/>
+  <circle cx="195" cy="130" r="2" fill="#f5e7c4" stroke="#000000" stroke-width="1"/>
+</svg>

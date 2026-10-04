@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <path d="M 25,90 Q 30,55 80,55 L 210,55 Q 260,55 265,90 Q 265,105 250,108 Q 220,112 145,110 Q 70,112 40,108 Q 25,105 25,90 Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 40,90 Q 40,65 80,62 L 210,62 Q 250,65 250,90 L 250,160 Q 250,185 220,190 Q 145,200 70,190 Q 40,185 40,160 Z" fill="#392170" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
+  <ellipse cx="100" cy="130" rx="26" ry="22" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></ellipse>
+  <ellipse cx="190" cy="130" rx="26" ry="22" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></ellipse>
+  <ellipse cx="100" cy="130" rx="10" ry="9" fill="#3aa6a0" stroke="#000000" stroke-width="2"></ellipse>
+  <ellipse cx="190" cy="130" rx="10" ry="9" fill="#3aa6a0" stroke="#000000" stroke-width="2"></ellipse>
+  <path d="M 145,108 L 145,170" fill="none" stroke="#000000" stroke-width="3"></path>
+  <path d="M 60,180 Q 145,200 230,180" fill="none" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 25,75 Q 12,72 10,90 Q 12,108 25,105" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 265,75 Q 278,72 280,90 Q 278,108 265,105" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 110,215 L 110,225 L 118,225 L 118,220 L 114,220 M 124,215 L 124,225 M 124,215 L 130,225 L 130,215 M 136,215 L 144,215 L 140,215 L 140,225 M 150,215 L 154,225 L 158,215" fill="none" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 175,215 L 175,225 L 183,225 L 183,215 L 175,215 M 175,220 L 183,220" fill="none" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"></path>
+</svg>

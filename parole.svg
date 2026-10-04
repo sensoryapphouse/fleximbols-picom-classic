@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground -->
+  <rect x="10" y="220" width="270" height="10" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+
+  <!-- ex-prisoner FULL BODY (left) -->
+  <!-- head -->
+  <circle cx="70" cy="62" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M55 58 Q56 44 70 42 Q84 44 85 58 Q80 52 70 52 Q60 52 55 58 Z" fill="#7d5e23" stroke="#000000" stroke-width="2"/>
+  <circle cx="64" cy="62" r="1.8" fill="#000000"/>
+  <circle cx="76" cy="62" r="1.8" fill="#000000"/>
+  <path d="M65 70 Q70 72 75 70" stroke="#000000" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+  <!-- shirt -->
+  <path d="M48 90 Q70 82 92 90 L96 150 L44 150 Z" fill="#f5e7c4" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms -->
+  <path d="M48 92 Q34 120 42 150" fill="#f5e7c4" stroke="#000000" stroke-width="3"/>
+  <path d="M92 92 Q106 120 98 150" fill="#f5e7c4" stroke="#000000" stroke-width="3"/>
+  <!-- hands -->
+  <circle cx="40" cy="152" r="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <circle cx="100" cy="152" r="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- trousers -->
+  <rect x="48" y="148" width="20" height="58" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <rect x="72" y="148" width="20" height="58" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <!-- shoes -->
+  <ellipse cx="58" cy="212" rx="12" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="82" cy="212" rx="12" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- ankle monitor on right ankle -->
+  <rect x="72" y="196" width="22" height="10" rx="2" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <circle cx="89" cy="201" r="1.6" fill="#f8130d"/>
+
+  <!-- parole document (middle) -->
+  <rect x="118" y="80" width="58" height="74" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- stamp -->
+  <circle cx="160" cy="92" r="9" fill="none" stroke="#f8130d" stroke-width="2.5"/>
+  <path d="M153 92 L167 92 M160 86 L160 98" stroke="#f8130d" stroke-width="2"/>
+  <!-- lines -->
+  <path d="M124 110 L170 110 M124 118 L170 118 M124 126 L170 126 M124 134 L162 134 M124 142 L156 142" stroke="#000000" stroke-width="1.8" stroke-linecap="round"/>
+
+  <!-- officer FULL BODY (right) -->
+  <!-- head -->
+  <circle cx="230" cy="60" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- cap -->
+  <path d="M210 54 Q210 38 230 38 Q250 38 250 54 L252 58 L208 58 Z" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- badge on cap -->
+  <path d="M226 46 L230 42 L234 46 L234 52 L226 52 Z" fill="#f2e40d" stroke="#000000" stroke-width="1.8"/>
+  <!-- eyes mouth -->
+  <circle cx="224" cy="62" r="1.8" fill="#000000"/>
+  <circle cx="236" cy="62" r="1.8" fill="#000000"/>
+  <path d="M225 70 Q230 72 235 70" stroke="#000000" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+  <!-- uniform torso -->
+  <path d="M208 88 Q230 80 252 88 L256 150 L204 150 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- badge on chest -->
+  <path d="M228 110 L232 106 L236 110 L236 116 L228 116 Z" fill="#f2e40d" stroke="#000000" stroke-width="1.8"/>
+  <!-- arms -->
+  <path d="M208 90 Q192 120 200 150" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <path d="M252 90 Q268 120 260 150" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <!-- hands -->
+  <circle cx="198" cy="152" r="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <circle cx="262" cy="152" r="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- trousers -->
+  <rect x="208" y="148" width="20" height="58" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <rect x="232" y="148" width="20" height="58" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <!-- shoes -->
+  <ellipse cx="218" cy="212" rx="12" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="242" cy="212" rx="12" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+</svg>

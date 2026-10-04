@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,5.208) scale(0.9783)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- cake tier (bottom slab they stand on) -->
+  <rect x="30" y="185" width="230" height="40" rx="6" ry="6" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <rect x="30" y="185" width="230" height="10" fill="#f4a4b2" stroke="#000000" stroke-width="3"/>
+  <!-- piped dots -->
+  <circle cx="60" cy="208" r="3" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="90" cy="208" r="3" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="120" cy="208" r="3" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="170" cy="208" r="3" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="200" cy="208" r="3" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="230" cy="208" r="3" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+
+  <!-- GROOM (left) FULL BODY -->
+  <!-- legs (suit trousers) -->
+  <rect x="86" y="150" width="11" height="38" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <rect x="101" y="150" width="11" height="38" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <!-- shoes -->
+  <ellipse cx="91" cy="190" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="106" cy="190" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- jacket -->
+  <path d="M78,100 L120,100 L122,155 L76,155 Z" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- shirt v -->
+  <path d="M93,100 L99,118 L105,100 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- bow tie -->
+  <path d="M93,108 L99,114 L105,108 L105,118 L99,114 L93,118 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- arms (one bent across to hold bride's hand) -->
+  <path d="M78,102 C70,118 72,140 80,150" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="71" y="100" width="11" height="52" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <path d="M120,100 L138,130 L150,135" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="115" y="100" width="15" height="35" fill="#1d0e82" stroke="#000000" stroke-width="3" transform="rotate(20 122 117)"/>
+  <!-- groom head -->
+  <circle cx="99" cy="80" r="20" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M82,75 C82,62 116,62 116,75 C116,68 110,63 99,63 C90,63 82,68 82,75 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="93" cy="82" r="2" fill="#000000"/>
+  <circle cx="105" cy="82" r="2" fill="#000000"/>
+  <path d="M94,90 Q99,93 104,90" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- BRIDE (right) FULL BODY -->
+  <!-- dress (skirt fans out) -->
+  <path d="M180,110 L210,110 L228,188 L162,188 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- bodice -->
+  <path d="M178,100 L212,100 L211,118 L179,118 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- sash -->
+  <rect x="178" y="118" width="34" height="6" fill="#f266aa" stroke="#000000" stroke-width="2"/>
+  <!-- feet peek -->
+  <ellipse cx="184" cy="190" rx="6" ry="3" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="206" cy="190" rx="6" ry="3" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- arms (one across to hold groom's hand, one with bouquet) -->
+  <path d="M180,105 L165,130 L150,135" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="170" y="103" width="13" height="35" fill="#eed5b6" stroke="#000000" stroke-width="3" transform="rotate(-25 177 120)"/>
+  <path d="M210,105 C220,120 222,138 215,150" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="208" y="100" width="13" height="50" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- bouquet -->
+  <circle cx="214" cy="158" r="10" fill="#f266aa" stroke="#000000" stroke-width="2"/>
+  <circle cx="208" cy="156" r="5" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <circle cx="220" cy="156" r="5" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <circle cx="214" cy="151" r="5" fill="#f4a4b2" stroke="#000000" stroke-width="2"/>
+  <!-- bride head -->
+  <circle cx="195" cy="80" r="20" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- veil behind hair -->
+  <path d="M175,72 L172,115 L218,115 L215,72 C215,72 205,60 195,60 C185,60 175,72 175,72 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- face circle on top of veil -->
+  <circle cx="195" cy="82" r="17" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair fringe -->
+  <path d="M180,77 C185,68 205,68 210,77 C208,72 202,68 195,68 C188,68 182,72 180,77 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="189" cy="82" r="2" fill="#000000"/>
+  <circle cx="201" cy="82" r="2" fill="#000000"/>
+  <path d="M190,90 Q195,93 200,90" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+</g><g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl3148" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl3148)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

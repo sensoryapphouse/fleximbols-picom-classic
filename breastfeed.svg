@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- floor -->
+  <rect x="0" y="215" width="290" height="25" fill="#f5e7c4" stroke="#000000" stroke-width="2"/>
+  <!-- chair back -->
+  <rect x="36" y="60" width="20" height="160" fill="#9d7246" stroke="#000000" stroke-width="2.5"/>
+  <rect x="30" y="170" width="220" height="20" fill="#9d7246" stroke="#000000" stroke-width="2.5"/>
+  <!-- heart top right -->
+  <path d="M218 30 C214 22 200 22 200 34 C200 46 218 58 218 58 C218 58 236 46 236 34 C236 22 222 22 218 30 Z" fill="#f266aa" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- mother FULL BODY seated -->
+  <!-- head -->
+  <circle cx="120" cy="68" r="20" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- hair -->
+  <path d="M100 64 Q108 38 132 42 Q142 46 140 66 Q140 78 138 84 L102 84 Q98 76 100 64 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="114" cy="70" r="1.8" fill="#000000"/>
+  <circle cx="128" cy="70" r="1.8" fill="#000000"/>
+  <path d="M116 78 Q121 81 126 78" fill="none" stroke="#000000" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- mother torso -->
+  <path d="M96 96 L146 96 L154 170 L88 170 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- mother arm cradling -->
+  <path d="M148 110 Q186 124 200 144 Q204 156 192 162" fill="#eed5b6" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M96 110 Q72 124 76 156 Q82 170 100 168" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- mother legs -->
+  <rect x="92" y="170" width="26" height="44" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+  <rect x="124" y="170" width="26" height="44" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="105" cy="218" rx="13" ry="5" fill="#000000"/>
+  <ellipse cx="137" cy="218" rx="13" ry="5" fill="#000000"/>
+  <!-- baby cradled across lap, FULL body -->
+  <!-- baby body blanket -->
+  <ellipse cx="170" cy="148" rx="36" ry="20" fill="#f4a4b2" stroke="#000000" stroke-width="2.5"/>
+  <!-- baby head against mother's chest -->
+  <circle cx="142" cy="138" r="14" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- baby tuft -->
+  <path d="M138 126 Q142 122 146 126" fill="none" stroke="#5e1f0a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- baby closed eye -->
+  <path d="M134 140 Q138 142 142 140" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- baby tiny foot peeking from blanket -->
+  <circle cx="200" cy="150" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- baby tiny hand on mother chest -->
+  <circle cx="138" cy="120" r="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- little heart near baby head -->
+  <path d="M218 90 C215 86 207 86 207 92 C207 98 218 106 218 106 C218 106 229 98 229 92 C229 86 221 86 218 90 Z" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+</svg>

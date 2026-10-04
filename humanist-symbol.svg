@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Happy Human: stylised figure with arms raised in open arc, leaning forward joyfully -->
+  <!-- Head -->
+  <circle cx="145" cy="52" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Body torso (leaning slightly forward) -->
+  <path d="M145 74 Q140 110 138 145" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Left arm raised in arc (viewer left = figure right) -->
+  <path d="M141 90 Q110 62 88 72" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Right arm raised in arc -->
+  <path d="M141 90 Q172 62 202 72" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Left arm fill/body mass -->
+  <path d="M141 90 Q108 68 88 72 Q92 80 100 82 Q118 78 138 100" fill="#eed5b6" stroke="none"/>
+  <!-- Right arm fill -->
+  <path d="M141 90 Q174 68 202 72 Q198 80 190 82 Q172 78 152 100" fill="#eed5b6" stroke="none"/>
+  <!-- Left leg -->
+  <path d="M138 145 Q130 175 118 205" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Right leg -->
+  <path d="M138 145 Q148 175 158 205" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Left foot -->
+  <ellipse cx="114" cy="207" rx="12" ry="6" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Right foot -->
+  <ellipse cx="160" cy="207" rx="12" ry="6" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Body fill -->
+  <path d="M145 74 Q155 110 158 145 Q148 148 138 145 Q135 110 135 74 Z" fill="#eed5b6" stroke="none"/>
+  <!-- Re-stroke body outline on top -->
+  <path d="M145 74 Q140 110 138 145" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Left arm re-stroke -->
+  <path d="M141 90 Q110 62 88 72" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Right arm re-stroke -->
+  <path d="M141 90 Q172 62 202 72" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+</svg>

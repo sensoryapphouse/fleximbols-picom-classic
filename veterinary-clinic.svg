@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Ground -->
+  <rect x="0" y="205" width="290" height="35" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <!-- Building body -->
+  <rect x="20" y="55" width="250" height="155" fill="#efefef" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Roof band -->
+  <rect x="15" y="38" width="260" height="24" fill="#137827" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Columns -->
+  <rect x="20" y="55" width="18" height="155" fill="#67832d" stroke="#000000" stroke-width="4"/>
+  <rect x="252" y="55" width="18" height="155" fill="#67832d" stroke="#000000" stroke-width="4"/>
+  <!-- Sign board -->
+  <rect x="38" y="62" width="214" height="100" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- PAW inside CROSS emblem -->
+  <!-- Medical cross (red) -->
+  <rect x="115" y="70" width="60" height="20" rx="5" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <rect x="133" y="56" width="24" height="48" rx="5" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <!-- White circle background for paw inside cross centre -->
+  <circle cx="145" cy="90" r="22" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- PAW PRINT inside cross -->
+  <!-- Main pad -->
+  <ellipse cx="145" cy="97" rx="12" ry="9" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Toe pads -->
+  <ellipse cx="130" cy="88" rx="7" ry="6" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="142" cy="83" rx="7" ry="6" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="154" cy="83" rx="7" ry="6" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="162" cy="90" rx="6" ry="6" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Cross arms visible around circle -->
+  <!-- Door -->
+  <rect x="115" y="165" width="60" height="45" rx="4" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="127" cy="189" r="5" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <!-- Side windows -->
+  <rect x="40" y="168" width="65" height="32" rx="3" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <rect x="185" y="168" width="65" height="32" rx="3" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <!-- Small window detail in side windows: paw silhouette hint -->
+  <ellipse cx="72" cy="180" rx="8" ry="6" fill="#4d4d4d" stroke="none"/>
+  <ellipse cx="62" cy="174" rx="4" ry="4" fill="#4d4d4d" stroke="none"/>
+  <ellipse cx="72" cy="172" rx="4" ry="4" fill="#4d4d4d" stroke="none"/>
+  <ellipse cx="82" cy="174" rx="4" ry="4" fill="#4d4d4d" stroke="none"/>
+</svg>

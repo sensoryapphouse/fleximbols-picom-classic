@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- stagger: figure walking unsteadily in zigzag drunk-like path, swaying with wavy motion path -->
+
+  <!-- Wavy motion path on ground showing zigzag walk -->
+  <path d="M30 215 Q55 205 80 215 Q105 225 130 215 Q155 205 180 215 Q205 225 230 215 Q250 208 265 215" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round" stroke-dasharray="8,5"/>
+
+  <!-- Foot prints to show zigzag path -->
+  <ellipse cx="70" cy="212" rx="10" ry="5" fill="#b8b8b8" stroke="none" transform="rotate(-15, 70, 212)"/>
+  <ellipse cx="120" cy="218" rx="10" ry="5" fill="#b8b8b8" stroke="none" transform="rotate(15, 120, 218)"/>
+  <ellipse cx="168" cy="211" rx="10" ry="5" fill="#b8b8b8" stroke="none" transform="rotate(-10, 168, 211)"/>
+
+  <!-- Right foot -->
+  <ellipse cx="178" cy="214" rx="18" ry="8" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Left foot lifted/forward -->
+  <ellipse cx="138" cy="210" rx="18" ry="8" fill="#9d7246" stroke="#000000" stroke-width="4" transform="rotate(-20, 138, 210)"/>
+
+  <!-- Right leg -->
+  <path d="M170 214 L165 175 L150 148 L162 148 L175 175 L186 214Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Left leg (lifted, forward) -->
+  <path d="M132 208 L140 175 L150 148 L138 148 L128 175 L120 208Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Torso — tilted/swaying to right -->
+  <path d="M138 148 L162 148 L168 108 L132 108Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Neck -->
+  <rect x="146" y="92" width="14" height="16" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Head (tilted) -->
+  <circle cx="160" cy="78" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+
+  <!-- Face: bleary eyes (X-shaped swirly) -->
+  <ellipse cx="153" cy="74" rx="3" ry="3" fill="#000000"/>
+  <ellipse cx="167" cy="74" rx="3" ry="3" fill="#000000"/>
+  <!-- Lopsided tipsy smile -->
+  <path d="M152 84 Q158 88 166 82" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Rosy cheek (tipsy) -->
+  <ellipse cx="170" cy="80" rx="6" ry="4" fill="#f4a4b2"/>
+
+  <!-- Hair -->
+  <path d="M140 66 Q160 54 180 67" fill="none" stroke="#7d5e23" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Left arm — flung outward for balance, low -->
+  <path d="M132 118 L92 130 L88 118 L130 108Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="85" cy="124" rx="11" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Right arm — raised and wavering -->
+  <path d="M168 112 L212 95 L216 105 L172 122Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="218" cy="101" rx="11" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Swaying curve arrows left/right -->
+  <path d="M40 145 Q48 135 56 145" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M56 145 L52 138 M56 145 L62 140" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M230 145 Q238 135 246 145" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M230 145 L234 138 M230 145 L224 140" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

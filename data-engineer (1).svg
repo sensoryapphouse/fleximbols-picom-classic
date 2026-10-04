@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- data-engineer-modern: full body + data pipelines + database + flowing data arrows -->
+
+  <!-- Database cylinder (top-right) -->
+  <ellipse cx="232" cy="44" rx="28" ry="8" fill="#2a4ec0" stroke="#000000" stroke-width="4"/>
+  <rect x="204" y="44" width="56" height="40" fill="#2a4ec0" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="232" cy="84" rx="28" ry="8" fill="#1d0e82" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="232" cy="64" rx="28" ry="8" fill="none" stroke="#000000" stroke-width="2"/>
+
+  <!-- Pipeline (curved pipes) -->
+  <path d="M232,92 Q232,120 200,128 Q170,134 170,160" fill="none" stroke="#7f7f7f" stroke-width="12" stroke-linecap="round"/>
+  <path d="M232,92 Q232,120 200,128 Q170,134 170,160" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M232,92 Q232,120 200,128 Q170,134 170,160" fill="none" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Flowing data arrows along pipe -->
+  <polygon points="190,116 198,120 190,124" fill="#f2e40d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="170,140 176,144 170,148" fill="#f2e40d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- Smaller database below pipe end -->
+  <ellipse cx="170" cy="164" rx="20" ry="6" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <rect x="150" y="164" width="40" height="22" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="170" cy="186" rx="20" ry="6" fill="#67832d" stroke="#000000" stroke-width="3"/>
+
+  <!-- Code/data tag bottom-right -->
+  <rect x="206" y="170" width="64" height="38" rx="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <rect x="212" y="178" width="40" height="4" fill="#137827"/>
+  <rect x="212" y="186" width="50" height="4" fill="#dff3fd"/>
+  <rect x="212" y="194" width="30" height="4" fill="#ff9900"/>
+
+  <!-- Person full body -->
+  <circle cx="70" cy="58" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <path d="M50,54 Q50,38 70,36 Q90,38 90,54 L86,46 Q70,40 54,46 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Torso -->
+  <rect x="50" y="80" width="40" height="54" rx="6" fill="#7c3fac" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm -->
+  <line x1="52" y1="90" x2="30" y2="118" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="28" cy="120" r="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Right arm reaching toward pipeline -->
+  <line x1="88" y1="90" x2="124" y2="118" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="126" cy="120" r="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Hips -->
+  <rect x="48" y="132" width="44" height="22" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Legs -->
+  <rect x="50" y="152" width="16" height="60" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="74" y="152" width="16" height="60" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <rect x="44" y="208" width="22" height="10" rx="4" fill="#000000" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="72" y="208" width="22" height="10" rx="4" fill="#000000" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

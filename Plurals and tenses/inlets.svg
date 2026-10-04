@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,57.720) scale(0.7595)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- land mass (mostly fills canvas) -->
+  <rect x="26" y="32" width="238" height="176" fill="#67832d" stroke="#000000" stroke-width="3"/>
+  <!-- sea on right edge -->
+  <path d="M260 20 L280 20 L280 220 L260 220 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <!-- long thin inlet finger of water reaching inland from right -->
+  <path d="M280 110 L265 108 L220 110 L170 113 L120 115 L80 118 Q55 120 55 125 Q55 130 80 132 L120 130 L170 132 L220 130 L265 132 L280 130 Z"
+        fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- sandy banks of inlet -->
+  <path d="M55 125 Q55 119 80 117 L120 114 L170 112 L220 109 L265 107 L265 110 L220 113 L170 116 L120 118 L80 121 Q60 123 60 125 Z"
+        fill="#eed5b6" stroke="#000000" stroke-width="1.5"/>
+  <!-- trees on land above inlet -->
+  <circle cx="50" cy="60" r="9" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <circle cx="100" cy="55" r="9" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <circle cx="160" cy="60" r="9" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <circle cx="220" cy="55" r="9" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <!-- trees on land below inlet -->
+  <circle cx="60" cy="185" r="9" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <circle cx="120" cy="190" r="9" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <circle cx="180" cy="185" r="9" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <circle cx="230" cy="190" r="9" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <!-- ripple in inlet -->
+  <path d="M150 125 Q170 122 200 125" fill="none" stroke="#90a7d6" stroke-width="2" stroke-linecap="round"/>
+</g><g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl1404" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl1404)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

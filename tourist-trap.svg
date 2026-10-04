@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground -->
+  <rect x="22" y="198" width="246" height="14" rx="4" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- gaudy shop front -->
+  <rect x="28" y="110" width="164" height="90" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- garish banner across top -->
+  <rect x="20" y="90" width="180" height="26" rx="4" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- banner zigzag decoration -->
+  <path d="M24 116 l9-10 l9 10 l9-10 l9 10 l9-10 l9 10 l9-10 l9 10 l9-10 l9 10 l9-10 l9 10 l9-10 l9 10 l9-10 l9 10 l9-10 l9 10" fill="none" stroke="#f7de58" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- star bursts on shop wall -->
+  <path d="M70 148 l5 14 l-12-8 h14 l-12 8 Z" fill="#fff200" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M120 155 l4 11 l-10-6 h12 l-10 6 Z" fill="#fff200" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- shop door -->
+  <rect x="82" y="155" width="36" height="43" rx="3" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- exclamation sign on stick -->
+  <rect x="212" y="80" width="48" height="72" rx="6" fill="#ff9900" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- exclamation dot -->
+  <circle cx="236" cy="138" r="6" fill="#000000"/>
+  <!-- exclamation bar -->
+  <rect x="231" y="87" width="10" height="36" rx="5" fill="#000000"/>
+  <!-- sign post -->
+  <line x1="236" y1="152" x2="236" y2="200" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- price tag dangling from door -->
+  <path d="M118 158 L134 158 L140 166 L134 174 L118 174 Z" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- price tag hole -->
+  <circle cx="121" cy="166" r="3" fill="none" stroke="#000000" stroke-width="3"/>
+  <!-- price tag string -->
+  <line x1="121" y1="155" x2="121" y2="158" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- price tag dollar squiggle -->
+  <path d="M128 161 q4 2 0 5 q-4 2 0 5" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

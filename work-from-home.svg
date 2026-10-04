@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- cosy home outline (no full-canvas backing) -->
+  <path d="M 25,90 L 145,30 L 265,90 L 265,215 L 25,215 Z" fill="#f5e7c4" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M 25,90 L 145,30 L 265,90" fill="#d01424" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- window upper right -->
+  <rect x="195" y="105" width="50" height="40" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <path d="M 220,105 L 220,145 M 195,125 L 245,125" stroke="#000000" stroke-width="2"/>
+  <!-- desk -->
+  <rect x="40" y="180" width="170" height="8" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <rect x="48" y="188" width="6" height="25" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <rect x="196" y="188" width="6" height="25" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <!-- laptop on desk -->
+  <path d="M 95,180 L 95,150 L 165,150 L 165,180 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="100" y="154" width="60" height="22" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <path d="M 88,180 L 172,180 L 175,184 L 85,184 Z" fill="#7f7f7f" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- coffee mug on desk -->
+  <rect x="50" y="160" width="22" height="20" fill="#ffffff" stroke="#000000" stroke-width="2.5"/>
+  <path d="M 72,164 Q 82,164 82,170 Q 82,176 72,176" fill="none" stroke="#000000" stroke-width="2.5"/>
+  <path d="M 54,156 Q 56,151 58,156 M 62,156 Q 64,151 66,156" fill="none" stroke="#7f7f7f" stroke-width="1.5"/>
+  <!-- person seated, FULL BODY -->
+  <!-- head -->
+  <circle cx="220" cy="115" r="16" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M 205,112 Q 205,97 220,95 Q 236,97 235,114 Q 230,106 221,104 Q 211,106 207,110 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="215" cy="115" r="1.8" fill="#000000"/>
+  <circle cx="225" cy="115" r="1.8" fill="#000000"/>
+  <path d="M 215,122 Q 220,125 225,122" fill="none" stroke="#000000" stroke-width="2.2" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="216" y="130" width="8" height="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- torso -->
+  <path d="M 205,135 L 235,135 L 240,180 L 200,180 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- left arm reaching to laptop -->
+  <path d="M 205,138 Q 188,150 175,165" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 207,136 Q 192,148 178,166 Q 173,164 174,160 Q 188,144 203,134 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="175" cy="165" r="4" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- right arm down -->
+  <path d="M 235,138 Q 245,160 244,180" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 233,136 Q 242,158 241,180 Q 246,182 250,178 Q 251,158 237,134 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+  <!-- legs (seated, bent) -->
+  <rect x="206" y="180" width="14" height="30" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <rect x="222" y="180" width="14" height="30" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="213" cy="213" rx="10" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="229" cy="213" rx="10" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- WFH text as path -->
+  <path d="M 50,135 L 55,115 M 55,115 L 60,125 L 65,115 L 70,135" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 78,115 L 78,135 M 78,125 L 90,125 M 90,115 L 90,135" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

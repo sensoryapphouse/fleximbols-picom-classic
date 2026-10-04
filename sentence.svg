@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- judge bench -->
+  <rect x="10" y="180" width="135" height="50" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="10" y="180" width="135" height="10" fill="#7d5e23" stroke="#000000" stroke-width="2"/>
+  <!-- judge FULL BODY behind bench -->
+  <!-- head -->
+  <circle cx="65" cy="55" r="20" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- judge wig (grey) -->
+  <path d="M45 50 Q42 30 65 28 Q88 30 85 50 Q85 65 90 75 Q70 80 65 80 Q60 80 40 75 Q45 65 45 50 Z" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="58" cy="58" r="2.2" fill="#000000"/>
+  <circle cx="72" cy="58" r="2.2" fill="#000000"/>
+  <path d="M58 68 Q65 71 72 68" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- robe -->
+  <path d="M30 105 Q30 92 50 92 L80 92 Q100 92 100 105 L110 180 L20 180 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- collar bands -->
+  <path d="M58 92 L60 115 M72 92 L70 115" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <!-- arm raising gavel -->
+  <path d="M30 110 Q15 100 25 80" fill="none" stroke="#000000" stroke-width="11" stroke-linecap="round"/>
+  <path d="M100 110 Q120 95 130 75" fill="none" stroke="#000000" stroke-width="11" stroke-linecap="round"/>
+  <!-- gavel in right hand -->
+  <line x1="130" y1="75" x2="160" y2="40" stroke="#9d7246" stroke-width="7" stroke-linecap="round"/>
+  <line x1="130" y1="75" x2="160" y2="40" stroke="#000000" stroke-width="2" fill="none"/>
+  <rect x="148" y="22" width="32" height="22" rx="4" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round" transform="rotate(-40 164 33)"/>
+  <!-- motion lines -->
+  <path d="M175 18 L182 12 M188 28 L196 24 M180 42 L188 42" fill="none" stroke="#f7de58" stroke-width="3" stroke-linecap="round"/>
+  <!-- defendant tiny full body in front right -->
+  <circle cx="200" cy="125" r="13" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="196" cy="124" r="1.5" fill="#000000"/>
+  <circle cx="204" cy="124" r="1.5" fill="#000000"/>
+  <path d="M196 130 Q200 132 204 130" fill="none" stroke="#000000" stroke-width="1.5"/>
+  <path d="M186 145 Q186 140 192 140 L208 140 Q214 140 214 145 L218 185 L182 185 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M186 150 Q178 165 182 180" fill="none" stroke="#7c3fac" stroke-width="7" stroke-linecap="round"/>
+  <path d="M214 150 Q222 165 218 180" fill="none" stroke="#7c3fac" stroke-width="7" stroke-linecap="round"/>
+  <rect x="188" y="185" width="10" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <rect x="202" y="185" width="10" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="193" cy="223" rx="8" ry="4" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="207" cy="223" rx="8" ry="4" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+  <!-- '5' YEARS path number -->
+  <path d="M260 90 L235 90 L233 115 Q250 105 260 120 Q265 138 248 145 Q235 145 232 135" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- 'YRS' marker bar under -->
+  <rect x="225" y="155" width="50" height="12" rx="3" fill="#d01424" stroke="#000000" stroke-width="2.5"/>
+  <path d="M232 161 L238 161 M244 158 L244 164 M252 158 L252 164 L258 161 L252 164 M264 158 L268 164 L272 158" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

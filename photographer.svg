@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Person body -->
+  <rect x="55" y="120" width="70" height="90" rx="10" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Head - tilted slightly right to look through viewfinder -->
+  <circle cx="110" cy="92" r="28" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Eyes - right eye closed at viewfinder -->
+  <circle cx="101" cy="89" r="4" fill="#000000"/>
+  <!-- Right eye squinted (at viewfinder) -->
+  <path d="M116 86 Q120 89 124 86" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Smile -->
+  <path d="M101 101 Q110 109 119 101" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Hair -->
+  <path d="M82 82 Q85 62 110 62 Q135 62 138 82" fill="#5e1f0a" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- DSLR camera body -->
+  <rect x="130" y="85" width="65" height="42" rx="6" fill="#000000" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="132" y="87" width="61" height="38" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Camera prism hump -->
+  <rect x="148" y="73" width="30" height="16" rx="4" fill="#000000" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Lens -->
+  <circle cx="162" cy="106" r="16" fill="#000000" stroke="#000000" stroke-width="4"/>
+  <circle cx="162" cy="106" r="12" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <circle cx="162" cy="106" r="7" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <circle cx="158" cy="102" r="3" fill="#90a7d6"/>
+  <!-- Viewfinder -->
+  <rect x="185" y="87" width="12" height="10" rx="2" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Shutter button -->
+  <circle cx="153" cy="76" r="5" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <!-- Arms holding camera -->
+  <path d="M55 135 Q45 150 50 165" fill="none" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M125 135 Q132 118 148 107" fill="none" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <!-- Second arm (left, supporting camera from below) -->
+  <path d="M55 145 Q68 148 130 127" fill="none" stroke="#e6b98a" stroke-width="14" stroke-linecap="round"/>
+  <!-- Legs -->
+  <rect x="58" y="205" width="28" height="25" rx="8" fill="#000000" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="94" y="205" width="28" height="25" rx="8" fill="#000000" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+</svg>

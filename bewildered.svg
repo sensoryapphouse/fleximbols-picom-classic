@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Bust / torso -->
+  <rect x="95" y="170" width="100" height="55" rx="8" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="128" y="148" width="34" height="28" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="116" rx="52" ry="54" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Left eye wide -->
+  <ellipse cx="126" cy="108" rx="10" ry="11" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="126" cy="108" rx="5" ry="5" fill="#000000"/>
+  <!-- Right eye wide -->
+  <ellipse cx="164" cy="108" rx="10" ry="11" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="164" cy="108" rx="5" ry="5" fill="#000000"/>
+  <!-- Both brows raised high -->
+  <path d="M114 91 Q126 82 138 88" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M152 88 Q164 81 176 86" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Mouth open O confused -->
+  <ellipse cx="145" cy="135" rx="10" ry="7" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- Left hand up -->
+  <path d="M100 175 Q88 152 92 135" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M100 175 Q88 152 92 135" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="92" cy="132" rx="9" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Right hand up -->
+  <path d="M190 175 Q202 152 198 135" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M190 175 Q202 152 198 135" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="198" cy="132" rx="9" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Three "?" marks -->
+  <!-- ? 1 left -->
+  <path d="M42 55 Q42 44 50 41 Q60 38 61 48 Q62 56 54 62 L54 68" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="54" cy="75" rx="3.5" ry="3.5" fill="#000000"/>
+  <!-- ? 2 center top -->
+  <path d="M136 28 Q136 17 144 14 Q154 11 155 21 Q156 29 148 35 L148 41" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="148" cy="48" rx="3.5" ry="3.5" fill="#000000"/>
+  <!-- ? 3 right -->
+  <path d="M228 55 Q228 44 236 41 Q246 38 247 48 Q248 56 240 62 L240 68" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="240" cy="75" rx="3.5" ry="3.5" fill="#000000"/>
+  <!-- Confusion swirl -->
+  <path d="M210 95 Q225 80 235 90 Q240 100 225 105 Q215 108 218 98" fill="none" stroke="#7c3fac" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- lotus base across bottom -->
+  <path d="M20 215 Q60 195 100 210 Q145 190 190 210 Q230 195 270 215 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Buddha left, full seated body -->
+  <circle cx="80" cy="65" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M72 50 Q80 38 88 50 Q90 44 92 48" fill="#392170" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="74" cy="65" r="1.5" fill="#000000"/>
+  <circle cx="86" cy="65" r="1.5" fill="#000000"/>
+  <path d="M60 82 Q80 78 100 82 L108 145 L52 145 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M45 145 Q80 138 115 145 Q118 170 105 178 L55 178 Q42 170 45 145 Z" fill="#e65a00" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="80" cy="142" rx="16" ry="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- bodhisattva right with thousand-arm halo -->
+  <!-- aureole of arms radiating -->
+  <g stroke="#000000" stroke-width="2" stroke-linecap="round">
+    <line x1="200" y1="120" x2="160" y2="80" stroke="#f5e7c4"/>
+    <line x1="200" y1="120" x2="170" y2="60" stroke="#f5e7c4"/>
+    <line x1="200" y1="120" x2="190" y2="50" stroke="#f5e7c4"/>
+    <line x1="200" y1="120" x2="215" y2="48" stroke="#f5e7c4"/>
+    <line x1="200" y1="120" x2="235" y2="55" stroke="#f5e7c4"/>
+    <line x1="200" y1="120" x2="255" y2="75" stroke="#f5e7c4"/>
+    <line x1="200" y1="120" x2="265" y2="105" stroke="#f5e7c4"/>
+    <line x1="200" y1="120" x2="260" y2="135" stroke="#f5e7c4"/>
+    <line x1="200" y1="120" x2="155" y2="105" stroke="#f5e7c4"/>
+    <line x1="200" y1="120" x2="150" y2="130" stroke="#f5e7c4"/>
+  </g>
+  <!-- bodhisattva body -->
+  <circle cx="200" cy="70" r="17" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M196 50 Q200 38 206 44 Q212 36 215 48" fill="#f2e40d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="195" cy="70" r="1.5" fill="#000000"/>
+  <circle cx="206" cy="70" r="1.5" fill="#000000"/>
+  <path d="M183 85 L218 85 L225 140 L213 175 L188 175 L175 140 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- central pair of hands -->
+  <path d="M183 100 L168 130 L180 145" fill="none" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M218 100 L233 130 L221 145" fill="none" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M193 175 L192 210" fill="none" stroke="#7c3fac" stroke-width="9" stroke-linecap="round"/>
+  <path d="M208 175 L210 210" fill="none" stroke="#7c3fac" stroke-width="9" stroke-linecap="round"/>
+  <!-- small lotus between -->
+  <path d="M125 160 Q135 150 145 160 Q150 150 155 165 Q145 173 135 170 Q125 172 125 160 Z" fill="#f4a4b2" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

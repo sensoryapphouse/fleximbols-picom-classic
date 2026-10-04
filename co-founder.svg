@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Co-founder: exactly TWO equal figures side by side shaking hands with shared lightbulb above -->
+
+  <!-- Shared lightbulb (center top) -->
+  <path d="M 145 25 Q 122 32 120 58 Q 120 74 132 81 L 132 92 L 158 92 L 158 81 Q 170 74 170 58 Q 168 32 145 25 Z" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="132" y="92" width="26" height="8" rx="3" ry="3" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="134" y="100" width="22" height="8" rx="3" ry="3" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Shine lines -->
+  <line x1="145" y1="14" x2="145" y2="22" stroke="#f2e40d" stroke-width="5" stroke-linecap="round"/>
+  <line x1="158" y1="18" x2="163" y2="10" stroke="#f2e40d" stroke-width="5" stroke-linecap="round"/>
+  <line x1="132" y1="18" x2="127" y2="10" stroke="#f2e40d" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Figure LEFT -->
+  <!-- Head -->
+  <circle cx="88" cy="128" r="16" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M 72 124 Q 88 108 104 124" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Body -->
+  <rect x="72" y="144" width="32" height="44" rx="7" ry="7" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm (down/side) -->
+  <line x1="72" y1="156" x2="56" y2="178" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <!-- Right arm (extended for handshake) -->
+  <line x1="104" y1="156" x2="130" y2="170" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <!-- Legs -->
+  <rect x="76" y="188" width="12" height="38" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="88" y="188" width="12" height="38" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <ellipse cx="82" cy="225" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="94" cy="225" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+
+  <!-- Figure RIGHT -->
+  <!-- Head -->
+  <circle cx="202" cy="128" r="16" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- Hair (different style) -->
+  <path d="M 186 120 Q 202 106 218 120 Q 218 110 202 108 Q 186 110 186 120" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Body -->
+  <rect x="186" y="144" width="32" height="44" rx="7" ry="7" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm (extended for handshake) -->
+  <line x1="186" y1="156" x2="160" y2="170" stroke="#e6b98a" stroke-width="8" stroke-linecap="round"/>
+  <!-- Right arm (down/side) -->
+  <line x1="218" y1="156" x2="234" y2="178" stroke="#e6b98a" stroke-width="8" stroke-linecap="round"/>
+  <!-- Legs -->
+  <rect x="190" y="188" width="12" height="38" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="202" y="188" width="12" height="38" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <ellipse cx="196" cy="225" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="208" cy="225" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+
+  <!-- Handshake (center, overlapping hands) -->
+  <ellipse cx="145" cy="170" rx="22" ry="10" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Handshake grip lines -->
+  <line x1="133" y1="165" x2="157" y2="165" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="133" y1="170" x2="157" y2="170" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="133" y1="175" x2="157" y2="175" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

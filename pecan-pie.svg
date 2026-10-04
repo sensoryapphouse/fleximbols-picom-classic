@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Pie dish rim -->
+  <ellipse cx="145" cy="200" rx="110" ry="20" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Dish side -->
+  <path d="M35,183 Q35,212 145,220 Q255,212 255,183 L255,178 Q255,170 145,164 Q35,170 35,178 Z" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Pie body side -->
+  <path d="M48,148 Q48,178 145,186 Q242,178 242,148 L242,143 Q242,135 145,130 Q48,135 48,143 Z" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Crust rim top -->
+  <ellipse cx="145" cy="136" rx="97" ry="18" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Brown filling surface -->
+  <ellipse cx="145" cy="140" rx="88" ry="15" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Pecan halves arranged on top — 7 pecans in a ring + 1 centre -->
+  <!-- Centre pecan -->
+  <ellipse cx="145" cy="138" rx="13" ry="8" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="145" y1="130" x2="145" y2="146" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pecan 1 top -->
+  <ellipse cx="145" cy="118" rx="13" ry="8" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="145" y1="110" x2="145" y2="126" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pecan 2 top-right -->
+  <ellipse cx="169" cy="124" rx="13" ry="8" transform="rotate(-40 169 124)" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="162" y1="119" x2="176" y2="129" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pecan 3 right -->
+  <ellipse cx="183" cy="140" rx="13" ry="8" transform="rotate(-80 183 140)" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="183" y1="132" x2="183" y2="148" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pecan 4 bottom-right -->
+  <ellipse cx="169" cy="156" rx="13" ry="8" transform="rotate(40 169 156)" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="162" y1="151" x2="176" y2="161" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pecan 5 bottom-left -->
+  <ellipse cx="121" cy="156" rx="13" ry="8" transform="rotate(-40 121 156)" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="114" y1="151" x2="128" y2="161" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pecan 6 left -->
+  <ellipse cx="107" cy="140" rx="13" ry="8" transform="rotate(-80 107 140)" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="107" y1="132" x2="107" y2="148" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pecan 7 top-left -->
+  <ellipse cx="121" cy="124" rx="13" ry="8" transform="rotate(40 121 124)" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="114" y1="119" x2="128" y2="129" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
+</svg>

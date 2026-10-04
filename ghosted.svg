@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sad full-body person on left -->
+  <circle cx="70" cy="60" r="22" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M 58 78 L 58 130 L 82 130 L 82 78 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms holding phone -->
+  <path d="M 58 88 L 40 110 L 50 130" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 82 88 L 100 110 L 90 130" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M 62 130 L 58 175 L 68 175 L 70 130 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 70 130 L 72 175 L 82 175 L 78 130 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- feet -->
+  <ellipse cx="60" cy="180" rx="10" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="80" cy="180" rx="10" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- sad face -->
+  <circle cx="62" cy="56" r="2.5" fill="#000000"/>
+  <circle cx="78" cy="56" r="2.5" fill="#000000"/>
+  <path d="M 60 70 Q 70 64 80 70" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- tears -->
+  <path d="M 60 60 Q 58 68 60 72 Q 62 68 60 60 Z" fill="#3aa6a0" stroke="#000000" stroke-width="2"/>
+  <path d="M 80 60 Q 78 68 80 72 Q 82 68 80 60 Z" fill="#3aa6a0" stroke="#000000" stroke-width="2"/>
+  <!-- phone in hands showing no response -->
+  <rect x="38" y="108" width="32" height="46" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <rect x="42" y="114" width="24" height="32" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- empty chat bubble (no reply) -->
+  <rect x="44" y="118" width="14" height="6" rx="2" fill="#b8b8b8" stroke="#000000" stroke-width="1.5"/>
+  <rect x="44" y="128" width="10" height="6" rx="2" fill="#b8b8b8" stroke="#000000" stroke-width="1.5"/>
+  <rect x="44" y="138" width="6" height="5" rx="2" fill="#b8b8b8" stroke="#000000" stroke-width="1.5"/>
+  <!-- ghost on the right -->
+  <path d="M 160 50 Q 160 30 190 30 Q 220 30 220 50 L 220 180 L 212 170 L 204 180 L 196 170 L 188 180 L 180 170 L 172 180 L 164 170 L 160 180 Z" fill="#ffffff" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- ghost eyes -->
+  <ellipse cx="178" cy="75" rx="5" ry="8" fill="#000000"/>
+  <ellipse cx="205" cy="75" rx="5" ry="8" fill="#000000"/>
+  <!-- ghost mouth -->
+  <ellipse cx="191" cy="100" rx="6" ry="10" fill="#000000"/>
+  <!-- ghost arms wisp -->
+  <path d="M 160 90 Q 145 100 150 115" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 220 90 Q 235 100 230 115" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- spook lines -->
+  <path d="M 240 60 L 250 55" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 245 80 L 258 78" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 245 100 L 256 105" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 240 130 L 252 132" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

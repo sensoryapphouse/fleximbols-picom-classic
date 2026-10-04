@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- full body person with highlighted muscle groups + tense/relax arrows -->
+  <!-- head -->
+  <circle cx="145" cy="42" r="22" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M125 36 Q145 14 165 36 Q165 26 145 22 Q125 26 125 36 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- neck -->
+  <rect x="138" y="60" width="14" height="10" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- torso (singlet) -->
+  <path d="M110 72 L180 72 L186 130 L160 140 L130 140 L104 130 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- highlighted bicep (left) - tense -->
+  <ellipse cx="98" cy="98" rx="14" ry="22" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <!-- forearm left -->
+  <rect x="92" y="118" width="14" height="40" rx="6" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- highlighted bicep (right) - relax -->
+  <ellipse cx="192" cy="98" rx="14" ry="22" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <!-- forearm right -->
+  <rect x="184" y="118" width="14" height="40" rx="6" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- shorts -->
+  <path d="M110 140 L180 140 L178 168 L152 168 L148 158 L142 158 L138 168 L112 168 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- highlighted thigh (left) - tense -->
+  <ellipse cx="128" cy="188" rx="13" ry="20" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <!-- highlighted thigh (right) - relax -->
+  <ellipse cx="162" cy="188" rx="13" ry="20" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <!-- lower legs -->
+  <rect x="121" y="206" width="14" height="28" rx="5" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <rect x="155" y="206" width="14" height="28" rx="5" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- tense arrow (left, pointing inward, red) -->
+  <path d="M40 96 L74 96 L74 88 L88 102 L74 116 L74 108 L40 108 Z" fill="#f8130d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- relax arrow (right, pointing outward, green) -->
+  <path d="M250 96 L216 96 L216 88 L202 102 L216 116 L216 108 L250 108 Z" fill="#529929" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- face: eyes + mouth (calm) -->
+  <circle cx="138" cy="42" r="2.5" fill="#000000"/>
+  <circle cx="152" cy="42" r="2.5" fill="#000000"/>
+  <path d="M138 52 Q145 56 152 52" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Bust: face taking tiny delicate bite with front teeth, small bite mark -->
+  <!-- Shoulders bust -->
+  <path d="M58 178 Q58 150 80 140 L128 126 L162 126 L210 140 Q232 150 232 178 L232 240 L58 240 Z" fill="#f4a4b2" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="128" y="116" width="34" height="22" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="74" rx="54" ry="56" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Hair with gentle waves -->
+  <path d="M92 58 Q95 16 145 13 Q195 16 198 58 Q188 34 145 30 Q102 34 92 58 Z" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Eyes gentle, looking at food -->
+  <ellipse cx="124" cy="65" rx="8" ry="7" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="166" cy="65" rx="8" ry="7" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="125" cy="66" r="4" fill="#4d4d4d"/>
+  <circle cx="167" cy="66" r="4" fill="#4d4d4d"/>
+  <!-- Gentle brows -->
+  <path d="M116 56 Q124 51 132 55" fill="none" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <path d="M158 55 Q166 51 174 55" fill="none" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M142 76 Q140 82 143 86 Q145 88 147 86 Q150 82 148 76" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Mouth opened just a tiny bit, front teeth visible, delicate nibble -->
+  <path d="M133 96 Q145 94 157 96" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Upper lip slightly raised on one side -->
+  <path d="M133 96 Q136 90 145 88 Q154 90 157 96" fill="#f266aa" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Small gap of teeth showing — tiny bite -->
+  <rect x="138" y="96" width="14" height="7" rx="2" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- Two front teeth dividing line -->
+  <line x1="145" y1="96" x2="145" y2="103" stroke="#000000" stroke-width="2"/>
+  <!-- Hands holding small item of food up near mouth -->
+  <path d="M210 142 Q232 128 244 112" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M210 142 Q232 128 244 112" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Small cracker/biscuit being nibbled -->
+  <!-- Cracker body -->
+  <rect x="230" y="95" width="38" height="26" rx="4" fill="#f5e7c4" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Small bite mark taken out of left edge -->
+  <path d="M230 100 Q222 108 230 116" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Tiny crumb dots near bite -->
+  <circle cx="224" cy="104" r="3" fill="#f5e7c4" stroke="#000000" stroke-width="2"/>
+  <circle cx="220" cy="110" r="2" fill="#f5e7c4" stroke="#000000" stroke-width="2"/>
+  <circle cx="225" cy="115" r="2" fill="#f5e7c4" stroke="#000000" stroke-width="2"/>
+  <!-- Cracker dot pattern texture -->
+  <circle cx="242" cy="103" r="2" fill="#e6b98a"/>
+  <circle cx="252" cy="103" r="2" fill="#e6b98a"/>
+  <circle cx="242" cy="112" r="2" fill="#e6b98a"/>
+  <circle cx="252" cy="112" r="2" fill="#e6b98a"/>
+  <!-- Left arm by side -->
+  <path d="M80 142 Q56 130 48 112" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M80 142 Q56 130 48 112" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl1910" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl1910)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

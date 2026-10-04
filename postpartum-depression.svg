@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- parent torso -->
+  <rect x="96" y="118" width="70" height="72" rx="14" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- parent head -->
+  <circle cx="131" cy="88" r="28" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- downcast eyes — looking down at baby -->
+  <path d="M120 88 Q124 92 128 88" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M134 88 Q138 92 142 88" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- gentle sad mouth — not distressed, tender -->
+  <path d="M122 100 Q131 97 140 100" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- parent left arm cradling baby -->
+  <path d="M96 132 Q72 144 74 172 Q74 184 96 186" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- parent right arm completing cradle -->
+  <line x1="166" y1="132" x2="172" y2="168" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- legs -->
+  <line x1="112" y1="190" x2="104" y2="222" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="150" y1="190" x2="158" y2="222" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- baby swaddled in arms -->
+  <ellipse cx="122" cy="172" rx="32" ry="20" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- baby face -->
+  <circle cx="148" cy="168" r="14" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- baby eyes closed — peaceful -->
+  <line x1="142" y1="167" x2="146" y2="167" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="150" y1="167" x2="154" y2="167" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- rain cloud above parent — low mood -->
+  <path d="M108 30 Q113 20 124 24 Q128 14 140 20 Q148 12 156 20 Q164 16 166 28 Q174 30 172 42 Q170 52 158 50 Q154 58 144 54 Q136 62 126 56 Q114 58 108 48 Q100 44 104 34 Q106 30 108 30 Z" fill="#90a7d6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- rain drops falling from cloud -->
+  <line x1="118" y1="58" x2="114" y2="72" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round"/>
+  <line x1="128" y1="62" x2="124" y2="76" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round"/>
+  <line x1="138" y1="60" x2="134" y2="74" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round"/>
+  <line x1="148" y1="58" x2="144" y2="72" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round"/>
+  <line x1="158" y1="56" x2="154" y2="70" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round"/>
+  <!-- gentle connecting line: cloud sits heavy over parent's head -->
+  <line x1="131" y1="60" x2="131" y2="78" stroke="#90a7d6" stroke-width="4" stroke-linecap="round" stroke-dasharray="5 4"/>
+</svg>

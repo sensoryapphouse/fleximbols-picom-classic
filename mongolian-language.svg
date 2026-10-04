@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <clipPath id="bubble-clip-mon">
+      <path d="M25,20 Q15,20 15,30 L15,170 Q15,180 25,180 L130,180 L145,210 L160,180 L265,180 Q275,180 275,170 L275,30 Q275,20 265,20 Z"/>
+    </clipPath>
+  </defs>
+  <!-- Mongolia: red / blue / red vertical bands -->
+  <rect x="15" y="20" width="77" height="160" fill="#d01424" clip-path="url(#bubble-clip-mon)"/>
+  <rect x="92" y="20" width="106" height="160" fill="#2a4ec0" clip-path="url(#bubble-clip-mon)"/>
+  <rect x="198" y="20" width="77" height="160" fill="#d01424" clip-path="url(#bubble-clip-mon)"/>
+  <!-- Soyombo symbol (simplified) in yellow on left red band -->
+  <g clip-path="url(#bubble-clip-mon)" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round">
+    <!-- flame top -->
+    <polygon points="53,38 47,55 59,55" />
+    <!-- sun circle -->
+    <circle cx="53" cy="65" r="8" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+    <!-- moon crescent suggestion: two stacked bars -->
+    <rect x="44" y="77" width="18" height="5" rx="2"/>
+    <!-- triangle up -->
+    <polygon points="53,87 44,100 62,100"/>
+    <!-- horizontal bar -->
+    <rect x="42" y="103" width="22" height="5" rx="2"/>
+    <!-- vertical rectangle body -->
+    <rect x="48" y="110" width="10" height="30" rx="2"/>
+    <!-- triangle down -->
+    <polygon points="53,143 44,130 62,130"/>
+    <!-- bottom bar -->
+    <rect x="42" y="146" width="22" height="5" rx="2"/>
+  </g>
+  <!-- Bubble outline -->
+  <path d="M25,20 Q15,20 15,30 L15,170 Q15,180 25,180 L130,180 L145,210 L160,180 L265,180 Q275,180 275,170 L275,30 Q275,20 265,20 Z" fill="none" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

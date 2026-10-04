@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Startup team: 4 figures around a lightbulb/rocket (the whole team) -->
+
+  <!-- Central lightbulb -->
+  <!-- Bulb body -->
+  <path d="M 145 60 Q 115 68 112 100 Q 112 122 130 132 L 130 148 L 160 148 L 160 132 Q 178 122 178 100 Q 175 68 145 60 Z" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Bulb base -->
+  <rect x="130" y="148" width="30" height="10" rx="3" ry="3" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="132" y="158" width="26" height="10" rx="3" ry="3" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="135" y="168" width="20" height="8" rx="3" ry="3" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Lightbulb shine lines -->
+  <line x1="145" y1="42" x2="145" y2="28" stroke="#f2e40d" stroke-width="5" stroke-linecap="round"/>
+  <line x1="165" y1="48" x2="172" y2="36" stroke="#f2e40d" stroke-width="5" stroke-linecap="round"/>
+  <line x1="125" y1="48" x2="118" y2="36" stroke="#f2e40d" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Figure 1 (left far) -->
+  <circle cx="38" cy="112" r="13" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <path d="M 28 110 Q 38 98 48 110" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="26" y="125" width="24" height="36" rx="6" ry="6" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="26" y1="136" x2="16" y2="158" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <line x1="50" y1="136" x2="62" y2="152" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <rect x="30" y="161" width="9" height="36" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="41" y="161" width="9" height="36" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="34" cy="196" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="46" cy="196" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+
+  <!-- Figure 2 (left near) -->
+  <circle cx="90" cy="112" r="13" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <path d="M 80 110 Q 90 100 100 110" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="78" y="125" width="24" height="36" rx="6" ry="6" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="78" y1="136" x2="66" y2="155" stroke="#e6b98a" stroke-width="7" stroke-linecap="round"/>
+  <line x1="102" y1="136" x2="112" y2="148" stroke="#e6b98a" stroke-width="7" stroke-linecap="round"/>
+  <rect x="82" y="161" width="9" height="36" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="93" y="161" width="9" height="36" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="86" cy="196" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="98" cy="196" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+
+  <!-- Figure 3 (right near) -->
+  <circle cx="200" cy="112" r="13" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <path d="M 190 110 Q 200 100 210 110" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="188" y="125" width="24" height="36" rx="6" ry="6" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="188" y1="136" x2="178" y2="148" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <line x1="212" y1="136" x2="224" y2="155" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <rect x="192" y="161" width="9" height="36" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="203" y="161" width="9" height="36" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="196" cy="196" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="208" cy="196" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+
+  <!-- Figure 4 (right far) -->
+  <circle cx="252" cy="112" r="13" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <path d="M 242 108 Q 252 96 262 108" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="240" y="125" width="24" height="36" rx="6" ry="6" fill="#7c3fac" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="240" y1="136" x2="228" y2="152" stroke="#e6b98a" stroke-width="7" stroke-linecap="round"/>
+  <line x1="264" y1="136" x2="274" y2="158" stroke="#e6b98a" stroke-width="7" stroke-linecap="round"/>
+  <rect x="244" y="161" width="9" height="36" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="255" y="161" width="9" height="36" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="248" cy="196" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="260" cy="196" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+</svg>

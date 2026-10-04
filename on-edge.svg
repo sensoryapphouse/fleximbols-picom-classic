@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shoulders -->
+  <path d="M60,240 L60,185 Q80,165 100,160 L145,155 L190,160 Q210,165 230,185 L230,240 Z" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shirt collar area -->
+  <path d="M100,160 Q115,175 145,178 Q175,175 190,160" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="125" y="140" width="40" height="25" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="105" rx="58" ry="60" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Hair -->
+  <path d="M90,95 Q88,60 100,50 Q115,38 145,36 Q175,38 190,50 Q202,60 200,95 Q195,72 180,65 Q165,58 145,57 Q125,58 110,65 Q95,72 90,95 Z" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wide watchful eyes - left, wide open -->
+  <ellipse cx="120" cy="105" rx="13" ry="14" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="120" cy="105" rx="7" ry="8" fill="#4d4d4d" stroke="none"/>
+  <ellipse cx="122" cy="103" rx="3" ry="3" fill="#ffffff" stroke="none"/>
+  <!-- Wide watchful eyes - right, wide open -->
+  <ellipse cx="170" cy="105" rx="13" ry="14" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="170" cy="105" rx="7" ry="8" fill="#4d4d4d" stroke="none"/>
+  <ellipse cx="172" cy="103" rx="3" ry="3" fill="#ffffff" stroke="none"/>
+  <!-- Raised alert brows -->
+  <path d="M107,89 Q120,82 133,87" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M157,87 Q170,82 183,89" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tense thin mouth -->
+  <path d="M130,130 L160,130" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Hunched tense shoulders - raise them up -->
+  <path d="M60,185 Q60,165 80,158" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M230,185 Q230,165 210,158" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Jagged tension lines - left side -->
+  <path d="M50,115 L62,108 L52,100 L64,93 L54,86" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Jagged tension lines - right side -->
+  <path d="M240,115 L228,108 L238,100 L226,93 L236,86" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Small tension marks on forehead -->
+  <path d="M135,78 L138,70 L141,78" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M149,78 L152,70 L155,78" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

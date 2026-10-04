@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Floor -->
+  <rect x="20" y="210" width="250" height="16" rx="4" fill="#efefef" stroke="#000000" stroke-width="4"/>
+  <!-- Vacuum cleaner base/head on floor -->
+  <rect x="55" y="195" width="80" height="18" rx="6" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Suction brush strip -->
+  <rect x="60" y="210" width="70" height="8" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- Suction lines in front of head -->
+  <line x1="55" y1="200" x2="35" y2="198" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <line x1="55" y1="204" x2="30" y2="204" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <line x1="55" y1="208" x2="35" y2="210" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <!-- Dirt particles being sucked in -->
+  <circle cx="42" cy="201" r="3" fill="#b8b8b8" stroke="#000000" stroke-width="1"/>
+  <circle cx="38" cy="206" r="2" fill="#b8b8b8" stroke="#000000" stroke-width="1"/>
+  <circle cx="44" cy="210" r="3" fill="#b8b8b8" stroke="#000000" stroke-width="1"/>
+  <!-- Vacuum upright body/column -->
+  <rect x="118" y="90" width="22" height="112" rx="8" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Dust bag / body cylinder -->
+  <ellipse cx="129" cy="130" rx="28" ry="38" fill="#90a7d6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Brand emblem on bag -->
+  <circle cx="129" cy="130" r="12" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- Handle at top -->
+  <path d="M118 92 Q107 75 119 65 Q131 58 140 65 Q152 75 140 92" fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <rect x="115" y="85" width="28" height="12" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Full figure pushing vacuum: legs -->
+  <line x1="195" y1="170" x2="178" y2="220" stroke="#2a4ec0" stroke-width="9" stroke-linecap="round"/>
+  <line x1="195" y1="170" x2="210" y2="222" stroke="#2a4ec0" stroke-width="9" stroke-linecap="round"/>
+  <ellipse cx="176" cy="222" rx="11" ry="5" fill="#000000"/>
+  <ellipse cx="212" cy="224" rx="11" ry="5" fill="#000000"/>
+  <!-- Torso -->
+  <rect x="178" y="112" width="34" height="60" rx="8" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Arm pushing handle -->
+  <path d="M178 125 Q158 140 142 150" fill="none" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <!-- Other arm up -->
+  <path d="M212 118 Q228 100 218 82" fill="none" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <!-- Head -->
+  <circle cx="195" cy="97" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <circle cx="188" cy="94" r="3" fill="#000000"/>
+  <circle cx="202" cy="94" r="3" fill="#000000"/>
+  <path d="M188 105 Q195 110 202 105" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Hair -->
+  <path d="M173 90 Q175 74 195 72 Q215 74 217 90 Q205 80 195 81 Q185 81 173 90 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

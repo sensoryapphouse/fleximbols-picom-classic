@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shoulders/shirt - raised tight shoulders -->
+  <path d="M70 240 Q75 205 105 195 Q125 188 145 190 Q165 188 185 195 Q215 205 220 240 Z" fill="#d01424" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="127" y="175" width="36" height="22" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="118" rx="58" ry="60" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M87 105 Q90 68 118 58 Q145 48 172 58 Q200 68 203 105" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tense grimace mouth - pressed tight line with corners down -->
+  <path d="M122 152 Q133 148 145 150 Q157 148 168 152" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M122 152 Q119 156 121 159" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M168 152 Q171 156 169 159" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Eyes - narrowed tense squint -->
+  <path d="M117 110 Q128 104 139 110 Q128 118 117 110 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M151 110 Q162 104 173 110 Q162 118 151 110 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="128" cy="111" rx="4" ry="4" fill="#000000"/>
+  <ellipse cx="162" cy="111" rx="4" ry="4" fill="#000000"/>
+  <!-- Furrowed brow lines -->
+  <path d="M116 100 Q128 94 140 100" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M150 100 Q162 94 174 100" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M136 97 L145 92 L154 97" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Sweat beads - right temple and forehead -->
+  <path d="M174 88 Q178 82 174 76 Q170 82 174 88 Z" fill="#dff3fd" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M164 70 Q168 64 164 58 Q160 64 164 70 Z" fill="#dff3fd" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M108 82 Q112 76 108 70 Q104 76 108 82 Z" fill="#dff3fd" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Throbbing temple vein - right side -->
+  <path d="M185 100 Q192 95 189 88 Q186 82 192 78" fill="none" stroke="#d01424" stroke-width="3" stroke-linecap="round"/>
+  <path d="M192 78 Q198 74 195 68" fill="none" stroke="#d01424" stroke-width="3" stroke-linecap="round"/>
+  <!-- Tight shoulder lines -->
+  <path d="M80 210 Q95 200 110 197" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 210 Q195 200 180 197" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

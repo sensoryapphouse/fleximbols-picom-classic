@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- aisle hint -->
+  <rect x="60" y="220" width="170" height="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- scattered petals on ground -->
+  <ellipse cx="70" cy="225" rx="5" ry="3" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="220" cy="225" rx="5" ry="3" fill="#f4a4b2" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="200" cy="228" rx="4" ry="2.5" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="90" cy="228" rx="4" ry="2.5" fill="#f4a4b2" stroke="#000000" stroke-width="1.5"/>
+  <!-- falling petals in air -->
+  <ellipse cx="200" cy="120" rx="5" ry="3" fill="#f266aa" stroke="#000000" stroke-width="1.5" transform="rotate(30 200 120)"/>
+  <ellipse cx="215" cy="150" rx="5" ry="3" fill="#f4a4b2" stroke="#000000" stroke-width="1.5" transform="rotate(-20 215 150)"/>
+  <ellipse cx="225" cy="180" rx="4" ry="2.5" fill="#f266aa" stroke="#000000" stroke-width="1.5" transform="rotate(45 225 180)"/>
+  <ellipse cx="55" cy="125" rx="4" ry="2.5" fill="#f4a4b2" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="65" cy="155" rx="5" ry="3" fill="#f266aa" stroke="#000000" stroke-width="1.5" transform="rotate(20 65 155)"/>
+
+  <!-- FULL BODY young girl -->
+  <!-- legs -->
+  <rect x="118" y="170" width="11" height="38" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <rect x="133" y="170" width="11" height="38" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- shoes -->
+  <ellipse cx="123" cy="212" rx="9" ry="5" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="138" cy="212" rx="9" ry="5" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- dress (bell shape) -->
+  <path d="M108,108 L154,108 L168,178 L94,178 Z" fill="#f4a4b2" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- sash -->
+  <rect x="94" y="148" width="74" height="8" fill="#f266aa" stroke="#000000" stroke-width="2"/>
+  <!-- bow on sash -->
+  <path d="M126,148 L120,142 L120,160 L126,156 L131,160 L131,142 Z" fill="#7c3fac" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- arms - one extended holding basket -->
+  <path d="M108,112 C92,130 80,160 90,175" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="96" y="108" width="13" height="55" fill="#eed5b6" stroke="#000000" stroke-width="3" transform="rotate(15 102 135)"/>
+  <!-- other arm extended forward holding basket front -->
+  <path d="M154,112 C170,125 178,150 175,170" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="153" y="108" width="13" height="55" fill="#eed5b6" stroke="#000000" stroke-width="3" transform="rotate(-15 159 135)"/>
+
+  <!-- basket -->
+  <path d="M170,160 L200,160 L195,195 L175,195 Z" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- basket weave -->
+  <line x1="175" y1="170" x2="195" y2="170" stroke="#000000" stroke-width="1.5"/>
+  <line x1="176" y1="180" x2="194" y2="180" stroke="#000000" stroke-width="1.5"/>
+  <line x1="177" y1="190" x2="193" y2="190" stroke="#000000" stroke-width="1.5"/>
+  <!-- basket handle -->
+  <path d="M170,160 C175,140 195,140 200,160" fill="none" stroke="#9d7246" stroke-width="5" stroke-linecap="round"/>
+  <path d="M170,160 C175,140 195,140 200,160" fill="none" stroke="#000000" stroke-width="2"/>
+  <!-- petals in basket -->
+  <circle cx="180" cy="160" r="4" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="188" cy="158" r="4" fill="#f4a4b2" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="184" cy="166" r="4" fill="#d01424" stroke="#000000" stroke-width="1.5"/>
+
+  <!-- head -->
+  <circle cx="131" cy="80" r="22" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M109,80 C109,60 153,60 153,80 C153,72 145,65 131,65 C117,65 109,72 109,80 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- pigtail-ish side bumps -->
+  <circle cx="107" cy="85" r="6" fill="#7d5e23" stroke="#000000" stroke-width="2"/>
+  <circle cx="155" cy="85" r="6" fill="#7d5e23" stroke="#000000" stroke-width="2"/>
+  <!-- flower crown -->
+  <circle cx="115" cy="65" r="4" fill="#fff200" stroke="#000000" stroke-width="2"/>
+  <circle cx="125" cy="60" r="4" fill="#f4a4b2" stroke="#000000" stroke-width="2"/>
+  <circle cx="137" cy="60" r="4" fill="#f266aa" stroke="#000000" stroke-width="2"/>
+  <circle cx="147" cy="65" r="4" fill="#fff200" stroke="#000000" stroke-width="2"/>
+  <!-- face -->
+  <circle cx="124" cy="82" r="2" fill="#000000"/>
+  <circle cx="138" cy="82" r="2" fill="#000000"/>
+  <path d="M125,90 Q131,94 137,90" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+</svg>

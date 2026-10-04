@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- GODPARENT FULL BODY holding baby being baptised + sparkles + cross -->
+  <!-- ground -->
+  <ellipse cx="145" cy="232" rx="90" ry="5" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+
+  <!-- gown -->
+  <path d="M76 132 Q56 220 64 230 L226 230 Q234 220 214 132 Z" fill="#7c3fac" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- gown trim -->
+  <path d="M66 222 Q145 230 224 222" fill="none" stroke="#f2e40d" stroke-width="3" stroke-linecap="round"/>
+  <!-- shoes peek -->
+  <ellipse cx="106" cy="230" rx="10" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="184" cy="230" rx="10" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- torso / robe top -->
+  <path d="M92 92 L80 134 L210 134 L198 92 Q145 80 92 92 Z" fill="#7c3fac" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- neck -->
+  <rect x="138" y="74" width="14" height="16" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- head -->
+  <ellipse cx="145" cy="56" rx="20" ry="20" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- hair -->
+  <path d="M126 54 Q126 32 145 30 Q164 32 164 54 Q160 42 145 40 Q130 42 126 54 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="138" cy="58" r="2.2" fill="#000000"/>
+  <circle cx="152" cy="58" r="2.2" fill="#000000"/>
+  <!-- smile -->
+  <path d="M137 66 Q145 72 153 66" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- ARMS forming a cradle (curving forward to hold baby) -->
+  <path d="M92 100 Q66 140 96 168 L108 160 Q96 142 110 122 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M198 100 Q224 140 194 168 L182 160 Q194 142 180 122 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- BABY being baptised (bundled, head visible, water drop) -->
+  <!-- blanket bundle -->
+  <ellipse cx="145" cy="170" rx="48" ry="20" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- baby head -->
+  <ellipse cx="115" cy="160" rx="14" ry="13" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- baby eyes -->
+  <circle cx="111" cy="160" r="1.5" fill="#000000"/>
+  <circle cx="119" cy="160" r="1.5" fill="#000000"/>
+  <!-- baby smile -->
+  <path d="M111 165 Q115 168 119 165" fill="none" stroke="#000000" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- tuft of hair -->
+  <path d="M112 148 Q115 144 118 148" fill="none" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <!-- baby feet peek -->
+  <circle cx="184" cy="170" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+
+  <!-- water drop / baptismal water above baby -->
+  <path d="M132 130 Q128 138 132 144 Q136 138 132 130 Z" fill="#90a7d6" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M122 138 Q120 144 124 148 Q128 144 122 138 Z" fill="#90a7d6" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- CROSS top center -->
+  <rect x="142" y="6" width="8" height="32" fill="#f2e40d" stroke="#000000" stroke-width="2.5"/>
+  <rect x="132" y="14" width="28" height="8" fill="#f2e40d" stroke="#000000" stroke-width="2.5"/>
+
+  <!-- sparkles -->
+  <path d="M40 40 L44 32 L48 40 L56 38 L50 44 L54 52 L46 50 L40 56 L38 48 L32 44 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M242 40 L246 32 L250 40 L258 38 L252 44 L256 52 L248 50 L242 56 L240 48 L234 44 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="36" cy="120" r="3" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="252" cy="120" r="3" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+</svg>

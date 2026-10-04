@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Dark window (evening — night sky) -->
+  <rect x="188" y="14" width="88" height="80" rx="8" fill="#1d0e82" stroke="#000000" stroke-width="5"/>
+  <!-- Window cross bars -->
+  <line x1="232" y1="14" x2="232" y2="94" stroke="#000000" stroke-width="4"/>
+  <line x1="188" y1="54" x2="276" y2="54" stroke="#000000" stroke-width="4"/>
+  <!-- Moon (crescent) in window -->
+  <circle cx="250" cy="36" r="16" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <circle cx="258" cy="30" r="14" fill="#1d0e82" stroke="none"/>
+  <!-- Stars -->
+  <!-- 4-point star shapes drawn as small diamonds -->
+  <polygon points="208,28 210,34 208,40 206,34" fill="#f7de58" stroke="none"/>
+  <polygon points="218,22 220,26 218,30 216,26" fill="#f7de58" stroke="none"/>
+  <polygon points="210,58 212,64 210,70 208,64" fill="#f7de58" stroke="none"/>
+  <polygon points="222,66 224,70 222,74 220,70" fill="#f7de58" stroke="none"/>
+
+  <!-- Table -->
+  <rect x="10" y="188" width="270" height="16" rx="6" fill="#7d5e23" stroke="#000000" stroke-width="5"/>
+  <rect x="28" y="204" width="16" height="28" rx="4" fill="#5e1f0a" stroke="#000000" stroke-width="4"/>
+  <rect x="246" y="204" width="16" height="28" rx="4" fill="#5e1f0a" stroke="#000000" stroke-width="4"/>
+
+  <!-- Candle (atmosphere cue — table centre) -->
+  <!-- Candle holder base -->
+  <rect x="178" y="180" width="28" height="10" rx="4" fill="#b8b8b8" stroke="#000000" stroke-width="4"/>
+  <!-- Candle body -->
+  <rect x="184" y="150" width="16" height="32" rx="4" fill="#f5e7c4" stroke="#000000" stroke-width="4"/>
+  <!-- Flame -->
+  <path d="M 192 148 Q 186 136 192 126 Q 198 136 192 148 Z" fill="#ff9900" stroke="#000000" stroke-width="3"/>
+  <path d="M 192 144 Q 189 136 192 130 Q 195 136 192 144 Z" fill="#f7de58" stroke="none"/>
+  <!-- Candle glow -->
+  <circle cx="192" cy="140" r="14" fill="#f7de58" stroke="none"/>
+  <!-- Glow masked by redrawing surrounding -->
+
+  <!-- Dinner plate (with meal) -->
+  <!-- Plate -->
+  <circle cx="148" cy="178" r="46" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+  <circle cx="148" cy="178" r="38" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <!-- Steak/protein piece -->
+  <path d="M 128 172 Q 128 158 142 156 Q 162 156 164 168 Q 166 180 152 184 Q 136 184 128 172 Z" fill="#d01424" stroke="#000000" stroke-width="4"/>
+  <!-- Grill marks -->
+  <line x1="134" y1="165" x2="158" y2="162" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="132" y1="173" x2="156" y2="170" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Vegetables / side (green) -->
+  <ellipse cx="166" cy="184" rx="12" ry="9" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="156" cy="190" rx="10" ry="7" fill="#67832d" stroke="#000000" stroke-width="3"/>
+
+  <!-- Person (left side) -->
+  <!-- Head -->
+  <circle cx="60" cy="80" r="34" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair (darker evening colours) -->
+  <path d="M 30 66 Q 28 36 60 30 Q 92 36 90 66" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <!-- Eyes -->
+  <ellipse cx="48" cy="78" rx="8" ry="6" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="50" cy="78" r="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="72" cy="78" rx="8" ry="6" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="70" cy="78" r="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Content/relaxed mouth -->
+  <path d="M 50 96 Q 60 104 70 96" fill="none" stroke="#d01424" stroke-width="4" stroke-linecap="round"/>
+  <!-- Body -->
+  <path d="M 26 116 Q 22 118 22 142 L 22 188 L 98 188 L 98 142 Q 98 118 94 116 Q 78 108 60 108 Q 42 108 26 116 Z" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <!-- Arm holding fork over plate -->
+  <path d="M 90 142 Q 104 148 114 158" fill="none" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M 90 142 Q 104 148 114 158" fill="none" stroke="#000000" stroke-width="21" stroke-linecap="round"/>
+  <path d="M 90 142 Q 104 148 114 158" fill="none" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <!-- Hand -->
+  <ellipse cx="118" cy="162" rx="12" ry="10" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Knife in other hand -->
+  <path d="M 30 140 Q 22 148 26 160" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M 30 140 Q 22 148 26 160" fill="none" stroke="#000000" stroke-width="18" stroke-linecap="round"/>
+  <path d="M 30 140 Q 22 148 26 160" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <ellipse cx="24" cy="162" rx="10" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Knife blade -->
+  <path d="M 20 156 L 14 148 Q 12 142 18 140 L 24 154 Z" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- TWO-HOUSE motif: two small roofs flanking a shared child -->
+  <!-- Left house -->
+  <polygon points="72,55 112,90 32,90" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="38" y="88" width="68" height="44" rx="4" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right house -->
+  <polygon points="218,55 258,90 178,90" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="184" y="88" width="68" height="44" rx="4" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Vertical divide line between houses -->
+  <line x1="145" y1="45" x2="145" y2="215" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-dasharray="8,6"/>
+
+  <!-- LEFT ADULT (parent 1) -->
+  <circle cx="72" cy="152" r="16" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M56,147 Q59,134 72,133 Q85,134 88,147" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="66" cy="151" r="2.5" fill="#000000"/>
+  <circle cx="78" cy="151" r="2.5" fill="#000000"/>
+  <path d="M66,158 Q72,163 78,158" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="58" y="168" width="28" height="38" rx="5" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="58" y1="175" x2="42" y2="190" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <line x1="86" y1="175" x2="101" y2="183" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <rect x="59" y="204" width="11" height="26" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="76" y="204" width="11" height="26" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="64" cy="230" rx="9" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="82" cy="230" rx="9" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- RIGHT ADULT (parent 2) -->
+  <circle cx="218" cy="152" r="16" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M202,147 Q205,134 218,133 Q231,134 234,147" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="212" cy="151" r="2.5" fill="#000000"/>
+  <circle cx="224" cy="151" r="2.5" fill="#000000"/>
+  <path d="M212,158 Q218,163 224,158" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="204" y="168" width="28" height="38" rx="5" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="204" y1="175" x2="189" y2="183" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <line x1="232" y1="175" x2="248" y2="190" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <rect x="205" y="204" width="11" height="26" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="222" y="204" width="11" height="26" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="210" cy="230" rx="9" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="228" cy="230" rx="9" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- SHARED CHILD (centre, between both parents) -->
+  <circle cx="145" cy="165" r="13" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M132,160 Q135,150 145,149 Q155,150 158,160" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="140" cy="164" r="2" fill="#000000"/>
+  <circle cx="150" cy="164" r="2" fill="#000000"/>
+  <path d="M140,171 Q145,176 150,171" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <rect x="134" y="178" width="22" height="28" rx="5" fill="#f4a4b2" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="135" y="204" width="8" height="22" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="147" y="204" width="8" height="22" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="139" cy="226" rx="7" ry="4" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="151" cy="226" rx="7" ry="4" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Each parent's arm reaching to child -->
+  <path d="M101,183 Q120,172 132,178" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M189,183 Q170,172 158,178" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

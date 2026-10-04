@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- All-seeing eye (top) -->
+  <path d="M 110 35 Q 145 15 180 35 Q 145 55 110 35 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="145" cy="35" r="11" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="145" cy="35" r="5" fill="#000000"/>
+  <!-- Eye rays -->
+  <path d="M 100 25 L 90 18" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 190 25 L 200 18" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 100 45 L 90 52" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 190 45 L 200 52" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cameras on sides -->
+  <!-- Camera left -->
+  <rect x="15" y="60" width="22" height="14" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <circle cx="26" cy="67" r="4" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="26" cy="67" r="1.5" fill="#d01424"/>
+  <line x1="20" y1="60" x2="20" y2="50" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Camera right -->
+  <rect x="253" y="60" width="22" height="14" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <circle cx="264" cy="67" r="4" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="264" cy="67" r="1.5" fill="#d01424"/>
+  <line x1="270" y1="60" x2="270" y2="50" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Uniformed figures in line - all identical, full body -->
+  <!-- Figure 1 -->
+  <circle cx="55" cy="115" r="11" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <rect x="46" y="108" width="18" height="10" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <path d="M 44 126 L 40 180 L 70 180 L 66 126 Z" fill="#7f7f7f" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 46 130 L 36 165" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 64 130 L 74 165" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="44" y="180" width="10" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <rect x="56" y="180" width="10" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Figure 2 -->
+  <circle cx="105" cy="115" r="11" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <rect x="96" y="108" width="18" height="10" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <path d="M 94 126 L 90 180 L 120 180 L 116 126 Z" fill="#7f7f7f" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 96 130 L 86 165" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 114 130 L 124 165" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="94" y="180" width="10" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <rect x="106" y="180" width="10" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Figure 3 -->
+  <circle cx="155" cy="115" r="11" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <rect x="146" y="108" width="18" height="10" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <path d="M 144 126 L 140 180 L 170 180 L 166 126 Z" fill="#7f7f7f" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 146 130 L 136 165" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 164 130 L 174 165" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="144" y="180" width="10" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <rect x="156" y="180" width="10" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Figure 4 -->
+  <circle cx="205" cy="115" r="11" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <rect x="196" y="108" width="18" height="10" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <path d="M 194 126 L 190 180 L 220 180 L 216 126 Z" fill="#7f7f7f" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 196 130 L 186 165" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 214 130 L 224 165" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="194" y="180" width="10" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <rect x="206" y="180" width="10" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Figure 5 -->
+  <circle cx="255" cy="115" r="11" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <rect x="246" y="108" width="18" height="10" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <path d="M 244 126 L 240 180 L 270 180 L 266 126 Z" fill="#7f7f7f" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 246 130 L 236 165" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 264 130 L 274 165" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="244" y="180" width="10" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <rect x="256" y="180" width="10" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+</svg>

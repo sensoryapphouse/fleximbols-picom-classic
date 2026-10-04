@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- hairy: arm with long sparse individual hair strands sticking out -->
+  <!-- Arm - forearm viewed from side, horizontal across frame -->
+  <rect x="45" y="100" width="200" height="60" rx="30" ry="30" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Long sparse individual hairs on top of arm -->
+  <line x1="75" y1="100" x2="68" y2="62" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="68" y1="62" x2="72" y2="48" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="95" y1="98" x2="100" y2="56" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="100" y1="56" x2="97" y2="42" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="115" y1="96" x2="107" y2="58" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="107" y1="58" x2="103" y2="44" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="135" y1="95" x2="138" y2="55" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="138" y1="55" x2="135" y2="40" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="155" y1="96" x2="162" y2="58" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="162" y1="58" x2="165" y2="44" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="175" y1="97" x2="178" y2="57" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="178" y1="57" x2="182" y2="44" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="195" y1="99" x2="202" y2="62" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="202" y1="62" x2="205" y2="48" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="215" y1="103" x2="224" y2="68" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="224" y1="68" x2="228" y2="55" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- A couple of hairs below arm too -->
+  <line x1="85" y1="157" x2="80" y2="182" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="80" y1="182" x2="77" y2="196" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="145" y1="160" x2="148" y2="185" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="148" y1="185" x2="145" y2="199" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="205" y1="157" x2="210" y2="181" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="210" y1="181" x2="213" y2="195" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shoulders -->
+  <path d="M 52 240 Q 52 186 145 186 Q 238 186 238 240" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="121" y="160" width="48" height="29" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="100" rx="71" ry="72" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M 74 88 Q 79 22 145 20 Q 211 22 216 88 Q 200 46 145 44 Q 90 46 74 88 Z" fill="#7d5e23" stroke="#000000" stroke-width="4"/>
+  <!-- Left brow - flat, neutral (not angry) -->
+  <path d="M 90 70 Q 108 66 125 68" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Right brow - raised skeptically (one brow up) -->
+  <path d="M 165 58 Q 183 52 202 62" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Left eye - normal -->
+  <ellipse cx="110" cy="88" rx="15" ry="13" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="110" cy="88" r="7" fill="#4d4d4d"/>
+  <circle cx="112" cy="85" r="2.5" fill="#ffffff"/>
+  <!-- Right eye - slightly more open (with raised brow) -->
+  <ellipse cx="180" cy="88" rx="15" ry="14" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="180" cy="88" r="7" fill="#4d4d4d"/>
+  <circle cx="182" cy="85" r="2.5" fill="#ffffff"/>
+  <!-- Tight flat mouth - mild annoyance -->
+  <path d="M 113 136 L 177 136" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Slight mouth corner downturn -->
+  <path d="M 113 136 Q 108 138 108 141" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 177 136 Q 182 138 182 141" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Buzzing fly near the head (annoyance indicator) -->
+  <!-- Fly body -->
+  <ellipse cx="226" cy="68" rx="8" ry="5" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- Fly wings -->
+  <ellipse cx="220" cy="63" rx="9" ry="5" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="232" cy="63" rx="9" ry="5" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- Fly head -->
+  <circle cx="235" cy="68" r="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Fly eyes -->
+  <circle cx="237" cy="67" r="1.5" fill="#f8130d"/>
+  <!-- Buzz lines from fly -->
+  <path d="M 240 62 Q 248 58 252 62" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 241 66 Q 250 64 254 68" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Tick/annoyance mark on forehead -->
+  <path d="M 148 55 Q 152 48 156 55 Q 160 62 154 62" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="154" cy="65" r="3" fill="#000000"/>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Bust: face biting hard into crispy food, sharp jagged CRUNCH burst at bite -->
+  <!-- Shoulders bust -->
+  <path d="M55 178 Q55 150 78 140 L126 126 L164 126 L212 140 Q235 150 235 178 L235 240 L55 240 Z" fill="#ff9900" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="128" y="116" width="34" height="22" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head — slightly tilted forward biting down hard -->
+  <ellipse cx="145" cy="74" rx="54" ry="56" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Hair -->
+  <path d="M92 56 Q96 14 145 11 Q194 14 198 56 Q186 32 145 28 Q104 32 92 56 Z" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Eyes — scrunched shut with effort of biting hard -->
+  <path d="M115 62 Q124 55 133 62" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Brows furrowed hard downward -->
+  <path d="M113 52 Q124 46 133 52" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M157 52 Q166 46 177 52" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M157 62 Q166 55 175 62" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M141 76 Q138 82 141 87 Q145 89 149 87 Q152 82 149 76" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Mouth — biting down HARD, teeth clenched on food, jaw tight -->
+  <!-- Lower jaw clenched -->
+  <path d="M118 100 Q128 96 145 95 Q162 96 172 100 Q166 112 145 114 Q124 112 118 100 Z" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Teeth row biting -->
+  <path d="M122 100 L128 106 L134 100 L140 106 L146 100 L152 106 L158 100 L164 106 L168 100" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Cheeks tense -->
+  <ellipse cx="104" cy="96" rx="14" ry="11" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="186" cy="96" rx="14" ry="11" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Hands holding crispy food item (chip/cracker) up to mouth -->
+  <path d="M78 142 Q52 128 38 108" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M78 142 Q52 128 38 108" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M212 142 Q238 128 252 108" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M212 142 Q238 128 252 108" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Crispy chip/cracker being bitten — right side -->
+  <!-- Chip body (triangular chip shape) -->
+  <path d="M220 80 L260 60 L270 95 L240 110 Z" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Chip texture lines -->
+  <path d="M228 88 L256 74" fill="none" stroke="#f2e40d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M235 96 L262 82" fill="none" stroke="#f2e40d" stroke-width="3" stroke-linecap="round"/>
+  <!-- Bite taken out of chip left edge -->
+  <path d="M220 80 Q210 88 218 100 L240 110" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- CRUNCH BURST — jagged starburst at bite point -->
+  <polygon points="215,90 205,78 218,82 210,68 222,76 220,60 228,72 236,60 234,74 248,68 240,80 258,78 244,86 256,96 242,90 246,108 236,96 232,112 226,96 212,104" fill="#fff200" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- "CRUNCH" lettering drawn as bold blocky shapes at top right — use zigzag/shatter for the C -->
+  <!-- Crumbs flying from bite -->
+  <polygon points="196,76 200,68 204,76" fill="#f5e7c4" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <polygon points="188,64 193,56 196,65" fill="#f5e7c4" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="180" cy="58" r="5" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <circle cx="192" cy="48" r="4" fill="#f5e7c4" stroke="#000000" stroke-width="2"/>
+  <circle cx="205" cy="52" r="3" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+</svg>

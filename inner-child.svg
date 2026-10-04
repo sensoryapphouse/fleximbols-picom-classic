@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- adult silhouette with smaller child silhouette inside heart-zone -->
+  <!-- adult full body silhouette -->
+  <!-- adult head -->
+  <circle cx="145" cy="42" r="24" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M121 38 Q125 14 145 10 Q165 14 169 38 Q165 26 145 22 Q125 26 121 38 Z" fill="#7d5e23" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- gentle smile, closed eyes (warm) -->
+  <path d="M135 42 Q139 46 143 42" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M147 42 Q151 46 155 42" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M138 56 Q145 60 152 56" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="138" y="62" width="14" height="10" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- adult torso (big silhouette) -->
+  <path d="M90 72 L200 72 L214 200 L76 200 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms wrapped around (hugging) -->
+  <path d="M90 80 Q60 110 80 160 Q88 162 90 152 Q78 120 100 100 Z" fill="#e6b98a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M200 80 Q230 110 210 160 Q202 162 200 152 Q212 120 190 100 Z" fill="#e6b98a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- adult legs -->
+  <rect x="92" y="200" width="32" height="36" rx="5" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <rect x="166" y="200" width="32" height="36" rx="5" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+
+  <!-- HEART shape over chest -->
+  <path d="M145 180 L108 142 Q96 122 116 110 Q132 106 145 124 Q158 106 174 110 Q194 122 182 142 Z" fill="#f4a4b2" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- child silhouette INSIDE heart -->
+  <!-- child head -->
+  <circle cx="145" cy="128" r="11" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- child hair -->
+  <path d="M134 126 Q136 116 145 114 Q154 116 156 126 Q154 120 145 118 Q136 120 134 126 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- child happy eyes -->
+  <circle cx="141" cy="128" r="1.5" fill="#000000"/>
+  <circle cx="149" cy="128" r="1.5" fill="#000000"/>
+  <!-- child smile -->
+  <path d="M141 134 Q145 137 149 134" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- child body -->
+  <path d="M132 140 L158 140 L162 168 L128 168 Z" fill="#fff200" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- child arms raised joyfully -->
+  <path d="M132 142 Q122 138 120 130 Q124 128 126 134 Q130 138 134 142 Z" fill="#e6b98a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M158 142 Q168 138 170 130 Q166 128 164 134 Q160 138 156 142 Z" fill="#e6b98a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- child legs -->
+  <rect x="134" y="168" width="10" height="4" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <rect x="146" y="168" width="10" height="4" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+
+  <!-- small heart sparkles -->
+  <path d="M70 110 L66 106 Q62 102 68 100 Q70 100 70 104 Q70 100 72 100 Q78 102 74 106 Z" fill="#f8130d" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M226 130 L222 126 Q218 122 224 120 Q226 120 226 124 Q226 120 228 120 Q234 122 230 126 Z" fill="#f8130d" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

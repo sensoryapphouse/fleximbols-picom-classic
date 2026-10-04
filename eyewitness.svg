@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- memory thought cloud (top right) -->
+  <path d="M168 14 Q150 14 148 28 Q132 28 132 42 Q132 58 152 58 L228 58 Q254 58 254 42 Q254 28 240 26 Q238 12 220 12 Q210 12 204 18 Q196 12 184 14 Q176 12 168 14 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- cloud tails -->
+  <circle cx="160" cy="68" r="6" fill="#dff3fd" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="152" cy="80" r="4" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- suspect silhouette inside cloud -->
+  <circle cx="180" cy="32" r="8" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <path d="M170 42 L190 42 L194 56 L166 56 Z" fill="#4d4d4d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- question mark next to suspect -->
+  <path d="M214 32 Q214 22 224 22 Q234 22 234 32 Q234 38 224 40 L224 46" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="224" cy="52" r="2" fill="#000000"/>
+  <!-- witness full body, pointing at suspect -->
+  <!-- head -->
+  <circle cx="80" cy="74" r="20" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M60 70 Q60 52 80 50 Q100 52 100 70 Q98 64 80 62 Q64 64 60 70" fill="#7d5e23" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- big eye highlighted (eyewitness) -->
+  <ellipse cx="74" cy="76" rx="6" ry="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="74" cy="76" r="2.5" fill="#1d0e82"/>
+  <circle cx="88" cy="76" r="2" fill="#000000"/>
+  <path d="M76 86 Q82 88 88 86" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- magnifying glass over the eye -->
+  <circle cx="74" cy="76" r="18" fill="none" stroke="#000000" stroke-width="3.5"/>
+  <circle cx="74" cy="76" r="14" fill="none" stroke="#90a7d6" stroke-width="2"/>
+  <rect x="56" y="92" width="22" height="8" rx="3" fill="#9d7246" stroke="#000000" stroke-width="2.5" stroke-linejoin="round" transform="rotate(40 56 92)"/>
+  <!-- torso -->
+  <path d="M56 100 L104 100 L112 170 L48 170 Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- pointing right arm -->
+  <path d="M104 108 L160 96 L160 108 L106 122 Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- pointing hand -->
+  <path d="M158 92 Q176 90 184 100 Q186 104 178 106 L172 106 Q172 110 168 110 Q164 110 164 106 L160 110 Z" fill="#eed5b6" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- left arm down -->
+  <path d="M56 108 L42 168 L56 170 L66 122 Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="48" cy="170" r="7" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- legs -->
+  <rect x="58" y="170" width="22" height="52" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="84" y="170" width="22" height="52" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- feet -->
+  <rect x="54" y="218" width="30" height="10" rx="3" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <rect x="82" y="218" width="30" height="10" rx="3" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- pointing line/arrow toward suspect -->
+  <path d="M196 102 Q210 90 222 78" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 4"/>
+</svg>

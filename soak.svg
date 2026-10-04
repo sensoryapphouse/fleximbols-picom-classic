@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Tub/bowl of water -->
+  <path d="M40 140 Q40 200 145 200 Q250 200 250 140 Z" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Tub rim -->
+  <rect x="30" y="130" width="230" height="18" rx="8" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Water surface line -->
+  <path d="M45 155 Q75 148 105 155 Q135 162 165 155 Q195 148 245 155" fill="none" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round"/>
+  <!-- Submerged object: a shirt/cloth shape under water -->
+  <path d="M100 160 Q100 130 145 128 Q190 130 190 160 Q190 185 145 188 Q100 185 100 160 Z" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Sleeve hints -->
+  <path d="M100 160 Q85 155 80 168 Q83 178 100 175" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M190 160 Q205 155 210 168 Q207 178 190 175" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Bubbles on surface -->
+  <circle cx="90" cy="142" r="6" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="115" cy="137" r="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="160" cy="140" r="5" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="195" cy="136" r="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="220" cy="143" r="6" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- Rising bubbles above water -->
+  <circle cx="130" cy="122" r="5" fill="none" stroke="#2a4ec0" stroke-width="2"/>
+  <circle cx="155" cy="115" r="4" fill="none" stroke="#2a4ec0" stroke-width="2"/>
+  <circle cx="175" cy="120" r="3" fill="none" stroke="#2a4ec0" stroke-width="2"/>
+  <!-- Tub legs -->
+  <rect x="60" y="195" width="16" height="25" rx="4" fill="#b8b8b8" stroke="#000000" stroke-width="4"/>
+  <rect x="214" y="195" width="16" height="25" rx="4" fill="#b8b8b8" stroke="#000000" stroke-width="4"/>
+  <!-- Water drop label top -->
+  <path d="M145 30 Q145 20 138 35 Q132 48 145 52 Q158 48 152 35 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Head bust -->
+  <ellipse cx="145" cy="95" rx="62" ry="68" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="120" y="150" width="50" height="30" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Shoulders -->
+  <ellipse cx="145" cy="200" rx="80" ry="30" fill="#2a4ec0" stroke="#000000" stroke-width="5"/>
+  <!-- Scrunched happy eyes - left -->
+  <path d="M108 82 Q118 72 128 82" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Scrunched happy eyes - right -->
+  <path d="M162 82 Q172 72 182 82" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Big gleeful open mouth -->
+  <path d="M115 118 Q145 148 175 118" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M115 118 Q145 135 175 118" fill="#ffffff" stroke="none"/>
+  <!-- Teeth -->
+  <rect x="128" y="118" width="28" height="12" rx="3" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- Nose -->
+  <ellipse cx="145" cy="105" rx="10" ry="7" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Snort hint - small puffs from nose -->
+  <ellipse cx="128" cy="100" rx="7" ry="5" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="118" cy="93" rx="5" ry="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- Puff bursts from mouth sides -->
+  <ellipse cx="102" cy="122" rx="8" ry="6" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="91" cy="112" rx="6" ry="5" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="188" cy="122" rx="8" ry="6" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="199" cy="112" rx="6" ry="5" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- Rosy cheeks -->
+  <ellipse cx="106" cy="112" rx="14" ry="10" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="184" cy="112" rx="14" ry="10" fill="#f4a4b2" stroke="none"/>
+</svg>

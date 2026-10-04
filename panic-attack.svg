@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- panic-attack: whole figure, one hand clutching chest, other arm out, mouth open, motion lines -->
+
+  <!-- motion lines (chaos/shaking) -->
+  <line x1="42" y1="90" x2="28" y2="82" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="40" y1="108" x2="24" y2="108" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="44" y1="126" x2="28" y2="132" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="248" y1="90" x2="262" y2="82" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="250" y1="108" x2="266" y2="108" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="246" y1="126" x2="262" y2="132" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- legs (figure standing, slightly staggered — off-balance) -->
+  <path d="M130 182 L122 228" stroke="#000000" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M160 182 L172 228" stroke="#000000" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <!-- shoes -->
+  <ellipse cx="120" cy="230" rx="16" ry="7" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="174" cy="230" rx="16" ry="7" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- torso -->
+  <path d="M100 112 Q110 96 145 98 Q180 96 190 112 L184 182 Q145 190 106 182 Z" fill="#f4a4b2" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- right arm reaching out in alarm -->
+  <path d="M188 118 Q214 108 232 98 Q242 92 244 86" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="245" cy="83" rx="12" ry="10" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- fingers splayed -->
+  <line x1="238" y1="76" x2="234" y2="70" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="244" y1="73" x2="244" y2="66" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="251" y1="75" x2="255" y2="69" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="256" y1="81" x2="262" y2="78" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- left arm bent, hand clutching chest -->
+  <path d="M102 118 Q86 132 88 148" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="116" cy="142" rx="16" ry="12" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- heart symbol on chest where hand clutches -->
+  <path d="M138 138 Q138 130 145 130 Q152 130 152 138 Q152 145 145 152 Q138 145 138 138 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- neck -->
+  <rect x="138" y="84" width="14" height="16" rx="4" ry="4" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- head (slightly tilted) -->
+  <ellipse cx="147" cy="62" rx="30" ry="32" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- wide open eyes -->
+  <ellipse cx="136" cy="56" rx="7" ry="8" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="158" cy="56" rx="7" ry="8" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="137" cy="57" r="4" fill="#000000"/>
+  <circle cx="159" cy="57" r="4" fill="#000000"/>
+  <!-- highlight in eyes -->
+  <circle cx="139" cy="55" r="2" fill="#ffffff"/>
+  <circle cx="161" cy="55" r="2" fill="#ffffff"/>
+  <!-- open mouth (O shape — gasping) -->
+  <ellipse cx="147" cy="74" rx="9" ry="7" fill="#7f7f7f" stroke="#000000" stroke-width="3"/>
+  <!-- sweat lines -->
+  <path d="M170 44 Q174 38 178 44 Q178 50 170 50 Z" fill="#dff3fd" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M178 55 Q181 50 184 55 Q184 60 178 60 Z" fill="#dff3fd" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+</svg>

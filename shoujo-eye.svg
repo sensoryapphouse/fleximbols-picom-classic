@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<rect x="0" y="0" width="290" height="240" fill="#f8e49c" opacity="0.4"></rect>
+<path d="M30 130 Q60 60 145 60 Q230 60 260 130 Q230 200 145 200 Q60 200 30 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.80" stroke-linejoin="round"></path>
+<g><ellipse cx="145" cy="130" rx="60" ry="65" fill="#9b70c5"></ellipse><ellipse cx="145" cy="130" rx="60" ry="65" fill="url(#g1)"></ellipse></g>
+<defs><radialGradient id="g1"><stop offset="0%" stop-color="#fabad8"></stop><stop offset="50%" stop-color="#9b70c5"></stop><stop offset="100%" stop-color="#3d3d89"></stop></radialGradient></defs>
+<ellipse cx="145" cy="135" rx="50" ry="55" fill="#7e61a5"></ellipse>
+<ellipse cx="145" cy="140" rx="35" ry="42" fill="#5e3d89"></ellipse>
+<ellipse cx="145" cy="148" rx="20" ry="27" fill="#1a1a1a"></ellipse>
+<g fill="#ffffff">
+<ellipse cx="155" cy="115" rx="14" ry="20"></ellipse>
+<circle cx="125" cy="155" r="9"></circle>
+<circle cx="160" cy="170" r="5"></circle>
+<ellipse cx="135" cy="105" rx="4" ry="6"></ellipse>
+</g>
+<g stroke="#1a1a1a" stroke-width="3.80" stroke-linecap="round" fill="none"><path d="M30 125 Q90 65 165 70 Q220 70 255 110"></path></g>
+<g stroke="#1a1a1a" stroke-width="3.32" stroke-linecap="round"><line x1="40" y1="90" x2="50" y2="75"></line><line x1="70" y1="75" x2="78" y2="60"></line><line x1="105" y1="65" x2="110" y2="50"></line><line x1="145" y1="60" x2="148" y2="45"></line><line x1="185" y1="65" x2="190" y2="50"></line><line x1="220" y1="75" x2="228" y2="60"></line></g>
+<g fill="#f8e49c" stroke="#1a1a1a" stroke-width="1.42"><path d="M250 60 L252 70 L262 70 L254 76 L258 86 L250 80 L242 86 L246 76 L238 70 L248 70 Z"></path></g>
+</g></svg>

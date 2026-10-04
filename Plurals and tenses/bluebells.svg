@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,5.136) scale(0.9786)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- main arching stem -->
+  <path d="M100 230 Q105 180 130 140 Q155 105 200 70" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- small leaf -->
+  <path d="M115 200 Q95 185 88 168 Q105 175 115 200Z" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- bell 1 (lowest, largest droop) -->
+  <path d="M155 148 Q148 138 145 125 Q155 118 165 125 Q162 138 155 148Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M148 148 Q155 155 162 148" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- bell 2 -->
+  <path d="M172 123 Q165 113 163 100 Q173 93 183 100 Q180 113 172 123Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M165 123 Q172 130 179 123" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- bell 3 -->
+  <path d="M187 98 Q181 88 179 75 Q189 68 199 75 Q196 88 187 98Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M180 98 Q187 105 194 98" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- bell 4 (highest) -->
+  <path d="M199 75 Q194 65 192 53 Q201 46 210 53 Q208 65 199 75Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M192 75 Q199 82 206 75" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- stem connections (pedicels) -->
+  <line x1="148" y1="135" x2="155" y2="148" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="163" y1="110" x2="172" y2="123" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="179" y1="87" x2="187" y2="98" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="192" y1="64" x2="199" y2="75" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</g><g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl269" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl269)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

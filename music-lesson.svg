@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- wall -->
+  <rect x="26" y="32" width="238" height="176" fill="#f5e7c4" stroke="#000000" stroke-width="2"/>
+  <!-- floor -->
+  <rect x="0" y="200" width="290" height="40" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+
+  <!-- MUSIC STAND (center-right) -->
+  <line x1="195" y1="125" x2="195" y2="218" stroke="#4d4d4d" stroke-width="4" stroke-linecap="round"/>
+  <rect x="170" y="95" width="50" height="35" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="175" y1="105" x2="215" y2="105" stroke="#000000" stroke-width="1"/>
+  <line x1="175" y1="110" x2="215" y2="110" stroke="#000000" stroke-width="1"/>
+  <line x1="175" y1="115" x2="215" y2="115" stroke="#000000" stroke-width="1"/>
+  <line x1="175" y1="120" x2="215" y2="120" stroke="#000000" stroke-width="1"/>
+  <!-- music notes on stand -->
+  <ellipse cx="182" cy="115" rx="2.5" ry="2" fill="#000000"/>
+  <line x1="184" y1="115" x2="184" y2="103" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="200" cy="110" rx="2.5" ry="2" fill="#000000"/>
+  <line x1="202" y1="110" x2="202" y2="98" stroke="#000000" stroke-width="1.5"/>
+  <!-- tripod base -->
+  <line x1="195" y1="218" x2="180" y2="225" stroke="#4d4d4d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="195" y1="218" x2="210" y2="225" stroke="#4d4d4d" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- CHILD FULL BODY (left) holding a VIOLIN -->
+  <!-- head -->
+  <circle cx="75" cy="78" r="15" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M60 75 Q64 60 75 58 Q86 60 90 75 Q85 68 75 68 Q65 68 60 75 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="70" cy="79" r="1.6" fill="#000000"/>
+  <circle cx="80" cy="79" r="1.6" fill="#000000"/>
+  <path d="M70 86 Q75 90 80 86" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- torso -->
+  <path d="M60 95 L92 95 L96 160 L58 160 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- violin under chin -->
+  <ellipse cx="105" cy="100" rx="22" ry="10" fill="#9d7246" stroke="#000000" stroke-width="3" transform="rotate(20 105 100)"/>
+  <!-- violin strings/details -->
+  <line x1="88" y1="95" x2="125" y2="108" stroke="#000000" stroke-width="1"/>
+  <!-- bow -->
+  <line x1="115" y1="125" x2="155" y2="105" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="115" y1="125" x2="155" y2="105" stroke="#ffffff" stroke-width="1"/>
+  <!-- arms: left arm holding violin neck, right arm with bow -->
+  <path d="M60 102 Q75 95 90 92" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M60 102 Q75 95 90 92" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M92 108 Q108 118 118 125" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M92 108 Q108 118 118 125" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M68 160 L62 215" fill="none" stroke="#2a4ec0" stroke-width="11" stroke-linecap="round"/>
+  <path d="M88 160 L92 215" fill="none" stroke="#2a4ec0" stroke-width="11" stroke-linecap="round"/>
+  <path d="M68 160 L62 215" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M88 160 L92 215" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="60" cy="220" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="94" cy="220" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+
+  <!-- TEACHER FULL BODY (right) -->
+  <!-- head -->
+  <circle cx="250" cy="78" r="15" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M235 75 Q239 60 250 58 Q261 60 265 75 Q260 68 250 68 Q240 68 235 75 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="245" cy="79" r="1.6" fill="#000000"/>
+  <circle cx="255" cy="79" r="1.6" fill="#000000"/>
+  <path d="M245 86 Q250 89 255 86" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- torso -->
+  <path d="M236 95 L264 95 L268 158 L232 158 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms (one gesturing) -->
+  <path d="M236 103 Q220 115 215 130" fill="none" stroke="#e6b98a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M236 103 Q220 115 215 130" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M264 103 Q278 110 280 125" fill="none" stroke="#e6b98a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M264 103 Q278 110 280 125" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M240 158 L236 215" fill="none" stroke="#392170" stroke-width="11" stroke-linecap="round"/>
+  <path d="M260 158 L266 215" fill="none" stroke="#392170" stroke-width="11" stroke-linecap="round"/>
+  <path d="M240 158 L236 215" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M260 158 L266 215" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="234" cy="220" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="268" cy="220" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+
+  <!-- floating notes for music feel -->
+  <ellipse cx="145" cy="40" rx="5" ry="4" fill="#000000"/>
+  <line x1="149" y1="40" x2="149" y2="22" stroke="#000000" stroke-width="2"/>
+  <path d="M149 22 Q156 25 156 32" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="165" cy="55" rx="4" ry="3" fill="#000000"/>
+  <line x1="168" y1="55" x2="168" y2="40" stroke="#000000" stroke-width="2"/>
+</svg>

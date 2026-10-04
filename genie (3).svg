@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- magical glow sparkles -->
+  <path d="M40 60 L45 70 L55 75 L45 80 L40 90 L35 80 L25 75 L35 70 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M245 50 L248 57 L255 60 L248 63 L245 70 L242 63 L235 60 L242 57 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M250 165 L253 172 L260 175 L253 178 L250 185 L247 178 L240 175 L247 172 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- smoke wisp tail (no body below waist - traditional genie) -->
+  <path d="M85 220 Q110 200 120 175 L190 175 Q200 200 225 220 Q180 215 145 218 Q110 215 85 220 Z" fill="#90a7d6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- torso (purple vest) -->
+  <path d="M100 175 Q105 130 145 125 Q185 130 190 175 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- folded arms -->
+  <path d="M105 145 Q145 165 185 145" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M105 145 Q120 170 145 165" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M185 145 Q170 170 145 165" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- gold cuffs/wristbands -->
+  <rect x="115" y="155" width="20" height="8" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <rect x="155" y="155" width="20" height="8" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <!-- neck -->
+  <rect x="135" y="115" width="20" height="15" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <!-- head -->
+  <ellipse cx="145" cy="85" rx="38" ry="40" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <!-- turban -->
+  <path d="M108 70 Q108 40 145 38 Q182 40 182 70 Q170 60 145 62 Q120 60 108 70 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- turban wrap line -->
+  <path d="M110 55 Q145 50 180 55" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- jewel on turban -->
+  <ellipse cx="145" cy="48" rx="6" ry="4" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <!-- eyes -->
+  <circle cx="132" cy="85" r="3" fill="#000000"/>
+  <circle cx="158" cy="85" r="3" fill="#000000"/>
+  <!-- brows -->
+  <path d="M124 76 L138 75" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M152 75 L166 76" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- smile -->
+  <path d="M132 100 Q145 108 158 100" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- hoop earrings -->
+  <circle cx="108" cy="95" r="5" fill="none" stroke="#f7de58" stroke-width="3"/>
+  <circle cx="182" cy="95" r="5" fill="none" stroke="#f7de58" stroke-width="3"/>
+  <circle cx="108" cy="95" r="5" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="182" cy="95" r="5" fill="none" stroke="#000000" stroke-width="2"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sun rays above -->
+  <circle cx="65" cy="55" r="22" fill="#f2e40d" stroke="#000000" stroke-width="3"/>
+  <line x1="65" y1="20" x2="65" y2="28" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="30" y1="55" x2="38" y2="55" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="40" y1="30" x2="46" y2="36" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="90" y1="30" x2="84" y2="36" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="92" y1="55" x2="100" y2="55" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- sun rays going down to plant -->
+  <line x1="80" y1="80" x2="100" y2="115" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <line x1="85" y1="80" x2="115" y2="120" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <line x1="78" y1="84" x2="90" y2="125" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <!-- plant: stem + leaves -->
+  <line x1="140" y1="220" x2="140" y2="120" stroke="#529929" stroke-width="5" stroke-linecap="round"/>
+  <!-- left leaf -->
+  <path d="M 140 165 Q 100 155 90 130 Q 120 140 140 165 Z" fill="#67832d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="140" y1="165" x2="100" y2="145" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- right leaf -->
+  <path d="M 140 145 Q 180 135 190 110 Q 165 125 140 145 Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="140" y1="145" x2="178" y2="123" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- top leaf -->
+  <path d="M 140 125 Q 150 110 145 95 Q 135 110 140 125 Z" fill="#67832d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- grass at base -->
+  <path d="M 115 230 L 120 215 L 125 230 Z" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 150 230 L 155 215 L 160 230 Z" fill="#529929" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 165 230 L 170 218 L 175 230 Z" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- arrow pointing OUT (gives energy) -->
+  <line x1="200" y1="150" x2="265" y2="150" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 258 140 L 275 150 L 258 160 Z" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

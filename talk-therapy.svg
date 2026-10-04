@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground -->
+  <rect x="20" y="210" width="250" height="14" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- LEFT person FULL BODY in chair, facing right -->
+  <!-- chair back -->
+  <rect x="20" y="105" width="14" height="100" fill="#9d7246" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- chair seat -->
+  <rect x="20" y="160" width="60" height="10" fill="#7d5e23" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- chair leg -->
+  <rect x="70" y="170" width="8" height="35" fill="#7d5e23" stroke="#000000" stroke-width="2.5"/>
+  <!-- person LEFT: head -->
+  <circle cx="55" cy="85" r="15" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M42 82 Q42 67 55 67 Q68 67 68 82 Q63 72 55 72 Q47 72 42 82 Z" fill="#7d5e23" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- eyes (looking right) -->
+  <circle cx="58" cy="85" r="1.8" fill="#000000"/>
+  <circle cx="65" cy="85" r="1.8" fill="#000000"/>
+  <!-- mouth (talking) -->
+  <ellipse cx="62" cy="93" rx="3" ry="2" fill="#5e1f0a" stroke="#000000" stroke-width="1.5"/>
+  <!-- neck -->
+  <rect x="50" y="98" width="10" height="6" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- torso (seated) -->
+  <path d="M38 105 L38 158 Q38 162 42 162 L72 162 Q76 162 76 158 L76 105 Q76 102 72 102 L42 102 Q38 102 38 105 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms: right arm extended forward (gesturing toward listener) -->
+  <path d="M76 115 L105 122 L108 130 L102 132 L76 128 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="108" cy="128" r="5" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- left arm resting -->
+  <path d="M38 115 L28 128 L28 145 L36 145 L36 128 L42 122 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- legs (seated, knees bent forward) -->
+  <path d="M42 162 L42 180 L78 180 L78 170 L60 170 L60 162 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="68" y="180" width="14" height="22" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <rect x="50" y="180" width="14" height="22" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="56" cy="205" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="75" cy="205" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- RIGHT person FULL BODY in chair, facing left -->
+  <rect x="256" y="105" width="14" height="100" fill="#9d7246" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="210" y="160" width="60" height="10" fill="#7d5e23" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="212" y="170" width="8" height="35" fill="#7d5e23" stroke="#000000" stroke-width="2.5"/>
+  <!-- head -->
+  <circle cx="235" cy="85" r="15" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M222 82 Q222 67 235 67 Q248 67 248 82 Q243 72 235 72 Q227 72 222 82 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="225" cy="85" r="1.8" fill="#000000"/>
+  <circle cx="232" cy="85" r="1.8" fill="#000000"/>
+  <path d="M223 93 Q228 95 233 93" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <rect x="230" y="98" width="10" height="6" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <path d="M214 105 L214 158 Q214 162 218 162 L248 162 Q252 162 252 158 L252 105 Q252 102 248 102 L218 102 Q214 102 214 105 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- left arm extended forward (toward speaker) -->
+  <path d="M214 115 L185 122 L182 130 L188 132 L214 128 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="182" cy="128" r="5" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- right arm resting -->
+  <path d="M252 115 L262 128 L262 145 L254 145 L254 128 L248 122 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- legs -->
+  <path d="M248 162 L248 180 L212 180 L212 170 L230 170 L230 162 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="208" y="180" width="14" height="22" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <rect x="226" y="180" width="14" height="22" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="215" cy="205" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="234" cy="205" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- speech bubble left (from left person) -->
+  <path d="M118 50 Q102 50 102 65 Q102 80 118 80 L130 80 L128 90 L142 80 L155 80 Q170 80 170 65 Q170 50 155 50 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="120" cy="65" r="2.5" fill="#000000"/>
+  <circle cx="135" cy="65" r="2.5" fill="#000000"/>
+  <circle cx="150" cy="65" r="2.5" fill="#000000"/>
+</svg>

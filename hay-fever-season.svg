@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="170" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <!-- ground -->
+  <rect x="10" y="180" width="270" height="20" fill="#67832d" stroke="#000000" stroke-width="3"/>
+  <!-- hay/grass on right -->
+  <path d="M210 180 L210 130 M220 180 L220 125 M230 180 L230 135 M240 180 L240 125 M250 180 L250 130 M260 180 L260 135" fill="none" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <path d="M205 135 L215 130 L225 138 M235 130 L245 128 L255 135" fill="none" stroke="#7d5e23" stroke-width="2" stroke-linecap="round"/>
+  <!-- pollen specks floating -->
+  <circle cx="180" cy="60" r="3.5" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="200" cy="80" r="3.5" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="155" cy="90" r="3.5" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="220" cy="55" r="3.5" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="170" cy="110" r="3.5" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="245" cy="95" r="3.5" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <!-- person FULL BODY sneezing -->
+  <!-- head -->
+  <circle cx="85" cy="65" r="20" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M65 60 Q65 45 85 42 Q105 45 105 60" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- closed eyes -->
+  <path d="M75 62 L80 65 M90 65 L95 62" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- red nose -->
+  <circle cx="85" cy="71" r="4" fill="#f4a4b2" stroke="#000000" stroke-width="2"/>
+  <!-- open mouth -->
+  <ellipse cx="85" cy="79" rx="5" ry="4" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <!-- torso -->
+  <rect x="70" y="85" width="30" height="45" fill="#3aa6a0" stroke="#000000" stroke-width="3"/>
+  <!-- left arm holding tissue to face -->
+  <path d="M70 95 Q55 80 60 70" fill="none" stroke="#3aa6a0" stroke-width="11" stroke-linecap="round"/>
+  <!-- tissue at face -->
+  <path d="M48 60 L72 60 L70 80 L50 80 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M52 65 L66 75 M66 65 L52 75" fill="none" stroke="#b8b8b8" stroke-width="1.5"/>
+  <!-- right arm out -->
+  <path d="M100 95 Q120 100 125 120" fill="none" stroke="#3aa6a0" stroke-width="11" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M78 130 L72 175" fill="none" stroke="#1d0e82" stroke-width="11" stroke-linecap="round"/>
+  <path d="M92 130 L98 175" fill="none" stroke="#1d0e82" stroke-width="11" stroke-linecap="round"/>
+  <!-- shoes -->
+  <ellipse cx="70" cy="178" rx="8" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="100" cy="178" rx="8" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- ACHOO puff above tissue -->
+  <path d="M35 40 Q25 32 35 25 Q45 23 45 33 Q55 33 53 45 Q45 50 35 40 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- pollen count icon + tissues (replaces HAY FEVER text) -->
+  <path d="M200 218 Q210 205 222 210 Q225 202 234 205 Q240 200 246 206 Q250 202 250 212 L200 212 Z" fill="#f2e40d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

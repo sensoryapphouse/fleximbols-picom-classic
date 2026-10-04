@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- COUNTER / BAR -->
+  <rect x="40" y="188" width="220" height="18" rx="4" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Bar front panel -->
+  <rect x="40" y="200" width="220" height="22" rx="4" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- PERSON (waist-up behind bar) -->
+  <!-- Torso / waistcoat -->
+  <rect x="108" y="128" width="64" height="62" rx="8" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- White shirt front -->
+  <rect x="124" y="128" width="32" height="50" rx="4" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Left arm (pouring) -->
+  <line x1="108" y1="145" x2="78" y2="162" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <!-- Right arm (holding shaker up) -->
+  <line x1="172" y1="142" x2="196" y2="118" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <!-- Head -->
+  <circle cx="140" cy="106" r="26" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Eyes -->
+  <circle cx="131" cy="103" r="3" fill="#000000"/>
+  <circle cx="149" cy="103" r="3" fill="#000000"/>
+  <!-- Smile -->
+  <path d="M133 114 Q140 120 147 114" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Hair -->
+  <path d="M115 98 Q120 80 140 78 Q160 80 165 98" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Bow tie -->
+  <polygon points="132,128 140,134 148,128 140,122" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- COCKTAIL SHAKER (right hand, raised) -->
+  <rect x="193" y="96" width="22" height="42" rx="8" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shaker cap -->
+  <rect x="196" y="90" width="16" height="10" rx="4" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- GLASS on bar (left side, being poured into) -->
+  <!-- Pour stream from left hand -->
+  <path d="M78 162 Q72 174 74 184" stroke="#f7de58" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Glass -->
+  <path d="M60 168 L66 196 L92 196 L98 168 Z" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Liquid in glass -->
+  <path d="M63 180 L66 196 L92 196 L95 180 Z" fill="#f7de58" stroke="none"/>
+  <!-- Stem + base -->
+  <rect x="72" y="196" width="16" height="6" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="80" cy="205" rx="16" ry="5" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- Bottles on bar shelf (background detail) -->
+  <rect x="168" y="148" width="14" height="36" rx="4" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="188" y="152" width="12" height="32" rx="4" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl180" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl180)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

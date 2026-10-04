@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shoulders / bust — slightly slumped (asymmetric, drooping) -->
+  <path d="M30,240 Q35,190 70,178 Q105,168 145,168 Q185,168 220,178 Q255,190 260,240 Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="131" y="148" width="28" height="26" rx="8" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Head — slightly downcast angle -->
+  <ellipse cx="145" cy="114" rx="46" ry="50" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Hair -->
+  <path d="M99,106 Q100,68 145,64 Q190,68 191,106 Q185,78 145,76 Q105,78 99,106 Z" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Eyes — downcast, heavy-lidded -->
+  <ellipse cx="130" cy="106" rx="8" ry="6" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="160" cy="106" rx="8" ry="6" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="130" cy="108" r="4" fill="#4d4d4d"/>
+  <circle cx="160" cy="108" r="4" fill="#4d4d4d"/>
+  <!-- Heavy upper eyelids (drooping) -->
+  <path d="M122,103 Q130,100 138,103" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M152,103 Q160,100 168,103" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Downturned mouth (sad) -->
+  <path d="M130,132 Q145,124 160,132" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Grey rain cloud above head -->
+  <ellipse cx="145" cy="46" rx="32" ry="16" fill="#b8b8b8" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="122" cy="52" rx="14" ry="12" fill="#b8b8b8" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="168" cy="52" rx="14" ry="12" fill="#b8b8b8" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="145" cy="57" rx="28" ry="14" fill="#b8b8b8" stroke="#000000" stroke-width="4"/>
+  <!-- Rain drops falling from cloud -->
+  <line x1="130" y1="66" x2="127" y2="76" stroke="#90a7d6" stroke-width="3" stroke-linecap="round"/>
+  <line x1="145" y1="68" x2="142" y2="78" stroke="#90a7d6" stroke-width="3" stroke-linecap="round"/>
+  <line x1="160" y1="66" x2="157" y2="76" stroke="#90a7d6" stroke-width="3" stroke-linecap="round"/>
+  <line x1="137" y1="72" x2="134" y2="82" stroke="#90a7d6" stroke-width="3" stroke-linecap="round"/>
+  <line x1="153" y1="72" x2="150" y2="82" stroke="#90a7d6" stroke-width="3" stroke-linecap="round"/>
+</svg>

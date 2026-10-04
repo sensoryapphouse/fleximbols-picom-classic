@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- blueprint scroll (center) -->
+  <rect x="90" y="148" width="110" height="68" rx="4" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- blueprint grid lines -->
+  <line x1="110" y1="148" x2="110" y2="216" stroke="#90a7d6" stroke-width="2" stroke-linecap="round"/>
+  <line x1="130" y1="148" x2="130" y2="216" stroke="#90a7d6" stroke-width="2" stroke-linecap="round"/>
+  <line x1="150" y1="148" x2="150" y2="216" stroke="#90a7d6" stroke-width="2" stroke-linecap="round"/>
+  <line x1="170" y1="148" x2="170" y2="216" stroke="#90a7d6" stroke-width="2" stroke-linecap="round"/>
+  <line x1="90" y1="165" x2="200" y2="165" stroke="#90a7d6" stroke-width="2" stroke-linecap="round"/>
+  <line x1="90" y1="182" x2="200" y2="182" stroke="#90a7d6" stroke-width="2" stroke-linecap="round"/>
+  <line x1="90" y1="199" x2="200" y2="199" stroke="#90a7d6" stroke-width="2" stroke-linecap="round"/>
+  <!-- blueprint building outline on plan -->
+  <rect x="104" y="153" width="30" height="26" fill="none" stroke="#f2e40d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- small worker icon - left (electrician bolt) -->
+  <circle cx="40" cy="175" r="16" fill="#f2e40d" stroke="#000000" stroke-width="4"/>
+  <polygon points="43,164 36,176 42,176 37,186 48,173 42,173" fill="#000000"/>
+  <!-- small worker icon - right (plumber wrench) -->
+  <circle cx="250" cy="175" r="16" fill="#dff3fd" stroke="#000000" stroke-width="4"/>
+  <rect x="244" y="165" width="6" height="18" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <ellipse cx="247" cy="165" rx="6" ry="5" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <!-- connecting lines from GC to workers -->
+  <line x1="80" y1="165" x2="56" y2="170" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,4"/>
+  <line x1="210" y1="165" x2="234" y2="170" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,4"/>
+  <!-- GC person: legs -->
+  <rect x="128" y="185" width="15" height="38" rx="7" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="147" y="185" width="15" height="38" rx="7" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- boots -->
+  <ellipse cx="135" cy="222" rx="13" ry="6" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="155" cy="222" rx="13" ry="6" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <!-- torso / hi-viz vest -->
+  <rect x="120" y="132" width="50" height="57" rx="8" fill="#ff9900" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="120" y1="157" x2="170" y2="157" stroke="#f2e40d" stroke-width="4" stroke-linecap="round"/>
+  <!-- right arm pointing right -->
+  <path d="M170,142 Q195,138 210,135" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="210" cy="134" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- left arm pointing left -->
+  <path d="M120,142 Q95,138 80,135" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="80" cy="134" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- head -->
+  <ellipse cx="145" cy="108" rx="22" ry="23" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- hard hat -->
+  <rect x="122" y="90" width="46" height="18" rx="6" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="90" rx="28" ry="9" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="145" cy="103" rx="30" ry="7" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <!-- eyes -->
+  <ellipse cx="137" cy="112" rx="3" ry="3.5" fill="#000000"/>
+  <ellipse cx="153" cy="112" rx="3" ry="3.5" fill="#000000"/>
+  <!-- smile -->
+  <path d="M138,122 Q145,128 152,122" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- === STAGE BACKDROP === -->
+  <rect x="140" y="28" width="128" height="88" rx="6" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Stage curtains -->
+  <path d="M140 28 Q154 44 150 116 L140 116Z" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M268 28 Q254 44 258 116 L268 116Z" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Stage lights at top -->
+  <circle cx="158" cy="36" r="8" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <path d="M158 44 L152 60 L164 60Z" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="204" cy="32" r="8" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <path d="M204 40 L198 56 L210 56Z" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="250" cy="36" r="8" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <path d="M250 44 L244 60 L256 60Z" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- === BALLOONS (right side) === -->
+  <ellipse cx="232" cy="70" rx="14" ry="18" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <line x1="232" y1="88" x2="234" y2="110" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="254" cy="66" rx="14" ry="18" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <line x1="254" y1="84" x2="256" y2="110" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="248" cy="82" rx="12" ry="16" fill="#7c3fac" stroke="#000000" stroke-width="4"/>
+  <line x1="248" y1="98" x2="248" y2="116" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- === TIMELINE BAR under stage === -->
+  <rect x="140" y="118" width="128" height="10" rx="5" fill="#7f7f7f" stroke="#000000" stroke-width="4"/>
+  <circle cx="160" cy="123" r="7" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <circle cx="188" cy="123" r="7" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <circle cx="216" cy="123" r="7" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <circle cx="244" cy="123" r="7" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+
+  <!-- === PERSON === -->
+  <!-- Head -->
+  <circle cx="72" cy="52" r="20" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M52 50 Q56 30 72 28 Q88 30 92 50 Q87 38 72 36 Q57 38 52 50Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="65" y="70" width="14" height="12" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Torso -->
+  <path d="M46 82 L72 78 L98 82 L102 160 L42 160Z" fill="#3aa6a0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm (holding clipboard) -->
+  <path d="M46 82 L30 118 L42 124 L56 92" fill="#3aa6a0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="34" cy="128" rx="10" ry="8" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Clipboard -->
+  <rect x="22" y="118" width="32" height="42" rx="4" fill="#f5e7c4" stroke="#000000" stroke-width="4"/>
+  <rect x="32" y="114" width="12" height="8" rx="3" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <line x1="27" y1="132" x2="49" y2="132" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="27" y1="140" x2="49" y2="140" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="27" y1="148" x2="42" y2="148" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Right arm pointing at stage -->
+  <path d="M98 82 L124 106 L116 114 L94 94" fill="#3aa6a0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="126" cy="116" rx="10" ry="8" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Legs -->
+  <path d="M52 160 L46 210 L60 210 L64 165Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M92 160 L96 210 L110 210 L100 165Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shoes -->
+  <ellipse cx="52" cy="212" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="102" cy="212" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="4"/>
+</svg>

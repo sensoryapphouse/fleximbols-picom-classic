@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground -->
+  <rect x="0" y="218" width="290" height="22" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- friendship handshake icon top center -->
+  <circle cx="145" cy="50" r="26" fill="#f2e40d" stroke="#000000" stroke-width="3"/>
+  <path d="M130 50 L140 55 L150 50 L160 55" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M132 52 L140 60 L150 55 L158 60" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- casual heart (slight outline + wink) right -->
+  <path d="M225 95 Q220 86 210 86 Q198 86 198 96 Q198 110 225 130 Q252 110 252 96 Q252 86 240 86 Q230 86 225 95 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- question mark left -->
+  <path d="M55 85 Q55 70 65 70 Q78 70 78 82 Q78 90 70 94 L70 102" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="70" cy="112" r="3" fill="#000000"/>
+  <!-- LEFT figure FULL BODY -->
+  <circle cx="80" cy="135" r="14" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M68 130 Q70 116 80 116 Q92 116 92 130 Q86 125 80 125 Q72 125 68 130 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="76" cy="136" r="1.5" fill="#000000"/>
+  <circle cx="84" cy="136" r="1.5" fill="#000000"/>
+  <path d="M76 142 Q80 145 84 142" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <rect x="76" y="148" width="8" height="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <path d="M64 154 L96 154 L100 195 L60 195 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M64 158 L52 178" fill="#3aa6a0" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M96 158 L110 168" fill="#3aa6a0" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="52" cy="180" r="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <circle cx="112" cy="170" r="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <rect x="66" y="195" width="14" height="23" fill="#1d0e82" stroke="#000000" stroke-width="2.5"/>
+  <rect x="82" y="195" width="14" height="23" fill="#1d0e82" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="73" cy="220" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="89" cy="220" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- RIGHT figure FULL BODY -->
+  <circle cx="170" cy="135" r="14" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M158 128 Q160 112 172 112 Q186 116 186 130 Q180 124 172 124 Q164 124 158 130 Z" fill="#7d5e23" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="166" cy="136" r="1.5" fill="#000000"/>
+  <circle cx="174" cy="136" r="1.5" fill="#000000"/>
+  <path d="M166 142 Q170 145 174 142" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <rect x="166" y="148" width="8" height="6" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <path d="M154 154 L186 154 L190 195 L150 195 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M154 158 L140 168" fill="#ff9900" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M186 158 L200 178" fill="#ff9900" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="138" cy="170" r="5" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <circle cx="200" cy="180" r="5" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <rect x="156" y="195" width="14" height="23" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <rect x="172" y="195" width="14" height="23" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="163" cy="220" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="179" cy="220" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+</svg>

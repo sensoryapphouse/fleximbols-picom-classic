@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Bust figure: face gazing dreamily at distant star/horizon -->
+  <!-- Shoulders / shirt top -->
+  <path d="M 68,200 Q 68,175 90,168 L 200,168 Q 222,175 222,200 L 222,228 L 68,228 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="128" y="150" width="34" height="22" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="112" rx="52" ry="56" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M 96,100 Q 98,60 145,58 Q 192,60 194,100" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left eye: soft, looking slightly upward-right toward star -->
+  <ellipse cx="122" cy="108" rx="14" ry="10" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="128" cy="106" r="6" fill="#1d0e82"/>
+  <circle cx="126" cy="104" r="2" fill="#ffffff"/>
+  <!-- Right eye: same dreamy look -->
+  <ellipse cx="168" cy="108" rx="14" ry="10" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="174" cy="106" r="6" fill="#1d0e82"/>
+  <circle cx="172" cy="104" r="2" fill="#ffffff"/>
+  <!-- Soft eyelashes / dreamy lids (slightly lowered) -->
+  <path d="M 108,105 Q 122,100 136,105" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 154,105 Q 168,100 182,105" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Gentle smile -->
+  <path d="M 128,130 Q 145,142 162,130" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Dreamy dotted sight-line from eyes toward distant star (upper right) -->
+  <line x1="210" y1="80" x2="240" y2="40" stroke="#000000" stroke-width="2" stroke-dasharray="5,5" stroke-linecap="round"/>
+  <line x1="185" y1="90" x2="210" y2="80" stroke="#000000" stroke-width="2" stroke-dasharray="5,5" stroke-linecap="round"/>
+  <!-- Star (distant, upper right) -->
+  <polygon points="240,30 244,20 248,30 258,30 250,36 253,46 244,40 235,46 238,36 230,30" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Soft rosy cheeks -->
+  <ellipse cx="104" cy="122" rx="12" ry="8" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="186" cy="122" rx="12" ry="8" fill="#f4a4b2" stroke="none"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<g fill="#f8e49c"><circle cx="30" cy="30" r="2"></circle><circle cx="255" cy="35" r="2"></circle><circle cx="50" cy="200" r="2"></circle></g>
+<path d="M30 70 L260 70 L240 100 L50 100 Z" fill="#e24940" stroke="#1a1a1a" stroke-width="3.32" stroke-linejoin="round"></path>
+<g fill="#a42c3b" stroke="#1a1a1a" stroke-width="2.38"><rect x="45" y="40" width="20" height="35"></rect><rect x="225" y="40" width="20" height="35"></rect></g>
+<rect x="100" y="35" width="90" height="40" fill="#f8e49c" stroke="#1a1a1a" stroke-width="2.85"></rect>
+<text x="145" y="65" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="900" fill="#a42c3b">ラーメン</text>
+<rect x="40" y="100" width="210" height="14" fill="#5c3a26" stroke="#1a1a1a" stroke-width="2.85"></rect>
+<rect x="40" y="114" width="210" height="80" fill="#9d734d" stroke="#1a1a1a" stroke-width="2.85"></rect>
+<g><circle cx="100" cy="150" r="22" fill="#e24940" stroke="#1a1a1a" stroke-width="2.38"></circle><ellipse cx="100" cy="148" rx="18" ry="6" fill="#f8e49c"></ellipse><g stroke="#edc641" stroke-width="1.42" fill="none"><path d="M90 148 Q100 152 110 148"></path></g></g>
+<g><circle cx="190" cy="150" r="22" fill="#e24940" stroke="#1a1a1a" stroke-width="2.38"></circle><ellipse cx="190" cy="148" rx="18" ry="6" fill="#f8e49c"></ellipse><g stroke="#edc641" stroke-width="1.42" fill="none"><path d="M180 148 Q190 152 200 148"></path></g></g>
+<g stroke="#fbf5e1" stroke-width="2.85" stroke-linecap="round" fill="none" opacity="0.7"><path d="M100 125 Q95 110 105 100 M190 125 Q185 110 195 100 M145 130 Q140 115 150 105"></path></g>
+<rect x="40" y="194" width="210" height="14" fill="#5c3a26"></rect>
+<g fill="#f8e49c" stroke="#1a1a1a" stroke-width="0.95"><circle cx="60" cy="200" r="4"></circle><circle cx="230" cy="200" r="4"></circle></g>
+<rect x="100" y="180" width="90" height="14" fill="#fbf5e1" stroke="#1a1a1a" stroke-width="1.90"></rect>
+<text x="145" y="191" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="10" font-weight="900" fill="#a42c3b">¥800</text>
+</g></svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <circle cx="110" cy="58" r="28" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  
+  <path d="M80,86 L140,86 L150,170 L70,170 Z" fill="#7c3fac" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <line x1="82" y1="98" x2="60" y2="144" stroke="#eed5b6" stroke-width="13" stroke-linecap="round"/>
+  <line x1="82" y1="98" x2="60" y2="144" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="138" y1="98" x2="160" y2="144" stroke="#eed5b6" stroke-width="13" stroke-linecap="round"/>
+  <line x1="138" y1="98" x2="160" y2="144" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  
+  <line x1="98" y1="170" x2="90" y2="215" stroke="#eed5b6" stroke-width="13" stroke-linecap="round"/>
+  <line x1="98" y1="170" x2="90" y2="215" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="122" y1="170" x2="130" y2="215" stroke="#eed5b6" stroke-width="13" stroke-linecap="round"/>
+  <line x1="122" y1="170" x2="130" y2="215" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+
+  
+  <circle cx="215" cy="118" r="42" fill="#f5e7c4" stroke="#000000" stroke-width="5"/>
+
+  
+  
+  <line x1="215" y1="84" x2="215" y2="152" stroke="#f7de58" stroke-width="8" stroke-linecap="round"/>
+  <line x1="181" y1="118" x2="249" y2="118" stroke="#f7de58" stroke-width="8" stroke-linecap="round"/>
+  
+  <line x1="191" y1="94" x2="239" y2="142" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <line x1="239" y1="94" x2="191" y2="142" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  
+  <line x1="215" y1="84" x2="215" y2="152" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="181" y1="118" x2="249" y2="118" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="191" y1="94" x2="239" y2="142" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="239" y1="94" x2="191" y2="142" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+
+  
+  <circle cx="215" cy="118" r="10" fill="#fff200" stroke="#000000" stroke-width="3"/>
+
+  
+  <circle cx="215" cy="118" r="42" fill="none" stroke="#000000" stroke-width="5"/>
+</svg>

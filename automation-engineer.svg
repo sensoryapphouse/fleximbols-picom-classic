@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Robot arm right side -->
+  <!-- Base -->
+  <rect x="220" y="195" width="50" height="20" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <!-- Lower segment -->
+  <rect x="238" y="130" width="14" height="68" fill="#ff9900" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="245" cy="130" r="9" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <!-- Upper segment -->
+  <rect x="190" y="123" width="55" height="14" fill="#ff9900" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="193" cy="130" r="8" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <!-- Gripper -->
+  <path d="M190 130 L175 120 L175 128 L185 130 L175 132 L175 140 Z" fill="#4d4d4d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Cogs top-right -->
+  <circle cx="240" cy="55" r="18" fill="#7f7f7f" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="240" cy="55" r="6" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <path d="M240 32 L240 40 M240 70 L240 78 M217 55 L225 55 M255 55 L263 55 M224 39 L230 45 M250 65 L256 71 M224 71 L230 65 M250 45 L256 39" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Smaller cog -->
+  <circle cx="200" cy="78" r="11" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <circle cx="200" cy="78" r="4" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <path d="M200 64 L200 70 M200 86 L200 92 M186 78 L192 78 M208 78 L214 78" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Script/code panel mid-left -->
+  <rect x="155" y="155" width="60" height="50" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <rect x="160" y="160" width="25" height="3" fill="#529929"/>
+  <rect x="160" y="167" width="40" height="3" fill="#fff200"/>
+  <rect x="160" y="174" width="20" height="3" fill="#dff3fd"/>
+  <rect x="160" y="181" width="35" height="3" fill="#529929"/>
+  <rect x="160" y="188" width="28" height="3" fill="#fff200"/>
+  <rect x="160" y="195" width="15" height="3" fill="#dff3fd"/>
+  <!-- Engineer FULL BODY -->
+  <!-- Legs -->
+  <rect x="62" y="170" width="14" height="45" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <rect x="84" y="170" width="14" height="45" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <!-- Boots -->
+  <ellipse cx="69" cy="217" rx="11" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="91" cy="217" rx="11" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <!-- Torso jumpsuit -->
+  <path d="M48 115 Q48 108 80 108 Q112 108 112 115 L112 175 L48 175 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Tool belt -->
+  <rect x="48" y="160" width="64" height="8" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <!-- Arms -->
+  <path d="M48 118 L30 158 L40 164 L62 130 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M112 118 L138 152 L128 158 L105 130 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Hands -->
+  <circle cx="35" cy="161" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <circle cx="133" cy="155" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- Head -->
+  <circle cx="80" cy="85" r="22" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- Hard hat -->
+  <path d="M58 80 Q58 60 80 58 Q102 60 102 80 L106 82 L54 82 Z" fill="#fff200" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M76 60 L84 60 L84 68 L76 68 Z" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <!-- Eyes -->
+  <circle cx="72" cy="90" r="2.2" fill="#000000"/>
+  <circle cx="88" cy="90" r="2.2" fill="#000000"/>
+  <!-- Smile -->
+  <path d="M74 99 Q80 103 86 99" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="75" y="105" width="10" height="8" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+</svg>

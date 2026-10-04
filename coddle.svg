@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Steam wisps (gentle) -->
+  <path d="M120 50 Q114 38 120 26 Q126 14 120 4" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M145 44 Q139 32 145 20 Q151 8 145 0" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M170 50 Q164 38 170 26 Q176 14 170 4" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Egg coddler lid (rounded with knob) -->
+  <path d="M95 90 Q95 70 145 64 Q195 70 195 90 Z" fill="#efefef" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Lid knob/ring -->
+  <ellipse cx="145" cy="68" rx="22" ry="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <rect x="138" y="58" width="14" height="10" rx="3" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <!-- Coddler body (porcelain cup, taller than wide) -->
+  <path d="M90 90 Q88 130 92 180 Q96 215 145 218 Q194 215 198 180 Q202 130 200 90 Z" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Decorative band -->
+  <path d="M92 110 Q145 116 198 110" fill="none" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M92 120 Q145 126 198 120" fill="none" stroke="#3aa6a0" stroke-width="2" stroke-linecap="round"/>
+  <!-- Egg inside (visible through cutaway window) -->
+  <ellipse cx="145" cy="160" rx="42" ry="38" fill="#f5e7c4" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="145" cy="160" rx="42" ry="38" fill="#fff200" stroke="#000000" stroke-width="4"/>
+  <!-- Yolk -->
+  <circle cx="145" cy="160" r="18" fill="#f2e40d" stroke="#000000" stroke-width="3"/>
+  <circle cx="140" cy="155" r="5" fill="#fff200" stroke="none"/>
+  <!-- Handle on side -->
+  <path d="M198 130 Q220 132 220 160 Q220 188 198 190" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M200 138 Q214 140 214 160 Q214 180 200 182" fill="none" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round"/>
+  <!-- Water bath line (gentle heat) -->
+  <path d="M50 218 Q60 214 80 218 Q100 222 120 218 Q145 214 170 218 Q190 222 210 218 Q230 214 240 218" fill="none" stroke="#90a7d6" stroke-width="3" stroke-linecap="round"/>
+</svg>

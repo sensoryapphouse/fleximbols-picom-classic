@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ANIMATOR-3D: person at desk, screen with 3D figure + onion-skin arcs, timeline strip below -->
+  <!-- Monitor stand -->
+  <rect x="118" y="148" width="14" height="22" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="104" y="168" width="42" height="8" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Monitor -->
+  <rect x="68" y="72" width="154" height="80" rx="7" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="76" y="79" width="138" height="66" rx="4" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Onion-skin arc frames on screen: faint ghost poses -->
+  <ellipse cx="127" cy="112" rx="10" ry="16" fill="none" stroke="#90a7d6" stroke-width="3"/>
+  <ellipse cx="145" cy="112" rx="10" ry="16" fill="none" stroke="#2a4ec0" stroke-width="3"/>
+  <ellipse cx="163" cy="112" rx="10" ry="16" fill="none" stroke="#90a7d6" stroke-width="3"/>
+  <!-- Central 3D figure head -->
+  <circle cx="145" cy="93" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Central 3D figure body -->
+  <rect x="137" y="101" width="16" height="18" rx="3" fill="#2a4ec0" stroke="#000000" stroke-width="4"/>
+  <!-- Motion arc -->
+  <path d="M120 96 Q145 78 170 96" fill="none" stroke="#f7de58" stroke-width="3" stroke-linecap="round"/>
+  <!-- Timeline strip below monitor -->
+  <rect x="76" y="152" width="138" height="14" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="84" y="155" width="14" height="8" rx="1" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <rect x="102" y="155" width="14" height="8" rx="1" fill="#efefef" stroke="#000000" stroke-width="2"/>
+  <rect x="120" y="155" width="14" height="8" rx="1" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <rect x="138" y="155" width="14" height="8" rx="1" fill="#efefef" stroke="#000000" stroke-width="2"/>
+  <rect x="156" y="155" width="14" height="8" rx="1" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <rect x="174" y="155" width="14" height="8" rx="1" fill="#efefef" stroke="#000000" stroke-width="2"/>
+  <!-- Desk -->
+  <rect x="40" y="170" width="210" height="12" rx="4" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Desk legs -->
+  <rect x="48" y="182" width="10" height="30" rx="3" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="232" y="182" width="10" height="30" rx="3" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Chair seat -->
+  <rect x="185" y="188" width="52" height="10" rx="4" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Chair back -->
+  <rect x="227" y="166" width="12" height="28" rx="4" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Chair legs -->
+  <line x1="192" y1="198" x2="188" y2="216" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="228" y1="198" x2="232" y2="216" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Person: legs -->
+  <line x1="196" y1="198" x2="190" y2="220" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="214" y1="198" x2="214" y2="220" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Feet -->
+  <ellipse cx="188" cy="222" rx="8" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="214" cy="222" rx="8" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Person: torso -->
+  <rect x="194" y="152" width="26" height="36" rx="5" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Person: arms -->
+  <line x1="194" y1="162" x2="172" y2="174" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="220" y1="162" x2="230" y2="170" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Hands -->
+  <circle cx="170" cy="176" r="5" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <circle cx="231" cy="172" r="5" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Person: neck -->
+  <rect x="202" y="143" width="10" height="10" rx="2" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Person: head -->
+  <circle cx="207" cy="135" r="14" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M193 132 Q207 118 221 132" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+</svg>

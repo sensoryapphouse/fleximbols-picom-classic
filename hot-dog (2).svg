@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- bun: long rounded roll, taller than the sausage so it cradles it -->
+  <rect x="26" y="80" width="238" height="86" rx="43" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- bun top highlight -->
+  <path d="M 55,96 Q 145,88 235,96" fill="none" stroke="#f0cda0" stroke-width="4" stroke-linecap="round"/>
+  <!-- sausage - red round-ended cylinder sitting in the bun groove, protruding both ends -->
+  <rect x="20" y="104" width="250" height="38" rx="19" fill="#d0202e" stroke="#000000" stroke-width="5"/>
+  <!-- sausage top highlight -->
+  <path d="M 40,113 Q 145,108 250,113" fill="none" stroke="#e8505c" stroke-width="4" stroke-linecap="round"/>
+  <!-- mustard zigzag down the sausage -->
+  <path d="M 52,124 L 78,114 L 104,132 L 130,114 L 156,132 L 182,114 L 208,132 L 234,118" fill="none" stroke="#f2c80d" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- lower bun lip in front, showing the bun cradle below the sausage -->
+  <path d="M 30,140 Q 34,164 70,164 L 220,164 Q 256,164 260,140 Q 256,156 220,156 L 70,156 Q 34,156 30,140 Z" fill="#d9a878" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

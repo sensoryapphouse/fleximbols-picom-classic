@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Body: older adult standing with cane, grey hair -->
+  <!-- Cane -->
+  <line x1="185" y1="130" x2="185" y2="210" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="185" y1="130" x2="172" y2="120" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Legs -->
+  <line x1="140" y1="175" x2="130" y2="210" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="155" y1="175" x2="160" y2="210" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shoes -->
+  <ellipse cx="127" cy="212" rx="12" ry="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="163" cy="212" rx="12" ry="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Trousers -->
+  <rect x="128" y="153" width="34" height="24" rx="4" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Torso / jumper -->
+  <rect x="120" y="103" width="50" height="55" rx="8" fill="#90a7d6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right arm (holding cane) -->
+  <line x1="170" y1="113" x2="183" y2="135" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left arm -->
+  <line x1="120" y1="113" x2="108" y2="140" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="137" y="88" width="16" height="18" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="72" rx="26" ry="28" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Grey hair -->
+  <path d="M119 62 Q122 42 145 40 Q168 42 171 62" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <circle cx="136" cy="70" r="3" fill="#000000"/>
+  <circle cx="154" cy="70" r="3" fill="#000000"/>
+  <!-- Smile wrinkles -->
+  <path d="M136 80 Q145 87 154 80" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Cane handle circle -->
+  <circle cx="185" cy="128" r="5" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl2508" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl2508)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

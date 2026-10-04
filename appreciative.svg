@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shoulders -->
+  <path d="M58 240 Q68 190 110 180 Q145 174 180 180 Q222 190 232 240 Z" fill="#3aa6a0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="127" y="156" width="36" height="28" rx="7" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="110" rx="66" ry="68" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M79 98 Q84 36 145 34 Q206 36 211 98 Q194 56 145 54 Q96 56 79 98 Z" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Brows - pleased, slight raise -->
+  <path d="M100 80 Q116 74 126 78" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M164 78 Q174 74 190 80" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Eyes - pleased, slightly crinkled -->
+  <ellipse cx="114" cy="100" rx="13" ry="12" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="114" cy="101" r="7" fill="#4d4d4d"/>
+  <circle cx="116" cy="98" r="2" fill="#ffffff"/>
+  <ellipse cx="176" cy="100" rx="13" ry="12" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="176" cy="101" r="7" fill="#4d4d4d"/>
+  <circle cx="178" cy="98" r="2" fill="#ffffff"/>
+  <!-- Pleased smile -->
+  <path d="M112 132 Q145 160 178 132" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 132 Q145 148 178 132" fill="#f4a4b2" stroke="none"/>
+  <!-- Rosy cheeks -->
+  <ellipse cx="98" cy="120" rx="12" ry="7" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="192" cy="120" rx="12" ry="7" fill="#f4a4b2" stroke="none"/>
+  <!-- Right arm raising thumbs-up -->
+  <path d="M210 178 Q228 162 230 140" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <!-- Thumb-up fist -->
+  <rect x="218" y="108" width="26" height="22" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Thumb sticking up -->
+  <rect x="218" y="90" width="12" height="20" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Sparkle top-left -->
+  <polygon points="52,42 56,30 60,42 72,46 60,50 56,62 52,50 40,46" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Small sparkle near thumb -->
+  <polygon points="252,76 255,68 258,76 266,79 258,82 255,90 252,82 244,79" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+</svg>

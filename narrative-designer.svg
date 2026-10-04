@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- BACKGROUND PANEL -->
+  <rect x="22" y="22" width="246" height="196" rx="14" fill="#f5e7c4" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- BOOK (right side, lower) -->
+  <rect x="196" y="148" width="60" height="60" rx="5" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="200" y="152" width="52" height="52" rx="3" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Book spine -->
+  <rect x="196" y="148" width="10" height="60" rx="4" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Book lines -->
+  <line x1="210" y1="162" x2="244" y2="162" stroke="#7d5e23" stroke-width="2" stroke-linecap="round"/>
+  <line x1="210" y1="170" x2="244" y2="170" stroke="#7d5e23" stroke-width="2" stroke-linecap="round"/>
+  <line x1="210" y1="178" x2="244" y2="178" stroke="#7d5e23" stroke-width="2" stroke-linecap="round"/>
+  <line x1="210" y1="186" x2="230" y2="186" stroke="#7d5e23" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- BRANCHING STORY TREE (upper right) -->
+  <!-- Root node -->
+  <rect x="188" y="32" width="34" height="20" rx="5" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Branch lines -->
+  <line x1="205" y1="52" x2="172" y2="74" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="205" y1="52" x2="238" y2="74" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Left branch node -->
+  <rect x="152" y="72" width="40" height="20" rx="5" fill="#7c3fac" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Right branch node -->
+  <rect x="218" y="72" width="40" height="20" rx="5" fill="#7c3fac" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Sub-branches -->
+  <line x1="172" y1="92" x2="156" y2="112" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="172" y1="92" x2="188" y2="112" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="238" y1="92" x2="224" y2="112" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="238" y1="92" x2="252" y2="112" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Sub-branch nodes -->
+  <rect x="146" y="110" width="26" height="16" rx="4" fill="#3aa6a0" stroke="#000000" stroke-width="3"/>
+  <rect x="176" y="110" width="26" height="16" rx="4" fill="#3aa6a0" stroke="#000000" stroke-width="3"/>
+  <rect x="212" y="110" width="26" height="16" rx="4" fill="#3aa6a0" stroke="#000000" stroke-width="3"/>
+  <rect x="242" y="110" width="26" height="16" rx="4" fill="#3aa6a0" stroke="#000000" stroke-width="3"/>
+
+  <!-- DIALOGUE BUBBLE (near person) -->
+  <path d="M96 54 Q96 42 110 42 L138 42 Q152 42 152 54 Q152 66 138 66 L118 66 L112 74 L114 66 L110 66 Q96 66 96 54 Z" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Bubble dots -->
+  <circle cx="111" cy="54" r="3" fill="#4d4d4d"/>
+  <circle cx="124" cy="54" r="3" fill="#4d4d4d"/>
+  <circle cx="137" cy="54" r="3" fill="#4d4d4d"/>
+
+  <!-- PERSON (full body, left) -->
+  <!-- Head -->
+  <circle cx="56" cy="72" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M38 66 Q40 52 56 50 Q72 52 74 66 L71 64 Q66 54 56 54 Q46 54 41 64 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <circle cx="49" cy="70" r="3" fill="#000000"/>
+  <circle cx="63" cy="70" r="3" fill="#000000"/>
+  <!-- Mouth -->
+  <path d="M50 79 Q56 83 62 79" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Torso -->
+  <path d="M34 94 Q32 94 30 106 L30 156 Q30 160 34 160 L78 160 Q82 160 82 156 L82 106 Q80 94 78 94 L70 88 L56 92 L42 88 Z" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Collar -->
+  <path d="M50 92 L56 102 L62 92" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Left arm holding book -->
+  <path d="M30 106 L28 124 L30 142 Q32 150 40 150 L56 150 Q62 148 62 140 L60 108" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="45" cy="152" rx="8" ry="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Right arm raised, gesturing at tree -->
+  <path d="M82 106 L96 88 Q102 82 108 86 L110 90 Q114 96 108 102 L94 116" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="110" cy="88" rx="8" ry="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Trousers -->
+  <path d="M34 160 L30 214 L46 214 L56 180 L66 214 L82 214 L78 160 Z" fill="#392170" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Shoes -->
+  <ellipse cx="38" cy="214" rx="14" ry="7" fill="#000000" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="74" cy="214" rx="14" ry="7" fill="#000000" stroke="#000000" stroke-width="4"/>
+</svg>

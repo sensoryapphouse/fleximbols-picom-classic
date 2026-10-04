@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Rough terrain / hill -->
+  <polygon points="20,210 80,140 140,170 200,115 270,155 270,210" fill="#67832d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Dirt dots for rough texture -->
+  <circle cx="55" cy="190" r="4" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <circle cx="110" cy="180" r="4" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <circle cx="170" cy="175" r="4" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <circle cx="230" cy="175" r="4" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <!-- Rear wheel — knobbly (large knobs via dashed stroke) -->
+  <circle cx="95" cy="162" r="38" fill="none" stroke="#000000" stroke-width="7" stroke-dasharray="10 6"/>
+  <circle cx="95" cy="162" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="95" cy="162" r="7" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Front wheel — knobbly -->
+  <circle cx="205" cy="148" r="38" fill="none" stroke="#000000" stroke-width="7" stroke-dasharray="10 6"/>
+  <circle cx="205" cy="148" r="30" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="205" cy="148" r="7" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Rear suspension linkage -->
+  <rect x="88" y="118" width="14" height="10" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Frame -->
+  <line x1="95" y1="162" x2="150" y2="148" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="95" y1="162" x2="138" y2="108" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="138" y1="108" x2="150" y2="148" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <line x1="172" y1="88" x2="150" y2="148" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <line x1="138" y1="108" x2="172" y2="88" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <line x1="172" y1="88" x2="205" y2="148" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Frame fill -->
+  <polygon points="138,108 150,148 172,88" fill="#529929" stroke="none"/>
+  <!-- Front fork with suspension — thick upper, gap, lower -->
+  <line x1="172" y1="88" x2="178" y2="120" stroke="#000000" stroke-width="7" stroke-linecap="round"/>
+  <rect x="169" y="118" width="14" height="10" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="173" y1="128" x2="205" y2="148" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Head tube -->
+  <rect x="167" y="80" width="12" height="18" rx="4" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Bottom bracket -->
+  <circle cx="150" cy="148" r="8" fill="#7f7f7f" stroke="#000000" stroke-width="4"/>
+  <!-- Crank + pedal -->
+  <line x1="150" y1="148" x2="166" y2="162" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <rect x="163" y="160" width="16" height="6" rx="2" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Seat post -->
+  <line x1="138" y1="108" x2="132" y2="82" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Saddle — MTB short saddle -->
+  <path d="M120 80 Q132 72 144 78" fill="#000000" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Handlebar stem — riser bars (high) -->
+  <line x1="172" y1="82" x2="172" y2="60" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="152" y1="56" x2="192" y2="56" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <!-- RIDER -->
+  <!-- Legs -->
+  <line x1="150" y1="118" x2="138" y2="142" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="150" y1="118" x2="162" y2="140" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Shoes -->
+  <ellipse cx="135" cy="146" rx="9" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="165" cy="144" rx="9" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Shorts -->
+  <rect x="138" y="112" width="24" height="14" rx="3" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Torso — hunched forward -->
+  <line x1="150" y1="88" x2="150" y2="118" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Jersey -->
+  <rect x="138" y="88" width="24" height="28" rx="4" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Arms to bars -->
+  <line x1="142" y1="96" x2="155" y2="58" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="156" y1="98" x2="168" y2="58" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Head -->
+  <circle cx="150" cy="75" r="14" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Helmet — MTB full-face style -->
+  <path d="M136 76 Q137 60 150 58 Q163 60 164 76" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M136 76 Q138 82 150 83 Q162 82 164 76" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

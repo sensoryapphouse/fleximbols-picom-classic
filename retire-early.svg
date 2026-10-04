@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sand ground -->
+  <rect x="0" y="200" width="290" height="40" fill="#f5e7c4" stroke="#000000" stroke-width="3"/>
+  <!-- sea horizon -->
+  <rect x="0" y="170" width="290" height="30" fill="#3aa6a0" stroke="#000000" stroke-width="3"/>
+  <!-- sun -->
+  <circle cx="40" cy="50" r="22" fill="#ff9900" stroke="#000000" stroke-width="3"/>
+  <line x1="40" y1="18" x2="40" y2="8" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="40" y1="82" x2="40" y2="92" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="8" y1="50" x2="18" y2="50" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="72" y1="50" x2="62" y2="50" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="18" y1="28" x2="24" y2="34" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="56" y1="66" x2="62" y2="72" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- beach chair frame -->
+  <path d="M70 200 L130 145 L200 145 L200 160 L150 160 L120 195 L165 195 L165 210 L70 210 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- chair legs -->
+  <line x1="80" y1="210" x2="65" y2="225" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="190" y1="160" x2="200" y2="180" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- person FULL BODY reclined on chair -->
+  <!-- head -->
+  <circle cx="200" cy="125" r="16" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair (young, dark) -->
+  <path d="M185 120 Q200 102 215 120 Q213 112 200 110 Q188 112 185 120 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- sunglasses -->
+  <rect x="188" y="120" width="10" height="6" rx="2" ry="2" fill="#000000"/>
+  <rect x="202" y="120" width="10" height="6" rx="2" ry="2" fill="#000000"/>
+  <line x1="198" y1="123" x2="202" y2="123" stroke="#000000" stroke-width="2"/>
+  <!-- smile -->
+  <path d="M194 132 Q200 137 206 132" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- torso reclined -->
+  <path d="M186 140 L210 138 L185 175 L155 175 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arm resting -->
+  <path d="M180 150 L150 175" fill="none" stroke="#eed5b6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M180 150 L150 175" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="148" cy="177" r="7" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- other arm raised holding nothing (relaxed) -->
+  <path d="M205 145 L230 130" fill="none" stroke="#eed5b6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M205 145 L230 130" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="232" cy="128" r="7" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- legs stretched out along chair -->
+  <path d="M165 170 L100 190" fill="none" stroke="#2a4ec0" stroke-width="14" stroke-linecap="round"/>
+  <path d="M165 170 L100 190" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M150 175 L85 195" fill="none" stroke="#2a4ec0" stroke-width="14" stroke-linecap="round"/>
+  <!-- feet -->
+  <ellipse cx="86" cy="195" rx="10" ry="6" fill="#7d5e23" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="98" cy="190" rx="10" ry="6" fill="#7d5e23" stroke="#000000" stroke-width="2.5"/>
+
+  <!-- clock with arrow going back (early) -->
+  <circle cx="250" cy="65" r="28" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <line x1="250" y1="44" x2="250" y2="50" stroke="#000000" stroke-width="2.5"/>
+  <line x1="250" y1="80" x2="250" y2="86" stroke="#000000" stroke-width="2.5"/>
+  <line x1="229" y1="65" x2="235" y2="65" stroke="#000000" stroke-width="2.5"/>
+  <line x1="265" y1="65" x2="271" y2="65" stroke="#000000" stroke-width="2.5"/>
+  <!-- backward arrow around clock -->
+  <path d="M270 50 Q282 65 270 85" fill="none" stroke="#d01424" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M270 85 L262 78 L278 76 Z" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- clock hands -->
+  <line x1="250" y1="65" x2="250" y2="50" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="250" y1="65" x2="238" y2="65" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="250" cy="65" r="2.5" fill="#000000"/>
+
+  <!-- dollar coin in sand -->
+  <circle cx="40" cy="215" r="14" fill="#f2e40d" stroke="#000000" stroke-width="3"/>
+  <path d="M40 205 L40 225 M34 209 Q34 213 40 214 Q46 215 46 219 Q46 223 40 223 Q34 223 34 219" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

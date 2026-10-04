@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- aluminum foil: cardboard box + shiny foil roll + serrated tear edge + sheet -->
+
+  <!-- box body -->
+  <rect x="46" y="98" width="198" height="72" rx="5" ry="5" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- box top flap -->
+  <rect x="46" y="82" width="198" height="18" rx="4" ry="4" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- foil roll inside box (visible through front opening) -->
+  <ellipse cx="145" cy="134" rx="66" ry="22" fill="#efefef" stroke="#000000" stroke-width="4"/>
+  <!-- foil roll sheen (silver highlight) -->
+  <ellipse cx="132" cy="126" rx="26" ry="10" fill="#ffffff" stroke="none"/>
+
+  <!-- serrated tear-strip on box front edge (zigzag line) -->
+  <polyline points="46,168 58,176 70,168 82,176 94,168 106,176 118,168 130,176 142,168 154,176 166,168 178,176 190,168 202,176 214,168 226,176 238,168 244,168" fill="none" stroke="#000000" stroke-width="4" stroke-linejoin="miter" stroke-linecap="square"/>
+
+  <!-- curling foil sheet coming out of box -->
+  <path d="M88,168 L82,186 Q80,206 100,212 Q120,218 130,196 Q138,178 136,168" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- foil sheet highlight (shiny surface) -->
+  <path d="M92,172 L88,192 Q88,206 100,210" fill="none" stroke="#efefef" stroke-width="3" stroke-linecap="round"/>
+  <!-- foil bottom curl -->
+  <path d="M82,186 Q80,206 100,212 Q120,218 130,196" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl50" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl50)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

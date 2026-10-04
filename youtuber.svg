@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ring light stand -->
+  <circle cx="55" cy="95" r="34" fill="none" stroke="#f2e40d" stroke-width="10"/>
+  <circle cx="55" cy="95" r="34" fill="none" stroke="#000000" stroke-width="3"/>
+  <rect x="51" y="129" width="8" height="70" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <path d="M 35,205 L 75,205 L 70,212 L 40,212 Z" fill="#4d4d4d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- camera on tripod right -->
+  <rect x="225" y="80" width="50" height="38" rx="4" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <circle cx="250" cy="99" r="11" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <circle cx="250" cy="99" r="6" fill="#2a4ec0" stroke="#000000" stroke-width="1.5"/>
+  <rect x="232" y="74" width="14" height="8" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- record light -->
+  <circle cx="268" cy="88" r="3" fill="#f8130d" stroke="#000000" stroke-width="1.5"/>
+  <rect x="248" y="118" width="4" height="60" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <path d="M 230,205 L 270,205 L 260,178 L 240,178 Z" fill="#7f7f7f" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- FULL BODY youtuber centre -->
+  <!-- head -->
+  <circle cx="145" cy="68" r="17" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M 128,65 Q 128,48 145,46 Q 162,48 161,65 Q 156,57 146,55 Q 136,57 130,61 Z" fill="#000000" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="140" cy="70" r="1.8" fill="#000000"/>
+  <circle cx="150" cy="70" r="1.8" fill="#000000"/>
+  <path d="M 138,78 Q 145,82 152,78" fill="none" stroke="#000000" stroke-width="2.2" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="141" y="85" width="8" height="6" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- torso (hoodie) -->
+  <path d="M 125,91 L 165,91 L 172,165 L 118,165 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 125,91 Q 135,100 145,100 Q 155,100 165,91" fill="none" stroke="#000000" stroke-width="2"/>
+  <!-- left arm pointing to camera -->
+  <path d="M 125,95 Q 175,100 218,98" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 125,98 Q 175,103 218,101 Q 220,105 216,107 Q 175,109 125,104 Z" fill="#f8130d" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="218" cy="100" r="4.5" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- right arm down/thumbs up -->
+  <path d="M 165,95 Q 178,130 178,160" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 163,95 Q 175,128 175,160 Q 180,163 184,160 Q 184,128 167,93 Z" fill="#f8130d" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="180" cy="162" r="4.5" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- legs (jeans) -->
+  <rect x="125" y="165" width="18" height="42" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+  <rect x="147" y="165" width="18" height="42" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="134" cy="210" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="156" cy="210" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- YOUTUBE banner (path text simulated as small letterforms) -->
+  <rect x="90" y="20" width="110" height="22" rx="4" ry="4" fill="#f8130d" stroke="#000000" stroke-width="2.5"/>
+  <!-- Y -->
+  <path d="M 98,26 L 102,33 L 106,26 M 102,33 L 102,38" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- O -->
+  <ellipse cx="115" cy="32" rx="4" ry="6" fill="none" stroke="#ffffff" stroke-width="2.5"/>
+  <!-- U -->
+  <path d="M 124,26 L 124,35 Q 124,38 128,38 Q 132,38 132,35 L 132,26" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- T -->
+  <path d="M 138,26 L 146,26 M 142,26 L 142,38" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- U -->
+  <path d="M 152,26 L 152,35 Q 152,38 156,38 Q 160,38 160,35 L 160,26" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- B -->
+  <path d="M 166,38 L 166,26 L 172,26 Q 175,26 175,29 Q 175,32 172,32 L 166,32 M 172,32 Q 176,32 176,35 Q 176,38 172,38 L 166,38" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- E -->
+  <path d="M 188,26 L 182,26 L 182,38 L 188,38 M 182,32 L 187,32" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- play triangle inside banner -->
+</svg>

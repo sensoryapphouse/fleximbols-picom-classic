@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shoulders -->
+  <path d="M72 240 Q82 192 112 182 Q145 176 178 182 Q208 192 218 240 Z" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="128" y="155" width="34" height="30" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="118" rx="60" ry="62" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Closed eyes - calm arcs -->
+  <path d="M108 110 Q122 102 136 110" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M154 110 Q168 102 182 110" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Even soft smile -->
+  <path d="M122 142 Q145 158 168 142" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Soft cheeks -->
+  <ellipse cx="104" cy="132" rx="13" ry="8" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="186" cy="132" rx="13" ry="8" fill="#f4a4b2" stroke="none"/>
+  <!-- Breathing wave line below (steady sine wave) -->
+  <path d="M32 210 Q52 192 72 210 Q92 228 112 210 Q132 192 152 210 Q172 228 192 210 Q212 192 232 210 Q252 228 260 218" fill="none" stroke="#3aa6a0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Small nose -->
+  <path d="M140 122 Q145 130 150 122" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

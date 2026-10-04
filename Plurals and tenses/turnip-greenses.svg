@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,19.584) scale(0.9184)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- turnip-greens: leaves at top of small white-purple turnip root -->
+  <!-- ground -->
+  <path d="M40,180 L250,180 L250,195 L40,195 Z" fill="#9d7246" stroke="#000000" stroke-width="2.5"/>
+  <!-- turnip root (white with purple shoulders) -->
+  <path d="M105,150 Q100,210 145,220 Q190,210 185,150 Q175,140 145,142 Q115,140 105,150 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- purple shoulders -->
+  <path d="M105,150 Q115,140 145,142 Q175,140 185,150 Q175,160 145,160 Q115,160 105,150 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- tap root -->
+  <path d="M145,220 Q148,228 145,235" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- big leafy top -->
+  <!-- stems -->
+  <path d="M125,150 Q115,110 95,75" stroke="#67832d" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M145,148 L145,40" stroke="#67832d" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M165,150 Q175,110 195,75" stroke="#67832d" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M115,150 Q90,130 65,110" stroke="#67832d" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M175,150 Q200,130 225,110" stroke="#67832d" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- leaves: broad with toothed edges -->
+  <path d="M65,110 Q40,95 45,75 Q55,55 80,55 Q95,65 100,85 Q98,100 90,108 Q78,118 65,110 Z M45,75 Q55,70 60,80 M52,90 Q62,85 68,95" fill="#137827" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M225,110 Q250,95 245,75 Q235,55 210,55 Q195,65 190,85 Q192,100 200,108 Q212,118 225,110 Z M245,75 Q235,70 230,80 M238,90 Q228,85 222,95" fill="#137827" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M95,75 Q75,55 85,35 Q105,25 125,40 Q135,55 130,75 Q125,90 115,95 Q100,90 95,75 Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M195,75 Q215,55 205,35 Q185,25 165,40 Q155,55 160,75 Q165,90 175,95 Q190,90 195,75 Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M145,40 Q120,30 122,55 Q108,60 118,80 Q115,95 130,100 Q145,108 160,100 Q175,95 172,80 Q182,60 168,55 Q170,30 145,40 Z" fill="#67832d" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- center leaf vein -->
+  <path d="M145,45 L145,100" stroke="#529929" stroke-width="1.5"/>
+</g><g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl3019" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl3019)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Evening window / wall glow -->
+  <rect x="20" y="14" width="80" height="56" rx="4" fill="#ff9900" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Window pane cross -->
+  <line x1="60" y1="14" x2="60" y2="70" stroke="#000000" stroke-width="3"/>
+  <line x1="20" y1="42" x2="100" y2="42" stroke="#000000" stroke-width="3"/>
+  <!-- Sun setting in window -->
+  <ellipse cx="60" cy="68" rx="22" ry="12" fill="#f8130d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Floor -->
+  <rect x="20" y="197" width="250" height="8" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Desk -->
+  <rect x="20" y="156" width="160" height="10" rx="3" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="30" y="166" width="10" height="31" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="156" y="166" width="10" height="31" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Laptop (closing / being shut) -->
+  <rect x="60" y="132" width="60" height="8" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="60" y="138" width="60" height="20" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Screen partially closed -->
+  <rect x="64" y="114" width="52" height="22" rx="3" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round" transform="rotate(-20 64 138)"/>
+  <!-- Bag on desk -->
+  <rect x="138" y="128" width="34" height="30" rx="5" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M148 128 Q148 118 162 118 Q176 118 176 128" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <rect x="148" y="134" width="20" height="6" rx="2" fill="#90a7d6" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Figure standing, active packing -->
+  <!-- Legs -->
+  <line x1="222" y1="172" x2="216" y2="197" stroke="#1d0e82" stroke-width="10" stroke-linecap="round"/>
+  <line x1="234" y1="172" x2="240" y2="197" stroke="#1d0e82" stroke-width="10" stroke-linecap="round"/>
+  <!-- Shoes -->
+  <ellipse cx="215" cy="198" rx="9" ry="5" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="241" cy="198" rx="9" ry="5" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Torso -->
+  <rect x="212" y="128" width="28" height="44" rx="8" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="226" cy="113" rx="16" ry="17" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Hair -->
+  <ellipse cx="226" cy="99" rx="16" ry="9" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Face: eyes -->
+  <ellipse cx="220" cy="112" rx="3" ry="3" fill="#000000"/>
+  <ellipse cx="232" cy="112" rx="3" ry="3" fill="#000000"/>
+  <!-- Smile -->
+  <path d="M219 121 Q226 127 233 121" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Left arm reaching toward laptop on desk -->
+  <line x1="212" y1="140" x2="188" y2="148" stroke="#e6b98a" stroke-width="9" stroke-linecap="round"/>
+  <!-- Right arm down relaxed -->
+  <line x1="240" y1="140" x2="256" y2="158" stroke="#e6b98a" stroke-width="9" stroke-linecap="round"/>
+</svg>

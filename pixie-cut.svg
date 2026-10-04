@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Side-profile head, very short pixie cut, above-ear length -->
+  <!-- Neck and shoulder -->
+  <path d="M120 175 L120 158 L168 158 L168 175 L210 200 L210 230 L70 230 L70 200 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Face (side profile facing right) -->
+  <path d="M170 88 Q190 92 194 115 Q196 138 188 152 L182 156 L186 170 L168 170 L148 170 Q136 168 128 156 Q116 140 116 118 Q118 92 145 84 Q160 82 170 88 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Ear (fully visible since pixie is above ear) -->
+  <path d="M148 122 Q142 128 145 142 Q150 148 158 144" fill="#e6b98a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Eye -->
+  <circle cx="180" cy="118" r="2.5" fill="#000000" stroke="#000000" stroke-width="1"/>
+  <!-- Eyebrow -->
+  <path d="M175 110 L186 110" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M194 118 Q200 128 194 134" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Mouth -->
+  <path d="M184 145 Q190 148 194 145" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- PIXIE: very short hair, hugs skull, above ear, wispy texture -->
+  <path d="M118 110 Q118 70 160 62 Q205 65 210 100 L208 118 Q200 92 188 86 Q175 80 160 80 Q140 82 130 92 Q122 102 120 116 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Short front fringe -->
+  <path d="M158 78 Q175 80 188 90 L184 96 Q172 86 160 86 Q150 86 144 92 L140 86 Q150 78 158 78 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Wispy short tendrils near temple -->
+  <path d="M122 110 L116 105 M124 100 L120 93 M130 92 L128 85" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Texture flicks on top showing short choppy style -->
+  <path d="M150 64 L150 58 M165 62 L165 56 M180 64 L180 58 M195 70 L198 64" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+</svg>

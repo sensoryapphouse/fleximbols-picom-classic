@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <rect x="22" y="96" width="34" height="52" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="27" y="102" width="24" height="36" rx="3" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <circle cx="39" cy="105" r="3" fill="#000000"/>
+  <rect x="56" y="112" width="40" height="16" rx="7" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="58" cy="120" rx="9" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <rect x="72" y="188" width="15" height="34" rx="5" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="91" y="188" width="15" height="34" rx="5" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="79.5" cy="224" rx="10" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="98.5" cy="224" rx="10" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <rect x="68" y="126" width="48" height="64" rx="9" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="52" y="130" width="16" height="42" rx="7" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="92" cy="108" rx="24" ry="26" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <path d="M68 100 Q69 76 92 74 Q115 76 116 100 Q104 86 92 86 Q80 86 68 100Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="84" cy="108" r="3" fill="#000000"/>
+  <circle cx="100" cy="108" r="3" fill="#000000"/>
+  <path d="M84 118 Q92 124 100 118" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="132" y="196" width="13" height="26" rx="5" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="149" y="196" width="13" height="26" rx="5" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="138.5" cy="224" rx="9" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="155.5" cy="224" rx="9" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <rect x="128" y="146" width="40" height="52" rx="8" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="148" cy="128" rx="20" ry="22" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <path d="M128 118 Q129 100 148 98 Q167 100 168 118 Q158 106 148 106 Q138 106 128 118Z" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="130" cy="112" r="5" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <circle cx="166" cy="112" r="5" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <circle cx="141" cy="128" r="3" fill="#000000"/>
+  <circle cx="155" cy="128" r="3" fill="#000000"/>
+  <path d="M141 138 Q148 144 155 138" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="186" y="188" width="15" height="34" rx="5" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="205" y="188" width="15" height="34" rx="5" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="193.5" cy="224" rx="10" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="212.5" cy="224" rx="10" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <rect x="182" y="126" width="48" height="64" rx="9" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="230" y="130" width="16" height="42" rx="7" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="206" cy="108" rx="24" ry="26" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <path d="M182 96 Q183 74 206 72 Q229 74 230 96 Q218 80 206 80 Q194 80 182 96Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="198" cy="108" r="3" fill="#000000"/>
+  <circle cx="214" cy="108" r="3" fill="#000000"/>
+  <path d="M198 118 Q206 124 214 118" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

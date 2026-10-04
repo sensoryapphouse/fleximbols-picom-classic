@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Bust: face chewing steadily, full cheeks, contented rhythmic chewing -->
+  <!-- Shoulders bust -->
+  <path d="M55 178 Q55 150 78 140 L126 126 L164 126 L212 140 Q235 150 235 178 L235 240 L55 240 Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="128" y="116" width="34" height="22" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head — fuller/rounder for full cheeks look -->
+  <ellipse cx="145" cy="74" rx="58" ry="58" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Hair -->
+  <path d="M88 58 Q92 14 145 11 Q198 14 202 58 Q190 32 145 28 Q100 32 88 58 Z" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Eyes half-closed contented -->
+  <path d="M116 65 Q124 58 132 65" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="124" cy="67" rx="8" ry="5" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <path d="M158 65 Q166 58 174 65" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="166" cy="67" rx="8" ry="5" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="124" cy="68" r="4" fill="#4d4d4d"/>
+  <circle cx="166" cy="68" r="4" fill="#4d4d4d"/>
+  <!-- Happy brows slightly raised -->
+  <path d="M114 56 Q124 50 134 55" fill="none" stroke="#5e1f0a" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M156 55 Q166 50 176 55" fill="none" stroke="#5e1f0a" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Nose -->
+  <circle cx="139" cy="80" r="3" fill="#e6b98a"/>
+  <circle cx="151" cy="80" r="3" fill="#e6b98a"/>
+  <!-- Cheeks puffed full — steady chewing, contented -->
+  <ellipse cx="100" cy="94" rx="22" ry="18" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="190" cy="94" rx="22" ry="18" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Mouth chewing, closed, curved content line, slight jaw motion -->
+  <path d="M122 100 Q135 104 145 103 Q155 104 168 100 Q162 110 145 112 Q128 110 122 100 Z" fill="#f266aa" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Contented smile lines at corners -->
+  <path d="M120 100 Q115 96 116 90" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M170 100 Q175 96 174 90" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Food being held — sandwich (classic munch food) -->
+  <path d="M78 142 Q55 128 44 110" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M78 142 Q55 128 44 110" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M212 142 Q235 128 246 110" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M212 142 Q235 128 246 110" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Sandwich held in both hands up near mouth -->
+  <!-- Bottom bread slice -->
+  <path d="M30 120 Q30 108 48 106 L100 106 Q118 108 118 120 L118 132 L30 132 Z" fill="#f5e7c4" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Filling (lettuce green, tomato red) -->
+  <rect x="30" y="116" width="88" height="8" rx="0" fill="#529929" stroke="none"/>
+  <rect x="30" y="110" width="88" height="7" rx="0" fill="#f8130d" stroke="none"/>
+  <!-- Top bread slice -->
+  <path d="M30 106 Q30 94 48 92 L100 92 Q118 94 118 106 L30 106 Z" fill="#f5e7c4" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Sesame seeds on top -->
+  <ellipse cx="60" cy="98" rx="4" ry="2" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="75" cy="96" rx="4" ry="2" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="90" cy="98" rx="4" ry="2" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <!-- Bite already taken out of sandwich -->
+  <path d="M118 92 Q130 108 118 124" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Chewing motion arc dots above head -->
+  <circle cx="145" cy="14" r="4" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <circle cx="158" cy="10" r="3" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <circle cx="170" cy="8" r="2" fill="#529929" stroke="#000000" stroke-width="2"/>
+</svg>

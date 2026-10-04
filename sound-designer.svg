@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- SOUND-DESIGNER: person at mixing desk with faders, waveform on screen above -->
+  <!-- Screen above mixer -->
+  <rect x="62" y="52" width="156" height="68" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="70" y="59" width="140" height="54" rx="3" fill="#000000" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Waveform on screen -->
+  <polyline points="74,86 82,86 86,70 90,102 94,78 98,94 102,72 106,100 110,82 114,90 118,68 122,104 126,80 130,92 134,72 138,98 142,84 146,88 150,72 154,100 158,86 162,88 166,86 170,86 174,86 178,86 182,86 186,86 190,86 194,86 198,86 202,86" fill="none" stroke="#3aa6a0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Mixer desk body -->
+  <rect x="44" y="122" width="202" height="54" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Fader tracks (5 faders) -->
+  <rect x="58" y="130" width="8" height="36" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="86" y="130" width="8" height="36" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="114" y="130" width="8" height="36" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="142" y="130" width="8" height="36" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="170" y="130" width="8" height="36" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Fader caps at different heights -->
+  <rect x="54" y="148" width="16" height="8" rx="2" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="82" y="138" width="16" height="8" rx="2" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="110" y="153" width="16" height="8" rx="2" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="138" y="143" width="16" height="8" rx="2" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="166" y="136" width="16" height="8" rx="2" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Knobs -->
+  <circle cx="202" cy="138" r="7" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <circle cx="222" cy="138" r="7" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <circle cx="202" cy="158" r="7" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <circle cx="222" cy="158" r="7" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <!-- Desk legs -->
+  <rect x="52" y="176" width="10" height="28" rx="3" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="228" y="176" width="10" height="28" rx="3" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Headphones around person's neck/head area -->
+  <!-- Chair -->
+  <rect x="188" y="186" width="52" height="10" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="230" y="164" width="12" height="28" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="194" y1="196" x2="190" y2="214" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="232" y1="196" x2="236" y2="214" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Person: legs -->
+  <line x1="198" y1="196" x2="192" y2="220" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="218" y1="196" x2="218" y2="220" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="190" cy="222" rx="8" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="218" cy="222" rx="8" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Person: torso -->
+  <rect x="196" y="152" width="28" height="36" rx="5" fill="#3aa6a0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Arms: reaching forward to mixer -->
+  <line x1="196" y1="162" x2="178" y2="172" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="176" cy="174" r="5" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <line x1="224" y1="162" x2="242" y2="170" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="244" cy="172" r="5" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Person: neck -->
+  <rect x="204" y="143" width="10" height="10" rx="2" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Person: head -->
+  <circle cx="209" cy="133" r="14" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Headphones -->
+  <path d="M196 130 Q209 116 222 130" fill="none" stroke="#4d4d4d" stroke-width="5" stroke-linecap="round"/>
+  <rect x="192" y="128" width="8" height="10" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <rect x="219" y="128" width="8" height="10" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- Hair -->
+  <path d="M195 129 Q209 118 223 129" fill="#000000" stroke="none"/>
+</svg>

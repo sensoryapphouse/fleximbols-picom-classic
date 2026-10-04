@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Neck -->
+  <rect x="125" y="148" width="40" height="28" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shoulders / bust - leaning forward, so bust shifted slightly up/forward -->
+  <path d="M55 240 Q58 192 93 185 L145 177 L197 185 Q232 192 235 240 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Body lean - torso tilt forward -->
+  <path d="M100 240 Q98 210 112 200 L145 195 L178 200 Q192 210 190 240 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Head - slightly tilted forward (y shifted up a touch) -->
+  <ellipse cx="145" cy="104" rx="62" ry="66" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <ellipse cx="145" cy="52" rx="62" ry="24" fill="#5e1f0a" stroke="#000000" stroke-width="5"/>
+  <rect x="83" y="44" width="124" height="20" rx="8" fill="#5e1f0a" stroke="#000000" stroke-width="5"/>
+  <!-- Left eyebrow - raised up (interest) -->
+  <path d="M100 76 Q118 64 136 70" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Right eyebrow - raised up (interest) -->
+  <path d="M154 70 Q172 63 190 74" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Left eye - wide open, attentive, bright -->
+  <ellipse cx="118" cy="96" rx="14" ry="16" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="121" cy="98" r="9" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <circle cx="124" cy="95" r="4" fill="#ffffff"/>
+  <!-- Right eye - wide open, attentive -->
+  <ellipse cx="172" cy="96" rx="14" ry="16" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="175" cy="98" r="9" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <circle cx="178" cy="95" r="4" fill="#ffffff"/>
+  <!-- Nose -->
+  <path d="M140 108 L136 122 L143 124 L150 122 L146 108" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Slight smile (engaged) -->
+  <path d="M118 136 Q145 148 172 136" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Attention lines - radiating from eyes to show focus -->
+  <line x1="240" y1="55" x2="220" y2="75" stroke="#f7de58" stroke-width="3" stroke-linecap="round"/>
+  <line x1="248" y1="70" x2="224" y2="82" stroke="#f7de58" stroke-width="3" stroke-linecap="round"/>
+  <line x1="244" y1="44" x2="228" y2="68" stroke="#f7de58" stroke-width="3" stroke-linecap="round"/>
+</svg>

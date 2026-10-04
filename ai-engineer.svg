@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- AI brain icon top-right -->
+  <path d="M195 50 Q180 50 178 65 Q165 70 170 85 Q165 100 180 105 Q185 118 200 115 Q210 122 222 115 Q235 118 240 105 Q252 100 248 85 Q252 70 240 65 Q235 50 220 50 Q207 45 195 50 Z" fill="#f266aa" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Brain fold lines -->
+  <path d="M195 65 Q200 75 195 85 Q200 95 195 105" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M210 60 Q215 75 210 90 Q215 100 210 110" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M225 65 Q230 80 225 95 Q230 105 225 112" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Circuit nodes on brain -->
+  <circle cx="195" cy="75" r="3" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="225" cy="80" r="3" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="210" cy="100" r="3" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+  <!-- Neural network / data flow nodes -->
+  <circle cx="160" cy="155" r="7" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <circle cx="160" cy="180" r="7" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <circle cx="160" cy="205" r="7" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <circle cx="205" cy="155" r="7" fill="#7c3fac" stroke="#000000" stroke-width="2"/>
+  <circle cx="205" cy="180" r="7" fill="#7c3fac" stroke="#000000" stroke-width="2"/>
+  <circle cx="205" cy="205" r="7" fill="#7c3fac" stroke="#000000" stroke-width="2"/>
+  <circle cx="250" cy="180" r="8" fill="#3aa6a0" stroke="#000000" stroke-width="2"/>
+  <!-- Connections -->
+  <path d="M167 155 L198 155 M167 155 L198 180 M167 155 L198 205 M167 180 L198 155 M167 180 L198 180 M167 180 L198 205 M167 205 L198 155 M167 205 L198 180 M167 205 L198 205 M212 155 L243 178 M212 180 L243 180 M212 205 L243 183" stroke="#4d4d4d" stroke-width="1.5" fill="none"/>
+  <!-- Engineer FULL BODY -->
+  <!-- Legs -->
+  <rect x="62" y="170" width="14" height="45" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <rect x="84" y="170" width="14" height="45" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <!-- Shoes -->
+  <ellipse cx="69" cy="217" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="91" cy="217" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- Torso shirt -->
+  <path d="M48 115 Q48 108 80 108 Q112 108 112 115 L112 175 L48 175 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- AI mini node graph on shirt -->
+  <circle cx="68" cy="135" r="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="80" cy="145" r="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="92" cy="135" r="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="80" cy="125" r="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+  <path d="M68 135 L80 125 L92 135 L80 145 Z M68 135 L92 135 M80 125 L80 145" stroke="#ffffff" stroke-width="1.5" fill="none"/>
+  <!-- Arms -->
+  <path d="M48 118 L30 158 L40 164 L62 130 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M112 118 L138 158 L128 164 L105 130 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Hands -->
+  <circle cx="35" cy="161" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <circle cx="133" cy="161" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- Head -->
+  <circle cx="80" cy="85" r="22" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- Hair -->
+  <path d="M60 82 Q60 60 80 58 Q102 60 102 82 Q96 72 80 70 Q64 72 60 82 Z" fill="#392170" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Glasses -->
+  <circle cx="72" cy="87" r="5" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="88" cy="87" r="5" fill="none" stroke="#000000" stroke-width="2"/>
+  <path d="M77 87 L83 87" stroke="#000000" stroke-width="2"/>
+  <!-- Eyes (visible in glasses) -->
+  <circle cx="72" cy="87" r="1.8" fill="#000000"/>
+  <circle cx="88" cy="87" r="1.8" fill="#000000"/>
+  <!-- Smile -->
+  <path d="M74 98 Q80 102 86 98" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="75" y="105" width="10" height="8" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+</svg>

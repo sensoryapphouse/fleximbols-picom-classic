@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- back wall with row of large monitor screens -->
+  <rect x="14" y="20" width="80" height="56" rx="3" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <rect x="100" y="20" width="80" height="56" rx="3" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <rect x="186" y="20" width="80" height="56" rx="3" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <!-- monitor content: world map / trajectory -->
+  <circle cx="54" cy="48" r="18" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <path d="M 38 44 Q 50 50 70 46" fill="none" stroke="#fff200" stroke-width="2"/>
+  <path d="M 110 50 Q 140 30 170 50" fill="none" stroke="#fff200" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="170" cy="50" r="4" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <rect x="194" y="30" width="16" height="6" fill="#529929" stroke="#000000" stroke-width="1.5"/>
+  <rect x="194" y="42" width="24" height="6" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+  <rect x="194" y="54" width="20" height="6" fill="#f8130d" stroke="#000000" stroke-width="1.5"/>
+  <line x1="236" y1="32" x2="258" y2="32" stroke="#fff200" stroke-width="2"/>
+  <line x1="236" y1="44" x2="258" y2="44" stroke="#fff200" stroke-width="2"/>
+  <line x1="236" y1="56" x2="258" y2="56" stroke="#fff200" stroke-width="2"/>
+  <line x1="236" y1="68" x2="258" y2="68" stroke="#fff200" stroke-width="2"/>
+  <!-- console desk row -->
+  <rect x="0" y="160" width="290" height="40" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <rect x="0" y="200" width="290" height="40" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <!-- individual console partitions -->
+  <line x1="96" y1="160" x2="96" y2="200" stroke="#000000" stroke-width="2"/>
+  <line x1="194" y1="160" x2="194" y2="200" stroke="#000000" stroke-width="2"/>
+  <!-- small desk monitors -->
+  <rect x="22" y="138" width="54" height="32" rx="2" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <rect x="28" y="144" width="42" height="22" fill="#3aa6a0" stroke="#000000" stroke-width="2"/>
+  <rect x="118" y="138" width="54" height="32" rx="2" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <rect x="124" y="144" width="42" height="22" fill="#3aa6a0" stroke="#000000" stroke-width="2"/>
+  <rect x="214" y="138" width="54" height="32" rx="2" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <rect x="220" y="144" width="42" height="22" fill="#3aa6a0" stroke="#000000" stroke-width="2"/>
+  <!-- operator 1 (left) - head & shoulders behind console -->
+  <circle cx="48" cy="120" r="14" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M 36 110 Q 48 100 60 110 Q 60 116 48 116 Q 36 116 36 110 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="43" cy="122" r="1.5" fill="#000000"/>
+  <circle cx="53" cy="122" r="1.5" fill="#000000"/>
+  <path d="M 22 158 Q 22 138 48 134 Q 74 138 74 158 Z" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- operator 2 (middle) -->
+  <circle cx="146" cy="120" r="14" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M 134 112 Q 146 102 158 112 Q 156 116 146 114 Q 136 116 134 112 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="141" cy="122" r="1.5" fill="#000000"/>
+  <circle cx="151" cy="122" r="1.5" fill="#000000"/>
+  <path d="M 120 158 Q 120 138 146 134 Q 172 138 172 158 Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- operator 3 (right) -->
+  <circle cx="244" cy="120" r="14" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <path d="M 232 110 Q 244 100 256 110 Q 256 116 244 116 Q 232 116 232 110 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="239" cy="122" r="1.5" fill="#000000"/>
+  <circle cx="249" cy="122" r="1.5" fill="#000000"/>
+  <path d="M 218 158 Q 218 138 244 134 Q 270 138 270 158 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

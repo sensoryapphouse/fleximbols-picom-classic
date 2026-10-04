@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Festival of lights: rows of diyas + strung lights + sparkles -->
+  <!-- String lines -->
+  <path d="M25 65 Q72 55 120 65 Q168 75 215 65 Q240 58 265 65" fill="none" stroke="#7d5e23" stroke-width="5" stroke-linecap="round"/>
+  <path d="M25 65 Q40 80 50 68" fill="none" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 65 Q135 80 145 68" fill="none" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <path d="M215 65 Q230 80 240 68" fill="none" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <!-- Hanging bulb lights -->
+  <circle cx="50" cy="72" r="10" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="50" cy="72" r="5" fill="#f7de58" stroke="none"/>
+  <circle cx="95" cy="76" r="10" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="95" cy="76" r="5" fill="#fff200" stroke="none"/>
+  <circle cx="145" cy="72" r="10" fill="#ff9900" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="145" cy="72" r="5" fill="#f7de58" stroke="none"/>
+  <circle cx="195" cy="76" r="10" fill="#7c3fac" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="195" cy="76" r="5" fill="#f4a4b2" stroke="none"/>
+  <circle cx="240" cy="72" r="10" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="240" cy="72" r="5" fill="#dff3fd" stroke="none"/>
+  <!-- Row of 5 diya lamps on shelf -->
+  <!-- Shelf -->
+  <rect x="22" y="155" width="246" height="10" rx="5" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Diya 1 -->
+  <path d="M40 133 Q37 142 42 148 Q50 155 60 155 Q70 155 75 148 Q80 142 77 133 Q70 128 60 128 Q50 128 40 133Z" fill="#e6b98a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="60" cy="134" rx="14" ry="5" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M60 128 Q65 125 68 121" fill="none" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="68" cy="116" rx="5" ry="8" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="68" cy="118" rx="3" ry="5" fill="#f2e40d" stroke="none"/>
+  <!-- Diya 2 -->
+  <path d="M88 133 Q85 142 90 148 Q98 155 108 155 Q118 155 123 148 Q128 142 125 133 Q118 128 108 128 Q98 128 88 133Z" fill="#e6b98a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="108" cy="134" rx="14" ry="5" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M108 128 Q113 125 116 121" fill="none" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="116" cy="116" rx="5" ry="8" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="116" cy="118" rx="3" ry="5" fill="#f7de58" stroke="none"/>
+  <!-- Diya 3 (centre) -->
+  <path d="M136 133 Q133 142 138 148 Q146 155 156 155 Q166 155 171 148 Q176 142 173 133 Q166 128 156 128 Q146 128 136 133Z" fill="#e6b98a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="156" cy="134" rx="14" ry="5" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M156 128 Q161 125 164 121" fill="none" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="164" cy="116" rx="5" ry="8" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="164" cy="118" rx="3" ry="5" fill="#f2e40d" stroke="none"/>
+  <!-- Diya 4 -->
+  <path d="M184 133 Q181 142 186 148 Q194 155 204 155 Q214 155 219 148 Q224 142 221 133 Q214 128 204 128 Q194 128 184 133Z" fill="#e6b98a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="204" cy="134" rx="14" ry="5" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M204 128 Q209 125 212 121" fill="none" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="212" cy="116" rx="5" ry="8" fill="#529929" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="212" cy="118" rx="3" ry="5" fill="#fff200" stroke="none"/>
+  <!-- Diya 5 -->
+  <path d="M232 133 Q229 142 234 148 Q242 155 252 155 Q262 155 267 148 Q272 142 269 133 Q262 128 252 128 Q242 128 232 133Z" fill="#e6b98a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="252" cy="134" rx="14" ry="5" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M252 128 Q257 125 260 121" fill="none" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="260" cy="116" rx="5" ry="8" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="260" cy="118" rx="3" ry="5" fill="#f4a4b2" stroke="none"/>
+  <!-- Sparkles -->
+  <path d="M30 105 L33 98 L36 105 L43 108 L36 111 L33 118 L30 111 L23 108Z" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M255 100 L257 95 L259 100 L264 102 L259 104 L257 109 L255 104 L250 102Z" fill="#fff200" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M140 95 L142 91 L144 95 L148 97 L144 99 L142 103 L140 99 L136 97Z" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- wedding-bouquet: bride's bouquet with ribbon, variety of flowers, held -->
+
+  <!-- hand holding bouquet at bottom -->
+  <path d="M115 195 Q115 220 145 220 Q175 220 175 195 L170 175 L120 175 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- fingers -->
+  <path d="M125 195 Q128 215 135 215" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M145 195 L145 218" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M165 195 Q162 215 155 215" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- stems wrapped -->
+  <rect x="125" y="155" width="40" height="30" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- ribbon wrap -->
+  <rect x="118" y="160" width="54" height="14" fill="#f4a4b2" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- ribbon trailing tails -->
+  <path d="M125 174 Q115 195 110 215 L120 215 Q125 200 132 178 Z" fill="#f4a4b2" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M165 174 Q175 195 180 215 L170 215 Q165 200 158 178 Z" fill="#f4a4b2" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- big green leaf base -->
+  <ellipse cx="145" cy="100" rx="70" ry="55" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <!-- leaves poking out -->
+  <path d="M80 105 Q60 100 55 80" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M210 105 Q230 100 235 80" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M85 135 Q70 140 60 155" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M205 135 Q220 140 230 155" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- variety of flowers -->
+  <!-- big white rose center -->
+  <circle cx="145" cy="95" r="22" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <path d="M145 80 Q138 88 145 95 Q152 88 145 80 M130 95 Q138 100 145 95 Q138 90 130 95 M160 95 Q152 90 145 95 Q152 100 160 95 M145 110 Q138 102 145 95 Q152 102 145 110" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- pink rose upper-left -->
+  <circle cx="105" cy="75" r="16" fill="#f266aa" stroke="#000000" stroke-width="2.5"/>
+  <path d="M105 65 Q100 72 105 75 Q110 72 105 65 M97 80 Q102 78 105 75" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- red rose upper-right -->
+  <circle cx="185" cy="75" r="16" fill="#d01424" stroke="#000000" stroke-width="2.5"/>
+  <path d="M185 65 Q180 72 185 75 Q190 72 185 65" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- yellow daisy lower-left -->
+  <g transform="translate(95 130)">
+    <circle r="9" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+    <circle r="4" fill="#ff9900" stroke="#000000" stroke-width="1.5"/>
+  </g>
+
+  <!-- lavender flower lower-right -->
+  <circle cx="195" cy="130" r="11" fill="#7c3fac" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="195" cy="130" r="4" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+
+  <!-- small white buds dotted around -->
+  <circle cx="120" cy="115" r="5" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="170" cy="115" r="5" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="145" cy="50" r="6" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="145" cy="140" r="6" fill="#f4a4b2" stroke="#000000" stroke-width="2"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl3147" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl3147)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

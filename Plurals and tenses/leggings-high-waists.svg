@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground -->
+  <line x1="20" y1="228" x2="270" y2="228" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- head -->
+  <circle cx="145" cy="36" r="20" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair ponytail -->
+  <path d="M127 30 Q128 16 145 14 Q162 16 163 30 Q156 24 145 26 Q134 28 127 30 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M163 30 Q176 38 174 56 Q170 60 166 50 Q164 40 161 36 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- face -->
+  <circle cx="139" cy="36" r="2" fill="#000000"/>
+  <circle cx="151" cy="36" r="2" fill="#000000"/>
+  <path d="M139 44 Q145 48 151 44" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="139" y="54" width="12" height="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- short crop top (to show high waistband clearly) -->
+  <path d="M118 66 Q118 62 126 62 L164 62 Q172 62 172 66 L174 90 Q174 96 145 96 Q116 96 116 90 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms relaxed at side -->
+  <path d="M118 70 Q98 78 92 118 Q92 130 100 132 L110 130 Q110 116 116 92 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M172 70 Q192 78 198 118 Q198 130 190 132 L180 130 Q180 116 174 92 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- exposed midriff (small) showing skin above HIGH waistband -->
+  <rect x="116" y="94" width="58" height="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- HIGH WAISTBAND - thick, prominent, sits above natural waist -->
+  <rect x="112" y="100" width="66" height="20" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- waistband highlight -->
+  <line x1="116" y1="108" x2="174" y2="108" stroke="#4d4d4d" stroke-width="2"/>
+  <!-- leggings - full length -->
+  <path d="M112 120 Q108 160 112 200 Q112 220 116 226 L142 226 Q144 210 144 180 Q146 150 144 120 Z" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M146 120 Q146 150 146 180 Q146 210 148 226 L174 226 Q178 220 178 200 Q182 160 178 120 Z" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- center seam -->
+  <line x1="145" y1="124" x2="145" y2="220" stroke="#392170" stroke-width="2"/>
+  <!-- arrow showing HIGH waist position -->
+  <path d="M64 100 L90 100" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M84 94 L90 100 L84 106" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44 92 L60 92 L60 108 L44 108 Z" fill="#fff200" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M48 96 L48 104 M52 96 L52 104 M56 96 L56 104" stroke="#000000" stroke-width="2"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl1559" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl1559)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

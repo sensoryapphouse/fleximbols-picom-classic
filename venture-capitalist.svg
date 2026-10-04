@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Rocket -->
+  <!-- Rocket body -->
+  <path d="M200,50 Q220,30 240,50 L240,140 L220,154 L200,140 Z" fill="#efefef" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Rocket nose cone -->
+  <path d="M200,50 Q220,20 240,50" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Rocket window -->
+  <circle cx="220" cy="90" r="14" fill="#dff3fd" stroke="#000000" stroke-width="4"/>
+  <!-- Rocket fins -->
+  <polygon points="200,120 186,150 200,140" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <polygon points="240,120 254,150 240,140" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Rocket flames -->
+  <path d="M208,154 Q214,178 220,186 Q226,178 232,154" fill="#ff9900" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M212,154 Q218,172 220,176 Q222,172 228,154" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Up arrow -->
+  <polygon points="160,60 172,90 164,90 164,120 156,120 156,90 148,90" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Money bag -->
+  <circle cx="76" cy="148" r="32" fill="#f7de58" stroke="#000000" stroke-width="5"/>
+  <!-- Dollar sign on bag -->
+  <line x1="76" y1="126" x2="76" y2="170" stroke="#9d7246" stroke-width="5" stroke-linecap="round"/>
+  <path d="M64,134 Q76,128 88,134" fill="none" stroke="#9d7246" stroke-width="5" stroke-linecap="round"/>
+  <path d="M64,162 Q76,168 88,162" fill="none" stroke="#9d7246" stroke-width="5" stroke-linecap="round"/>
+  <!-- Bag tie/neck -->
+  <rect x="68" y="112" width="16" height="10" rx="3" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Bag knot -->
+  <circle cx="76" cy="112" r="8" fill="#7d5e23" stroke="#000000" stroke-width="4"/>
+  <!-- Ribbon ties -->
+  <path d="M68,112 Q58,106 60,98" fill="none" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M84,112 Q94,106 92,98" fill="none" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <!-- Person (VC): head -->
+  <circle cx="68" cy="44" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <path d="M48,40 Q52,22 68,24 Q84,22 88,40" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Torso -->
+  <rect x="50" y="66" width="36" height="38" rx="6" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm (holding money bag strap) -->
+  <line x1="50" y1="74" x2="40" y2="106" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="38" cy="108" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm reaching toward rocket -->
+  <line x1="86" y1="74" x2="132" y2="96" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="134" cy="98" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Legs -->
+  <rect x="52" y="102" width="14" height="48" rx="5" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="70" y="102" width="14" height="48" rx="5" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <rect x="48" y="148" width="20" height="10" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="68" y="148" width="20" height="10" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+</svg>

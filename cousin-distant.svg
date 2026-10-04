@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- FULL BODY cousin figure (left) -->
+  <circle cx="70" cy="50" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <path d="M50,46 Q55,30 70,29 Q85,30 90,46" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="63" cy="50" r="2.5" fill="#000000"/>
+  <circle cx="77" cy="50" r="2.5" fill="#000000"/>
+  <path d="M63,58 Q70,63 77,58" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M48,72 L92,72 L96,150 L44,150 Z" fill="#ff9900" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="48" y1="82" x2="26" y2="120" stroke="#eed5b6" stroke-width="11" stroke-linecap="round"/>
+  <line x1="48" y1="82" x2="26" y2="120" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="92" y1="82" x2="114" y2="120" stroke="#eed5b6" stroke-width="11" stroke-linecap="round"/>
+  <line x1="92" y1="82" x2="114" y2="120" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <rect x="50" y="150" width="16" height="55" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <rect x="74" y="150" width="16" height="55" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="58" cy="210" rx="10" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="82" cy="210" rx="10" ry="5" fill="#5e1f0a" stroke="#000000" stroke-width="4"/>
+
+  <!-- Family tree with distant / broken connections -->
+  <circle cx="220" cy="22" r="6" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <circle cx="180" cy="55" r="6" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <circle cx="260" cy="55" r="6" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <circle cx="170" cy="95" r="6" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <circle cx="270" cy="95" r="6" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <circle cx="175" cy="135" r="7" fill="#f266aa" stroke="#000000" stroke-width="3"/>
+  <circle cx="265" cy="135" r="7" fill="#f266aa" stroke="#000000" stroke-width="3"/>
+  <!-- dashed faded connectors (uncertain lineage) -->
+  <line x1="220" y1="28" x2="180" y2="49" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round" stroke-dasharray="4,4"/>
+  <line x1="220" y1="28" x2="260" y2="49" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round" stroke-dasharray="4,4"/>
+  <line x1="180" y1="61" x2="170" y2="89" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round" stroke-dasharray="4,4"/>
+  <line x1="260" y1="61" x2="270" y2="89" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round" stroke-dasharray="4,4"/>
+  <line x1="170" y1="101" x2="175" y2="128" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round" stroke-dasharray="4,4"/>
+  <line x1="270" y1="101" x2="265" y2="128" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round" stroke-dasharray="4,4"/>
+  <!-- long faint connection between distant cousins -->
+  <line x1="182" y1="135" x2="258" y2="135" stroke="#f8130d" stroke-width="3" stroke-linecap="round" stroke-dasharray="3,7"/>
+
+  <!-- Big drawn "?" badge bottom right -->
+  <circle cx="220" cy="190" r="28" fill="#fff200" stroke="#000000" stroke-width="5"/>
+  <!-- question mark curve -->
+  <path d="M208,180 Q208,170 220,170 Q232,170 232,180 Q232,188 222,194 Q220,196 220,202" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="220" cy="210" r="3" fill="#000000"/>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Kind-modern: warm caring smile, heart in open hands, soft glow ring -->
+  <!-- Soft warm glow halo around head (circle ring, not fill) -->
+  <circle cx="145" cy="95" r="70" fill="none" stroke="#f7de58" stroke-width="8"/>
+  <circle cx="145" cy="95" r="78" fill="none" stroke="#f7de58" stroke-width="3"/>
+  <!-- Head -->
+  <circle cx="145" cy="95" r="50" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair - neat warm brunette -->
+  <path d="M95,80 Q100,46 145,42 Q190,46 195,80" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Ears -->
+  <ellipse cx="95" cy="96" rx="12" ry="15" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="195" cy="96" rx="12" ry="15" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Warm soft eyes - slightly squinting with happiness -->
+  <ellipse cx="128" cy="88" rx="13" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="162" cy="88" rx="13" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="129" cy="89" r="7" fill="#9d7246"/>
+  <circle cx="163" cy="89" r="7" fill="#9d7246"/>
+  <circle cx="131" cy="88" r="4" fill="#000000"/>
+  <circle cx="165" cy="88" r="4" fill="#000000"/>
+  <!-- Light sparkle dots in eyes -->
+  <circle cx="135" cy="84" r="3" fill="#ffffff"/>
+  <circle cx="169" cy="84" r="3" fill="#ffffff"/>
+  <!-- Happy eye crinkle lines at sides -->
+  <path d="M115,83 Q120,80 126,84" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M164,84 Q170,80 175,83" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Rosy warm cheeks -->
+  <ellipse cx="108" cy="102" rx="14" ry="10" fill="#f4a4b2"/>
+  <ellipse cx="182" cy="102" rx="14" ry="10" fill="#f4a4b2"/>
+  <!-- Nose -->
+  <ellipse cx="145" cy="102" rx="9" ry="7" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Warm full caring smile -->
+  <path d="M118,118 Q145,140 172,118" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="128" y="143" width="34" height="16" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Body - warm coloured top -->
+  <path d="M95,158 Q88,205 98,228 L192,228 Q202,205 195,158 Q178,148 145,150 Q112,148 95,158Z" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Two open hands extended forward cradling heart -->
+  <!-- Left arm and hand -->
+  <line x1="100" y1="168" x2="84" y2="190" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <line x1="100" y1="168" x2="84" y2="190" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Left open palm -->
+  <ellipse cx="84" cy="196" rx="18" ry="12" fill="#eed5b6" stroke="#000000" stroke-width="4" transform="rotate(15,84,196)"/>
+  <!-- Right arm and hand -->
+  <line x1="190" y1="168" x2="206" y2="190" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <line x1="190" y1="168" x2="206" y2="190" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Right open palm -->
+  <ellipse cx="206" cy="196" rx="18" ry="12" fill="#eed5b6" stroke="#000000" stroke-width="4" transform="rotate(-15,206,196)"/>
+  <!-- Big bright heart resting in open hands -->
+  <!-- Left lobe -->
+  <path d="M145,220 Q108,198 110,178 Q110,164 125,164 Q135,164 145,176 Q155,164 165,164 Q180,164 180,178 Q182,198 145,220Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Heart shine mark -->
+  <path d="M128,172 Q132,168 138,172" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+  <!-- Small hearts floating up -->
+  <path d="M62,145 Q56,138 52,142 Q48,138 42,145 Q42,152 52,158 Q62,152 62,145Z" fill="#f4a4b2" stroke="#000000" stroke-width="3"/>
+  <path d="M240,135 Q234,128 230,132 Q226,128 220,135 Q220,142 230,148 Q240,142 240,135Z" fill="#f4a4b2" stroke="#000000" stroke-width="3"/>
+</svg>

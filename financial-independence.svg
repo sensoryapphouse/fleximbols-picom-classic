@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- dollar tree (left) -->
+  <rect x="32" y="160" width="14" height="60" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <circle cx="39" cy="145" r="28" fill="#137827" stroke="#000000" stroke-width="3"/>
+  <circle cx="22" cy="130" r="18" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <circle cx="58" cy="130" r="18" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <circle cx="39" cy="115" r="16" fill="#67832d" stroke="#000000" stroke-width="3"/>
+  <!-- dollar leaves -->
+  <path d="M22 130 L22 140 M19 132 Q19 135 22 135 Q25 136 25 138 Q25 140 22 140 Q19 140 19 138" fill="none" stroke="#f2e40d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M39 115 L39 125 M36 117 Q36 120 39 120 Q42 121 42 123 Q42 125 39 125 Q36 125 36 123" fill="none" stroke="#f2e40d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M58 130 L58 140 M55 132 Q55 135 58 135 Q61 136 61 138 Q61 140 58 140 Q55 140 55 138" fill="none" stroke="#f2e40d" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- freedom flag (right) -->
+  <line x1="252" y1="50" x2="252" y2="220" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M252 55 L290 60 L284 80 L290 100 L252 95 Z" fill="#137827" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- dollar on flag -->
+  <path d="M268 65 L268 90 M260 70 Q260 76 268 77 Q276 78 276 84 Q276 88 268 88 Q260 88 260 84" fill="none" stroke="#f2e40d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- person FULL BODY breaking chains -->
+  <!-- head -->
+  <circle cx="145" cy="60" r="20" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M127 55 Q145 38 163 55 Q160 45 145 42 Q130 45 127 55 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- eyes / smile -->
+  <circle cx="139" cy="60" r="1.8" fill="#000000"/>
+  <circle cx="151" cy="60" r="1.8" fill="#000000"/>
+  <path d="M139 68 Q145 73 151 68" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- torso -->
+  <path d="M125 88 L165 88 L170 155 L120 155 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms triumphantly raised, fists -->
+  <path d="M125 92 L100 50" fill="none" stroke="#eed5b6" stroke-width="11" stroke-linecap="round"/>
+  <path d="M125 92 L100 50" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M165 92 L190 50" fill="none" stroke="#eed5b6" stroke-width="11" stroke-linecap="round"/>
+  <path d="M165 92 L190 50" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="98" cy="48" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <circle cx="192" cy="48" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- legs -->
+  <rect x="125" y="155" width="18" height="60" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <rect x="147" y="155" width="18" height="60" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- shoes -->
+  <ellipse cx="134" cy="220" rx="13" ry="6" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="156" cy="220" rx="13" ry="6" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- broken chain pieces flying -->
+  <ellipse cx="78" cy="38" rx="9" ry="6" fill="none" stroke="#7f7f7f" stroke-width="3.5" transform="rotate(-30 78 38)"/>
+  <ellipse cx="68" cy="60" rx="9" ry="6" fill="none" stroke="#4d4d4d" stroke-width="3.5" transform="rotate(40 68 60)"/>
+  <ellipse cx="212" cy="38" rx="9" ry="6" fill="none" stroke="#7f7f7f" stroke-width="3.5" transform="rotate(30 212 38)"/>
+  <ellipse cx="222" cy="60" rx="9" ry="6" fill="none" stroke="#4d4d4d" stroke-width="3.5" transform="rotate(-40 222 60)"/>
+  <!-- snap line (broken chain) -->
+  <line x1="88" y1="42" x2="78" y2="55" stroke="#000000" stroke-width="2"/>
+  <line x1="202" y1="42" x2="212" y2="55" stroke="#000000" stroke-width="2"/>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- floor -->
+  <line x1="5" y1="220" x2="285" y2="220" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- crib, right side -->
+  <!-- mattress -->
+  <rect x="180" y="170" width="100" height="20" fill="#dff3fd" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- crib frame -->
+  <rect x="175" y="155" width="110" height="65" fill="none" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- crib bars -->
+  <line x1="185" y1="155" x2="185" y2="220" stroke="#9d7246" stroke-width="3"/>
+  <line x1="195" y1="155" x2="195" y2="220" stroke="#9d7246" stroke-width="3"/>
+  <line x1="205" y1="155" x2="205" y2="220" stroke="#9d7246" stroke-width="3"/>
+  <line x1="215" y1="155" x2="215" y2="220" stroke="#9d7246" stroke-width="3"/>
+  <line x1="225" y1="155" x2="225" y2="220" stroke="#9d7246" stroke-width="3"/>
+  <line x1="235" y1="155" x2="235" y2="220" stroke="#9d7246" stroke-width="3"/>
+  <line x1="245" y1="155" x2="245" y2="220" stroke="#9d7246" stroke-width="3"/>
+  <line x1="255" y1="155" x2="255" y2="220" stroke="#9d7246" stroke-width="3"/>
+  <line x1="265" y1="155" x2="265" y2="220" stroke="#9d7246" stroke-width="3"/>
+  <line x1="275" y1="155" x2="275" y2="220" stroke="#9d7246" stroke-width="3"/>
+  <!-- top and bottom rails -->
+  <rect x="173" y="150" width="114" height="8" fill="#9d7246" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="173" y="215" width="114" height="8" fill="#9d7246" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- parent (full body), left, rocking baby in arms -->
+  <!-- legs -->
+  <rect x="40" y="155" width="14" height="60" fill="#392170" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="60" y="155" width="14" height="60" fill="#392170" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- shoes -->
+  <ellipse cx="47" cy="218" rx="10" ry="4.5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="67" cy="218" rx="10" ry="4.5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- torso -->
+  <path d="M 30 85 L 85 85 L 88 158 L 27 158 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms cradling baby (in front of torso) -->
+  <path d="M 30 95 Q 18 115 30 140 L 90 140 Q 105 115 90 95 Z" fill="#e6b98a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- baby in arms -->
+  <!-- swaddle blanket -->
+  <ellipse cx="60" cy="120" rx="28" ry="14" fill="#dff3fd" stroke="#000000" stroke-width="2.5"/>
+  <!-- baby head -->
+  <circle cx="38" cy="115" r="10" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- baby eye (closed) -->
+  <path d="M 33 114 Q 36 116 39 114" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 41 114 Q 43 116 45 114" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- parent head -->
+  <circle cx="58" cy="60" r="22" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M 38 54 Q 38 35 58 33 Q 80 35 80 56 Q 72 46 58 46 Q 44 46 38 54 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- face (soft, eyes closed/calm) -->
+  <path d="M 50 60 Q 53 57 56 60" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 62 60 Q 65 57 68 60" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 53 70 Q 58 73 64 70" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Z's floating, top -->
+  <path d="M 110 60 L 135 60 L 110 90 L 135 90" fill="none" stroke="#2a4ec0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 140 35 L 158 35 L 140 58 L 158 58" fill="none" stroke="#2a4ec0" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 165 20 L 178 20 L 165 36 L 178 36" fill="none" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- clock with sleep schedule, top right above crib -->
+  <circle cx="245" cy="55" r="32" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- night half (sleep schedule shaded portion) -->
+  <path d="M 245 55 L 245 23 A 32 32 0 0 1 277 55 Z" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <!-- moon icon on night side -->
+  <path d="M 263 38 Q 255 42 258 50 Q 262 54 268 51 Q 263 50 261 46 Q 261 41 263 38 Z" fill="#f7de58" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- clock hands -->
+  <line x1="245" y1="55" x2="245" y2="35" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="245" y1="55" x2="232" y2="55" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="245" cy="55" r="2.5" fill="#000000"/>
+  <!-- ticks -->
+  <line x1="245" y1="28" x2="245" y2="32" stroke="#000000" stroke-width="2"/>
+  <line x1="272" y1="55" x2="268" y2="55" stroke="#000000" stroke-width="2"/>
+  <line x1="245" y1="82" x2="245" y2="78" stroke="#000000" stroke-width="2"/>
+  <line x1="218" y1="55" x2="222" y2="55" stroke="#000000" stroke-width="2"/>
+</svg>

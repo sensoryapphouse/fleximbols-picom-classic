@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Speed streak lines behind figure -->
+  <line x1="15" y1="120" x2="110" y2="120" stroke="#f8130d" stroke-width="5" stroke-linecap="round"/>
+  <line x1="20" y1="105" x2="95" y2="105" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="25" y1="135" x2="100" y2="135" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="30" y1="90" x2="80" y2="90" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="30" y1="150" x2="80" y2="150" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="35" y1="75" x2="65" y2="75" stroke="#f8130d" stroke-width="2" stroke-linecap="round"/>
+  <!-- Running figure leaning strongly forward -->
+  <!-- Head -->
+  <circle cx="195" cy="62" r="20" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Eyes -->
+  <circle cx="188" cy="58" r="3" fill="#000000"/>
+  <circle cx="202" cy="57" r="3" fill="#000000"/>
+  <!-- Determined expression -->
+  <path d="M186,67 Q195,71 204,67" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Body leaning forward -->
+  <ellipse cx="178" cy="112" rx="18" ry="28" fill="#2a4ec0" stroke="#000000" stroke-width="4" transform="rotate(-20,178,112)"/>
+  <!-- Left arm forward and pumping -->
+  <line x1="170" y1="100" x2="140" y2="75" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="135" cy="71" rx="10" ry="7" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Right arm back -->
+  <line x1="190" y1="105" x2="220" y2="130" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="226" cy="134" rx="10" ry="7" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Left leg forward (stride) -->
+  <line x1="168" y1="135" x2="148" y2="175" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="148" y1="175" x2="125" y2="210" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Left foot -->
+  <ellipse cx="118" cy="214" rx="12" ry="6" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <!-- Right leg pushing back -->
+  <line x1="185" y1="138" x2="210" y2="175" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="210" y1="175" x2="235" y2="195" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Right foot -->
+  <ellipse cx="242" cy="197" rx="12" ry="6" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+</svg>

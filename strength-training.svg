@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Floor -->
+  <path d="M 30,218 L 260,218" stroke="#000000" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Left leg planted -->
+  <path d="M 128,160 L 118,218 L 138,218 L 144,165 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right leg planted, slight bend -->
+  <path d="M 162,160 L 172,218 L 152,218 L 146,165 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Shoes -->
+  <ellipse cx="128" cy="218" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="162" cy="218" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Torso -->
+  <path d="M 122,92 Q 122,84 145,82 Q 168,84 168,92 L 165,160 L 125,160 Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left arm hanging straight down (non-curling side) -->
+  <path d="M 124,100 Q 115,125 112,155" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 122,98 Q 113,123 110,153 L 118,156 Q 120,126 128,102 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left hand with dumbbell (hanging) -->
+  <ellipse cx="114" cy="156" rx="10" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Dumbbell in left hand (hanging) -->
+  <rect x="104" y="160" width="20" height="7" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="100" y="157" width="8" height="13" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="116" y="157" width="8" height="13" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Right arm bent up in a curl — upper arm down, forearm raised -->
+  <!-- Upper arm (vertical, elbow at hip level) -->
+  <path d="M 166,100 Q 175,120 178,140" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 168,98 Q 177,118 180,138 L 172,142 Q 168,122 160,102 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Forearm curled up (elbow bent ~90°) -->
+  <path d="M 176,140 Q 185,125 195,112" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 174,142 Q 183,127 193,114 L 200,120 Q 190,133 182,148 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right hand holding dumbbell at top of curl -->
+  <ellipse cx="197" cy="116" rx="10" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Dumbbell curled up -->
+  <rect x="188" y="102" width="20" height="7" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round" transform="rotate(-30 198 106)"/>
+  <rect x="184" y="98" width="8" height="13" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round" transform="rotate(-30 188 104)"/>
+  <rect x="202" y="94" width="8" height="13" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round" transform="rotate(-30 206 100)"/>
+  <!-- Effort lines -->
+  <line x1="210" y1="108" x2="222" y2="102" stroke="#f7de58" stroke-width="3" stroke-linecap="round"/>
+  <line x1="214" y1="118" x2="228" y2="116" stroke="#f7de58" stroke-width="3" stroke-linecap="round"/>
+  <!-- Head -->
+  <circle cx="145" cy="60" r="24" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Hair -->
+  <path d="M 122,54 Q 124,36 145,36 Q 166,36 168,54 Q 158,44 145,45 Q 132,44 122,54 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <ellipse cx="137" cy="58" rx="3" ry="3.5" fill="#000000"/>
+  <ellipse cx="153" cy="58" rx="3" ry="3.5" fill="#000000"/>
+  <!-- Focused mouth -->
+  <path d="M 138,70 Q 145,75 152,70" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>

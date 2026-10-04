@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- stretch-modern: figure standing reaching both arms up high, slight back arch, effort lines -->
+
+  <!-- Ground line -->
+  <line x1="60" y1="228" x2="230" y2="228" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Left foot -->
+  <ellipse cx="127" cy="226" rx="16" ry="7" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Right foot -->
+  <ellipse cx="162" cy="226" rx="16" ry="7" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+
+  <!-- Left leg (straight) -->
+  <path d="M120 226 L122 190 L136 190 L138 226Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Right leg (straight) -->
+  <path d="M154 226 L156 190 L170 190 L172 226Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Torso — upright with slight back arch (belly pushes slightly forward) -->
+  <path d="M126 190 L166 190 L162 135 L132 135Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Belt line -->
+  <rect x="126" y="183" width="40" height="9" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Neck -->
+  <rect x="140" y="120" width="13" height="15" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Head -->
+  <circle cx="147" cy="106" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+
+  <!-- Face: eyes looking up (stretch effort) -->
+  <path d="M140 103 Q143 100 146 103" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M148 103 Q151 100 154 103" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Effort mouth (pressed lips) -->
+  <path d="M140 113 L154 113" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Hair -->
+  <path d="M128 97 Q147 84 167 97" fill="none" stroke="#7d5e23" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Left arm reaching HIGH up — angled left -->
+  <path d="M132 143 L95 58 L107 54 L144 138Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left hand/fist up high -->
+  <ellipse cx="100" cy="52" rx="12" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Right arm reaching HIGH up — angled right -->
+  <path d="M162 143 L196 56 L208 60 L174 148Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right hand/fist up high -->
+  <ellipse cx="202" cy="54" rx="12" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Effort lines beside each hand -->
+  <line x1="84" y1="44" x2="74" y2="36" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="90" y1="36" x2="84" y2="24" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="98" y1="32" x2="96" y2="20" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <line x1="216" y1="44" x2="226" y2="36" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="210" y1="36" x2="218" y2="24" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="202" y1="32" x2="204" y2="20" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

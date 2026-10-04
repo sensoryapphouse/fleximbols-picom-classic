@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Main heart -->
+  <path d="M145,200 C80,158 28,128 28,82 C28,52 52,30 82,30 C104,30 124,44 145,62 C166,44 186,30 208,30 C238,30 262,52 262,82 C262,128 210,158 145,200 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Heart inner highlight -->
+  <path d="M100,58 C88,58 76,68 76,82 C76,96 86,108 100,118" fill="none" stroke="#f4a4b2" stroke-width="6" stroke-linecap="round"/>
+  <!-- Arrow shaft -->
+  <line x1="38" y1="188" x2="238" y2="52" stroke="#f5e7c4" stroke-width="6" stroke-linecap="round"/>
+  <!-- Arrow outline for contrast -->
+  <line x1="38" y1="188" x2="238" y2="52" stroke="#000000" stroke-width="10" stroke-linecap="round"/>
+  <line x1="38" y1="188" x2="238" y2="52" stroke="#f5e7c4" stroke-width="6" stroke-linecap="round"/>
+  <!-- Arrow head (right) -->
+  <polygon points="238,52 214,58 220,80" fill="#f5e7c4" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Arrow fletching (left) -->
+  <polygon points="38,188 48,164 62,178" fill="#f5e7c4" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Small hearts scattered -->
+  <path d="M230,158 C224,154 214,154 214,162 C214,168 222,174 230,180 C238,174 246,168 246,162 C246,154 236,154 230,158 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M52,52 C48,49 42,49 42,53 C42,57 48,61 52,64 C56,61 62,57 62,53 C62,49 56,49 52,52 Z" fill="#f4a4b2" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M248,108 C244,105 238,105 238,109 C238,113 244,117 248,120 C252,117 258,113 258,109 C258,105 252,105 248,108 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M38,118 C35,115 30,115 30,119 C30,123 35,126 38,128 C41,126 46,123 46,119 C46,115 41,115 38,118 Z" fill="#f4a4b2" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

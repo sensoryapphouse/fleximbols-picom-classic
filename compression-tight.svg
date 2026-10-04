@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground -->
+  <line x1="20" y1="228" x2="270" y2="228" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- head -->
+  <circle cx="145" cy="36" r="20" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair short -->
+  <path d="M127 30 Q130 18 145 16 Q160 18 163 30 Q156 24 145 26 Q134 28 127 30 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- eyes / mouth -->
+  <circle cx="139" cy="36" r="2" fill="#000000"/>
+  <circle cx="151" cy="36" r="2" fill="#000000"/>
+  <path d="M139 44 Q145 48 151 44" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="139" y="54" width="12" height="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- compression top (skin-tight) -->
+  <path d="M114 66 Q114 62 122 62 L168 62 Q176 62 176 66 L178 116 Q178 124 145 124 Q112 124 112 116 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms (muscles visible through tight fit) -->
+  <path d="M114 70 Q96 76 92 110 Q90 130 100 132 L110 130 Q108 110 116 90 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M176 70 Q194 76 198 110 Q200 130 190 132 L180 130 Q182 110 174 90 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- hands -->
+  <circle cx="104" cy="134" r="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <circle cx="186" cy="134" r="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- waistband -->
+  <rect x="112" y="120" width="66" height="6" fill="#000000"/>
+  <!-- compression tights (skin tight, full length, hugging legs) -->
+  <path d="M114 126 Q110 160 112 200 Q112 218 116 226 L138 226 Q140 210 142 180 Q144 150 144 128 Z" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M146 128 Q146 150 148 180 Q150 210 152 226 L174 226 Q178 218 178 200 Q180 160 176 126 Z" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- compression seam lines (tight fit indicator) -->
+  <line x1="122" y1="140" x2="124" y2="220" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="132" y1="140" x2="132" y2="220" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="158" y1="140" x2="158" y2="220" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <line x1="168" y1="140" x2="166" y2="220" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <!-- muscle support arrows pointing inward (compression) -->
+  <path d="M70 170 L92 170" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M86 164 L92 170 L86 176" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M220 170 L198 170" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M204 164 L198 170 L204 176" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<path d="M115 35 Q108 50 118 65 M155 28 Q148 45 158 60 M195 35 Q188 50 198 65" fill="none" stroke="#b9c4d3" stroke-width="3.32" stroke-linecap="round"></path>
+<path d="M45 105 Q42 100 50 95 L240 95 Q248 100 245 105 Q235 205 215 220 Q145 232 75 220 Q55 205 45 105 Z" fill="#5c3a26" stroke="#1a1a1a" stroke-width="3.32" stroke-linejoin="round"></path>
+<ellipse cx="145" cy="105" rx="98" ry="13" fill="#9d734d" stroke="#1a1a1a" stroke-width="2.85"></ellipse>
+<ellipse cx="145" cy="108" rx="90" ry="9" fill="#c4884e"></ellipse>
+
+<rect x="90" y="100" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.42" transform="rotate(15 97 107)"></rect>
+<rect x="180" y="102" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.42" transform="rotate(-12 187 109)"></rect>
+
+<path d="M130 95 Q140 110 145 102" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.42"></path>
+<path d="M160 100 Q170 115 175 105" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.42"></path>
+
+<circle cx="115" cy="108" r="2.5" fill="#5cac4c"></circle>
+<circle cx="150" cy="105" r="2.5" fill="#5cac4c"></circle>
+<circle cx="200" cy="110" r="2.5" fill="#5cac4c"></circle>
+
+<g stroke="#edc641" stroke-width="2.85" stroke-linecap="round" fill="none">
+<path d="M65 180 Q80 173 95 180 Q110 173 125 180 Q140 173 155 180 Q170 173 185 180 Q200 173 215 180 Q225 173 225 180"></path>
+</g>
+</g></svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Neck -->
+  <rect x="125" y="148" width="40" height="26" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shoulders / bust - arms spread wide -->
+  <path d="M45 240 Q50 200 80 186 L145 176 L210 186 Q240 200 245 240 Z" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm spread out wide, holding trophy up -->
+  <path d="M80 196 Q62 188 46 172 Q42 162 50 158 Q56 154 62 162 L72 176 Q76 168 84 170 Q92 172 90 180 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Trophy held up (left side) -->
+  <!-- Trophy cup -->
+  <path d="M38 140 Q30 130 34 118 Q38 108 46 108 Q54 108 58 118 Q62 130 54 140 Z" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Trophy stem -->
+  <rect x="42" y="140" width="10" height="12" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <!-- Trophy base -->
+  <rect x="36" y="152" width="22" height="6" rx="2" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <!-- Trophy handles -->
+  <path d="M34 118 Q24 122 24 130 Q24 138 34 136" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M58 118 Q68 122 68 130 Q68 138 58 136" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Star sparkles near trophy -->
+  <polygon points="20,108 22,102 24,108 18,104 26,104" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <polygon points="70,100 72,94 74,100 68,96 76,96" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <polygon points="30,92 32,86 34,92 28,88 36,88" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <!-- Right arm spread out -->
+  <path d="M210 196 Q228 188 242 172 Q248 162 240 158 Q234 154 228 162 L220 176 Q214 168 206 170 Q198 172 200 180 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="106" rx="60" ry="64" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <ellipse cx="145" cy="56" rx="60" ry="22" fill="#7d5e23" stroke="#000000" stroke-width="5"/>
+  <rect x="85" y="48" width="120" height="20" rx="8" fill="#7d5e23" stroke="#000000" stroke-width="5"/>
+  <!-- Eyebrows raised - excited -->
+  <path d="M104 80 Q118 70 132 74" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M158 74 Q172 70 186 80" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Eyes - wide open, excited -->
+  <ellipse cx="118" cy="100" rx="14" ry="13" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="118" cy="100" rx="9" ry="9" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <circle cx="122" cy="96" r="3" fill="#ffffff"/>
+  <ellipse cx="172" cy="100" rx="14" ry="13" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="172" cy="100" rx="9" ry="9" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <circle cx="176" cy="96" r="3" fill="#ffffff"/>
+  <!-- Nose -->
+  <path d="M140 112 L136 124 L143 126 L150 124 L146 112" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Open bragging mouth -->
+  <path d="M120 138 Q145 158 170 138" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="148" rx="18" ry="10" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <!-- Teeth -->
+  <rect x="130" y="140" width="30" height="8" rx="3" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- Speech puff -->
+  <ellipse cx="222" cy="82" rx="22" ry="16" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- Speech bubble tail -->
+  <polygon points="206,92 200,106 216,96" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Stars inside speech puff -->
+  <polygon points="222,76 224,70 226,76 220,72 228,72" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <polygon points="212,82 213,78 214,82 210,80 216,80" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <polygon points="230,84 231,80 232,84 228,82 234,82" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+</svg>

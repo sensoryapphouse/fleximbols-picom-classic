@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- In-store pickup - store interior + person FULL BODY picking up at counter + PICKUP blocks -->
+  <!-- Store interior wall back -->
+  <rect x="10" y="20" width="270" height="120" fill="#f5e7c4" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Shelves -->
+  <line x1="20" y1="55" x2="100" y2="55" stroke="#9d7246" stroke-width="5"/>
+  <line x1="20" y1="85" x2="100" y2="85" stroke="#9d7246" stroke-width="5"/>
+  <!-- Items on shelves -->
+  <rect x="24" y="42" width="10" height="13" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <rect x="38" y="40" width="10" height="15" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <rect x="52" y="44" width="10" height="11" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <rect x="68" y="42" width="10" height="13" fill="#ff9900" stroke="#000000" stroke-width="2"/>
+  <rect x="84" y="43" width="10" height="12" fill="#7c3fac" stroke="#000000" stroke-width="2"/>
+  <rect x="24" y="72" width="10" height="13" fill="#3aa6a0" stroke="#000000" stroke-width="2"/>
+  <rect x="40" y="70" width="10" height="15" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <rect x="56" y="74" width="10" height="11" fill="#fff200" stroke="#000000" stroke-width="2"/>
+  <rect x="72" y="72" width="10" height="13" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <rect x="86" y="74" width="10" height="11" fill="#f266aa" stroke="#000000" stroke-width="2"/>
+  <!-- PICKUP sign on wall -->
+  <rect x="180" y="30" width="90" height="36" rx="3" fill="#f2e40d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Sign arrow pointing down to counter -->
+  <path d="M 218 66 L 232 80 L 246 66 Z" fill="#f2e40d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- PICKUP letters on sign -->
+  <!-- P -->
+  <path d="M 188 38 L 200 38 Q 206 38 206 46 Q 206 53 200 53 L 194 53 L 194 60 L 188 60 Z M 194 44 L 194 47 L 200 47 Q 201 47 201 45 Q 201 44 200 44 Z" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill-rule="evenodd"/>
+  <!-- I -->
+  <path d="M 209 38 L 215 38 L 215 60 L 209 60 Z" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- C -->
+  <path d="M 218 38 L 230 38 L 230 44 L 224 44 L 224 54 L 230 54 L 230 60 L 218 60 Z" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- K -->
+  <path d="M 233 38 L 239 38 L 239 47 L 245 38 L 252 38 L 245 49 L 252 60 L 245 60 L 239 51 L 239 60 L 233 60 Z" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- U -->
+  <path d="M 254 38 L 260 38 L 260 54 L 264 54 L 264 38 L 270 38 L 270 60 L 254 60 Z" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Counter -->
+  <rect x="20" y="140" width="250" height="35" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="20" y="138" width="250" height="8" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Package on counter -->
+  <rect x="190" y="106" width="50" height="38" rx="3" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="190" y1="125" x2="240" y2="125" stroke="#f8130d" stroke-width="3"/>
+  <line x1="215" y1="106" x2="215" y2="144" stroke="#f8130d" stroke-width="3"/>
+  <!-- Customer person FULL BODY in front of counter -->
+  <!-- Head -->
+  <circle cx="100" cy="105" r="15" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Hair -->
+  <path d="M 86 102 Q 86 88 100 88 Q 114 88 114 102 L 114 95 Q 110 90 100 90 Q 90 90 86 95 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <circle cx="95" cy="105" r="1.5" fill="#000000"/>
+  <circle cx="105" cy="105" r="1.5" fill="#000000"/>
+  <!-- Smile -->
+  <path d="M 95 112 Q 100 115 105 112" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Torso (shirt) -->
+  <path d="M 84 122 L 116 122 L 120 175 L 80 175 Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Arm reaching toward package on counter -->
+  <path d="M 118 138 L 180 130" stroke="#eed5b6" stroke-width="11" stroke-linecap="round"/>
+  <path d="M 118 138 L 180 130" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Other arm at side -->
+  <path d="M 82 140 L 78 165" stroke="#2a4ec0" stroke-width="11" stroke-linecap="round"/>
+  <path d="M 82 140 L 78 165" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Legs -->
+  <path d="M 92 175 L 92 215" stroke="#5e1f0a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M 92 175 L 92 215" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 108 175 L 108 215" stroke="#5e1f0a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M 108 175 L 108 215" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Feet -->
+  <ellipse cx="92" cy="220" rx="9" ry="4" fill="#000000"/>
+  <ellipse cx="108" cy="220" rx="9" ry="4" fill="#000000"/>
+  <!-- Floor line -->
+  <line x1="0" y1="225" x2="290" y2="225" stroke="#000000" stroke-width="3"/>
+</svg>

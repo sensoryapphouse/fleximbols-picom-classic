@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- FLOOR -->
+  <rect x="25" y="210" width="240" height="10" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- GROUP EXERCISERS (background, small, two people doing jumping jacks) -->
+  <!-- Person A -->
+  <circle cx="210" cy="142" r="14" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <rect x="203" y="156" width="16" height="26" rx="5" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="203" y1="158" x2="190" y2="148" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <line x1="219" y1="158" x2="232" y2="148" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <line x1="207" y1="182" x2="196" y2="208" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <line x1="215" y1="182" x2="226" y2="208" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <!-- Person B -->
+  <circle cx="252" cy="146" r="13" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <rect x="245" y="159" width="14" height="24" rx="5" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="245" y1="162" x2="234" y2="152" stroke="#e6b98a" stroke-width="8" stroke-linecap="round"/>
+  <line x1="259" y1="162" x2="268" y2="152" stroke="#e6b98a" stroke-width="8" stroke-linecap="round"/>
+  <line x1="249" y1="183" x2="240" y2="208" stroke="#e6b98a" stroke-width="8" stroke-linecap="round"/>
+  <line x1="257" y1="183" x2="265" y2="208" stroke="#e6b98a" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- COACH (left, whole body, directing with arm raised + stopwatch) -->
+  <!-- Coach legs (wide stance, energetic) -->
+  <line x1="88" y1="210" x2="80" y2="168" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <line x1="116" y1="210" x2="122" y2="168" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <!-- Coach shorts -->
+  <rect x="74" y="162" width="50" height="20" rx="7" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Coach torso -->
+  <rect x="76" y="122" width="48" height="42" rx="9" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Stripe on shirt -->
+  <rect x="94" y="122" width="12" height="42" rx="3" fill="#ffffff" stroke="none"/>
+  <!-- Coach left arm (raised, holding stopwatch) -->
+  <line x1="76" y1="136" x2="46" y2="108" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <!-- Coach right arm (extended pointing at group) -->
+  <line x1="124" y1="136" x2="162" y2="128" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <!-- Coach head -->
+  <circle cx="100" cy="100" r="24" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Eyes -->
+  <circle cx="92" cy="97" r="3" fill="#000000"/>
+  <circle cx="108" cy="97" r="3" fill="#000000"/>
+  <!-- Open mouth (shouting encouragement) -->
+  <path d="M93 110 Q100 118 107 110" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="#ffffff"/>
+  <!-- Hair / cap -->
+  <rect x="78" y="82" width="44" height="14" rx="5" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="74" y="88" width="52" height="8" rx="3" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Cap brim -->
+  <rect x="70" y="92" width="12" height="5" rx="2" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- STOPWATCH (coach's raised left hand) -->
+  <circle cx="44" cy="100" r="14" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+  <circle cx="44" cy="100" r="10" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <!-- Watch hands -->
+  <line x1="44" y1="100" x2="44" y2="93" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="44" y1="100" x2="50" y2="104" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Crown button -->
+  <rect x="41" y="84" width="6" height="5" rx="2" fill="#b8b8b8" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- WHISTLE on lanyard -->
+  <line x1="100" y1="122" x2="100" y2="130" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="100" cy="134" rx="7" ry="5" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="107" y="132" width="6" height="4" rx="2" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+</svg>

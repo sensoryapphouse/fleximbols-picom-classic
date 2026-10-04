@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- === WEDDING ARCH (right side) === -->
+  <!-- Arch posts -->
+  <rect x="186" y="80" width="12" height="130" rx="5" fill="#f5e7c4" stroke="#000000" stroke-width="4"/>
+  <rect x="252" y="80" width="12" height="130" rx="5" fill="#f5e7c4" stroke="#000000" stroke-width="4"/>
+  <!-- Arch top -->
+  <path d="M186 80 Q225 42 264 80" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M190 80 Q225 48 260 80" fill="none" stroke="#f4a4b2" stroke-width="3" stroke-linecap="round"/>
+  <!-- Arch flowers/decoration -->
+  <circle cx="200" cy="68" r="7" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <circle cx="214" cy="58" r="7" fill="#f266aa" stroke="#000000" stroke-width="3"/>
+  <circle cx="225" cy="54" r="8" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="236" cy="58" r="7" fill="#f266aa" stroke="#000000" stroke-width="3"/>
+  <circle cx="250" cy="68" r="7" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <!-- Arch drape -->
+  <path d="M192 80 Q225 68 258 80" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- === WEDDING CAKE === -->
+  <!-- Bottom tier -->
+  <rect x="192" y="178" width="66" height="30" rx="5" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- Mid tier -->
+  <rect x="200" y="154" width="50" height="28" rx="5" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- Top tier -->
+  <rect x="210" y="136" width="30" height="22" rx="5" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- Cake topper (hearts/rings) -->
+  <path d="M222 130 Q225 124 228 130" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M218 130 Q220 123 225 127 Q230 123 232 130" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <!-- Cake decoration lines -->
+  <path d="M192 190 Q225 184 258 190" fill="none" stroke="#f4a4b2" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M200 164 Q225 158 250 164" fill="none" stroke="#f4a4b2" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- === RINGS (floating) === -->
+  <circle cx="170" cy="144" r="10" fill="none" stroke="#f7de58" stroke-width="5"/>
+  <circle cx="182" cy="140" r="10" fill="none" stroke="#f7de58" stroke-width="5"/>
+
+  <!-- === PERSON (left, clipboard) === -->
+  <!-- Head -->
+  <circle cx="64" cy="50" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair (bun/updo) -->
+  <path d="M44 48 Q48 28 64 26 Q80 28 84 48 Q79 36 64 34 Q49 36 44 48Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="64" cy="30" rx="10" ry="8" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <!-- Neck -->
+  <rect x="57" y="68" width="14" height="12" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Torso (blazer) -->
+  <path d="M38 80 L64 76 L90 80 L94 158 L34 158Z" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Blazer collar/lapel -->
+  <path d="M54 76 L64 90 L74 76 L64 80Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Left arm holding clipboard -->
+  <path d="M38 80 L22 114 L34 120 L48 90" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="26" cy="124" rx="10" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Clipboard -->
+  <rect x="22" y="116" width="30" height="40" rx="4" fill="#f5e7c4" stroke="#000000" stroke-width="4"/>
+  <rect x="31" y="112" width="12" height="8" rx="3" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <!-- Check marks on clipboard -->
+  <path d="M26 128 L30 132 L38 124" fill="none" stroke="#529929" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 138 L30 142 L38 134" fill="none" stroke="#529929" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="26" y1="148" x2="48" y2="148" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Right arm pointing at arch -->
+  <path d="M90 80 L114 102 L106 110 L84 92" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="116" cy="112" rx="10" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Legs (skirt/trousers) -->
+  <path d="M44 158 L38 210 L52 210 L58 163Z" fill="#392170" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M84 158 L88 210 L102 210 L94 163Z" fill="#392170" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shoes -->
+  <ellipse cx="44" cy="212" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="94" cy="212" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="4"/>
+</svg>

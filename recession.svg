@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- chart panel with downward graph -->
+  <rect x="14" y="22" width="160" height="120" rx="6" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M28 36 L28 128 L168 128" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- downward zig-zag line -->
+  <path d="M34 48 L58 70 L78 60 L102 95 L126 88 L158 122" fill="none" stroke="#d01424" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- arrow at end pointing down -->
+  <polygon points="158,122 144,114 152,134" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- shrinking dollar (smaller coin with shrink arrows) -->
+  <circle cx="50" cy="190" r="22" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <path d="M50 178 L50 202 M44 182 Q38 182 38 186 Q38 191 50 191 Q62 191 62 195 Q62 200 50 200 Q40 200 40 196" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- shrink arrows -->
+  <path d="M28 168 L40 180 M72 168 L60 180 M28 212 L40 200 M72 212 L60 200" fill="none" stroke="#d01424" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="40,180 32,178 34,170" fill="#d01424"/>
+  <polygon points="60,180 68,178 66,170" fill="#d01424"/>
+  <!-- worried business person FULL BODY (suit) -->
+  <!-- head -->
+  <circle cx="195" cy="55" r="16" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M181 50 Q195 36 209 50" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <!-- worried face -->
+  <circle cx="189" cy="55" r="1.8" fill="#000000"/>
+  <circle cx="201" cy="55" r="1.8" fill="#000000"/>
+  <path d="M186 49 L192 47 M198 47 L204 49" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M188 66 Q195 62 202 66" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- suit torso -->
+  <path d="M175 72 L215 72 L222 145 L168 145 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- white shirt collar V -->
+  <path d="M188 72 L195 96 L202 72 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- red tie -->
+  <path d="M193 84 L197 84 L200 122 L195 130 L190 122 Z" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- arms holding head (worried gesture) -->
+  <path d="M175 78 L150 70 L155 60" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M155 60 Q160 55 170 56" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <circle cx="160" cy="56" r="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <path d="M215 78 L240 70 L235 60" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="230" cy="56" r="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- legs (suit pants) -->
+  <path d="M178 145 L173 220 L188 220 L192 145" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M198 145 L202 220 L217 220 L212 145" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- shoes -->
+  <ellipse cx="180" cy="224" rx="10" ry="5" fill="#000000"/>
+  <ellipse cx="210" cy="224" rx="10" ry="5" fill="#000000"/>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Giant figure (tall) towering over tiny normal person -->
+  <!-- Giant figure: head ~y=28, feet ~y=220, total ~192px tall, centered at x=145 -->
+  <!-- Giant body -->
+  <rect x="118" y="90" width="54" height="110" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Giant head -->
+  <circle cx="145" cy="62" r="34" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Giant eyes -->
+  <circle cx="134" cy="57" r="5" fill="#000000"/>
+  <circle cx="156" cy="57" r="5" fill="#000000"/>
+  <!-- Giant mouth -->
+  <path d="M136 73 Q145 80 154 73" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Giant shirt -->
+  <rect x="118" y="90" width="54" height="60" rx="6" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Giant arms -->
+  <rect x="88" y="93" width="30" height="18" rx="9" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="172" y="93" width="30" height="18" rx="9" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Giant legs -->
+  <rect x="120" y="148" width="22" height="72" rx="8" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="148" y="148" width="22" height="72" rx="8" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Giant feet -->
+  <ellipse cx="131" cy="220" rx="16" ry="8" fill="#5e1f0a" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="159" cy="220" rx="16" ry="8" fill="#5e1f0a" stroke="#000000" stroke-width="5"/>
+
+  <!-- Tiny normal person at bottom right: head ~y=188, feet ~y=228, ~40px tall -->
+  <!-- Tiny person body -->
+  <rect x="228" y="202" width="14" height="26" rx="4" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Tiny person head -->
+  <circle cx="235" cy="195" r="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Tiny person legs -->
+  <rect x="229" y="226" width="5" height="12" rx="2" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="236" y="226" width="5" height="12" rx="2" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

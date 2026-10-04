@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Audio drama: headphones over theatre masks with sound waves and DRAMA lettering -->
+  <!-- Headphone band arc -->
+  <path d="M40,120 Q40,40 145,40 Q250,40 250,120" stroke="#000000" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M40,120 Q40,45 145,45 Q250,45 250,120" stroke="#7c3fac" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Left earcup -->
+  <rect x="22" y="110" width="36" height="50" rx="10" ry="10" fill="#7c3fac" stroke="#000000" stroke-width="4"/>
+  <rect x="30" y="118" width="20" height="34" rx="6" ry="6" fill="#392170" stroke="#000000" stroke-width="2.5"/>
+  <!-- Right earcup -->
+  <rect x="232" y="110" width="36" height="50" rx="10" ry="10" fill="#7c3fac" stroke="#000000" stroke-width="4"/>
+  <rect x="240" y="118" width="20" height="34" rx="6" ry="6" fill="#392170" stroke="#000000" stroke-width="2.5"/>
+  <!-- Comedy mask (left, smiling, yellow) -->
+  <path d="M85,95 Q85,75 105,75 Q125,75 125,95 L125,140 Q125,170 105,170 Q85,170 85,140 Z" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- comedy eyes -->
+  <path d="M93,108 Q97,103 101,108" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M109,108 Q113,103 117,108" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- comedy smile -->
+  <path d="M92,135 Q105,155 118,135" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Tragedy mask (right, frowning, blue) -->
+  <path d="M165,95 Q165,75 185,75 Q205,75 205,95 L205,140 Q205,170 185,170 Q165,170 165,140 Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- tragedy eyes (sad slants) -->
+  <path d="M172,108 L180,113 M198,108 L190,113" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- tragedy frown -->
+  <path d="M172,150 Q185,135 198,150" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Tear -->
+  <path d="M177,118 L175,128 L179,128 Z" fill="#dff3fd" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Sound waves left -->
+  <path d="M68,130 Q60,130 60,140 Q60,150 68,150" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M73,120 Q60,120 60,140 Q60,160 73,160" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <!-- Sound waves right -->
+  <path d="M222,130 Q230,130 230,140 Q230,150 222,150" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M217,120 Q230,120 230,140 Q230,160 217,160" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <!-- DRAMA lettering (bottom center) -->
+  <!-- D -->
+  <path d="M90,195 L90,220 L100,220 Q108,220 108,207 Q108,195 100,195 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- R -->
+  <path d="M115,220 L115,195 L125,195 Q131,195 131,202 Q131,209 125,209 L115,209 M125,209 L132,220" fill="none" stroke="#d01424" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- A -->
+  <path d="M138,220 L146,195 L154,220 M141,212 L151,212" fill="none" stroke="#d01424" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- M -->
+  <path d="M160,220 L160,195 L168,210 L176,195 L176,220" fill="none" stroke="#d01424" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- A -->
+  <path d="M183,220 L191,195 L199,220 M186,212 L196,212" fill="none" stroke="#d01424" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

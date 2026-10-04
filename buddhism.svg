@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Dharma wheel left -->
+  <circle cx="60" cy="120" r="38" fill="#f2e40d" stroke="#000000" stroke-width="3"/>
+  <circle cx="60" cy="120" r="8" fill="#e65a00" stroke="#000000" stroke-width="2"/>
+  <line x1="60" y1="85" x2="60" y2="155" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="25" y1="120" x2="95" y2="120" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="35" y1="95" x2="85" y2="145" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="85" y1="95" x2="35" y2="145" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Buddha silhouette seated, full body in lotus -->
+  <circle cx="180" cy="70" r="22" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M170 50 Q180 38 190 50 Q188 46 192 46 Q192 52 188 52" fill="#392170" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="186" cy="48" r="3" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="172" cy="68" r="1.5" fill="#000000"/>
+  <circle cx="188" cy="68" r="1.5" fill="#000000"/>
+  <path d="M175 78 Q180 82 185 78" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- robe body -->
+  <path d="M155 92 Q180 85 205 92 L215 165 L145 165 Z" fill="#e65a00" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- folded legs -->
+  <path d="M135 165 Q180 155 225 165 Q230 185 215 195 L145 195 Q130 185 135 165 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- hands in lap -->
+  <ellipse cx="180" cy="160" rx="18" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- lotus base -->
+  <path d="M115 210 Q140 190 165 205 Q180 188 195 205 Q220 190 245 210 Q245 220 180 220 Q115 220 115 210 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M140 210 Q150 200 160 210" fill="none" stroke="#000000" stroke-width="2"/>
+  <path d="M180 210 Q190 200 200 210" fill="none" stroke="#000000" stroke-width="2"/>
+</svg>

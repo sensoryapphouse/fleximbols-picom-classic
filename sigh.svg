@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Full body figure - standing, shoulders drooped -->
+  <!-- Head -->
+  <ellipse cx="145" cy="42" rx="30" ry="33" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Neck -->
+  <rect x="133" y="70" width="24" height="18" rx="5" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Torso - drooped posture, slightly forward lean -->
+  <path d="M98 88 Q105 80 133 80 L157 80 Q185 80 192 88 L200 155 Q185 165 145 168 Q105 165 90 155 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Dropped shoulders indicated by arm angle -->
+  <!-- Left arm drooping down -->
+  <path d="M100 98 Q78 120 72 148" fill="none" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <ellipse cx="72" cy="154" rx="12" ry="10" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm drooping down -->
+  <path d="M190 98 Q212 120 218 148" fill="none" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <ellipse cx="218" cy="154" rx="12" ry="10" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Legs -->
+  <rect x="118" y="165" width="22" height="55" rx="10" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <rect x="150" y="165" width="22" height="55" rx="10" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <!-- Feet -->
+  <ellipse cx="129" cy="222" rx="18" ry="9" fill="#7f7f7f" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="161" cy="222" rx="18" ry="9" fill="#7f7f7f" stroke="#000000" stroke-width="4"/>
+  <!-- Face - tired/weary -->
+  <!-- Eyes - half closed -->
+  <ellipse cx="135" cy="37" rx="8" ry="5" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="155" cy="37" rx="8" ry="5" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="135" cy="38" rx="4" ry="3" fill="#4d4d4d" stroke="none"/>
+  <ellipse cx="155" cy="38" rx="4" ry="3" fill="#4d4d4d" stroke="none"/>
+  <!-- Heavy eyelids -->
+  <path d="M127 34 Q135 30 143 34" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M147 34 Q155 30 163 34" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Small pursed mouth exhaling -->
+  <ellipse cx="145" cy="54" rx="7" ry="5" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <!-- Long flowing breath stream to the right -->
+  <path d="M152 52 Q172 45 192 48 Q212 51 225 42" fill="none" stroke="#b8b8b8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M152 54 Q175 54 198 57 Q215 59 228 52" fill="none" stroke="#b8b8b8" stroke-width="4" stroke-linecap="round"/>
+  <!-- Small cloud at end of breath -->
+  <ellipse cx="236" cy="42" rx="12" ry="9" fill="#ffffff" stroke="#b8b8b8" stroke-width="3"/>
+  <ellipse cx="248" cy="46" rx="9" ry="7" fill="#ffffff" stroke="#b8b8b8" stroke-width="3"/>
+  <ellipse cx="242" cy="38" rx="8" ry="7" fill="#ffffff" stroke="#b8b8b8" stroke-width="3"/>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Floor -->
+  <path d="M 20,218 L 270,218" stroke="#000000" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Footstep trail dots behind figure (walking direction: left to right) -->
+  <circle cx="38" cy="215" r="4" fill="#b8b8b8"/>
+  <circle cx="56" cy="211" r="4" fill="#b8b8b8"/>
+  <circle cx="74" cy="215" r="4" fill="#b8b8b8"/>
+  <circle cx="92" cy="211" r="4" fill="#b8b8b8"/>
+  <!-- Forward arrow -->
+  <path d="M 228,210 L 258,210" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M 255,206 L 260,210 L 255,214" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Back leg: trailing behind, near-straight (left side) -->
+  <!-- Back thigh angled back -->
+  <path d="M 142,150 Q 118,158 100,170 L 110,180 Q 124,170 148,162 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Back shin (angled back) -->
+  <path d="M 100,170 L 94,218 L 114,218 L 116,174 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Back foot -->
+  <ellipse cx="104" cy="218" rx="15" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Front leg: stepped forward, knee bent (right side) -->
+  <!-- Front thigh angled forward -->
+  <path d="M 158,150 Q 182,160 200,174 L 190,182 Q 172,170 152,162 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Front shin (vertical) -->
+  <path d="M 200,174 L 204,218 L 184,218 L 182,178 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Front foot -->
+  <ellipse cx="194" cy="218" rx="16" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Torso (upright, mid-stride) -->
+  <path d="M 138,90 Q 140,82 152,80 Q 164,82 164,90 L 162,150 L 140,150 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right arm swung back (opposite front leg) -->
+  <path d="M 138,106 Q 124,122 114,140" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 136,104 Q 122,120 112,138 L 118,144 Q 128,126 140,110 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="114" cy="142" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Left arm swung forward -->
+  <path d="M 164,106 Q 178,122 186,142" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 166,104 Q 180,120 188,140 L 182,146 Q 174,126 162,110 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="186" cy="144" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Head -->
+  <circle cx="152" cy="56" r="23" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Hair -->
+  <path d="M 130,49 Q 132,33 152,33 Q 172,33 174,49 Q 165,39 152,40 Q 139,39 130,49 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <ellipse cx="144" cy="54" rx="3" ry="3.5" fill="#000000"/>
+  <ellipse cx="160" cy="54" rx="3" ry="3.5" fill="#000000"/>
+  <!-- Focused mouth -->
+  <path d="M 145,66 L 159,66" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>

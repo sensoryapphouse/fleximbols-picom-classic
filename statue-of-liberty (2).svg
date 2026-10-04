@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sky -->
+  <rect x="10" y="10" width="270" height="180" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <!-- water -->
+  <rect x="10" y="190" width="270" height="40" fill="#90a7d6" stroke="#000000" stroke-width="3"/>
+  <path d="M20 200 Q50 197 80 200 T140 200 T200 200 T270 200" fill="none" stroke="#2a4ec0" stroke-width="2"/>
+  <path d="M25 215 Q55 213 85 215 T145 215 T205 215 T270 215" fill="none" stroke="#2a4ec0" stroke-width="2"/>
+  <!-- pedestal -->
+  <rect x="115" y="155" width="60" height="35" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <rect x="110" y="150" width="70" height="8" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <!-- robe (body) -->
+  <path d="M125 155 L120 95 Q120 80 145 78 Q170 80 170 95 L165 155 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- robe folds -->
+  <path d="M135 100 L137 150 M155 100 L153 150 M145 90 L145 150" fill="none" stroke="#000000" stroke-width="1.5"/>
+  <!-- tablet (left arm, held against body) -->
+  <rect x="118" y="105" width="16" height="22" fill="#f5e7c4" stroke="#000000" stroke-width="2.5"/>
+  <path d="M121 112 L131 112 M121 117 L131 117 M121 122 L131 122" fill="none" stroke="#5e1f0a" stroke-width="1.5"/>
+  <!-- left arm -->
+  <path d="M122 95 Q116 100 118 110" fill="#3aa6a0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="145" cy="62" r="13" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- crown with 7 spikes -->
+  <path d="M132 55 L134 42 L138 52 L141 38 L145 50 L149 38 L152 52 L156 42 L158 55 Z" fill="#3aa6a0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- face -->
+  <circle cx="141" cy="62" r="1.3" fill="#000000"/>
+  <circle cx="149" cy="62" r="1.3" fill="#000000"/>
+  <path d="M142 68 Q145 70 148 68" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- right arm raised with torch -->
+  <path d="M167 90 Q180 60 190 35" fill="none" stroke="#3aa6a0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M167 90 Q180 60 190 35" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- torch handle -->
+  <rect x="186" y="32" width="8" height="14" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <!-- torch flame -->
+  <path d="M183 32 Q185 18 190 22 Q193 14 196 22 Q199 18 197 32 Z" fill="#ff9900" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M188 28 Q190 22 192 28" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+</svg>

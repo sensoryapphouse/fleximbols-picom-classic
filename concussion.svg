@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Concussion: head with impact star at one point + small orbiting stars -->
+
+  <!-- Neck -->
+  <rect x="124" y="174" width="32" height="26" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Head -->
+  <ellipse cx="140" cy="138" rx="50" ry="54" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+
+  <!-- Impact star (large, at top-right of head — point of impact) -->
+  <!-- Large 8-point impact burst -->
+  <polygon points="210,62 216,74 230,68 222,80 236,84 224,92 230,106 216,100 212,115 204,103 190,108 196,94 182,90 194,82 188,68 202,74" fill="#fff200" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Impact center dot -->
+  <circle cx="209" cy="88" r="8" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+
+  <!-- Small orbiting stars around head (dazed effect) -->
+  <!-- Star 1 - top left -->
+  <polygon points="82,68 85,76 93,76 87,81 89,89 82,84 75,89 77,81 71,76 79,76" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Star 2 - top center -->
+  <polygon points="140,28 143,36 151,36 145,41 147,49 140,44 133,49 135,41 129,36 137,36" fill="#fff200" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Star 3 - right side lower -->
+  <polygon points="200,140 202,146 208,146 204,150 205,156 200,152 195,156 196,150 192,146 198,146" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Motion arc showing stars orbiting -->
+  <path d="M 88 55 Q 120 25 160 22 Q 200 22 218 52" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,5"/>
+
+  <!-- Face features -->
+  <!-- Eyes (dazed — crossed / unfocused) -->
+  <line x1="116" y1="138" x2="128" y2="144" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="128" y1="138" x2="116" y2="144" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="150" y1="138" x2="162" y2="144" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="162" y1="138" x2="150" y2="144" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Mouth (slack) -->
+  <path d="M 122 162 Q 140 158 158 162" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+</svg>

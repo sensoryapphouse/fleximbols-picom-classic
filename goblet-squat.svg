@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Floor -->
+  <path d="M 30,218 L 260,218" stroke="#000000" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Left upper leg (thigh, wide squat) -->
+  <path d="M 118,148 Q 94,156 76,178 L 92,185 Q 108,165 126,158 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left lower leg (shin vertical) -->
+  <path d="M 76,178 L 72,218 L 96,218 L 96,183 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right upper leg -->
+  <path d="M 172,148 Q 196,156 214,178 L 198,185 Q 182,165 164,158 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right lower leg -->
+  <path d="M 214,178 L 218,218 L 194,218 L 194,183 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left shoe -->
+  <ellipse cx="84" cy="218" rx="15" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Right shoe -->
+  <ellipse cx="206" cy="218" rx="15" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Torso (upright squat) -->
+  <path d="M 118,100 Q 120,92 145,90 Q 170,92 172,100 L 172,148 L 118,148 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Kettlebell held at chest: bell body -->
+  <rect x="128" y="122" width="34" height="28" rx="8" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Kettlebell handle (arc above bell body) -->
+  <path d="M 132,122 Q 132,108 145,108 Q 158,108 158,122" fill="none" stroke="#4d4d4d" stroke-width="7" stroke-linecap="round"/>
+  <!-- Left arm: forearm reaching inward to cradle kettlebell -->
+  <path d="M 118,112 Q 118,128 128,132" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 116,110 Q 116,128 126,134 L 132,127 Q 124,124 122,110 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right arm: forearm reaching inward to cradle kettlebell -->
+  <path d="M 172,112 Q 172,128 162,132" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 174,110 Q 174,128 164,134 L 158,127 Q 166,124 168,110 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Head -->
+  <circle cx="145" cy="66" r="23" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Hair -->
+  <path d="M 123,60 Q 125,44 145,44 Q 165,44 167,60 Q 158,50 145,51 Q 132,50 123,60 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <ellipse cx="137" cy="64" rx="3" ry="3.5" fill="#000000"/>
+  <ellipse cx="153" cy="64" rx="3" ry="3.5" fill="#000000"/>
+  <!-- Focused mouth -->
+  <path d="M 138,75 L 152,75" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>

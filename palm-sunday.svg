@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sky band -->
+  <path d="M10 20 L280 20 L280 130 L10 130 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- ground/path -->
+  <path d="M10 130 L280 130 L280 225 L10 225 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- road (curved path going back) -->
+  <path d="M40 225 Q145 180 250 225 Z" fill="#b8b8b8" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- road dividers -->
+  <line x1="100" y1="210" x2="120" y2="200" stroke="#ffffff" stroke-width="3"/>
+  <line x1="170" y1="200" x2="190" y2="210" stroke="#ffffff" stroke-width="3"/>
+  <!-- donkey body -->
+  <path d="M105 165 Q105 145 130 145 L180 145 Q205 145 205 165 L205 190 L190 190 L188 175 L130 175 L122 190 L105 190 Z" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- donkey head -->
+  <path d="M195 145 Q220 140 225 125 Q225 110 215 108 Q205 110 205 125 Q200 135 195 145 Z" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- donkey ears -->
+  <path d="M210 110 L208 92 L214 95 Z" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <path d="M220 110 L222 92 L216 95 Z" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <!-- donkey eye -->
+  <circle cx="217" cy="120" r="2" fill="#000000"/>
+  <!-- donkey nostril -->
+  <circle cx="220" cy="132" r="1.5" fill="#000000"/>
+  <!-- donkey legs -->
+  <rect x="130" y="175" width="10" height="35" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <rect x="150" y="175" width="10" height="35" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <rect x="175" y="175" width="10" height="35" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <!-- donkey tail -->
+  <path d="M105 155 Q90 165 88 175 L95 175 Q100 168 108 165 Z" fill="#9d7246" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- palm frond left -->
+  <path d="M40 110 L48 50" stroke="#67832d" stroke-width="3" fill="none"/>
+  <path d="M44 70 Q30 65 22 55 Q38 65 44 70" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <path d="M50 70 Q64 65 70 55 Q56 65 50 70" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <path d="M44 85 Q28 82 20 72 Q38 84 44 85" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <path d="M52 85 Q68 82 76 72 Q58 84 52 85" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <path d="M44 100 Q30 100 22 92 Q38 102 44 100" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <path d="M52 100 Q66 100 74 92 Q58 102 52 100" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <!-- palm frond right -->
+  <path d="M260 115 L252 55" stroke="#67832d" stroke-width="3" fill="none"/>
+  <path d="M254 75 Q240 70 232 60 Q248 70 254 75" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <path d="M260 75 Q274 70 280 60 Q266 70 260 75" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <path d="M254 90 Q238 87 230 77 Q248 89 254 90" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <path d="M262 90 Q278 87 286 77 Q268 89 262 90" fill="#529929" stroke="#000000" stroke-width="2"/>
+</svg>

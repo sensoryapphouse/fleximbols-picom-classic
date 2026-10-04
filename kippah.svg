@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Head -->
+  <ellipse cx="145" cy="155" rx="45" ry="52" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="126" y="197" width="38" height="22" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Kippah dome -->
+  <path d="M102 148 Q104 108 145 106 Q186 108 188 148 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Kippah rim band -->
+  <path d="M100 150 Q145 156 190 150" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Face features: eyes -->
+  <ellipse cx="131" cy="157" rx="5" ry="6" fill="#4d4d4d"/>
+  <ellipse cx="159" cy="157" rx="5" ry="6" fill="#4d4d4d"/>
+  <!-- Nose -->
+  <path d="M145 163 Q141 172 145 175 Q149 172 145 163" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Mouth -->
+  <path d="M134 182 Q145 189 156 182" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+</svg>

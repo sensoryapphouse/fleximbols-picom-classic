@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- COLLEGE letters as paths at top -->
+  <!-- books at base -->
+  <rect x="20" y="200" width="50" height="14" fill="#d01424" stroke="#000000" stroke-width="2.5"/>
+  <rect x="22" y="200" width="46" height="3" fill="#fff200" stroke="none"/>
+  <rect x="220" y="200" width="50" height="14" fill="#137827" stroke="#000000" stroke-width="2.5"/>
+  <rect x="222" y="200" width="46" height="3" fill="#fff200" stroke="none"/>
+  <rect x="120" y="208" width="50" height="14" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+  <rect x="122" y="208" width="46" height="3" fill="#fff200" stroke="none"/>
+
+  <!-- LEFT STUDENT in grad gown full body -->
+  <!-- mortarboard -->
+  <rect x="58" y="48" width="44" height="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <path d="M65 52 L65 60 L95 60 L95 52 Z" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- tassel -->
+  <path d="M102 50 L108 56 L108 66" fill="none" stroke="#fff200" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="108" cy="68" r="3" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+  <!-- head -->
+  <circle cx="80" cy="72" r="16" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <circle cx="74" cy="72" r="2" fill="#000000"/>
+  <circle cx="86" cy="72" r="2" fill="#000000"/>
+  <path d="M75 80 Q80 84 85 80" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="76" y="87" width="8" height="6" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- gown -->
+  <path d="M55 93 L105 93 L115 195 L45 195 Z" fill="#392170" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- stole -->
+  <path d="M70 93 L74 180 L86 180 L90 93 Z" fill="#fff200" stroke="#000000" stroke-width="2.5"/>
+  <!-- arms -->
+  <path d="M55 96 Q45 130 50 175" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M57 95 Q49 128 53 175 Q48 178 45 175 Q41 130 52 95 Z" fill="#392170" stroke="#000000" stroke-width="2.5"/>
+  <path d="M105 96 Q120 120 130 145" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M103 95 Q118 118 128 142 Q132 146 128 150 Q115 124 100 96 Z" fill="#392170" stroke="#000000" stroke-width="2.5"/>
+  <!-- legs (shoes peeking) -->
+  <ellipse cx="65" cy="200" rx="12" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="95" cy="200" rx="12" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+
+  <!-- RIGHT STUDENT in grad gown full body -->
+  <rect x="188" y="48" width="44" height="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <path d="M195 52 L195 60 L225 60 L225 52 Z" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <path d="M232 50 L238 56 L238 66" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="238" cy="68" r="3" fill="#f8130d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="210" cy="72" r="16" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <circle cx="204" cy="72" r="2" fill="#000000"/>
+  <circle cx="216" cy="72" r="2" fill="#000000"/>
+  <path d="M205 80 Q210 84 215 80" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="206" y="87" width="8" height="6" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <path d="M185 93 L235 93 L245 195 L175 195 Z" fill="#392170" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M200 93 L204 180 L216 180 L220 93 Z" fill="#fff200" stroke="#000000" stroke-width="2.5"/>
+  <path d="M185 96 Q170 120 160 145" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M187 95 Q172 118 162 142 Q158 146 162 150 Q175 124 190 96 Z" fill="#392170" stroke="#000000" stroke-width="2.5"/>
+  <path d="M235 96 Q245 130 240 175" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M233 95 Q241 128 237 175 Q242 178 245 175 Q249 130 238 95 Z" fill="#392170" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="195" cy="200" rx="12" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="225" cy="200" rx="12" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- mortarboard hat replacing COLLEGE letters -->
+  <rect x="72" y="22" width="140" height="12" rx="2" fill="#1d0e82" stroke="#000000" stroke-width="2.5"/>
+  <path d="M100 22 L142 10 L184 22 L142 34 Z" fill="#1d0e82" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="142" cy="22" r="4" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <path d="M178 26 L178 44 Q178 50 172 50 Q166 50 166 44" fill="none" stroke="#1d0e82" stroke-width="3" stroke-linecap="round"/>
+  <path d="M164 48 L168 56 L158 54 Z" fill="#f2e40d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+</svg>

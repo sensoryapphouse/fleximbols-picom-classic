@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Floating hearts around the figure -->
+  <!-- Big heart top left -->
+  <path d="M62,52 Q62,43 70,43 Q76,43 78,50 Q80,43 86,43 Q94,43 94,52 Q94,60 78,70 Q62,60 62,52 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Medium heart top right -->
+  <path d="M196,40 Q196,33 202,33 Q207,33 209,39 Q211,33 216,33 Q222,33 222,40 Q222,47 209,55 Q196,47 196,40 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Small heart far right -->
+  <path d="M230,78 Q230,73 234,73 Q237,73 238,77 Q239,73 242,73 Q246,73 246,78 Q246,83 238,88 Q230,83 230,78 Z" fill="#f8130d" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Small heart top center-left -->
+  <path d="M112,28 Q112,23 116,23 Q119,23 120,27 Q121,23 124,23 Q128,23 128,28 Q128,33 120,38 Q112,33 112,28 Z" fill="#f266aa" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tiny heart upper right -->
+  <path d="M168,22 Q168,18 171,18 Q173,18 174,21 Q175,18 177,18 Q180,18 180,22 Q180,26 174,30 Q168,26 168,22 Z" fill="#f8130d" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shoulders -->
+  <path d="M58,240 L58,186 Q78,167 103,161 L145,157 L187,161 Q212,167 232,186 L232,240 Z" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shirt -->
+  <path d="M103,161 Q118,177 145,180 Q172,177 187,161" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="127" y="141" width="36" height="24" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="104" rx="57" ry="60" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Hair -->
+  <path d="M90,98 Q89,62 102,50 Q116,38 145,36 Q174,38 188,50 Q201,62 200,98 Q193,74 178,64 Q162,56 145,56 Q128,56 112,64 Q97,74 90,98 Z" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Happy eyes - sparkling -->
+  <ellipse cx="120" cy="106" rx="11" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="120" cy="107" rx="6" ry="6" fill="#4d4d4d" stroke="none"/>
+  <ellipse cx="122" cy="105" rx="2.5" ry="2.5" fill="#ffffff" stroke="none"/>
+  <ellipse cx="170" cy="106" rx="11" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="170" cy="107" rx="6" ry="6" fill="#4d4d4d" stroke="none"/>
+  <ellipse cx="172" cy="105" rx="2.5" ry="2.5" fill="#ffffff" stroke="none"/>
+  <!-- Happy raised brows -->
+  <path d="M109,92 Q120,88 131,92" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M159,92 Q170,88 181,92" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Wide happy smile -->
+  <path d="M120,126 Q145,145 170,126" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Blushing cheeks -->
+  <ellipse cx="106" cy="118" rx="15" ry="10" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="184" cy="118" rx="15" ry="10" fill="#f4a4b2" stroke="none"/>
+</svg>

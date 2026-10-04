@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- face-cream: round wide JAR with screw lid, small face silhouette on front -->
+  <!-- Jar body (wide, low) -->
+  <rect x="60" y="110" width="170" height="100" rx="16" ry="16" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Lid (wide, flat) -->
+  <rect x="55" y="82" width="180" height="36" rx="12" ry="12" fill="#f4a4b2" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Lid rim detail -->
+  <line x1="55" y1="96" x2="235" y2="96" stroke="#000000" stroke-width="3"/>
+  <!-- Small face silhouette on jar front -->
+  <!-- Head shape -->
+  <ellipse cx="145" cy="150" rx="28" ry="32" fill="#eed5b6" stroke="#000000" stroke-width="3.5"/>
+  <!-- Eyes -->
+  <ellipse cx="135" cy="143" rx="4" ry="5" fill="#000000"/>
+  <ellipse cx="155" cy="143" rx="4" ry="5" fill="#000000"/>
+  <!-- Nose dot -->
+  <circle cx="145" cy="153" r="2.5" fill="#000000"/>
+  <!-- Mouth smile -->
+  <path d="M137,162 Q145,169 153,162" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Hair suggestion (simple arc) -->
+  <path d="M117,148 Q113,118 145,112 Q177,118 173,148" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

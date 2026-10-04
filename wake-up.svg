@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- WINDOW with sunrise in background (top right) -->
+  <!-- Window frame -->
+  <rect x="182" y="18" width="96" height="90" rx="6" fill="#dff3fd" stroke="#000000" stroke-width="5"/>
+  <!-- Window pane cross -->
+  <line x1="230" y1="18" x2="230" y2="108" stroke="#000000" stroke-width="4"/>
+  <line x1="182" y1="63" x2="278" y2="63" stroke="#000000" stroke-width="4"/>
+  <!-- Sun (partial, rising in window) -->
+  <ellipse cx="230" cy="102" rx="30" ry="22" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <!-- Sun rays in window panes -->
+  <line x1="230" y1="25" x2="230" y2="18" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <line x1="248" y1="30" x2="254" y2="24" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <line x1="212" y1="30" x2="206" y2="24" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <line x1="258" y1="45" x2="264" y2="42" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <line x1="202" y1="45" x2="196" y2="42" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- BED - headboard -->
+  <rect x="8" y="104" width="30" height="120" rx="6" fill="#9d7246" stroke="#000000" stroke-width="5"/>
+  <!-- Bed frame / mattress -->
+  <rect x="10" y="158" width="240" height="70" rx="8" fill="#efefef" stroke="#000000" stroke-width="5"/>
+  <!-- Pillow -->
+  <rect x="22" y="148" width="80" height="40" rx="10" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- Blanket / covers (pulled back) -->
+  <path d="M38 188 Q80 172 180 172 L180 230 L10 230 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Blanket fold detail -->
+  <path d="M38 188 Q100 178 180 172" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- PERSON sitting up in bed, stretching arms -->
+  <!-- Lower body / legs in bed (under covers) -->
+  <!-- Torso sitting up -->
+  <rect x="80" y="106" width="54" height="64" rx="8" fill="#f4a4b2" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm stretched out and up (stretching) -->
+  <path d="M80 118 L46 86" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <circle cx="43" cy="82" r="11" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm stretched out and up (stretching) -->
+  <path d="M134 118 L166 84" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <circle cx="169" cy="80" r="11" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Neck -->
+  <rect x="92" y="86" width="30" height="22" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Head -->
+  <ellipse cx="107" cy="66" rx="36" ry="36" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair (messy bed hair) -->
+  <!-- Main hair mass -->
+  <ellipse cx="107" cy="36" rx="36" ry="14" fill="#7d5e23" stroke="#000000" stroke-width="5"/>
+  <rect x="71" y="30" width="72" height="16" rx="8" fill="#7d5e23" stroke="#000000" stroke-width="5"/>
+  <!-- Messy tufts -->
+  <path d="M80 38 Q72 24 84 28" stroke="#7d5e23" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M107 28 Q104 16 112 20" stroke="#7d5e23" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M130 36 Q136 22 128 26" stroke="#7d5e23" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- Eyes OPENING - half open (just waking up) -->
+  <!-- Left eye -->
+  <ellipse cx="93" cy="66" rx="11" ry="8" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="93" cy="68" rx="7" ry="5" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- Eyelid half closed -->
+  <path d="M82 66 Q93 58 104 66" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Right eye -->
+  <ellipse cx="121" cy="66" rx="11" ry="8" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="121" cy="68" rx="7" ry="5" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- Eyelid half closed -->
+  <path d="M110 66 Q121 58 132 66" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Sleepy/waking smile -->
+  <path d="M88 80 Q107 90 126 80" stroke="#000000" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Cheeks -->
+  <ellipse cx="78" cy="70" rx="9" ry="6" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="136" cy="70" rx="9" ry="6" fill="#f4a4b2" stroke="none"/>
+</svg>

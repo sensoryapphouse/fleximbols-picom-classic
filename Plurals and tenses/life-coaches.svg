@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- UPWARD PATH (life journey arc) -->
+  <path d="M30 210 Q80 190 130 160 Q180 130 240 80" stroke="#529929" stroke-width="6" stroke-linecap="round" fill="none" stroke-dasharray="10,6"/>
+  <!-- Path steps / waypoints -->
+  <circle cx="80" cy="192" r="7" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <circle cx="140" cy="155" r="7" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <circle cx="200" cy="116" r="7" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <!-- Arrow at top of path -->
+  <polygon points="240,80 228,86 234,72" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- HEART (centre, large) -->
+  <path d="M130 105 Q130 88 118 85 Q106 85 106 97 Q106 108 130 125 Q154 108 154 97 Q154 85 142 85 Q130 85 130 105 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- COMPASS rose (bottom-right) -->
+  <circle cx="220" cy="185" r="24" fill="#dff3fd" stroke="#000000" stroke-width="5"/>
+  <circle cx="220" cy="185" r="6" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- N needle -->
+  <polygon points="220,161 215,179 225,179" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- S needle -->
+  <polygon points="220,209 225,191 215,191" fill="#b8b8b8" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- E/W ticks -->
+  <line x1="196" y1="185" x2="204" y2="185" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="236" y1="185" x2="244" y2="185" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- PERSON (waist-up, left side, gesturing outward) -->
+  <!-- Torso -->
+  <rect x="34" y="128" width="58" height="60" rx="10" fill="#3aa6a0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm (open, welcoming gesture) -->
+  <line x1="34" y1="145" x2="20" y2="165" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="18" cy="170" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm (pointing toward path/heart) -->
+  <line x1="92" y1="145" x2="114" y2="130" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="118" cy="127" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head -->
+  <circle cx="63" cy="106" r="26" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Eyes -->
+  <circle cx="54" cy="103" r="3" fill="#000000"/>
+  <circle cx="72" cy="103" r="3" fill="#000000"/>
+  <!-- Warm smile -->
+  <path d="M55 115 Q63 123 71 115" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Hair -->
+  <path d="M38 100 Q43 82 63 80 Q83 82 88 100" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Neckline -->
+  <path d="M50 128 Q63 136 76 128" stroke="#ffffff" stroke-width="4" stroke-linecap="round" fill="none"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl1575" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl1575)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Head shape -->
+  <ellipse cx="145" cy="130" rx="88" ry="95" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Neck -->
+  <rect x="122" y="210" width="46" height="24" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left ear -->
+  <ellipse cx="57" cy="132" rx="14" ry="20" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- Right ear -->
+  <ellipse cx="233" cy="132" rx="14" ry="20" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M78 98 Q145 52 212 98 Q205 68 145 58 Q85 68 78 98Z" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Eyebrows -->
+  <path d="M88 112 Q108 102 130 110" fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <path d="M160 110 Q182 102 202 112" fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <!-- Left eye OPEN (normal) -->
+  <ellipse cx="108" cy="132" rx="18" ry="12" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="112" cy="132" r="7" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <!-- Left upper eyelid line (normal black) -->
+  <path d="M90 132 Q108 120 126 132" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Right eye HALF CLOSED — lid lowered over eye, highlighted -->
+  <!-- Eye white peeking at bottom -->
+  <ellipse cx="182" cy="136" rx="22" ry="10" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="182" cy="138" r="6" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <!-- EYELID covering upper half — highlighted in red -->
+  <path d="M160 132 Q182 118 204 132 Q202 140 182 144 Q162 140 160 132Z" fill="#d01424" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Lash line on lid edge (black, distinguishing lashes from lid fill) -->
+  <path d="M160 132 Q182 144 204 132" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M145 148 L137 170 Q145 176 153 170 L145 148" fill="#e6b98a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Mouth -->
+  <path d="M122 190 Q145 204 168 190" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Pointer from right eyelid -->
+  <line x1="207" y1="130" x2="248" y2="106" stroke="#d01424" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="248" cy="106" r="5" fill="#d01424" stroke="#000000" stroke-width="3"/>
+</svg>

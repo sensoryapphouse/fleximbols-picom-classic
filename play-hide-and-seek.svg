@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="190" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- ground -->
+  <path d="M0 190 Q145 182 290 190 L290 240 L0 240 Z" fill="#67832d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- TREE in center -->
+  <rect x="135" y="100" width="30" height="100" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- bark lines -->
+  <line x1="143" y1="115" x2="143" y2="170" stroke="#5e1f0a" stroke-width="2"/>
+  <line x1="157" y1="120" x2="157" y2="180" stroke="#5e1f0a" stroke-width="2"/>
+  <!-- canopy -->
+  <circle cx="150" cy="60" r="42" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <circle cx="118" cy="75" r="28" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <circle cx="182" cy="75" r="28" fill="#529929" stroke="#000000" stroke-width="3"/>
+
+  <!-- COUNTING CHILD (left side, FULL BODY, face against tree, hands over eyes) -->
+  <!-- head -->
+  <circle cx="85" cy="120" r="16" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M70 116 Q75 102 85 100 Q95 102 100 116 Q95 110 85 110 Q75 110 70 116 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- hands over eyes -->
+  <ellipse cx="80" cy="120" rx="6" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="92" cy="120" rx="6" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- mouth -->
+  <path d="M82 132 Q85 134 88 132" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- torso (facing tree, slight lean) -->
+  <path d="M68 138 L102 138 L100 188 L70 188 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms going up to face -->
+  <path d="M72 142 Q72 130 78 122" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M98 142 Q98 130 92 122" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M72 142 Q72 130 78 122" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M98 142 Q98 130 92 122" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M75 188 L70 220" fill="none" stroke="#2a4ec0" stroke-width="11" stroke-linecap="round"/>
+  <path d="M95 188 L100 220" fill="none" stroke="#2a4ec0" stroke-width="11" stroke-linecap="round"/>
+  <path d="M75 188 L70 220" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M95 188 L100 220" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="68" cy="225" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="102" cy="225" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+
+  <!-- HIDING CHILD peeking behind tree on right -->
+  <!-- head visible to right of trunk -->
+  <circle cx="180" cy="135" r="14" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M166 132 Q172 120 180 119 Q190 120 194 132 Q188 127 180 127 Q172 127 166 132 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="176" cy="135" r="1.6" fill="#000000"/>
+  <circle cx="186" cy="135" r="1.6" fill="#000000"/>
+  <path d="M176 142 Q180 145 184 142" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- body peeking out -->
+  <path d="M168 150 L195 150 L198 195 L172 195 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arm/hand on tree -->
+  <path d="M172 158 Q165 162 162 168" fill="none" stroke="#e6b98a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M172 158 Q165 162 162 168" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- visible leg(s) -->
+  <path d="M180 195 L180 220" fill="none" stroke="#392170" stroke-width="11" stroke-linecap="round"/>
+  <path d="M180 195 L180 220" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M192 195 L195 220" fill="none" stroke="#392170" stroke-width="11" stroke-linecap="round"/>
+  <path d="M192 195 L195 220" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="180" cy="225" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="196" cy="225" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+</svg>

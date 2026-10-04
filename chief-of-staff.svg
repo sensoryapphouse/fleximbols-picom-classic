@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- BACKGROUND PANEL -->
+  <rect x="22" y="22" width="246" height="196" rx="14" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- CEO behind (right, smaller, suited) -->
+  <!-- CEO head -->
+  <circle cx="210" cy="78" r="16" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- CEO hair -->
+  <path d="M196 72 Q198 60 210 58 Q222 60 224 72 L221 70 Q216 64 210 64 Q204 64 199 70 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- CEO eyes -->
+  <circle cx="205" cy="78" r="2.2" fill="#000000"/>
+  <circle cx="215" cy="78" r="2.2" fill="#000000"/>
+  <!-- CEO mouth -->
+  <path d="M205 85 Q210 88 215 85" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- CEO suit/torso -->
+  <path d="M188 94 L184 150 L236 150 L232 94 L222 90 L210 96 L198 90 Z" fill="#392170" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Tie -->
+  <path d="M206 96 L214 96 L213 110 L215 130 L210 134 L205 130 L207 110 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- CEO arms -->
+  <path d="M184 100 L176 132 L186 134 L192 110 Z" fill="#392170" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M236 100 L244 132 L234 134 L228 110 Z" fill="#392170" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- CEO legs -->
+  <rect x="188" y="150" width="20" height="50" fill="#1d0e82" stroke="#000000" stroke-width="4"/>
+  <rect x="212" y="150" width="20" height="50" fill="#1d0e82" stroke="#000000" stroke-width="4"/>
+  <!-- CEO shoes -->
+  <ellipse cx="198" cy="202" rx="12" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="222" cy="202" rx="12" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+
+  <!-- COS (front, larger) - FULL BODY -->
+  <!-- Head -->
+  <circle cx="90" cy="70" r="20" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M72 64 Q74 48 90 46 Q106 48 108 64 L104 62 Q98 52 90 52 Q82 52 76 62 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <circle cx="83" cy="68" r="3" fill="#000000"/>
+  <circle cx="97" cy="68" r="3" fill="#000000"/>
+  <!-- Mouth (focused) -->
+  <path d="M84 78 L96 78" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Torso (blazer) -->
+  <path d="M66 94 L60 168 L120 168 L114 94 L104 88 L90 94 L76 88 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Blouse collar -->
+  <path d="M82 92 L90 106 L98 92" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Left arm holding clipboard -->
+  <path d="M66 98 L52 140 Q50 148 58 150 L72 148 L76 116 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="60" cy="148" rx="8" ry="6" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+
+  <!-- Right arm at side -->
+  <path d="M114 98 L124 144 Q126 152 118 152 L108 150 L104 116 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="120" cy="150" rx="8" ry="6" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+
+  <!-- Trousers/skirt -->
+  <path d="M60 168 L56 210 L84 210 L88 178 L92 210 L120 210 L116 168 Z" fill="#392170" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shoes -->
+  <ellipse cx="68" cy="210" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="108" cy="210" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+
+  <!-- CLIPBOARD in left hand -->
+  <rect x="36" y="124" width="40" height="54" rx="3" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="40" y="128" width="32" height="46" rx="2" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <rect x="48" y="124" width="16" height="6" rx="2" fill="#7f7f7f" stroke="#000000" stroke-width="3"/>
+  <!-- Lines on clipboard -->
+  <line x1="44" y1="138" x2="68" y2="138" stroke="#000000" stroke-width="2"/>
+  <line x1="44" y1="146" x2="68" y2="146" stroke="#000000" stroke-width="2"/>
+  <line x1="44" y1="154" x2="68" y2="154" stroke="#000000" stroke-width="2"/>
+  <line x1="44" y1="162" x2="60" y2="162" stroke="#000000" stroke-width="2"/>
+
+  <!-- COORDINATION ICON (gear, top-left) -->
+  <circle cx="44" cy="46" r="14" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <circle cx="44" cy="46" r="5" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <rect x="42" y="28" width="4" height="6" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <rect x="42" y="58" width="4" height="6" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <rect x="26" y="44" width="6" height="4" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <rect x="56" y="44" width="6" height="4" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+
+  <!-- 'COS' label - block letters as paths (bottom) -->
+  <!-- C -->
+  <path d="M150 224 L150 234 L162 234 L162 232 L154 232 L154 226 L162 226 L162 224 Z" fill="#000000" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- O -->
+  <path d="M166 224 L166 234 L176 234 L176 224 Z M170 226 L172 226 L172 232 L170 232 Z" fill="#000000" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" fill-rule="evenodd"/>
+  <!-- S -->
+  <path d="M180 224 L180 226 L188 226 L188 228 L180 228 L180 234 L190 234 L190 232 L182 232 L182 230 L190 230 L190 224 Z" fill="#000000" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

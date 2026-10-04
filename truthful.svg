@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Truthful: figure speaking, speech bubble with bold checkmark, hand raised like oath -->
+  <!-- Head -->
+  <circle cx="110" cy="52" r="30" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Eyes: direct, sincere -->
+  <ellipse cx="100" cy="47" rx="5" ry="6" fill="#000000"/>
+  <ellipse cx="120" cy="47" rx="5" ry="6" fill="#000000"/>
+  <circle cx="102" cy="45" r="2" fill="#ffffff"/>
+  <circle cx="122" cy="45" r="2" fill="#ffffff"/>
+  <!-- Eyebrows: earnest -->
+  <path d="M93 39 Q100 35 107 39" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M113 39 Q120 35 127 39" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Open mouth speaking -->
+  <path d="M99 62 Q110 72 121 62" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="110" cy="64" rx="9" ry="5" fill="#f4a4b2" stroke="none"/>
+  <!-- Neck -->
+  <rect x="102" y="80" width="16" height="14" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Torso / shirt (green — truthful) -->
+  <path d="M70 94 Q78 85 100 87 L118 87 Q140 85 148 94 L154 170 L64 170 Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left arm: down -->
+  <path d="M71 98 Q52 112 50 136" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M71 98 Q52 112 50 136" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="50" cy="144" rx="11" ry="10" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm: raised, swearing oath -->
+  <path d="M147 98 Q168 86 172 66" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M147 98 Q168 86 172 66" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right hand raised (oath) -->
+  <ellipse cx="173" cy="57" rx="14" ry="13" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Fingers up (oath pose) -->
+  <line x1="166" y1="45" x2="164" y2="36" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="172" y1="43" x2="171" y2="33" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="178" y1="44" x2="178" y2="34" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Legs -->
+  <rect x="84" y="168" width="22" height="46" rx="8" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="112" y="168" width="22" height="46" rx="8" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="95" cy="215" rx="17" ry="8" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="123" cy="215" rx="17" ry="8" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Speech bubble (right side) -->
+  <path d="M148 20 Q148 10 158 10 L240 10 Q250 10 250 20 L250 70 Q250 80 240 80 L190 80 L182 95 L178 80 L158 80 Q148 80 148 70 Z" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bold checkmark in speech bubble -->
+  <path d="M168 44 L182 60 L222 24" fill="none" stroke="#529929" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

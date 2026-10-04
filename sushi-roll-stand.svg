@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<g stroke="#5c3a26" stroke-width="1.90"><line x1="20" y1="195" x2="40" y2="220"></line><line x1="80" y1="195" x2="100" y2="220"></line><line x1="200" y1="195" x2="220" y2="220"></line><line x1="250" y1="195" x2="270" y2="220"></line></g>
+<rect x="30" y="170" width="230" height="14" fill="#5c3a26" stroke="#1a1a1a" stroke-width="2.85"></rect>
+<rect x="40" y="130" width="210" height="42" fill="#5c3a26" stroke="#1a1a1a" stroke-width="2.85"></rect>
+<rect x="48" y="135" width="194" height="32" fill="#fbf5e1" stroke="#1a1a1a" stroke-width="1.90"></rect>
+<g><circle cx="80" cy="151" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.90"></circle><circle cx="80" cy="151" r="9" fill="#fbf5e1"></circle><circle cx="80" cy="151" r="5" fill="#e24940"></circle></g>
+<g><circle cx="120" cy="151" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.90"></circle><circle cx="120" cy="151" r="9" fill="#fbf5e1"></circle><ellipse cx="120" cy="151" rx="6" ry="3" fill="#5e8bc8"></ellipse></g>
+<g><circle cx="160" cy="151" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.90"></circle><circle cx="160" cy="151" r="9" fill="#fbf5e1"></circle><circle cx="160" cy="151" r="4" fill="#5cac4c"></circle></g>
+<g><circle cx="200" cy="151" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.90"></circle><circle cx="200" cy="151" r="9" fill="#fbf5e1"></circle><circle cx="200" cy="151" r="5" fill="#ed8b41"></circle></g>
+<g><circle cx="232" cy="151" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.90"></circle><circle cx="232" cy="151" r="9" fill="#fbf5e1"></circle><circle cx="232" cy="151" r="5" fill="#9b70c5"></circle></g>
+<rect x="100" y="90" width="90" height="35" fill="#f8e49c" stroke="#1a1a1a" stroke-width="2.85"></rect>
+<text x="145" y="115" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" font-weight="900" fill="#a42c3b">寿司</text>
+<rect x="100" y="50" width="90" height="40" fill="#a42c3b" stroke="#1a1a1a" stroke-width="2.85"></rect>
+<text x="145" y="78" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="900" fill="#f8e49c">回転</text>
+<g stroke="#5c3a26" stroke-width="1.90"><line x1="50" y1="170" x2="50" y2="50"></line><line x1="240" y1="170" x2="240" y2="50"></line></g>
+</g></svg>

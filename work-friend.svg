@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- two office desks -->
+  <rect x="20" y="170" width="110" height="10" fill="#9d7246" stroke="#000000" stroke-width="2.5"/>
+  <rect x="160" y="170" width="110" height="10" fill="#9d7246" stroke="#000000" stroke-width="2.5"/>
+  <rect x="26" y="180" width="6" height="35" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <rect x="118" y="180" width="6" height="35" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <rect x="166" y="180" width="6" height="35" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <rect x="258" y="180" width="6" height="35" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+
+  <!-- coffee mugs on each desk -->
+  <rect x="40" y="155" width="20" height="15" fill="#ffffff" stroke="#000000" stroke-width="2.5"/>
+  <path d="M60 158 Q70 158 70 163 Q70 168 60 168" fill="none" stroke="#000000" stroke-width="2.5"/>
+  <path d="M44 152 Q46 148 48 152 M52 152 Q54 148 56 152" fill="none" stroke="#7f7f7f" stroke-width="1.5"/>
+  <rect x="220" y="155" width="20" height="15" fill="#ffffff" stroke="#000000" stroke-width="2.5"/>
+  <path d="M240 158 Q250 158 250 163 Q250 168 240 168" fill="none" stroke="#000000" stroke-width="2.5"/>
+  <path d="M224 152 Q226 148 228 152 M232 152 Q234 148 236 152" fill="none" stroke="#7f7f7f" stroke-width="1.5"/>
+
+  <!-- heart between -->
+  <path d="M145 90 C135 78 118 84 128 100 L145 118 L162 100 C172 84 155 78 145 90 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- LEFT ADULT full body, casual -->
+  <circle cx="75" cy="55" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M58 52 Q58 35 75 32 Q93 35 92 54 Q86 46 76 44 Q66 46 60 50 Q58 52 58 52 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="69" cy="55" r="2" fill="#000000"/>
+  <circle cx="81" cy="55" r="2" fill="#000000"/>
+  <path d="M70 63 Q75 66 80 63" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="71" y="72" width="8" height="6" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- shirt -->
+  <path d="M58 78 L92 78 L98 150 L52 150 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- left arm down -->
+  <path d="M58 82 Q48 110 50 150" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M60 82 Q52 108 54 148 Q50 152 46 148 Q46 108 55 80 Z" fill="#3aa6a0" stroke="#000000" stroke-width="2.5"/>
+  <!-- right arm to mug -->
+  <path d="M92 82 Q88 130 50 160" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M94 80 Q96 128 56 162 Q50 158 54 154 Q88 124 89 80 Z" fill="#3aa6a0" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="50" cy="160" r="4" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- legs visible below desk -->
+  <rect x="58" y="180" width="14" height="30" fill="#1d0e82" stroke="#000000" stroke-width="2.5"/>
+  <rect x="76" y="180" width="14" height="30" fill="#1d0e82" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="65" cy="213" rx="10" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="83" cy="213" rx="10" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+
+  <!-- RIGHT ADULT full body, casual -->
+  <circle cx="215" cy="55" r="18" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M198 50 Q198 32 215 30 Q235 32 233 52 Q226 44 216 42 Q206 44 200 48 Q198 50 198 50 Z" fill="#7d5e23" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="209" cy="55" r="2" fill="#000000"/>
+  <circle cx="221" cy="55" r="2" fill="#000000"/>
+  <path d="M210 63 Q215 66 220 63" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="211" y="72" width="8" height="6" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- shirt -->
+  <path d="M198 78 L232 78 L238 150 L192 150 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- left arm to mug -->
+  <path d="M198 82 Q200 130 240 160" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M196 80 Q194 128 234 162 Q240 158 236 154 Q201 124 201 80 Z" fill="#ff9900" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="240" cy="160" r="4" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- right arm down -->
+  <path d="M232 82 Q242 110 240 150" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M230 82 Q238 108 236 148 Q240 152 244 148 Q244 108 235 80 Z" fill="#ff9900" stroke="#000000" stroke-width="2.5"/>
+  <!-- legs -->
+  <rect x="198" y="180" width="14" height="30" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <rect x="216" y="180" width="14" height="30" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="205" cy="213" rx="10" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="223" cy="213" rx="10" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+</svg>

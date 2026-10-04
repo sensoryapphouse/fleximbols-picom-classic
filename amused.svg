@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Neck -->
+  <rect x="125" y="150" width="40" height="28" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shoulders / bust -->
+  <path d="M60 240 Q60 195 95 188 L145 180 L195 188 Q230 195 230 240 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="108" rx="62" ry="66" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <ellipse cx="145" cy="57" rx="62" ry="24" fill="#9d7246" stroke="#000000" stroke-width="5"/>
+  <rect x="83" y="49" width="124" height="20" rx="8" fill="#9d7246" stroke="#000000" stroke-width="5"/>
+  <!-- Left eyebrow - flat/normal -->
+  <path d="M100 80 Q118 76 136 80" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Right eyebrow - raised (one raised brow - the smirk brow) -->
+  <path d="M154 74 Q172 65 190 72" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Left eye - normal, slightly squinted in private amusement -->
+  <ellipse cx="118" cy="100" rx="13" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="119" cy="101" r="7" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <circle cx="121" cy="99" r="3" fill="#ffffff"/>
+  <!-- Right eye - slightly squinted/crinkled with one-sided amusement -->
+  <ellipse cx="172" cy="98" rx="13" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="173" cy="99" r="7" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <circle cx="175" cy="97" r="3" fill="#ffffff"/>
+  <!-- Right eye slight squint lid -->
+  <path d="M159 92 Q172 88 185 94" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M140 112 L136 126 L143 128 L150 126 L146 112" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Smirk / small one-sided grin (right side raised) -->
+  <path d="M118 138 Q138 136 155 138 Q162 139 165 133" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Small private chuckle lines - tiny laugh lines near mouth right -->
+  <line x1="168" y1="132" x2="176" y2="128" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="169" y1="138" x2="178" y2="136" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

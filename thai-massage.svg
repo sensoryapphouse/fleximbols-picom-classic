@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Traditional thai mat -->
+  <rect x="20" y="180" width="250" height="30" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="20" y="180" width="250" height="8" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="60" y1="188" x2="60" y2="210" stroke="#000000" stroke-width="2"/>
+  <line x1="100" y1="188" x2="100" y2="210" stroke="#000000" stroke-width="2"/>
+  <line x1="140" y1="188" x2="140" y2="210" stroke="#000000" stroke-width="2"/>
+  <line x1="180" y1="188" x2="180" y2="210" stroke="#000000" stroke-width="2"/>
+  <line x1="220" y1="188" x2="220" y2="210" stroke="#000000" stroke-width="2"/>
+
+  <!-- Client seated (full body, legs crossed) -->
+  <!-- Client head -->
+  <circle cx="105" cy="80" r="20" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M 88 72 Q 105 55 122 72" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="99" cy="82" r="1.5" fill="#000000"/>
+  <circle cx="112" cy="82" r="1.5" fill="#000000"/>
+  <!-- Client torso -->
+  <path d="M 90 100 Q 105 96 120 100 L 125 145 L 85 145 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Client right arm being stretched up/out by practitioner -->
+  <path d="M 120 105 Q 155 95 185 80" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M 120 105 Q 155 95 185 80" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Client left arm down -->
+  <path d="M 90 105 Q 78 125 80 145" fill="none" stroke="#eed5b6" stroke-width="11" stroke-linecap="round"/>
+  <path d="M 90 105 Q 78 125 80 145" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Client crossed legs -->
+  <path d="M 85 145 Q 60 165 65 180 L 145 180 Q 150 170 130 160 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 125 145 Q 150 165 145 180" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Practitioner behind/beside, stretching client's arm -->
+  <circle cx="210" cy="70" r="17" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M 195 63 Q 210 48 225 63" fill="#000000" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="205" cy="72" r="1.5" fill="#000000"/>
+  <circle cx="215" cy="72" r="1.5" fill="#000000"/>
+  <!-- Practitioner body -->
+  <path d="M 195 87 Q 210 84 225 87 L 235 150 L 185 150 Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Practitioner arm holding client's hand -->
+  <path d="M 195 92 Q 188 84 185 80" fill="none" stroke="#eed5b6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M 195 92 Q 188 84 185 80" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Hands meeting -->
+  <circle cx="183" cy="80" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- Practitioner other arm -->
+  <path d="M 225 92 Q 240 110 240 145" fill="none" stroke="#eed5b6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M 225 92 Q 240 110 240 145" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Practitioner legs (kneeling) -->
+  <path d="M 185 150 Q 175 170 175 180 L 235 180 Q 245 170 235 150 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

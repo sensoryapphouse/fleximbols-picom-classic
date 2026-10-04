@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- binge-watch: person FULL BODY on couch + TV with show + snacks + multiple episodes pile -->
+  <!-- TV back-left -->
+  <rect x="10" y="20" width="116" height="80" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="18" y="28" width="100" height="64" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <!-- show: stick character on TV screen -->
+  <circle cx="68" cy="48" r="6" fill="#e6b98a" stroke="#000000" stroke-width="1.5"/>
+  <line x1="68" y1="54" x2="68" y2="70" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="68" y1="58" x2="60" y2="64" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="68" y1="58" x2="76" y2="64" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="68" y1="70" x2="62" y2="80" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="68" y1="70" x2="74" y2="80" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- play triangle overlay -->
+  <path d="M96 82 L96 92 L106 87 Z" fill="#ffffff" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- TV stand -->
+  <rect x="56" y="100" width="24" height="12" fill="#7f7f7f" stroke="#000000" stroke-width="2.5"/>
+  <!-- couch -->
+  <rect x="130" y="140" width="150" height="60" rx="8" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- couch back -->
+  <rect x="130" y="120" width="150" height="40" rx="8" fill="#392170" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- couch armrests -->
+  <rect x="124" y="130" width="18" height="80" rx="6" fill="#392170" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="268" y="130" width="18" height="80" rx="6" fill="#392170" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- cushion lines -->
+  <line x1="180" y1="160" x2="180" y2="200" stroke="#000000" stroke-width="2"/>
+  <line x1="230" y1="160" x2="230" y2="200" stroke="#000000" stroke-width="2"/>
+  <!-- person FULL BODY sprawled on couch -->
+  <!-- legs stretched out -->
+  <rect x="178" y="170" width="14" height="42" rx="4" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="194" y="170" width="14" height="42" rx="4" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- feet (socks) -->
+  <ellipse cx="184" cy="214" rx="9" ry="4" fill="#efefef" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="200" cy="214" rx="9" ry="4" fill="#efefef" stroke="#000000" stroke-width="2"/>
+  <!-- torso (hoodie) -->
+  <path d="M170 120 Q170 114 178 114 L208 114 Q216 114 216 120 L216 174 L170 174 Z" fill="#f8130d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- hood ridge -->
+  <path d="M170 120 Q193 110 216 120" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- arms - one holding remote, one holding snack -->
+  <path d="M170 124 L150 156 L160 162 L178 134 Z" fill="#f8130d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M216 124 L238 144 L230 152 L208 134 Z" fill="#f8130d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="154" cy="162" r="6" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <circle cx="240" cy="148" r="6" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- remote in left hand -->
+  <rect x="146" y="166" width="16" height="22" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <circle cx="154" cy="174" r="2" fill="#f8130d" stroke="#000000" stroke-width="1"/>
+  <circle cx="150" cy="182" r="1.5" fill="#ffffff"/>
+  <circle cx="158" cy="182" r="1.5" fill="#ffffff"/>
+  <!-- neck -->
+  <rect x="187" y="106" width="12" height="10" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- head -->
+  <circle cx="193" cy="92" r="18" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- messy hair -->
+  <path d="M177 88 Q178 74 193 72 Q208 74 209 88 Q205 80 193 80 Q181 80 177 88 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- tired eyes -->
+  <path d="M184 92 L190 92" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M196 92 L202 92" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- mouth -->
+  <ellipse cx="193" cy="102" rx="3" ry="2" fill="#5e1f0a" stroke="#000000" stroke-width="1.5"/>
+  <!-- popcorn bowl on lap -->
+  <path d="M220 168 L246 168 L242 188 L224 188 Z" fill="#d01424" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="233" cy="168" rx="13" ry="4" fill="#fff200" stroke="#000000" stroke-width="2"/>
+  <circle cx="228" cy="165" r="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="234" cy="163" r="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="240" cy="166" r="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+  <!-- pile of disc/episodes on floor right -->
+  <ellipse cx="32" cy="220" rx="22" ry="5" fill="#b8b8b8" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="32" cy="220" r="3" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="32" cy="210" rx="22" ry="5" fill="#dff3fd" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="32" cy="210" r="3" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="32" cy="200" rx="22" ry="5" fill="#f4a4b2" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="32" cy="200" r="3" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="32" cy="190" rx="22" ry="5" fill="#f2e40d" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="32" cy="190" r="3" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="32" cy="180" rx="22" ry="5" fill="#3aa6a0" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="32" cy="180" r="3" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+</svg>

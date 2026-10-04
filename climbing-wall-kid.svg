@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Angled climbing wall panel (leaning slightly back) -->
+  <polygon points="65,200 80,50 210,50 225,200" fill="#efefef" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Top cap -->
+  <rect x="76" y="42" width="138" height="14" rx="4" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Coloured grip holds -->
+  <!-- Row 1 (near bottom) -->
+  <circle cx="105" cy="172" r="9" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <circle cx="145" cy="178" r="9" fill="#2a4ec0" stroke="#000000" stroke-width="4"/>
+  <circle cx="183" cy="170" r="9" fill="#529929" stroke="#000000" stroke-width="4"/>
+  <!-- Row 2 -->
+  <circle cx="116" cy="140" r="9" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <circle cx="155" cy="144" r="9" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <circle cx="190" cy="136" r="9" fill="#7c3fac" stroke="#000000" stroke-width="4"/>
+  <!-- Row 3 -->
+  <circle cx="125" cy="108" r="9" fill="#2a4ec0" stroke="#000000" stroke-width="4"/>
+  <circle cx="162" cy="112" r="9" fill="#529929" stroke="#000000" stroke-width="4"/>
+  <circle cx="96" cy="112" r="9" fill="#ff9900" stroke="#000000" stroke-width="4"/>
+  <!-- Row 4 (near top) -->
+  <circle cx="135" cy="76" r="9" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <circle cx="172" cy="78" r="9" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <!-- Side support struts -->
+  <line x1="65" y1="200" x2="50" y2="200" stroke="#9d7246" stroke-width="5" stroke-linecap="round"/>
+  <line x1="225" y1="200" x2="240" y2="200" stroke="#9d7246" stroke-width="5" stroke-linecap="round"/>
+  <!-- Ground line -->
+  <line x1="28" y1="200" x2="262" y2="200" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+</svg>

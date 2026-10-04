@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Floor / road -->
+  <path d="M 20,218 L 270,218" stroke="#000000" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <rect x="20" y="210" width="250" height="10" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Distance marker sign -->
+  <rect x="210" y="140" width="54" height="36" rx="5" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="237" y1="176" x2="237" y2="210" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Sign: long winding road (ultra distance) -->
+  <path d="M 232,172 Q 220,162 237,156 Q 254,150 240,142" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"></path>
+  <path d="M 232,172 Q 220,162 237,156 Q 254,150 240,142" fill="none" stroke="#f7de58" stroke-width="1.5" stroke-dasharray="3 3"></path>
+  <polygon points="240,142 240,148 247,145" fill="#000000"></polygon>
+  <!-- Running figure — exhausted but determined, lean forward -->
+  <!-- Back left leg (trailing) -->
+  <path d="M 122,152 Q 108,168 96,185 L 110,192 Q 120,176 132,160 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 96,185 Q 90,194 86,205 L 100,208 Q 104,198 112,190 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left shoe -->
+  <ellipse cx="93" cy="207" rx="13" ry="6" fill="#529929" stroke="#000000" stroke-width="3" transform="rotate(-10 93 207)"/>
+  <!-- Front right leg (knee lifted, tired — not as high as fresh runner) -->
+  <path d="M 138,152 Q 150,158 155,172" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 136,150 Q 148,156 153,170 L 161,167 Q 156,153 144,146 Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 155,172 Q 160,180 166,176" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 153,171 Q 158,179 164,175 L 170,181 Q 164,188 154,180 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right shoe -->
+  <ellipse cx="168" cy="179" rx="13" ry="6" fill="#529929" stroke="#000000" stroke-width="3" transform="rotate(10 168 179)"/>
+  <!-- Torso (leaning well forward, fatigue) -->
+  <path d="M 118,105 Q 122,96 138,94 Q 154,96 155,105 L 152,152 L 120,154 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left arm low, drooping (tired) -->
+  <path d="M 120,114 Q 105,130 98,148" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 118,112 Q 103,128 96,146 L 104,152 Q 112,134 124,118 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="100" cy="150" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Right arm low, forward (tired pump) -->
+  <path d="M 153,114 Q 165,126 170,140" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 155,112 Q 167,124 172,138 L 180,134 Q 175,120 162,108 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="176" cy="137" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Race bib on torso -->
+  <rect x="124" y="118" width="24" height="20" rx="3" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="136,121 138,126 143,126 139,129 141,134 136,131 131,134 133,129 129,126 134,126" fill="#f8130d"></polygon>
+  <!-- Head (slightly bowed forward) -->
+  <circle cx="136" cy="72" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cap / visor -->
+  <path d="M 115,68 Q 118,52 136,52 Q 154,52 157,68 Q 148,59 136,60 Q 124,59 115,68 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 115,68 L 105,72 L 107,65 L 115,65 Z" fill="#f8130d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Eyes (determined, slightly squinting) -->
+  <path d="M 128,70 Q 130,68 132,70" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="130" cy="71" rx="2.5" ry="2" fill="#000000"/>
+  <path d="M 140,70 Q 142,68 144,70" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="142" cy="71" rx="2.5" ry="2" fill="#000000"/>
+  <!-- Grit mouth (straight line) -->
+  <path d="M 129,80 L 143,80" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Sweat drops -->
+  <path d="M 155,65 Q 156,60 159,63 Q 160,66 157,68 Z" fill="#dff3fd" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M 162,74 Q 163,69 166,72 Q 167,75 164,77 Z" fill="#dff3fd" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

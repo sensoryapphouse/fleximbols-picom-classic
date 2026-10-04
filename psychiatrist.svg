@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- White coat body -->
+  <ellipse cx="105" cy="158" rx="34" ry="44" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Coat lapels -->
+  <polygon points="105,118 88,145 105,140" fill="#efefef" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <polygon points="105,118 122,145 105,140" fill="#efefef" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Shirt underneath -->
+  <rect x="97" y="130" width="16" height="30" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Person head -->
+  <circle cx="105" cy="98" r="24" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Face -->
+  <circle cx="98" cy="95" r="2.5" fill="#000000"/>
+  <circle cx="112" cy="95" r="2.5" fill="#000000"/>
+  <path d="M98 105 Q105 111 112 105" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Hair -->
+  <path d="M83 93 Q105 73 127 93" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Arm -->
+  <path d="M72 158 Q60 172 68 188" stroke="#ffffff" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <path d="M72 158 Q60 172 68 188" stroke="#000000" stroke-width="5" stroke-linecap="round" fill="none"/>
+
+  <!-- Brain (upper right) -->
+  <path d="M178 55
+    C178 40 190 32 200 36
+    C204 30 214 28 222 36
+    C230 30 244 36 242 50
+    C250 50 256 60 252 70
+    C258 76 256 88 246 92
+    C248 102 240 110 230 108
+    C226 118 216 120 208 114
+    C200 120 188 118 182 108
+    C172 106 166 96 170 84
+    C164 76 164 62 176 58Z"
+    fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Brain folds -->
+  <path d="M196 48 C200 56 198 66 204 72" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M216 42 C212 52 214 62 208 68" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M232 52 C228 62 230 72 222 78" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M180 76 C188 80 196 78 202 84" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Pill capsule (lower right) -->
+  <rect x="178" y="148" width="58" height="26" rx="13" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="178" y="148" width="29" height="26" rx="13" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="207" y1="148" x2="207" y2="174" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Rx symbol -->
+  <rect x="188" y="118" width="38" height="24" rx="4" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Rx drawn manually with paths -->
+  <!-- R: vertical bar + bump + leg -->
+  <line x1="196" y1="123" x2="196" y2="138" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M196 123 Q206 123 206 128 Q206 133 196 133" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="200" y1="133" x2="207" y2="140" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- x: two crossing lines -->
+  <line x1="212" y1="130" x2="220" y2="140" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="220" y1="130" x2="212" y2="140" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Body / torso -->
+  <rect x="90" y="148" width="110" height="68" rx="18" fill="#7c3fac" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="128" y="131" width="34" height="22" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="108" rx="38" ry="38" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <circle cx="133" cy="105" r="4" fill="#000000"/>
+  <circle cx="157" cy="105" r="4" fill="#000000"/>
+  <!-- Smile -->
+  <path d="M135 119 Q145 127 155 119" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Left arm -->
+  <rect x="50" y="148" width="42" height="22" rx="11" fill="#7c3fac" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right arm -->
+  <rect x="198" y="148" width="42" height="22" rx="11" fill="#7c3fac" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Monitor / terminal -->
+  <rect x="30" y="30" width="165" height="105" rx="10" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="40" y="40" width="145" height="85" rx="6" fill="#000000" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Monitor stand -->
+  <rect x="97" y="135" width="30" height="14" rx="4" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="84" y="148" width="56" height="8" rx="4" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Terminal prompt line 1: binary -->
+  <rect x="50" y="51" width="8" height="12" rx="2" fill="#f7de58"/>
+  <rect x="62" y="51" width="8" height="12" rx="2" fill="#ffffff"/>
+  <rect x="74" y="51" width="8" height="12" rx="2" fill="#f7de58"/>
+  <rect x="86" y="51" width="8" height="12" rx="2" fill="#f7de58"/>
+  <rect x="98" y="51" width="8" height="12" rx="2" fill="#ffffff"/>
+  <rect x="110" y="51" width="8" height="12" rx="2" fill="#f7de58"/>
+  <rect x="122" y="51" width="8" height="12" rx="2" fill="#ffffff"/>
+  <!-- Terminal prompt line 2 -->
+  <rect x="50" y="68" width="8" height="12" rx="2" fill="#ffffff"/>
+  <rect x="62" y="68" width="8" height="12" rx="2" fill="#f7de58"/>
+  <rect x="74" y="68" width="8" height="12" rx="2" fill="#ffffff"/>
+  <rect x="86" y="68" width="8" height="12" rx="2" fill="#f7de58"/>
+  <rect x="98" y="68" width="8" height="12" rx="2" fill="#f7de58"/>
+  <rect x="110" y="68" width="8" height="12" rx="2" fill="#ffffff"/>
+  <!-- Terminal prompt line 3 -->
+  <rect x="50" y="85" width="8" height="12" rx="2" fill="#f7de58"/>
+  <rect x="62" y="85" width="8" height="12" rx="2" fill="#f7de58"/>
+  <rect x="74" y="85" width="8" height="12" rx="2" fill="#ffffff"/>
+  <rect x="86" y="85" width="8" height="12" rx="2" fill="#f7de58"/>
+  <rect x="98" y="85" width="8" height="12" rx="2" fill="#ffffff"/>
+  <!-- Cursor -->
+  <rect x="50" y="102" width="10" height="14" rx="2" fill="#7c3fac"/>
+  <!-- Prompt symbol -->
+  <path d="M52 109 L58 104 L52 99" fill="none" stroke="#f266aa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

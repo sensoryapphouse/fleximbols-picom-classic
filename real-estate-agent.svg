@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- === HOUSE (right) === -->
+  <!-- House walls -->
+  <rect x="160" y="118" width="110" height="96" rx="4" fill="#f5e7c4" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Roof -->
+  <polygon points="154,118 215,60 276,118" fill="#d01424" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Chimney -->
+  <rect x="248" y="72" width="14" height="28" rx="2" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Window left -->
+  <rect x="168" y="132" width="36" height="32" rx="3" fill="#dff3fd" stroke="#000000" stroke-width="4"/>
+  <line x1="186" y1="132" x2="186" y2="164" stroke="#000000" stroke-width="3"/>
+  <line x1="168" y1="148" x2="204" y2="148" stroke="#000000" stroke-width="3"/>
+  <!-- Window right -->
+  <rect x="226" y="132" width="36" height="32" rx="3" fill="#dff3fd" stroke="#000000" stroke-width="4"/>
+  <line x1="244" y1="132" x2="244" y2="164" stroke="#000000" stroke-width="3"/>
+  <line x1="226" y1="148" x2="262" y2="148" stroke="#000000" stroke-width="3"/>
+  <!-- Door -->
+  <rect x="195" y="172" width="40" height="42" rx="4" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <circle cx="229" cy="193" r="4" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+
+  <!-- === FOR SALE SIGN === -->
+  <!-- Post -->
+  <rect x="146" y="154" width="8" height="58" rx="3" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Sign board -->
+  <rect x="126" y="134" width="48" height="28" rx="4" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <!-- FOR SALE text-free — use graphic indicator: star + arrow -->
+  <polygon points="150,140 154,148 162,148 156,153 158,161 150,156 142,161 144,153 138,148 146,148" fill="#f7de58" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- === KEY (in person's raised hand) — drawn before person arm so it appears in hand === -->
+
+  <!-- === PERSON (left) === -->
+  <!-- Head -->
+  <circle cx="62" cy="52" r="20" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M42 50 Q46 30 62 28 Q78 30 82 50 Q77 38 62 36 Q47 38 42 50Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="55" y="70" width="14" height="12" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Torso (suit jacket) -->
+  <path d="M36 82 L62 78 L88 82 L92 160 L32 160Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shirt/tie -->
+  <path d="M52 78 L62 92 L72 78 L62 82Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M60 88 L64 88 L65 130 L62 134 L59 130Z" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Left arm pointing at house -->
+  <path d="M88 82 L118 106 L110 114 L82 94" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="120" cy="116" rx="10" ry="8" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm raised holding key -->
+  <path d="M36 82 L22 54 L32 48 L48 78" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="26" cy="48" rx="10" ry="8" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- KEY -->
+  <circle cx="22" cy="34" r="10" fill="none" stroke="#f7de58" stroke-width="5"/>
+  <line x1="29" y1="40" x2="44" y2="54" stroke="#f7de58" stroke-width="5" stroke-linecap="round"/>
+  <line x1="40" y1="52" x2="40" y2="58" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <line x1="44" y1="54" x2="44" y2="60" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <!-- Legs -->
+  <path d="M42 160 L36 210 L50 210 L56 165Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M82 160 L86 210 L100 210 L90 165Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shoes -->
+  <ellipse cx="42" cy="212" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="92" cy="212" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="4"/>
+</svg>

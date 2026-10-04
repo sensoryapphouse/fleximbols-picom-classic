@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shoulders -->
+  <path d="M60 240 Q70 188 110 178 Q145 172 180 178 Q220 188 230 240 Z" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="127" y="158" width="36" height="28" rx="7" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="112" rx="68" ry="70" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M77 100 Q82 38 145 36 Q208 38 213 100 Q196 58 145 56 Q94 58 77 100 Z" fill="#5e1f0a" stroke="#000000" stroke-width="4"/>
+  <!-- Left brow - slightly raised (sad side) -->
+  <path d="M96 82 Q112 76 122 80" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Right brow - neutral-slight smile side -->
+  <path d="M168 80 Q178 76 194 82" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Left eye - slightly droopy (sad) -->
+  <ellipse cx="114" cy="102" rx="13" ry="12" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="114" cy="103" r="7" fill="#4d4d4d"/>
+  <circle cx="116" cy="100" r="2" fill="#ffffff"/>
+  <!-- Right eye - slightly wider (pleased) -->
+  <ellipse cx="176" cy="101" rx="13" ry="12" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="176" cy="102" r="7" fill="#4d4d4d"/>
+  <circle cx="178" cy="99" r="2" fill="#ffffff"/>
+  <!-- Half-smile mouth: left corner down, right corner up -->
+  <path d="M112 138 Q130 148 148 140 Q162 133 178 136" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rosy left cheek (warmth) -->
+  <ellipse cx="96" cy="120" rx="12" ry="7" fill="#f4a4b2" stroke="none"/>
+  <!-- Single tear on left cheek -->
+  <path d="M104 118 Q101 126 104 132 Q107 126 104 118 Z" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+</svg>

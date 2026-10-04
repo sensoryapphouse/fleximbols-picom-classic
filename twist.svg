@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- twist-modern: figure rotating torso to side, hips front, shoulders turned, rotation arc -->
+
+  <!-- Ground line -->
+  <line x1="50" y1="225" x2="240" y2="225" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Left foot (hips facing forward) -->
+  <ellipse cx="120" cy="222" rx="17" ry="8" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Right foot -->
+  <ellipse cx="168" cy="222" rx="17" ry="8" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+
+  <!-- Left leg (straight, facing front) -->
+  <path d="M112 222 L118 182 L132 182 L136 222Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Right leg (straight, facing front) -->
+  <path d="M160 222 L162 182 L176 182 L178 222Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Hips (facing FRONT — wider, square-on) -->
+  <path d="M116 182 L176 182 L178 158 L118 158Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Waist connector (narrow, transition from hips to shoulders) -->
+  <path d="M126 158 L166 158 L162 142 L130 142Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Torso upper / shoulders — TWISTED to left (seen from 3/4 angle, narrowed) -->
+  <path d="M135 142 L158 142 L165 110 L140 108Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Rotation arc around waist area — shows twist -->
+  <path d="M118 152 Q120 142 130 136" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-dasharray="5,4"/>
+  <polygon points="127,133 135,137 130,143" fill="#000000"/>
+  <path d="M170 152 Q168 142 158 136" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-dasharray="5,4"/>
+  <polygon points="161,133 153,137 158,143" fill="#000000"/>
+
+  <!-- Neck (angled with shoulder twist) -->
+  <rect x="143" y="94" width="13" height="14" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Head (turned left with shoulders) -->
+  <circle cx="148" cy="80" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+
+  <!-- Face: looking to left (side profile slightly) -->
+  <ellipse cx="142" cy="77" rx="3" ry="3" fill="#000000"/>
+  <ellipse cx="154" cy="77" rx="3" ry="3" fill="#000000"/>
+  <!-- Focused expression -->
+  <path d="M141 87 Q148 91 155 87" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Hair -->
+  <path d="M130 71 Q148 58 167 72" fill="none" stroke="#7d5e23" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Left arm — swung out LEFT (following shoulder rotation) -->
+  <path d="M135 118 L78 95 L74 107 L132 130Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="70" cy="101" rx="12" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Right arm — pulled back right behind body -->
+  <path d="M160 118 L204 130 L200 142 L156 130Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="208" cy="136" rx="12" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- Large rotation arc showing direction of torso twist -->
+  <path d="M200 125 Q214 110 210 90 Q206 74 190 68" fill="none" stroke="#4d4d4d" stroke-width="3.5" stroke-linecap="round"/>
+  <polygon points="187,64 194,71 188,76" fill="#4d4d4d"/>
+
+  <!-- Hips-facing-front indicator arrows (small) -->
+  <line x1="145" y1="168" x2="145" y2="178" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="141,178 145,186 149,178" fill="#ffffff"/>
+</svg>

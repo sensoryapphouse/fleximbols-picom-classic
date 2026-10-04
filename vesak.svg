@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Buddhist flag (vertical, left side) -->
+  <rect x="25" y="40" width="40" height="80" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+  <rect x="25" y="55" width="40" height="13" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <rect x="25" y="68" width="40" height="13" fill="#f8130d" stroke="#000000" stroke-width="1.5"/>
+  <rect x="25" y="81" width="40" height="13" fill="#efefef" stroke="#000000" stroke-width="1.5"/>
+  <rect x="25" y="94" width="40" height="13" fill="#ff9900" stroke="#000000" stroke-width="1.5"/>
+  <!-- Flag pole -->
+  <rect x="22" y="35" width="3" height="120" fill="#9d7246" stroke="#000000" stroke-width="1.5"/>
+  <!-- Buddha silhouette (full body, seated meditation) -->
+  <!-- Halo behind head -->
+  <circle cx="170" cy="80" r="32" fill="#f7de58" stroke="#000000" stroke-width="2.5"/>
+  <!-- Head -->
+  <circle cx="170" cy="80" r="20" fill="#f5e7c4" stroke="#000000" stroke-width="3"/>
+  <!-- Ushnisha (top knot) -->
+  <ellipse cx="170" cy="58" rx="9" ry="10" fill="#7d5e23" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="170" cy="51" r="3" fill="#f7de58" stroke="#000000" stroke-width="1.5"/>
+  <!-- Closed eyes -->
+  <path d="M161 80 Q165 83 169 80" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M171 80 Q175 83 179 80" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Serene smile -->
+  <path d="M163 90 Q170 93 177 90" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Ears -->
+  <ellipse cx="150" cy="83" rx="4" ry="8" fill="#f5e7c4" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="190" cy="83" rx="4" ry="8" fill="#f5e7c4" stroke="#000000" stroke-width="2"/>
+  <!-- Body (robe) -->
+  <path d="M140 100 Q140 130 145 155 L195 155 Q200 130 200 100 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Robe shoulder fold -->
+  <path d="M140 105 Q170 115 200 105" fill="none" stroke="#000000" stroke-width="2"/>
+  <!-- Crossed legs (lotus position) -->
+  <path d="M125 155 Q120 170 130 180 L210 180 Q220 170 215 155 Z" fill="#e65a00" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Hands resting in lap -->
+  <ellipse cx="170" cy="160" rx="18" ry="8" fill="#f5e7c4" stroke="#000000" stroke-width="2.5"/>
+  <!-- Lotus flower below Buddha -->
+  <ellipse cx="170" cy="195" rx="55" ry="12" fill="#f4a4b2" stroke="#000000" stroke-width="2.5"/>
+  <path d="M115 195 Q130 180 145 195" fill="#f266aa" stroke="#000000" stroke-width="2.5"/>
+  <path d="M145 195 Q160 175 175 195" fill="#f266aa" stroke="#000000" stroke-width="2.5"/>
+  <path d="M175 195 Q190 175 205 195" fill="#f266aa" stroke="#000000" stroke-width="2.5"/>
+  <path d="M195 195 Q210 180 225 195" fill="#f266aa" stroke="#000000" stroke-width="2.5"/>
+  <!-- Candle on right -->
+  <rect x="250" y="140" width="14" height="55" fill="#fff200" stroke="#000000" stroke-width="2.5"/>
+  <path d="M257 140 L254 125 Q257 115 260 125 L257 140 Z" fill="#ff9900" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M257 130 L257 138" stroke="#000000" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Head silhouette (profile, facing left so beam goes left) -->
+  <path d="M 180,80 Q 150,60 130,80 Q 115,95 115,120 Q 115,150 135,165 L 135,200 L 200,200 L 200,165 Q 215,150 215,125 Q 215,110 210,100 Q 210,82 195,75 Q 188,75 180,80 Z" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Ear -->
+  <ellipse cx="200" cy="130" rx="8" ry="12" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Eye -->
+  <circle cx="145" cy="125" r="3" fill="#000000" stroke="none"/>
+  <!-- Mouth -->
+  <path d="M 135,148 Q 140,153 148,150" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M 130,128 Q 122,135 130,140" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Hair on top -->
+  <path d="M 130,80 Q 130,68 145,65 Q 165,55 185,65 Q 200,68 200,82" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Elastic headband strap (across forehead) -->
+  <path d="M 118,98 Q 165,80 215,100" fill="none" stroke="#392170" stroke-width="14" stroke-linecap="round"/>
+  <path d="M 118,98 Q 165,80 215,100" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Strap stitching detail -->
+  <path d="M 130,93 Q 165,80 200,93" fill="none" stroke="#7c3fac" stroke-width="3" stroke-linecap="round"/>
+  <!-- Headlamp housing on forehead -->
+  <rect x="130" y="80" width="40" height="28" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Lens -->
+  <circle cx="135" cy="94" r="8" fill="#fff200" stroke="#000000" stroke-width="3"/>
+  <circle cx="135" cy="94" r="3" fill="#ffffff" stroke="none"/>
+  <!-- Beam from headlamp -->
+  <path d="M 122,94 L 60,70 L 50,94 L 60,118 Z" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 122,94 L 75,82 L 70,94 L 75,106 Z" fill="#fff200" stroke="none"/>
+  <!-- Neck/shoulders -->
+  <path d="M 135,200 L 110,225 L 220,225 L 200,200" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

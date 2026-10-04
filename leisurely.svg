@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Ground / path - gentle dotted line showing slow pace -->
+  <path d="M20,215 Q145,210 270,215" fill="none" stroke="#529929" stroke-width="4" stroke-linecap="round" stroke-dasharray="12,8"/>
+  <!-- Gentle pace arc (wide slow curve, no rush) -->
+  <path d="M30,175 Q90,160 150,168 Q200,172 250,170" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Strolling figure - full body, relaxed posture, hands clasped behind back -->
+  <!-- Head -->
+  <circle cx="158" cy="60" r="24" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Smile - content relaxed -->
+  <path d="M146,68 Q158,76 170,68" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Eyes - relaxed, slightly narrowed -->
+  <path d="M149,57 Q154,54 159,57" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M157,57 Q162,54 167,57" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Hair -->
+  <path d="M136,52 Q145,36 158,34 Q171,36 180,52" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <!-- Body - upright relaxed torso -->
+  <ellipse cx="158" cy="130" rx="20" ry="32" fill="#67832d" stroke="#000000" stroke-width="4"/>
+  <!-- Neck -->
+  <rect x="151" y="82" width="14" height="12" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Arms relaxed behind back -->
+  <path d="M142,108 Q120,130 135,152" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M174,108 Q196,130 181,152" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Hands clasped behind back (meeting at lower back) -->
+  <ellipse cx="158" cy="154" rx="16" ry="10" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Legs in casual relaxed stroll -->
+  <!-- Left leg slightly forward -->
+  <line x1="148" y1="160" x2="132" y2="200" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="132" y1="200" x2="120" y2="220" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Left foot -->
+  <ellipse cx="114" cy="222" rx="14" ry="7" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <!-- Right leg slightly back -->
+  <line x1="168" y1="160" x2="182" y2="198" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="182" y1="198" x2="195" y2="218" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Right foot -->
+  <ellipse cx="201" cy="220" rx="14" ry="7" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <!-- Sun overhead - calm pleasant day -->
+  <circle cx="245" cy="38" r="22" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <line x1="245" y1="10" x2="245" y2="2" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="265" y1="18" x2="271" y2="12" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="273" y1="38" x2="281" y2="38" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="265" y1="58" x2="271" y2="64" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="225" y1="18" x2="219" y2="12" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

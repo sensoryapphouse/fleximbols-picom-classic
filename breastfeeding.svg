@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- PARENT head -->
+  <circle cx="100" cy="55" r="25" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M76 50 Q76 28 100 25 Q124 28 124 50 Q124 70 120 82 Q115 55 100 57 Q85 55 80 82 Q76 70 76 50 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="92" cy="55" r="2.5" fill="#000000"/>
+  <circle cx="108" cy="55" r="2.5" fill="#000000"/>
+  <!-- gentle smile -->
+  <path d="M92 67 Q100 72 108 67" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="93" y="78" width="14" height="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- parent torso (seated, open top) pink -->
+  <path d="M65 92 Q100 86 135 92 L165 200 L55 200 Q40 150 50 120 Z" fill="#f4a4b2" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- legs of parent (seated, extending forward) -->
+  <path d="M55 200 Q100 215 200 215" fill="none" stroke="#4d4d4d" stroke-width="22" stroke-linecap="round"/>
+  <path d="M55 200 Q100 215 200 215" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M55 200 Q100 225 200 225" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- parent arm cradling baby (top arm) -->
+  <path d="M130 100 Q175 105 215 130 Q220 155 200 165" fill="none" stroke="#f4a4b2" stroke-width="14" stroke-linecap="round"/>
+  <path d="M130 100 Q175 105 215 130 Q220 155 200 165" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- BABY (cradled in arm, full body) -->
+  <!-- baby body wrapped in blanket yellow -->
+  <path d="M150 120 Q205 115 215 145 Q210 175 175 175 Q145 170 140 150 Z" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- baby head against breast -->
+  <circle cx="148" cy="135" r="18" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- baby wisp of hair -->
+  <path d="M140 122 Q148 118 156 122" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- baby closed eye (peaceful) -->
+  <path d="M150 134 Q154 136 158 134" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- baby mouth at breast -->
+  <path d="M140 142 Q136 145 138 148" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- baby tiny hand reaching up -->
+  <circle cx="165" cy="115" r="5" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- baby feet poking out of blanket -->
+  <ellipse cx="212" cy="160" rx="6" ry="4" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- breast suggestion (small curve where baby is nursing) -->
+  <path d="M125 125 Q138 130 142 142" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+</svg>

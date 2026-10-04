@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Water body -->
+  <rect x="20" y="55" width="250" height="165" rx="6" fill="#90a7d6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Water surface shimmer -->
+  <rect x="20" y="55" width="250" height="16" rx="6" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Diver body — horizontal, aiming right -->
+  <!-- Head -->
+  <ellipse cx="80" cy="130" rx="16" ry="16" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Mask -->
+  <rect x="66" y="126" width="26" height="10" rx="4" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Torso -->
+  <rect x="94" y="120" width="52" height="22" rx="8" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Wetsuit legs -->
+  <rect x="145" y="122" width="24" height="10" rx="5" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="145" y="134" width="24" height="10" rx="5" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Fins -->
+  <ellipse cx="178" cy="127" rx="18" ry="7" fill="#f8130d" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="178" cy="139" rx="18" ry="7" fill="#f8130d" stroke="#000000" stroke-width="5"/>
+  <!-- Arm holding speargun -->
+  <line x1="94" y1="126" x2="68" y2="118" stroke="#eed5b6" stroke-width="10" stroke-linecap="round"/>
+  <!-- Speargun body -->
+  <rect x="30" y="114" width="70" height="10" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Spear / bolt -->
+  <line x1="28" y1="119" x2="18" y2="119" stroke="#b8b8b8" stroke-width="4" stroke-linecap="round"/>
+  <!-- Speargun handle -->
+  <rect x="80" y="114" width="14" height="18" rx="4" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Fish -->
+  <ellipse cx="205" cy="150" rx="22" ry="10" fill="#f7de58" stroke="#000000" stroke-width="5"/>
+  <!-- Fish tail -->
+  <path d="M227 150 L242 140 L242 160 Z" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Fish eye -->
+  <circle cx="192" cy="147" r="4" fill="#000000"/>
+  <circle cx="191" cy="146" r="1.5" fill="#ffffff"/>
+  <!-- Bubbles -->
+  <circle cx="100" cy="100" r="5" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="110" cy="90" r="3" fill="none" stroke="#ffffff" stroke-width="3"/>
+</svg>

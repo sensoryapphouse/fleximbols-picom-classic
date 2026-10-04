@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- veil behind head -->
+  <path d="M105 35 Q145 15 185 35 L195 110 Q145 130 95 110 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="145" cy="55" r="22" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair fringe -->
+  <path d="M126 48 Q145 38 164 48 Q160 42 145 40 Q130 42 126 48 Z" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <!-- eyes -->
+  <circle cx="138" cy="56" r="1.8" fill="#000000"/>
+  <circle cx="152" cy="56" r="1.8" fill="#000000"/>
+  <!-- smile -->
+  <path d="M140 64 Q145 67 150 64" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- white communion dress, full body -->
+  <path d="M120 77 L170 77 L195 200 L95 200 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- waist sash -->
+  <rect x="118" y="115" width="54" height="6" fill="#f4a4b2" stroke="#000000" stroke-width="2"/>
+  <!-- left arm holding chalice -->
+  <path d="M122 85 Q100 110 100 135 L112 135 Q114 112 132 90 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- left hand -->
+  <circle cx="100" cy="138" r="7" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- right arm holding wafer -->
+  <path d="M168 85 Q190 105 188 130 L176 132 Q176 110 158 90 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- right hand -->
+  <circle cx="186" cy="135" r="7" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- chalice in left hand -->
+  <path d="M80 120 L120 120 L112 138 L88 138 Z" fill="#f2e40d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="96" y="138" width="8" height="10" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="100" cy="150" rx="14" ry="4" fill="#f2e40d" stroke="#000000" stroke-width="2.5"/>
+  <!-- wafer/host in right hand -->
+  <circle cx="200" cy="132" r="11" fill="#f5e7c4" stroke="#000000" stroke-width="2.5"/>
+  <path d="M200 124 L200 140 M192 132 L208 132" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- legs (white stockings) -->
+  <rect x="128" y="200" width="12" height="22" fill="#ffffff" stroke="#000000" stroke-width="2.5"/>
+  <rect x="150" y="200" width="12" height="22" fill="#ffffff" stroke="#000000" stroke-width="2.5"/>
+  <!-- shoes -->
+  <ellipse cx="134" cy="225" rx="10" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="156" cy="225" rx="10" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+</svg>

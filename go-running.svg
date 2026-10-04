@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- path / track -->
+  <path d="M0 200 L290 200 L290 240 L0 240 Z" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <path d="M0 200 L290 200" stroke="#000000" stroke-width="2"/>
+  <line x1="20" y1="218" x2="50" y2="218" stroke="#ffffff" stroke-width="3"/>
+  <line x1="80" y1="218" x2="110" y2="218" stroke="#ffffff" stroke-width="3"/>
+  <line x1="140" y1="218" x2="170" y2="218" stroke="#ffffff" stroke-width="3"/>
+  <line x1="200" y1="218" x2="230" y2="218" stroke="#ffffff" stroke-width="3"/>
+  <line x1="260" y1="218" x2="285" y2="218" stroke="#ffffff" stroke-width="3"/>
+  <!-- runner FULL BODY, big and dynamic -->
+  <!-- head -->
+  <circle cx="150" cy="50" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- headband -->
+  <rect x="132" y="46" width="36" height="6" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <!-- hair tuft -->
+  <path d="M138 44 Q150 30 162 44" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- face -->
+  <circle cx="144" cy="54" r="1.8" fill="#000000"/>
+  <circle cx="156" cy="54" r="1.8" fill="#000000"/>
+  <path d="M144 62 Q150 66 156 62" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="146" y="66" width="8" height="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- torso (athletic tank) -->
+  <path d="M124 72 L176 72 L182 130 L118 130 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M138 72 L138 90 M162 72 L162 90" stroke="#000000" stroke-width="2"/>
+  <!-- arms pumping -->
+  <path d="M124 76 L100 98 L108 106 L132 86 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M176 76 L196 104 L188 110 L168 86 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- fists clenched -->
+  <circle cx="100" cy="100" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <circle cx="198" cy="108" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- shorts -->
+  <path d="M118 130 L182 130 L186 156 L114 156 Z" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="150" y1="130" x2="150" y2="156" stroke="#000000" stroke-width="2"/>
+  <!-- legs in mid-stride: front leg up, back leg pushing -->
+  <path d="M126 156 L108 194 L120 198 L138 156 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M162 156 L188 186 L196 180 L174 156 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- shoes -->
+  <ellipse cx="114" cy="200" rx="14" ry="6" fill="#ff9900" stroke="#000000" stroke-width="2"/>
+  <path d="M104 200 L124 200" stroke="#ffffff" stroke-width="2"/>
+  <ellipse cx="192" cy="184" rx="14" ry="6" fill="#ff9900" stroke="#000000" stroke-width="2"/>
+  <path d="M182 184 L202 184" stroke="#ffffff" stroke-width="2"/>
+  <!-- motion lines behind runner -->
+  <line x1="30" y1="80" x2="70" y2="80" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="20" y1="110" x2="70" y2="110" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="30" y1="140" x2="70" y2="140" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="40" y1="170" x2="75" y2="170" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

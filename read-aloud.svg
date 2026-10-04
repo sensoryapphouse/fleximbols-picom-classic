@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- cozy floor -->
+  <rect x="0" y="218" width="290" height="22" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <!-- rug -->
+  <ellipse cx="145" cy="220" rx="130" ry="14" fill="#f266aa" stroke="#000000" stroke-width="2"/>
+  <!-- parent FULL BODY left, seated cross-legged-ish -->
+  <circle cx="64" cy="70" r="18" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <path d="M46 68 Q50 44 70 46 Q84 50 82 68 L84 88 L48 88 Q44 80 46 68 Z" fill="#7d5e23" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="58" cy="72" r="1.8" fill="#000000"/>
+  <circle cx="70" cy="72" r="1.8" fill="#000000"/>
+  <path d="M58 80 Q64 83 70 80" fill="none" stroke="#000000" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- parent torso -->
+  <path d="M44 96 L84 96 L90 168 L40 168 Z" fill="#3aa6a0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- legs crossed sitting -->
+  <path d="M40 168 Q60 184 100 180 L110 200 L36 208 Z" fill="#1d0e82" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="46" cy="210" rx="10" ry="4" fill="#000000"/>
+  <ellipse cx="100" cy="208" rx="10" ry="4" fill="#000000"/>
+  <!-- parent arms holding book -->
+  <path d="M84 110 Q108 124 110 144" fill="none" stroke="#3aa6a0" stroke-width="11" stroke-linecap="round"/>
+  <path d="M44 110 Q34 130 60 148" fill="none" stroke="#3aa6a0" stroke-width="11" stroke-linecap="round"/>
+  <!-- open book -->
+  <path d="M58 140 L114 140 L122 188 L60 188 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <line x1="90" y1="140" x2="92" y2="188" stroke="#000000" stroke-width="2.5"/>
+  <line x1="66" y1="152" x2="84" y2="152" stroke="#7f7f7f" stroke-width="2"/>
+  <line x1="66" y1="162" x2="86" y2="162" stroke="#7f7f7f" stroke-width="2"/>
+  <line x1="66" y1="172" x2="84" y2="172" stroke="#7f7f7f" stroke-width="2"/>
+  <line x1="96" y1="152" x2="116" y2="152" stroke="#7f7f7f" stroke-width="2"/>
+  <line x1="96" y1="162" x2="116" y2="162" stroke="#7f7f7f" stroke-width="2"/>
+  <line x1="96" y1="172" x2="116" y2="172" stroke="#7f7f7f" stroke-width="2"/>
+  <!-- speech bubble -->
+  <path d="M130 30 L240 30 Q252 30 252 42 L252 78 Q252 90 240 90 L170 90 L156 108 L160 90 L130 90 Q118 90 118 78 L118 42 Q118 30 130 30 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <line x1="134" y1="48" x2="240" y2="48" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="134" y1="60" x2="232" y2="60" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="134" y1="72" x2="220" y2="72" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- child FULL BODY right, seated listening -->
+  <circle cx="216" cy="118" r="15" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <path d="M201 116 Q204 96 222 98 Q234 102 232 116 L234 132 L204 132 Q200 124 201 116 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="210" cy="120" r="1.6" fill="#000000"/>
+  <circle cx="222" cy="120" r="1.6" fill="#000000"/>
+  <path d="M210 128 Q216 132 222 128" fill="none" stroke="#000000" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- child torso -->
+  <path d="M198 138 L234 138 L240 188 L192 188 Z" fill="#ff9900" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- child arms in lap -->
+  <path d="M198 150 Q188 170 206 184" fill="none" stroke="#ff9900" stroke-width="10" stroke-linecap="round"/>
+  <path d="M234 150 Q244 170 226 184" fill="none" stroke="#ff9900" stroke-width="10" stroke-linecap="round"/>
+  <!-- child legs crossed -->
+  <path d="M192 188 Q216 200 250 192 L256 210 L188 210 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="200" cy="212" rx="9" ry="4" fill="#000000"/>
+  <ellipse cx="246" cy="212" rx="9" ry="4" fill="#000000"/>
+</svg>

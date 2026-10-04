@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- child full body holding a flashcard -->
+  <!-- legs -->
+  <rect x="78" y="186" width="16" height="36" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="98" y="186" width="16" height="36" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="86" cy="224" rx="12" ry="6" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="106" cy="224" rx="12" ry="6" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- torso (shirt) -->
+  <path d="M70 120 Q70 110 80 108 L112 108 Q122 110 122 120 L122 188 L70 188 Z" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- left arm down -->
+  <path d="M70 120 L60 158 L62 178 L74 178 L78 158 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- right arm bent up holding card -->
+  <path d="M122 120 L140 124 L168 110 L168 122 L146 138 L130 138 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="96" cy="76" r="30" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M68 70 Q70 48 96 46 Q122 48 124 70 Q120 60 110 60 Q100 56 96 60 Q88 56 80 62 Q72 60 68 70 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="86" cy="78" r="3" fill="#000000"/>
+  <circle cx="104" cy="78" r="3" fill="#000000"/>
+  <!-- smile -->
+  <path d="M88 90 Q96 96 104 90" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- flashcard held up -->
+  <rect x="160" y="60" width="110" height="120" rx="6" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- picture area on card -->
+  <rect x="172" y="72" width="86" height="60" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <!-- apple icon on card -->
+  <circle cx="215" cy="104" r="18" fill="#d01424" stroke="#000000" stroke-width="3"/>
+  <path d="M215 86 L218 80 L224 78" fill="none" stroke="#67832d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M218 84 Q224 80 230 84" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- word squiggle on card -->
+  <path d="M176 148 Q186 142 196 148 T216 148 T236 148 T256 148" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M176 164 Q184 160 192 164 T210 164 T228 164" fill="none" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round"/>
+</svg>

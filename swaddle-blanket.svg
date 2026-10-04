@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- swaddle-blanket: baby wrapped snugly in triangular wrap, baby face visible -->
+  <!-- Outer wrap triangle / swaddle body -->
+  <path d="M145,32 C120,32 68,60 62,110 L68,190 C72,206 100,218 145,218 C190,218 218,206 222,190 L228,110 C222,60 170,32 145,32 Z" fill="#f4a4b2" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Inner wrap fold (tighter inner layer) -->
+  <path d="M145,78 C126,78 100,94 98,122 L102,182 C106,196 124,206 145,206 C166,206 184,196 188,182 L192,122 C190,94 164,78 145,78 Z" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right wrap flap fold -->
+  <path d="M192,100 C206,88 224,86 226,108 C228,130 208,148 190,140 Z" fill="#f4a4b2" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left wrap flap fold -->
+  <path d="M98,100 C84,88 66,86 64,108 C62,130 82,148 100,140 Z" fill="#f4a4b2" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Baby face (circle head) -->
+  <circle cx="145" cy="58" r="28" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Baby eyes -->
+  <circle cx="136" cy="54" r="4" fill="#000000"/>
+  <circle cx="154" cy="54" r="4" fill="#000000"/>
+  <!-- Baby eye shine dots -->
+  <circle cx="138" cy="52" r="1.5" fill="#ffffff"/>
+  <circle cx="156" cy="52" r="1.5" fill="#ffffff"/>
+  <!-- Baby nose -->
+  <ellipse cx="145" cy="60" rx="3" ry="2" fill="#e6b98a" stroke="none"/>
+  <!-- Baby smile -->
+  <path d="M138,66 Q145,72 152,66" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Baby hair tuft -->
+  <path d="M132,32 Q145,24 158,32" fill="none" stroke="#4d4d4d" stroke-width="5" stroke-linecap="round"/>
+  <!-- Wrap knot/tuck at bottom -->
+  <ellipse cx="145" cy="200" rx="22" ry="8" fill="#f266aa" stroke="#000000" stroke-width="4"/>
+</svg>

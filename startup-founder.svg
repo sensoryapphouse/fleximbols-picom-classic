@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Body / torso -->
+  <rect x="88" y="148" width="100" height="68" rx="18" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="121" y="131" width="34" height="22" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="138" cy="108" rx="38" ry="38" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <circle cx="126" cy="105" r="4" fill="#000000"/>
+  <circle cx="150" cy="105" r="4" fill="#000000"/>
+  <!-- Smile -->
+  <path d="M128 119 Q138 127 148 119" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Left arm -->
+  <rect x="48" y="148" width="42" height="22" rx="11" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right arm -->
+  <rect x="186" y="148" width="42" height="22" rx="11" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rocket body -->
+  <path d="M210 165 Q218 130 222 90 Q226 130 234 165 Z" fill="#efefef" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rocket nose -->
+  <path d="M218 90 Q222 65 226 90 Z" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rocket window -->
+  <circle cx="222" cy="120" r="8" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rocket fins -->
+  <path d="M210 165 L200 185 L215 175 Z" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M234 165 L244 185 L229 175 Z" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Flame -->
+  <ellipse cx="222" cy="192" rx="8" ry="14" fill="#ff9900" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="222" cy="197" rx="4" ry="7" fill="#f7de58" stroke="none"/>
+</svg>

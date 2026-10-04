@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- project-manager: full body + clipboard + Gantt chart + team checkmarks -->
+
+  <!-- Clipboard (top-right, large) -->
+  <rect x="148" y="32" width="118" height="146" rx="6" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="156" y="42" width="102" height="128" rx="3" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Clip -->
+  <rect x="190" y="22" width="34" height="18" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Title bar inside -->
+  <rect x="162" y="48" width="90" height="10" fill="#2a4ec0"/>
+
+  <!-- Gantt chart rows -->
+  <!-- Row 1 -->
+  <rect x="162" y="64" width="22" height="6" fill="#7f7f7f"/>
+  <rect x="188" y="64" width="40" height="6" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <!-- Row 2 -->
+  <rect x="162" y="76" width="22" height="6" fill="#7f7f7f"/>
+  <rect x="204" y="76" width="44" height="6" fill="#ff9900" stroke="#000000" stroke-width="2"/>
+  <!-- Row 3 -->
+  <rect x="162" y="88" width="22" height="6" fill="#7f7f7f"/>
+  <rect x="196" y="88" width="38" height="6" fill="#137827" stroke="#000000" stroke-width="2"/>
+  <!-- Row 4 -->
+  <rect x="162" y="100" width="22" height="6" fill="#7f7f7f"/>
+  <rect x="212" y="100" width="36" height="6" fill="#7c3fac" stroke="#000000" stroke-width="2"/>
+
+  <!-- Team checkmarks list -->
+  <rect x="162" y="116" width="10" height="10" rx="2" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <polyline points="164,121 167,124 171,118" fill="none" stroke="#137827" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="176" y="118" width="60" height="6" fill="#7f7f7f"/>
+
+  <rect x="162" y="132" width="10" height="10" rx="2" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <polyline points="164,137 167,140 171,134" fill="none" stroke="#137827" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="176" y="134" width="50" height="6" fill="#7f7f7f"/>
+
+  <rect x="162" y="148" width="10" height="10" rx="2" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <polyline points="164,153 167,156 171,150" fill="none" stroke="#137827" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="176" y="150" width="56" height="6" fill="#7f7f7f"/>
+
+  <!-- Person full body -->
+  <circle cx="70" cy="62" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <path d="M50,58 Q50,42 70,40 Q90,42 90,58 L86,50 Q70,44 54,50 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Collar/tie -->
+  <polygon points="64,84 76,84 70,100" fill="#f8130d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Torso (suit) -->
+  <rect x="50" y="84" width="40" height="56" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm -->
+  <line x1="52" y1="94" x2="30" y2="122" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="28" cy="124" r="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Right arm pointing to clipboard -->
+  <line x1="88" y1="94" x2="130" y2="110" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="132" cy="112" r="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Hips -->
+  <rect x="48" y="138" width="44" height="22" rx="4" fill="#000000" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Legs -->
+  <rect x="50" y="158" width="16" height="54" rx="4" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="74" y="158" width="16" height="54" rx="4" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <rect x="44" y="208" width="22" height="10" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="72" y="208" width="22" height="10" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

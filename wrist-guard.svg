@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- wrist brace body -->
+  <path d="M50 80 Q50 70 60 70 L230 70 Q240 70 240 80 L240 160 Q240 170 230 170 L60 170 Q50 170 50 160 Z" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- inner padding -->
+  <rect x="60" y="82" width="170" height="76" fill="#4d4d4d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- hard plastic support strip (light grey) -->
+  <rect x="80" y="95" width="130" height="50" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- strip ridges -->
+  <line x1="100" y1="100" x2="100" y2="140" stroke="#000000" stroke-width="2"/>
+  <line x1="120" y1="100" x2="120" y2="140" stroke="#000000" stroke-width="2"/>
+  <line x1="145" y1="100" x2="145" y2="140" stroke="#000000" stroke-width="2"/>
+  <line x1="170" y1="100" x2="170" y2="140" stroke="#000000" stroke-width="2"/>
+  <line x1="190" y1="100" x2="190" y2="140" stroke="#000000" stroke-width="2"/>
+  <!-- velcro strap (top) -->
+  <path d="M40 95 L70 90 L70 110 L40 110 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M220 90 L260 95 L260 110 L220 110 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- velcro strap (bottom) -->
+  <path d="M40 130 L70 130 L70 150 L40 145 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M220 130 L260 130 L260 145 L220 150 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- strap stitching -->
+  <line x1="48" y1="100" x2="62" y2="100" stroke="#000000" stroke-width="2"/>
+  <line x1="228" y1="100" x2="252" y2="100" stroke="#000000" stroke-width="2"/>
+  <line x1="48" y1="140" x2="62" y2="140" stroke="#000000" stroke-width="2"/>
+  <line x1="228" y1="140" x2="252" y2="140" stroke="#000000" stroke-width="2"/>
+</svg>

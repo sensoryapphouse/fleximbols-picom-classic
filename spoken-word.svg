@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- spotlight beam from above -->
+  <path d="M100 0 L50 200 L160 200 Z" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M100 10 L70 195 L140 195 Z" fill="#fff200" stroke="none"/>
+  <!-- floor -->
+  <rect x="0" y="200" width="290" height="25" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- microphone on stand -->
+  <path d="M105 95 L105 175" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M92 175 L118 175" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="105" cy="90" rx="8" ry="11" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <path d="M99 84 L111 84 M99 90 L111 90 M99 96 L111 96" stroke="#7f7f7f" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- performer full body next to mic -->
+  <!-- head -->
+  <circle cx="80" cy="100" r="14" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M66 97 Q66 84 80 82 Q94 84 94 97 L92 91 Q86 87 80 87 Q74 87 68 91 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- mouth speaking -->
+  <ellipse cx="80" cy="107" rx="3" ry="4" fill="#5e1f0a" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="75" cy="98" r="1.6" fill="#000000"/>
+  <circle cx="85" cy="98" r="1.6" fill="#000000"/>
+  <!-- torso -->
+  <path d="M67 114 L93 114 L96 170 L64 170 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- right arm gesturing toward mic -->
+  <path d="M93 120 Q102 110 100 98" fill="none" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M93 120 Q102 110 100 98" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- left arm out (expression) -->
+  <path d="M67 120 Q50 130 48 150" fill="none" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M67 120 Q50 130 48 150" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- open hand at end -->
+  <circle cx="48" cy="153" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- legs -->
+  <path d="M72 170 L68 200" stroke="#1d0e82" stroke-width="9" stroke-linecap="round"/>
+  <path d="M88 170 L92 200" stroke="#1d0e82" stroke-width="9" stroke-linecap="round"/>
+  <!-- shoes -->
+  <ellipse cx="66" cy="203" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+  <ellipse cx="94" cy="203" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+  <!-- flowing words / squiggle coming out of mouth -->
+  <path d="M150 105 Q170 90 185 105 Q200 120 215 105 Q230 90 245 105 Q260 120 275 105" fill="none" stroke="#7c3fac" stroke-width="4" stroke-linecap="round"/>
+  <path d="M150 130 Q170 115 185 130 Q200 145 215 130 Q230 115 245 130 Q260 145 275 130" fill="none" stroke="#f266aa" stroke-width="4" stroke-linecap="round"/>
+  <path d="M150 155 Q170 140 185 155 Q200 170 215 155 Q230 140 245 155 Q260 170 275 155" fill="none" stroke="#3aa6a0" stroke-width="4" stroke-linecap="round"/>
+  <!-- word dots -->
+  <circle cx="160" cy="80" r="4" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <circle cx="195" cy="70" r="3" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <circle cx="230" cy="80" r="4" fill="#67832d" stroke="#000000" stroke-width="2"/>
+  <circle cx="265" cy="70" r="3" fill="#ff9900" stroke="#000000" stroke-width="2"/>
+  <!-- speech bubble dots from mouth -->
+  <circle cx="135" cy="100" r="3" fill="#000000"/>
+  <circle cx="125" cy="102" r="2" fill="#000000"/>
+</svg>

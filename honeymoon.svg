@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sky background (inset panel) -->
+  <rect x="24" y="24" width="242" height="192" rx="10" fill="#dff3fd" stroke="none"/>
+
+  <!-- Sun -->
+  <circle cx="218" cy="52" r="26" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Sun rays -->
+  <line x1="218" y1="18" x2="218" y2="10" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="244" y1="28" x2="250" y2="22" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="254" y1="52" x2="262" y2="52" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="244" y1="76" x2="250" y2="82" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="192" y1="28" x2="186" y2="22" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Water -->
+  <rect x="24" y="162" width="242" height="54" rx="0" fill="#90a7d6" stroke="none"/>
+  <!-- Water waves -->
+  <path d="M24 168 q20-8 40 0 q20 8 40 0 q20-8 40 0 q20 8 40 0 q20-8 40 0 q20 8 26 0" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M24 180 q20-6 40 0 q20 6 40 0 q20-6 40 0 q20 6 40 0 q20-6 40 0 q20 6 22 0" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Ground / beach -->
+  <path d="M24 158 q60 10 120 6 q60 -4 122 6 l0 10 l-242 0 Z" fill="#f5e7c4" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- Palm tree -->
+  <rect x="64" y="84" width="12" height="80" rx="5" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Palm fronds -->
+  <path d="M70 84 q-28 -8 -36 -28 q8 4 36 20" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M70 84 q-14 -30 0 -48 q4 12 0 36" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M70 84 q18 -28 38 -30 q-8 8 -26 26" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M70 84 q30 -6 44 8 q-14 0 -36 0" fill="#67832d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Coconuts -->
+  <circle cx="72" cy="92" r="5" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <circle cx="80" cy="88" r="5" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+
+  <!-- Figure 1 (relaxing, leaning back) -->
+  <!-- Head -->
+  <circle cx="136" cy="130" r="14" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Eyes closed (relaxed) -->
+  <path d="M129 128 q4 2 6 0" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M136 128 q4 2 6 0" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Happy smile -->
+  <path d="M130 134 q6 5 12 0" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Body (reclined) -->
+  <path d="M120 148 q16 -8 36 0" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="118" y="144" width="40" height="20" rx="8" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Legs stretched out -->
+  <path d="M156 156 l44 6" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M156 162 l44 2" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Feet -->
+  <ellipse cx="202" cy="162" rx="9" ry="6" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Arm up -->
+  <line x1="120" y1="152" x2="108" y2="136" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Figure 2 (seated beside) -->
+  <!-- Head -->
+  <circle cx="192" cy="120" r="14" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Eyes closed -->
+  <path d="M185 118 q4 2 6 0" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M192 118 q4 2 6 0" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Smile -->
+  <path d="M186 126 q6 5 12 0" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Body -->
+  <rect x="180" y="136" width="26" height="26" rx="6" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Legs -->
+  <path d="M180 162 l-16 14" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M206 162 l14 10" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Arm around figure 1 -->
+  <path d="M180 144 q-16 0 -22 8" stroke="#000000" stroke-width="5" stroke-linecap="round" fill="none"/>
+
+  <!-- Heart between figures -->
+  <path d="M168 110 c0-6 -9-6 -9 0 c0 6 9 12 9 12 c0 0 9-6 9-12 c0-6 -9-6 -9 0" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+</svg>

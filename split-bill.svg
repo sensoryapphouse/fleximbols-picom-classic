@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Restaurant bill (receipt) at top centre -->
+  <path d="M115 10 H205 V90 L195 95 L185 90 L175 95 L165 90 L155 95 L145 90 L135 95 L125 90 L115 95 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- bill header -->
+  <path d="M125 22 H195" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- itemised lines -->
+  <path d="M125 35 H180 M125 45 H180 M125 55 H180" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <!-- total line -->
+  <path d="M125 68 H195" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- dollar amount on bill -->
+  <path d="M155 78 V88 M161 80 Q150 79 150 83 Q150 86 158 86 Q164 88 162 90" fill="none" stroke="#529929" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Arrows splitting from the bill outward to each person -->
+  <path d="M125 90 L70 145" fill="none" stroke="#f8130d" stroke-width="5" stroke-linecap="round"/>
+  <path d="M75 140 L70 152 L62 142 Z" fill="#f8130d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M160 95 L160 145" fill="none" stroke="#f8130d" stroke-width="5" stroke-linecap="round"/>
+  <path d="M154 138 L160 152 L166 138 Z" fill="#f8130d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M195 90 L250 145" fill="none" stroke="#f8130d" stroke-width="5" stroke-linecap="round"/>
+  <path d="M252 138 L258 152 L244 144 Z" fill="#f8130d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- THREE PEOPLE FULL BODY along the bottom -->
+  <!-- Person 1 (left) -->
+  <circle cx="45" cy="155" r="13" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M32 153 Q32 142 45 142 Q58 142 58 153 Q54 148 45 148 Q36 148 32 153 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="40" cy="156" r="1.5" fill="#000000"/>
+  <circle cx="50" cy="156" r="1.5" fill="#000000"/>
+  <path d="M40 162 Q45 164 50 162" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- torso -->
+  <path d="M30 175 H60 V200 H30 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms -->
+  <path d="M30 178 L20 200 M60 178 L70 200" fill="none" stroke="#2a4ec0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M30 178 L20 200 M60 178 L70 200" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M37 200 V230 M53 200 V230" stroke="#4d4d4d" stroke-width="8" stroke-linecap="round"/>
+  <path d="M37 200 V230 M53 200 V230" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- shoes -->
+  <ellipse cx="35" cy="232" rx="7" ry="4" fill="#000000"/>
+  <ellipse cx="55" cy="232" rx="7" ry="4" fill="#000000"/>
+
+  <!-- Person 2 (middle) -->
+  <circle cx="145" cy="155" r="13" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M132 153 Q132 140 145 140 Q158 140 158 153 Q154 148 145 148 Q136 148 132 153 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="140" cy="156" r="1.5" fill="#000000"/>
+  <circle cx="150" cy="156" r="1.5" fill="#000000"/>
+  <path d="M140 162 Q145 164 150 162" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M130 175 H160 V200 H130 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M130 178 L120 200 M160 178 L170 200" fill="none" stroke="#7c3fac" stroke-width="8" stroke-linecap="round"/>
+  <path d="M130 178 L120 200 M160 178 L170 200" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M137 200 V230 M153 200 V230" stroke="#4d4d4d" stroke-width="8" stroke-linecap="round"/>
+  <path d="M137 200 V230 M153 200 V230" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="135" cy="232" rx="7" ry="4" fill="#000000"/>
+  <ellipse cx="155" cy="232" rx="7" ry="4" fill="#000000"/>
+
+  <!-- Person 3 (right) -->
+  <circle cx="245" cy="155" r="13" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M232 153 Q232 142 245 142 Q258 142 258 153 Q254 148 245 148 Q236 148 232 153 Z" fill="#9d7246" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="240" cy="156" r="1.5" fill="#000000"/>
+  <circle cx="250" cy="156" r="1.5" fill="#000000"/>
+  <path d="M240 162 Q245 164 250 162" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M230 175 H260 V200 H230 Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M230 178 L220 200 M260 178 L270 200" fill="none" stroke="#529929" stroke-width="8" stroke-linecap="round"/>
+  <path d="M230 178 L220 200 M260 178 L270 200" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M237 200 V230 M253 200 V230" stroke="#4d4d4d" stroke-width="8" stroke-linecap="round"/>
+  <path d="M237 200 V230 M253 200 V230" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="235" cy="232" rx="7" ry="4" fill="#000000"/>
+  <ellipse cx="255" cy="232" rx="7" ry="4" fill="#000000"/>
+</svg>

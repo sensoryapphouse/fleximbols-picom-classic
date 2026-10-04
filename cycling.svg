@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Rear wheel -->
+  <circle cx="82" cy="178" r="48" fill="none" stroke="#000000" stroke-width="6"/>
+  <circle cx="82" cy="178" r="38" fill="none" stroke="#b8b8b8" stroke-width="3"/>
+  <circle cx="82" cy="178" r="7" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Rear spokes -->
+  <line x1="82" y1="171" x2="82" y2="132" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="82" y1="185" x2="82" y2="224" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="75" y1="178" x2="36" y2="178" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="89" y1="178" x2="128" y2="178" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="77" y1="173" x2="49" y2="145" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="87" y1="183" x2="115" y2="211" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="87" y1="173" x2="115" y2="145" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="77" y1="183" x2="49" y2="211" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <!-- Front wheel -->
+  <circle cx="218" cy="178" r="48" fill="none" stroke="#000000" stroke-width="6"/>
+  <circle cx="218" cy="178" r="38" fill="none" stroke="#b8b8b8" stroke-width="3"/>
+  <circle cx="218" cy="178" r="7" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Front spokes -->
+  <line x1="218" y1="171" x2="218" y2="132" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="218" y1="185" x2="218" y2="224" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="211" y1="178" x2="172" y2="178" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="225" y1="178" x2="264" y2="178" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="213" y1="173" x2="185" y2="145" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="223" y1="183" x2="251" y2="211" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="223" y1="173" x2="251" y2="145" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="213" y1="183" x2="185" y2="211" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <!-- Bike frame -->
+  <!-- Chain stay (rear axle to bottom bracket) -->
+  <path d="M 82,178 L 148,178" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Seat tube (bottom bracket up to seat) -->
+  <path d="M 148,178 L 138,128" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Top tube (seat to head tube) -->
+  <path d="M 138,128 L 200,118" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Down tube (head tube to bottom bracket) -->
+  <path d="M 200,118 L 148,178" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Fork (head tube to front axle) -->
+  <path d="M 200,118 L 218,178" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Seat stay -->
+  <path d="M 82,178 L 138,128" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Seat post -->
+  <path d="M 138,128 L 136,108" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Saddle -->
+  <path d="M 124,107 Q 136,100 150,107" stroke="#000000" stroke-width="5" fill="#f8130d" stroke-linecap="round"/>
+  <path d="M 124,107 Q 136,112 150,107" stroke="#000000" stroke-width="4" fill="#f8130d" stroke-linecap="round"/>
+  <!-- Handlebar stem -->
+  <path d="M 200,118 L 204,102" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Handlebars (drop bars) -->
+  <path d="M 196,100 Q 204,96 212,100 Q 216,106 212,112" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Crank arm -->
+  <path d="M 148,178 L 162,192" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Pedal -->
+  <rect x="158" y="190" width="18" height="6" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Chainring -->
+  <circle cx="148" cy="178" r="12" fill="none" stroke="#000000" stroke-width="3"/>
+  <!-- RIDER -->
+  <!-- Right leg down on pedal (pushing) -->
+  <!-- Upper leg (thigh angled down-forward) -->
+  <path d="M 146,118 Q 158,135 162,156" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 144,116 Q 156,133 160,154 L 168,152 Q 164,130 152,113 Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Lower right leg (shin to pedal) -->
+  <path d="M 162,156 L 162,192" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 158,155 L 158,192 L 168,192 L 168,155 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right shoe on pedal -->
+  <rect x="156" y="190" width="22" height="8" rx="4" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Left leg up (returning stroke) -->
+  <path d="M 140,118 Q 130,130 126,148" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 142,116 Q 132,128 128,146 L 120,144 Q 124,126 136,112 Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left lower leg angled up-back -->
+  <path d="M 126,148 Q 118,158 122,168" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 128,147 Q 120,157 124,167 L 116,170 Q 110,160 118,146 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left shoe -->
+  <ellipse cx="118" cy="170" rx="13" ry="6" fill="#f8130d" stroke="#000000" stroke-width="3" transform="rotate(-20 118 170)"/>
+  <!-- Torso (leaning forward, aero position) -->
+  <path d="M 140,90 Q 144,82 155,82 Q 165,82 168,90 L 166,120 Q 158,125 148,125 Q 138,122 136,118 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right arm reaching to handlebar -->
+  <path d="M 164,95 Q 182,96 202,102" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 164,92 Q 182,93 202,99 L 204,109 Q 182,105 164,103 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="206" cy="104" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Left arm reaching to handlebar -->
+  <path d="M 140,95 Q 158,95 198,100" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Head with helmet -->
+  <circle cx="152" cy="66" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Helmet -->
+  <path d="M 131,63 Q 134,44 152,44 Q 170,44 173,63 Q 163,53 152,54 Q 141,53 131,63 Z" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 131,63 Q 128,68 130,74 L 136,72 Q 134,66 136,63 Z" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 173,63 Q 176,68 174,74 L 168,72 Q 170,66 168,63 Z" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Helmet vents -->
+  <line x1="142" y1="48" x2="141" y2="57" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="152" y1="46" x2="152" y2="55" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="162" y1="48" x2="163" y2="57" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Sunglasses -->
+  <path d="M 140,68 Q 145,65 150,68 Q 145,72 140,68 Z" fill="#1d0e82" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 154,68 Q 159,65 164,68 Q 159,72 154,68 Z" fill="#1d0e82" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="150" y1="68" x2="154" y2="68" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Mouth -->
+  <path d="M 144,78 Q 152,84 160,78" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>

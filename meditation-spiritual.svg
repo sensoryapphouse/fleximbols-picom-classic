@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- cosmic background disc -->
+  <circle cx="145" cy="115" r="108" fill="#392170" stroke="#000000" stroke-width="3"/>
+  <!-- stars -->
+  <circle cx="60" cy="50" r="3" fill="#fff200"/>
+  <circle cx="230" cy="50" r="3" fill="#fff200"/>
+  <circle cx="50" cy="130" r="2.5" fill="#ffffff"/>
+  <circle cx="240" cy="135" r="2.5" fill="#ffffff"/>
+  <circle cx="205" cy="28" r="2" fill="#ffffff"/>
+  <circle cx="85" cy="32" r="2" fill="#fff200"/>
+  <circle cx="40" cy="80" r="2" fill="#ffffff"/>
+  <circle cx="250" cy="85" r="2" fill="#ffffff"/>
+  <!-- glow halos -->
+  <circle cx="145" cy="125" r="78" fill="#7c3fac" stroke="#000000" stroke-width="2"/>
+  <circle cx="145" cy="125" r="60" fill="#f266aa" stroke="#000000" stroke-width="2"/>
+  <!-- lotus petals under figure -->
+  <ellipse cx="145" cy="190" rx="60" ry="10" fill="#f4a4b2" stroke="#000000" stroke-width="2"/>
+  <path d="M95 188 Q105 170 125 178" fill="#f4a4b2" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M195 188 Q185 170 165 178" fill="#f4a4b2" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M115 188 Q125 168 145 178" fill="#f266aa" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M175 188 Q165 168 145 178" fill="#f266aa" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- person FULL BODY meditating -->
+  <circle cx="145" cy="78" r="14" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M138 76 Q140 78 142 76" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M148 76 Q150 78 152 76" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M140 84 Q145 86 150 84" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M128 92 L162 92 L168 150 L122 150 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M128 110 Q105 130 100 155" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M162 110 Q185 130 190 155" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M128 110 Q105 130 100 155" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M162 110 Q185 130 190 155" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M122 150 Q98 158 98 172 Q120 178 145 168 Q170 178 192 172 Q192 158 168 150 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="110" cy="158" rx="8" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="180" cy="158" rx="8" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+</svg>

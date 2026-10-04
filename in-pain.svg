@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <circle cx="145" cy="130" r="75" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <path d="M 60,108 Q 145,86 235,80 Q 240,82 240,95 Q 145,118 65,135 Q 58,134 60,108 Z" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 232,82 Q 248,76 256,88 Q 252,100 240,100 Q 232,96 232,82 Z" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 105,128 Q 115,138 125,148 M 125,128 Q 115,138 105,148" fill="none" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 165,128 Q 175,138 185,148 M 185,128 Q 175,138 165,148" fill="none" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 115,188 Q 125,175 138,188 Q 152,200 165,188 Q 175,178 175,178" fill="none" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 28,140 Q 40,115 52,140 Q 75,135 55,150 Q 65,170 40,160 Q 22,170 25,150 Q 10,135 28,140 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 240,140 Q 252,115 264,140 Q 287,135 267,150 Q 277,170 252,160 Q 234,170 237,150 Q 222,135 240,140 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"></path>
+</svg>

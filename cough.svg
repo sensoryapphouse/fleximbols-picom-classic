@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Full body figure, fist to mouth, slightly hunched -->
+  <!-- Legs -->
+  <rect x="95" y="178" width="22" height="52" rx="10" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <rect x="130" y="178" width="22" height="52" rx="10" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <!-- Feet -->
+  <ellipse cx="106" cy="232" rx="17" ry="8" fill="#7f7f7f" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="141" cy="232" rx="17" ry="8" fill="#7f7f7f" stroke="#000000" stroke-width="4"/>
+  <!-- Torso - hunched forward slightly -->
+  <path d="M68 115 Q72 103 98 98 L148 98 Q174 103 178 115 L180 178 Q162 190 123 192 Q84 190 66 178 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck - slightly forward -->
+  <rect x="106" y="74" width="28" height="28" rx="7" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Head - slightly forward tilt -->
+  <ellipse cx="122" cy="48" rx="32" ry="33" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Face - eyes shut/squinting with effort -->
+  <path d="M108 40 Q116 33 124 40" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M126 40 Q134 33 142 40" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Brows furrowed -->
+  <path d="M106 31 Q116 26 124 31" fill="none" stroke="#9d7246" stroke-width="4" stroke-linecap="round"/>
+  <path d="M124 31 Q134 26 144 31" fill="none" stroke="#9d7246" stroke-width="4" stroke-linecap="round"/>
+  <!-- Nose -->
+  <ellipse cx="122" cy="52" rx="9" ry="7" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Tight shut mouth - pursed coughing -->
+  <ellipse cx="122" cy="65" rx="10" ry="6" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm raised, fist to mouth -->
+  <path d="M178 122 Q192 110 196 88 Q196 72 185 64" fill="none" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <!-- Fist at mouth (right side of head) -->
+  <rect x="150" y="55" width="26" height="22" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Knuckle lines on fist -->
+  <line x1="157" y1="55" x2="157" y2="50" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <line x1="165" y1="53" x2="165" y2="48" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <line x1="173" y1="55" x2="173" y2="50" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <rect x="150" y="55" width="26" height="22" rx="6" fill="none" stroke="#000000" stroke-width="4"/>
+  <!-- Left arm at side -->
+  <path d="M68 122 Q50 142 48 170" fill="none" stroke="#eed5b6" stroke-width="15" stroke-linecap="round"/>
+  <ellipse cx="48" cy="176" rx="11" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Sharp air burst from MOUTH (not nose) - going right -->
+  <!-- Short sharp lines radiating from mouth area -->
+  <path d="M176 62 L190 55" stroke="#b8b8b8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M176 66 L193 66" stroke="#b8b8b8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M176 70 L190 77" stroke="#b8b8b8" stroke-width="5" stroke-linecap="round"/>
+  <!-- A few small burst particles -->
+  <ellipse cx="200" cy="52" rx="5" ry="4" fill="#dff3fd" stroke="#b8b8b8" stroke-width="2"/>
+  <ellipse cx="205" cy="65" rx="5" ry="4" fill="#dff3fd" stroke="#b8b8b8" stroke-width="2"/>
+  <ellipse cx="200" cy="78" rx="5" ry="4" fill="#dff3fd" stroke="#b8b8b8" stroke-width="2"/>
+</svg>

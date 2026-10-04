@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Cheetah: spotted big cat (ported from Cartoon set, flattened to Classic flat style) -->
+  <g transform="translate(-38,-93) scale(0.63)" stroke="#000000" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <!-- tail -->
+    <path d="M420 380 Q480 360 470 290 Q460 240 420 250" fill="#f0a500"/>
+    <!-- body -->
+    <ellipse cx="280" cy="340" rx="140" ry="70" fill="#f0a500"/>
+    <!-- legs -->
+    <rect x="195" y="370" width="28" height="80" rx="8" fill="#f0a500"/>
+    <rect x="240" y="370" width="28" height="80" rx="8" fill="#f0a500"/>
+    <rect x="320" y="370" width="28" height="80" rx="8" fill="#f0a500"/>
+    <rect x="365" y="370" width="28" height="80" rx="8" fill="#f0a500"/>
+    <!-- head -->
+    <circle cx="150" cy="280" r="68" fill="#f0a500"/>
+    <!-- ears -->
+    <path d="M105 230 L100 180 L135 215 Z" fill="#f0a500"/>
+    <path d="M195 230 L200 180 L165 215 Z" fill="#f0a500"/>
+    <path d="M115 215 L110 195 L125 210 Z" fill="#ff5d8f"/>
+    <path d="M185 215 L190 195 L175 210 Z" fill="#ff5d8f"/>
+    <!-- muzzle -->
+    <ellipse cx="150" cy="305" rx="32" ry="22" fill="#fff5e0"/>
+    <path d="M138 285 L162 285 L150 300 Z" fill="#1a1a1a"/>
+    <path d="M150 300 L150 315 M150 315 Q140 322 132 318 M150 315 Q160 322 168 318" fill="none"/>
+    <!-- eyes -->
+    <circle cx="125" cy="265" r="8" fill="#ffffff"/>
+    <circle cx="175" cy="265" r="8" fill="#ffffff"/>
+    <circle cx="127" cy="267" r="5" fill="#1a1a1a"/>
+    <circle cx="177" cy="267" r="5" fill="#1a1a1a"/>
+    <!-- cheetah tear-mark lines -->
+    <path d="M125 280 L118 320" fill="none"/>
+    <path d="M175 280 L182 320" fill="none"/>
+    <!-- body spots -->
+    <circle cx="240" cy="310" r="9" fill="#1a1a1a" stroke="none"/>
+    <circle cx="290" cy="295" r="8" fill="#1a1a1a" stroke="none"/>
+    <circle cx="340" cy="310" r="9" fill="#1a1a1a" stroke="none"/>
+    <circle cx="260" cy="350" r="8" fill="#1a1a1a" stroke="none"/>
+    <circle cx="320" cy="350" r="9" fill="#1a1a1a" stroke="none"/>
+    <circle cx="380" cy="320" r="7" fill="#1a1a1a" stroke="none"/>
+    <circle cx="370" cy="360" r="7" fill="#1a1a1a" stroke="none"/>
+    <circle cx="220" cy="340" r="7" fill="#1a1a1a" stroke="none"/>
+    <circle cx="200" cy="395" r="5" fill="#1a1a1a" stroke="none"/>
+    <circle cx="250" cy="400" r="5" fill="#1a1a1a" stroke="none"/>
+    <circle cx="330" cy="395" r="5" fill="#1a1a1a" stroke="none"/>
+    <circle cx="375" cy="400" r="5" fill="#1a1a1a" stroke="none"/>
+    <circle cx="445" cy="290" r="6" fill="#1a1a1a" stroke="none"/>
+    <circle cx="430" cy="330" r="5" fill="#1a1a1a" stroke="none"/>
+    <!-- head spots -->
+    <circle cx="115" cy="245" r="5" fill="#1a1a1a" stroke="none"/>
+    <circle cx="195" cy="245" r="5" fill="#1a1a1a" stroke="none"/>
+    <circle cx="100" cy="290" r="4" fill="#1a1a1a" stroke="none"/>
+    <circle cx="200" cy="290" r="4" fill="#1a1a1a" stroke="none"/>
+  </g>
+</svg>

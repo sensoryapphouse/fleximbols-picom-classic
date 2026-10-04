@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground -->
+  <rect x="0" y="218" width="290" height="22" fill="#f5e7c4" stroke="#000000" stroke-width="2.5"/>
+
+  <!-- PATIENT FULL BODY (left) seated doing arm exercise with band -->
+  <g transform="translate(95 120)">
+    <!-- head -->
+    <circle cx="0" cy="0" r="13" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+    <path d="M-13 -4 Q-13 -15 0 -15 Q13 -15 13 -4 Q7 -10 0 -10 Q-7 -10 -13 -4 Z" fill="#7d5e23" stroke="#000000" stroke-width="2"/>
+    <circle cx="-4" cy="0" r="1.6" fill="#000000"/>
+    <circle cx="4" cy="0" r="1.6" fill="#000000"/>
+    <path d="M-4 7 Q0 10 4 7" fill="none" stroke="#000000" stroke-width="1.8" stroke-linecap="round"/>
+    <!-- neck -->
+    <rect x="-5" y="12" width="10" height="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+    <!-- torso (t-shirt) -->
+    <rect x="-18" y="17" width="36" height="42" rx="3" fill="#f2e40d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- left arm down -->
+    <rect x="-26" y="19" width="8" height="28" fill="#f2e40d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="-22" cy="50" r="4" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+    <!-- right arm raised holding band -->
+    <path d="M18 22 L36 8 L40 14 L24 30 Z" fill="#f2e40d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="38" cy="10" r="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+    <!-- shorts -->
+    <rect x="-18" y="59" width="36" height="18" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- legs -->
+    <rect x="-15" y="77" width="12" height="30" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+    <rect x="3" y="77" width="12" height="30" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+    <!-- shoes -->
+    <ellipse cx="-9" cy="108" rx="9" ry="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <ellipse cx="9" cy="108" rx="9" ry="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  </g>
+
+  <!-- resistance band (red stretchy) from patient hand to therapist hand -->
+  <path d="M133 130 Q160 110 188 130" fill="none" stroke="#d01424" stroke-width="5" stroke-linecap="round"/>
+  <path d="M133 130 Q160 110 188 130" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- THERAPIST FULL BODY (right) standing assisting -->
+  <g transform="translate(220 100)">
+    <circle cx="0" cy="0" r="12" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+    <path d="M-12 -3 Q-12 -14 0 -14 Q12 -14 12 -3 Q6 -9 0 -9 Q-6 -9 -12 -3 Z" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+    <circle cx="-4" cy="0" r="1.5" fill="#000000"/>
+    <circle cx="4" cy="0" r="1.5" fill="#000000"/>
+    <path d="M-3 6 Q0 8 3 6" fill="none" stroke="#000000" stroke-width="1.8" stroke-linecap="round"/>
+    <rect x="-5" y="11" width="10" height="5" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+    <!-- white polo shirt -->
+    <rect x="-16" y="16" width="32" height="40" rx="3" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- red cross badge -->
+    <rect x="-2" y="22" width="4" height="10" fill="#d01424" stroke="#000000" stroke-width="1.3"/>
+    <rect x="-5" y="25" width="10" height="4" fill="#d01424" stroke="#000000" stroke-width="1.3"/>
+    <!-- left arm reaching down to band -->
+    <path d="M-22 18 L-32 32 L-28 36 L-16 24 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="-30" cy="32" r="4.5" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+    <!-- right arm down -->
+    <rect x="16" y="18" width="8" height="28" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <circle cx="20" cy="50" r="4" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+    <!-- pants -->
+    <rect x="-14" y="56" width="12" height="48" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+    <rect x="2" y="56" width="12" height="48" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+    <ellipse cx="-8" cy="106" rx="8" ry="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <ellipse cx="8" cy="106" rx="8" ry="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  </g>
+
+  <!-- small motion arrow above band -->
+  <path d="M155 95 Q160 80 168 95" fill="none" stroke="#d01424" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="167,93 172,98 164,98" fill="#d01424" stroke="#000000" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Figure stepping out of a front door, keys in hand, door ajar, waving -->
+  <!-- Ground line -->
+  <line x1="20" y1="218" x2="270" y2="218" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- House wall -->
+  <rect x="20" y="80" width="160" height="138" rx="4" fill="#efefef" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Roof triangle -->
+  <polygon points="10,82 100,20 190,82" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Chimney -->
+  <rect x="130" y="28" width="24" height="36" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="4"/>
+  <!-- Door frame -->
+  <rect x="62" y="126" width="68" height="92" rx="6" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Door ajar (right panel swung open) -->
+  <path d="M62 126 Q44 130 40 170 Q38 196 62 218" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Door handle on ajar door -->
+  <circle cx="56" cy="175" r="5" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <!-- Door knob hole on frame -->
+  <circle cx="121" cy="175" r="5" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <!-- House window -->
+  <rect x="140" y="110" width="32" height="32" rx="4" fill="#dff3fd" stroke="#000000" stroke-width="4"/>
+  <line x1="156" y1="110" x2="156" y2="142" stroke="#000000" stroke-width="3"/>
+  <line x1="140" y1="126" x2="172" y2="126" stroke="#000000" stroke-width="3"/>
+  <!-- Step at door -->
+  <rect x="48" y="214" width="90" height="8" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <!-- Figure stepping out — positioned right of door opening -->
+  <!-- Body -->
+  <rect x="178" y="130" width="38" height="54" rx="8" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Head -->
+  <circle cx="197" cy="112" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M176 108 Q179 90 197 88 Q215 90 218 108" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <!-- Eyes -->
+  <circle cx="190" cy="110" r="3" fill="#000000"/>
+  <circle cx="204" cy="110" r="3" fill="#000000"/>
+  <!-- Smile wave face -->
+  <path d="M189 120 Q197 127 205 120" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left leg (stepping forward) -->
+  <rect x="176" y="184" width="16" height="36" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Right leg (pushing off) -->
+  <path d="M198 184 Q202 200 212 218" fill="none" stroke="#4d4d4d" stroke-width="16" stroke-linecap="round"/>
+  <!-- Left shoe -->
+  <ellipse cx="184" cy="218" rx="14" ry="7" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Right shoe -->
+  <ellipse cx="210" cy="218" rx="12" ry="6" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Left arm waving up -->
+  <path d="M216 148 Q238 128 244 112" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <!-- Waving hand -->
+  <circle cx="244" cy="110" r="11" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Fingers on wave hand -->
+  <path d="M238 103 Q236 96 240 94" fill="none" stroke="#eed5b6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M244 101 Q243 94 247 92" fill="none" stroke="#eed5b6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M250 104 Q251 97 254 96" fill="none" stroke="#eed5b6" stroke-width="6" stroke-linecap="round"/>
+  <!-- Right arm with keys -->
+  <path d="M178 148 Q162 160 158 172" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <!-- Right hand -->
+  <circle cx="157" cy="174" r="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Keys dangling -->
+  <circle cx="148" cy="185" r="8" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <circle cx="145" cy="185" r="3" fill="none" stroke="#000000" stroke-width="2"/>
+  <line x1="148" y1="177" x2="148" y2="185" stroke="#4d4d4d" stroke-width="3" stroke-linecap="round"/>
+  <!-- Second key -->
+  <path d="M156 182 Q162 188 158 194" fill="none" stroke="#4d4d4d" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="155" cy="196" rx="5" ry="3" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+</svg>

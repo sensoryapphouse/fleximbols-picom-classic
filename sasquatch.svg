@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- forest ground -->
+  <path d="M0 215 L290 215 L290 240 L0 240 Z" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <!-- pine tree on left -->
+  <rect x="18" y="170" width="10" height="45" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <path d="M23 175 L8 140 L18 140 L8 105 L18 105 L8 70 L38 70 L28 105 L38 105 L28 140 L38 140 Z" fill="#137827" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- pine tree on right -->
+  <rect x="262" y="175" width="10" height="40" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <path d="M267 180 L252 150 L262 150 L252 120 L262 120 L252 90 L282 90 L272 120 L282 120 L272 150 L282 150 Z" fill="#137827" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- striding pose: left leg back, right leg forward -->
+  <path d="M100 195 Q90 218 105 218 L122 218 Q132 215 125 195 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M165 195 Q175 218 190 215 L207 215 Q215 210 200 195 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- body, slightly hunched/walking -->
+  <path d="M88 140 Q83 195 112 200 L185 200 Q210 195 205 140 Q205 120 175 115 L115 115 Q88 120 88 140 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- fur strokes -->
+  <path d="M92 135 L86 138" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M92 160 L86 163" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M92 185 L86 188" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M200 135 L206 138" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M200 160 L206 163" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M200 185 L206 188" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M125 150 L120 155" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M155 165 L150 170" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M175 150 L180 155" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <!-- arms swinging (left back, right forward) -->
+  <path d="M88 140 Q65 170 65 195 Q63 208 78 208 Q92 208 90 195 Q92 170 100 155 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M205 140 Q225 145 235 165 Q240 178 228 185 Q215 188 212 175 Q208 160 195 155 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- head -->
+  <path d="M115 95 Q108 50 150 42 Q190 50 185 95 Q185 115 150 117 Q115 115 115 95 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- shaggy head tufts -->
+  <path d="M120 55 L113 48" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M180 55 L187 48" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M148 40 L145 32" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M154 40 L157 32" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <!-- brow ridge -->
+  <path d="M125 78 Q150 73 175 78" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- eyes -->
+  <circle cx="137" cy="86" r="3" fill="#000000"/>
+  <circle cx="163" cy="86" r="3" fill="#000000"/>
+  <!-- nose -->
+  <path d="M145 97 Q150 102 155 97" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- mouth -->
+  <path d="M140 107 Q150 112 160 107" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+</svg>

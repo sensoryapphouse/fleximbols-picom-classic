@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Building facade -->
+  <rect x="20" y="90" width="250" height="130" rx="4" fill="#f5e7c4" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Thatched awning -->
+  <rect x="20" y="115" width="250" height="28" rx="0" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Thatched texture strips -->
+  <line x1="40" y1="115" x2="35" y2="143" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <line x1="60" y1="115" x2="55" y2="143" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <line x1="80" y1="115" x2="75" y2="143" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <line x1="100" y1="115" x2="95" y2="143" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <line x1="120" y1="115" x2="115" y2="143" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <line x1="140" y1="115" x2="135" y2="143" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <line x1="160" y1="115" x2="155" y2="143" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <line x1="180" y1="115" x2="175" y2="143" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="115" x2="195" y2="143" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <line x1="220" y1="115" x2="215" y2="143" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <line x1="240" y1="115" x2="235" y2="143" stroke="#7d5e23" stroke-width="3" stroke-linecap="round"/>
+  <!-- Tiki-style roof peak above awning -->
+  <polygon points="145,55 200,90 90,90" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Tiki roof thatching lines -->
+  <line x1="110" y1="90" x2="135" y2="60" stroke="#7d5e23" stroke-width="2" stroke-linecap="round"/>
+  <line x1="130" y1="90" x2="145" y2="57" stroke="#7d5e23" stroke-width="2" stroke-linecap="round"/>
+  <line x1="150" y1="90" x2="155" y2="57" stroke="#7d5e23" stroke-width="2" stroke-linecap="round"/>
+  <line x1="170" y1="90" x2="162" y2="63" stroke="#7d5e23" stroke-width="2" stroke-linecap="round"/>
+  <line x1="188" y1="90" x2="175" y2="72" stroke="#7d5e23" stroke-width="2" stroke-linecap="round"/>
+  <!-- Store sign panel -->
+  <rect x="45" y="92" width="200" height="24" rx="4" fill="#d01424" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Front door -->
+  <rect x="120" y="170" width="50" height="50" rx="3" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="120" y="170" width="50" height="50" rx="3" fill="none" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Door window -->
+  <rect x="129" y="178" width="32" height="20" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Store windows left and right -->
+  <rect x="35" y="155" width="68" height="52" rx="3" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="187" y="155" width="68" height="52" rx="3" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Produce crate emblem - left window area -->
+  <rect x="48" y="165" width="42" height="28" rx="2" fill="#529929" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Crate slats -->
+  <line x1="48" y1="175" x2="90" y2="175" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="48" y1="183" x2="90" y2="183" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="62" y1="165" x2="62" y2="193" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="76" y1="165" x2="76" y2="193" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Orange on crate -->
+  <circle cx="69" cy="160" r="8" fill="#ff9900" stroke="#000000" stroke-width="3"/>
+  <!-- Parrot emblem - right window area -->
+  <!-- Parrot body -->
+  <ellipse cx="221" cy="183" rx="16" ry="20" fill="#529929" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Parrot head -->
+  <circle cx="221" cy="163" r="12" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <!-- Parrot beak -->
+  <polygon points="221,168 215,174 221,172" fill="#ff9900" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Parrot eye -->
+  <circle cx="225" cy="161" r="3" fill="#000000"/>
+  <circle cx="226" cy="160" r="1" fill="#ffffff"/>
+  <!-- Parrot wing -->
+  <ellipse cx="210" cy="183" rx="8" ry="13" fill="#137827" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Parrot tail feathers -->
+  <line x1="221" y1="200" x2="215" y2="218" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="221" y1="200" x2="221" y2="220" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <line x1="221" y1="200" x2="228" y2="218" stroke="#2a4ec0" stroke-width="4" stroke-linecap="round"/>
+  <!-- Ground line -->
+  <rect x="20" y="218" width="250" height="8" rx="2" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+</svg>

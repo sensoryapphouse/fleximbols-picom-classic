@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Slow droopy motion arc trailing behind snail -->
+  <path d="M20,165 Q50,180 80,170 Q100,163 115,158" fill="none" stroke="#b8b8b8" stroke-width="4" stroke-linecap="round" stroke-dasharray="8,6"/>
+  <!-- Ground line -->
+  <line x1="15" y1="195" x2="275" y2="195" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Snail body/foot -->
+  <ellipse cx="165" cy="185" rx="75" ry="20" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Snail underbelly (foot) lighter -->
+  <ellipse cx="165" cy="188" rx="70" ry="13" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Snail shell - spiral -->
+  <circle cx="170" cy="148" r="45" fill="#ff9900" stroke="#000000" stroke-width="5"/>
+  <!-- Shell spiral bands -->
+  <path d="M170,148 Q190,130 210,148 Q190,168 170,148" fill="none" stroke="#e65a00" stroke-width="4" stroke-linecap="round"/>
+  <path d="M170,148 Q145,127 135,148 Q145,170 170,148" fill="none" stroke="#e65a00" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="170" cy="148" r="10" fill="#e65a00" stroke="#000000" stroke-width="3"/>
+  <!-- Snail head -->
+  <ellipse cx="100" cy="175" rx="22" ry="16" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Eye stalks -->
+  <line x1="93" y1="163" x2="87" y2="148" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="107" y1="162" x2="108" y2="146" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Eyes on stalks -->
+  <circle cx="87" cy="146" r="5" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="88" cy="146" r="2.5" fill="#000000"/>
+  <circle cx="108" cy="144" r="5" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="109" cy="144" r="2.5" fill="#000000"/>
+  <!-- Droopy sleepy mouth -->
+  <path d="M92,180 Q100,176 108,180" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Heavy drag weight indicator (small boulder on back) -->
+  <ellipse cx="245" cy="183" rx="25" ry="18" fill="#7f7f7f" stroke="#000000" stroke-width="4"/>
+  <!-- Rope/chain to snail -->
+  <path d="M235,188 Q210,192 200,190 Q185,188 172,190" fill="none" stroke="#4d4d4d" stroke-width="3" stroke-linecap="round" stroke-dasharray="5,3"/>
+</svg>

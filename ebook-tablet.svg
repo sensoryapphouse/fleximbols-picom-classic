@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- thin-profile tablet shadow plate (gives depth without drop shadow) -->
+  <rect x="62" y="22" width="170" height="200" rx="14" ry="14" fill="#7f7f7f" stroke="#000000" stroke-width="4"/>
+  <!-- tablet front -->
+  <rect x="56" y="18" width="170" height="200" rx="14" ry="14" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- inner bezel -->
+  <rect x="66" y="30" width="150" height="170" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- e-ink screen -->
+  <rect x="72" y="36" width="138" height="158" fill="#f5e7c4" stroke="#000000" stroke-width="3"/>
+  <!-- text lines -->
+  <line x1="82" y1="55" x2="200" y2="55" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="82" y1="65" x2="195" y2="65" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="82" y1="75" x2="200" y2="75" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="82" y1="90" x2="200" y2="90" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="82" y1="100" x2="195" y2="100" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="82" y1="110" x2="200" y2="110" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="82" y1="120" x2="190" y2="120" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="82" y1="130" x2="200" y2="130" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="82" y1="140" x2="180" y2="140" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="82" y1="150" x2="200" y2="150" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="82" y1="160" x2="195" y2="160" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- page navigation arrows at bottom of screen -->
+  <path d="M88 180 L80 185 L88 190" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="141" cy="185" r="3" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="151" cy="185" r="3" fill="#000000" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="131" cy="185" r="3" fill="#b8b8b8" stroke="#000000" stroke-width="1.5"/>
+  <path d="M194 180 L202 185 L194 190" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- home button -->
+  <circle cx="141" cy="210" r="6" fill="#b8b8b8" stroke="#000000" stroke-width="2.5"/>
+</svg>

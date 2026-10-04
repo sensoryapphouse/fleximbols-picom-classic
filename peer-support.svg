@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Two equal full-body figures side by side, one arm around the other -->
+
+  <!-- Person LEFT -->
+  <!-- Head -->
+  <circle cx="95" cy="55" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Body -->
+  <path d="M73 82 Q95 74 117 82 L122 148 L68 148 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm (hanging down) -->
+  <line x1="70" y1="100" x2="52" y2="138" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Right arm (around right person's shoulder) — reaches across -->
+  <path d="M120 98 Q158 85 178 95" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="82" y1="148" x2="78" y2="210" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="108" y1="148" x2="112" y2="210" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Feet -->
+  <line x1="78" y1="210" x2="62" y2="215" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="112" y1="210" x2="128" y2="215" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Person RIGHT -->
+  <!-- Head -->
+  <circle cx="195" cy="55" r="22" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- Body -->
+  <path d="M173 82 Q195 74 217 82 L222 148 L168 148 Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm (hanging, slightly raised — receiving the arm-around) -->
+  <line x1="170" y1="100" x2="152" y2="135" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Right arm (hanging down) -->
+  <line x1="220" y1="100" x2="238" y2="138" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="182" y1="148" x2="178" y2="210" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="208" y1="148" x2="212" y2="210" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Feet -->
+  <line x1="178" y1="210" x2="162" y2="215" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="212" y1="210" x2="228" y2="215" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Small shared heart between them at chest level -->
+  <path d="M145 105 C145 105 135 97 135 91 C135 86 139 83 142 84 C143.5 84.5 145 87 145 87 C145 87 146.5 84.5 148 84 C151 83 155 86 155 91 C155 97 145 105 145 105 Z" fill="#f4a4b2" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+</svg>

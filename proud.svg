@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Neck -->
+  <rect x="125" y="146" width="40" height="28" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shoulders / bust - chest out posture (slightly wider, pushed forward) -->
+  <path d="M55 240 Q55 190 88 182 L145 172 L202 182 Q235 190 235 240 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Hand on chest (right hand) -->
+  <ellipse cx="152" cy="205" rx="18" ry="13" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <path d="M138 200 Q148 196 162 200 Q166 210 158 215 Q148 218 138 214 Z" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Medal/star on chest -->
+  <polygon points="145,188 148,198 158,198 150,204 153,214 145,208 137,214 140,204 132,198 142,198" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <!-- Head - chin up (head slightly raised, face center moved up) -->
+  <ellipse cx="145" cy="100" rx="60" ry="64" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <ellipse cx="145" cy="52" rx="60" ry="22" fill="#9d7246" stroke="#000000" stroke-width="5"/>
+  <rect x="85" y="44" width="120" height="20" rx="8" fill="#9d7246" stroke="#000000" stroke-width="5"/>
+  <!-- Eyebrows - confident, slightly raised -->
+  <path d="M104 78 Q118 72 132 76" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M158 76 Q172 72 186 78" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- Eyes - open, confident -->
+  <ellipse cx="118" cy="97" rx="13" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="118" cy="97" rx="8" ry="8" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="172" cy="97" rx="13" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="172" cy="97" rx="8" ry="8" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- Eye highlights -->
+  <circle cx="122" cy="94" r="3" fill="#ffffff"/>
+  <circle cx="176" cy="94" r="3" fill="#ffffff"/>
+  <!-- Nose -->
+  <path d="M140 108 L136 120 L143 122 L150 120 L146 108" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Confident smile -->
+  <path d="M122 134 Q145 152 168 134" stroke="#000000" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Chin - slightly lifted with jawline hint -->
+  <path d="M102 130 Q145 168 188 130" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

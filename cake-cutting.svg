@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- table -->
+  <rect x="30" y="190" width="230" height="14" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+
+  <!-- WEDDING CAKE (centre, on table) -->
+  <!-- bottom tier -->
+  <rect x="110" y="150" width="70" height="40" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M114 162 Q124 170 134 162 Q144 170 154 162 Q164 170 174 162" fill="none" stroke="#f266aa" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- middle tier -->
+  <rect x="120" y="115" width="50" height="35" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M124 128 Q135 134 145 128 Q155 134 166 128" fill="none" stroke="#f266aa" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- top tier -->
+  <rect x="130" y="86" width="30" height="29" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- topper heart -->
+  <path d="M139 70 C139 64 145 64 145 70 C145 64 151 64 151 70 C151 76 145 84 145 84 C145 84 139 76 139 70 Z" fill="#d01424" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- first slice cut (wedge missing from bottom tier front) -->
+  <path d="M138 152 L150 170 L162 152" fill="#f4a4b2" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- slice on plate (in front, low) -->
+  <ellipse cx="145" cy="200" rx="22" ry="4" fill="#efefef" stroke="#000000" stroke-width="2"/>
+  <path d="M132 200 L145 184 L158 200 Z" fill="#f4a4b2" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- KNIFE (held by their joined hands, crossing into cake from right) -->
+  <path d="M210 130 L150 150" stroke="#b8b8b8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M210 130 L150 150" stroke="#000000" stroke-width="1.5" fill="none"/>
+  <!-- knife handle -->
+  <rect x="208" y="124" width="22" height="12" rx="3" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <!-- ribbon on knife handle -->
+  <path d="M218 124 L222 116 L226 124" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- BRIDE (left) FULL BODY behind/beside cake -->
+  <!-- dress -->
+  <path d="M48 130 Q35 195 42 215 L88 215 Q88 195 80 130 Z" fill="#ffffff" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- shoes peek -->
+  <ellipse cx="55" cy="217" rx="5" ry="3" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="75" cy="217" rx="5" ry="3" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- bodice -->
+  <path d="M52 102 L50 132 L78 132 L76 102 Q64 96 52 102 Z" fill="#ffffff" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- neck -->
+  <rect x="60" y="92" width="8" height="11" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- head -->
+  <ellipse cx="64" cy="80" rx="14" ry="15" fill="#eed5b6" stroke="#000000" stroke-width="3.5"/>
+  <!-- hair updo -->
+  <path d="M50 78 Q52 62 64 60 Q76 62 78 78 Q76 70 64 68 Q52 70 50 78 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- veil -->
+  <path d="M55 66 Q42 78 46 110" fill="#dff3fd" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- eyes + smile -->
+  <circle cx="60" cy="81" r="2" fill="#000000"/>
+  <circle cx="68" cy="81" r="2" fill="#000000"/>
+  <path d="M60 87 Q64 90 68 87" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- bride arm reaching out to knife (joined with groom) -->
+  <path d="M78 112 L155 138 L150 146 L78 122 Z" fill="#eed5b6" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- GROOM (right) FULL BODY -->
+  <!-- legs -->
+  <path d="M226 145 L222 215 L236 215 L238 145 Z" fill="#1d0e82" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M248 145 L250 215 L262 215 L258 145 Z" fill="#1d0e82" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- shoes -->
+  <ellipse cx="228" cy="217" rx="8" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="254" cy="217" rx="8" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- jacket -->
+  <path d="M220 105 L218 148 L264 148 L262 105 Q242 98 220 105 Z" fill="#1d0e82" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- shirt + tie -->
+  <path d="M236 105 L240 125 L244 105 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M238 108 L240 122 L242 108 Z" fill="#000000"/>
+  <!-- neck -->
+  <rect x="236" y="93" width="9" height="12" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- head -->
+  <ellipse cx="240" cy="80" rx="14" ry="15" fill="#eed5b6" stroke="#000000" stroke-width="3.5"/>
+  <!-- hair -->
+  <path d="M226 76 Q228 62 240 60 Q252 62 254 76 Q252 68 240 66 Q228 68 226 76 Z" fill="#4d4d4d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- eyes + smile -->
+  <circle cx="236" cy="81" r="2" fill="#000000"/>
+  <circle cx="244" cy="81" r="2" fill="#000000"/>
+  <path d="M236 87 Q240 90 244 87" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- groom arm down to knife handle (over bride's hand) -->
+  <path d="M218 115 L208 128 L214 134 L222 124 Z" fill="#1d0e82" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Ground -->
+  <rect x="0" y="205" width="290" height="35" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <!-- Building body -->
+  <rect x="10" y="60" width="270" height="150" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Roof band -->
+  <rect x="5" y="42" width="280" height="24" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Awning over door -->
+  <rect x="90" y="84" width="110" height="16" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Door opening -->
+  <rect x="110" y="100" width="70" height="110" fill="#90a7d6" stroke="#000000" stroke-width="4"/>
+  <!-- Car body -->
+  <rect x="60" y="158" width="130" height="38" rx="5" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Car cabin -->
+  <rect x="82" y="138" width="80" height="24" rx="5" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Windows -->
+  <rect x="88" y="142" width="28" height="16" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <rect x="122" y="142" width="28" height="16" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- Wheels -->
+  <circle cx="90" cy="198" r="12" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <circle cx="90" cy="198" r="5" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <circle cx="160" cy="198" r="12" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <circle cx="160" cy="198" r="5" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <!-- Person figure (full body) -->
+  <!-- Head -->
+  <circle cx="228" cy="118" r="14" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Torso -->
+  <rect x="216" y="132" width="24" height="36" rx="4" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Left arm (extends toward car with sponge) -->
+  <line x1="216" y1="140" x2="194" y2="150" stroke="#2a4ec0" stroke-width="8" stroke-linecap="round"/>
+  <!-- Right arm (holds hose up) -->
+  <line x1="240" y1="140" x2="256" y2="130" stroke="#2a4ec0" stroke-width="8" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="222" y1="168" x2="218" y2="200" stroke="#2a4ec0" stroke-width="8" stroke-linecap="round"/>
+  <line x1="232" y1="168" x2="236" y2="200" stroke="#2a4ec0" stroke-width="8" stroke-linecap="round"/>
+  <!-- Sponge (yellow square on hand) -->
+  <rect x="184" y="146" width="14" height="12" rx="3" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <!-- Hose -->
+  <path d="M256 130 Q265 118 262 108 Q258 98 252 95" fill="none" stroke="#529929" stroke-width="5" stroke-linecap="round"/>
+  <!-- Water from hose -->
+  <line x1="252" y1="95" x2="238" y2="88" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+  <line x1="252" y1="95" x2="242" y2="82" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+  <line x1="252" y1="95" x2="244" y2="92" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+  <!-- Bucket -->
+  <rect x="24" y="184" width="28" height="22" rx="3" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Bucket handle -->
+  <path d="M28 184 Q38 174 50 184" fill="none" stroke="#000000" stroke-width="3"/>
+  <!-- Water in bucket -->
+  <rect x="27" y="192" width="22" height="11" rx="2" fill="#dff3fd" stroke="none"/>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground -->
+  <rect x="0" y="218" width="290" height="22" fill="#f5e7c4" stroke="#000000" stroke-width="2.5"/>
+  <!-- table -->
+  <rect x="40" y="155" width="210" height="10" fill="#9d7246" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="50" y="165" width="6" height="50" fill="#7d5e23" stroke="#000000" stroke-width="2"/>
+  <rect x="234" y="165" width="6" height="50" fill="#7d5e23" stroke="#000000" stroke-width="2"/>
+
+  <!-- PATIENT FULL BODY (left) practising eating with adaptive spoon -->
+  <g transform="translate(95 92)">
+    <circle cx="0" cy="0" r="13" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+    <path d="M-13 -4 Q-13 -15 0 -15 Q13 -15 13 -4 Q7 -10 0 -10 Q-7 -10 -13 -4 Z" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+    <circle cx="-4" cy="0" r="1.6" fill="#000000"/>
+    <circle cx="4" cy="0" r="1.6" fill="#000000"/>
+    <path d="M-4 7 Q0 10 4 7" fill="none" stroke="#000000" stroke-width="1.8" stroke-linecap="round"/>
+    <rect x="-5" y="12" width="10" height="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+    <!-- torso seated -->
+    <rect x="-18" y="17" width="36" height="40" rx="3" fill="#3aa6a0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- left arm down -->
+    <rect x="-26" y="19" width="8" height="32" fill="#3aa6a0" stroke="#000000" stroke-width="2"/>
+    <circle cx="-22" cy="54" r="4" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+    <!-- right arm raised lifting spoon to mouth -->
+    <path d="M18 22 L24 6 L30 8 L24 26 Z" fill="#3aa6a0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="27" cy="8" r="4.5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+    <!-- adaptive utensil (big chunky handle) -->
+    <rect x="22" y="-4" width="5" height="12" fill="#e65a00" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+    <ellipse cx="24" cy="-10" rx="6" ry="4" fill="#efefef" stroke="#000000" stroke-width="2"/>
+    <!-- lap (skirt) -->
+    <rect x="-20" y="57" width="40" height="14" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- legs under table (visible below) -->
+    <rect x="-15" y="71" width="12" height="64" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+    <rect x="3" y="71" width="12" height="64" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+    <ellipse cx="-9" cy="135" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="1.8"/>
+    <ellipse cx="9" cy="135" rx="9" ry="4" fill="#000000" stroke="#000000" stroke-width="1.8"/>
+  </g>
+
+  <!-- plate on table in front of patient -->
+  <ellipse cx="118" cy="158" rx="22" ry="6" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="118" cy="156" rx="16" ry="3" fill="#f7de58" stroke="#000000" stroke-width="1.5"/>
+
+  <!-- buttoning/dressing aid card on table (large button + thread) -->
+  <rect x="155" y="142" width="34" height="14" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <circle cx="172" cy="149" r="4" fill="#f2e40d" stroke="#000000" stroke-width="1.8"/>
+  <circle cx="171" cy="148" r="0.8" fill="#000000"/>
+  <circle cx="173" cy="148" r="0.8" fill="#000000"/>
+  <circle cx="171" cy="150" r="0.8" fill="#000000"/>
+  <circle cx="173" cy="150" r="0.8" fill="#000000"/>
+
+  <!-- THERAPIST FULL BODY (right) standing guiding -->
+  <g transform="translate(225 90)">
+    <circle cx="0" cy="0" r="12" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+    <path d="M-12 0 Q-12 -14 0 -14 Q12 -14 12 0 Q12 5 10 8 L10 -5 Q5 -9 0 -9 Q-5 -9 -10 -5 L-10 8 Q-12 5 -12 0 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+    <circle cx="-4" cy="0" r="1.5" fill="#000000"/>
+    <circle cx="4" cy="0" r="1.5" fill="#000000"/>
+    <path d="M-3 6 Q0 8 3 6" fill="none" stroke="#000000" stroke-width="1.8" stroke-linecap="round"/>
+    <rect x="-5" y="11" width="10" height="5" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+    <rect x="-16" y="16" width="32" height="40" rx="3" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- pocket -->
+    <rect x="6" y="36" width="8" height="8" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+    <!-- left arm pointing toward patient -->
+    <path d="M-16 20 L-34 30 L-30 36 L-12 26 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="-32" cy="32" r="4.5" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+    <rect x="16" y="18" width="8" height="32" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <circle cx="20" cy="53" r="4" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+    <rect x="-14" y="56" width="12" height="60" fill="#67832d" stroke="#000000" stroke-width="2.5"/>
+    <rect x="2" y="56" width="12" height="60" fill="#67832d" stroke="#000000" stroke-width="2.5"/>
+    <ellipse cx="-8" cy="118" rx="8" ry="4" fill="#000000" stroke="#000000" stroke-width="1.8"/>
+    <ellipse cx="8" cy="118" rx="8" ry="4" fill="#000000" stroke="#000000" stroke-width="1.8"/>
+  </g>
+</svg>

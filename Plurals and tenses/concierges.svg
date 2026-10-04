@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,6.384) scale(0.9734)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Hotel desk -->
+  <rect x="40" y="148" width="210" height="68" rx="6" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="52" y="136" width="186" height="20" rx="4" fill="#7f7f7f" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Desk front panel detail -->
+  <rect x="64" y="160" width="44" height="36" rx="3" fill="#efefef" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="122" y="160" width="44" height="36" rx="3" fill="#efefef" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="180" y="160" width="44" height="36" rx="3" fill="#efefef" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Bell on desk -->
+  <ellipse cx="200" cy="133" rx="22" ry="8" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M182 133 Q182 108 200 105 Q218 108 218 133Z" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="200" cy="104" r="4" fill="#f2e40d" stroke="#000000" stroke-width="3"/>
+  <!-- Person torso behind desk -->
+  <!-- Head -->
+  <circle cx="145" cy="52" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M123 50 Q127 28 145 26 Q163 28 167 50 Q162 40 145 38 Q128 40 123 50Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="138" y="72" width="14" height="14" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Uniform jacket -->
+  <path d="M110 86 L145 82 L180 86 L186 136 L104 136Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shirt/collar -->
+  <path d="M135 82 L145 92 L155 82 L145 86Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Tie -->
+  <path d="M143 88 L147 88 L148 124 L145 128 L142 124Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Left arm normal -->
+  <path d="M110 86 L94 118 L104 122 L116 94" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left hand -->
+  <ellipse cx="98" cy="124" rx="10" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm raised pointing -->
+  <path d="M180 86 L196 66 L206 72 L190 96" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Right hand pointing -->
+  <ellipse cx="202" cy="62" rx="10" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <path d="M204 54 L207 47 L211 49 L207 57Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Epaulette left -->
+  <rect x="106" y="85" width="18" height="8" rx="3" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <!-- Epaulette right -->
+  <rect x="166" y="85" width="18" height="8" rx="3" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+</g><g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl617" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl617)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

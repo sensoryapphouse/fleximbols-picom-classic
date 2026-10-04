@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,33.792) scale(0.8592)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Desk surface at top -->
+  <rect x="20" y="55" width="250" height="12" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <!-- Desk supports -->
+  <rect x="30" y="67" width="8" height="58" fill="#7f7f7f" stroke="#000000" stroke-width="2.5"/>
+  <rect x="252" y="67" width="8" height="58" fill="#7f7f7f" stroke="#000000" stroke-width="2.5"/>
+  <!-- Monitor on desk -->
+  <rect x="180" y="20" width="60" height="35" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <rect x="184" y="24" width="52" height="27" fill="#90a7d6" stroke="#000000" stroke-width="2"/>
+  <!-- Treadmill base (lower, in front of/below desk) -->
+  <rect x="40" y="160" width="210" height="50" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- Belt area (top of treadmill) -->
+  <rect x="48" y="165" width="194" height="40" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- Belt lines -->
+  <line x1="80" y1="165" x2="80" y2="205" stroke="#7f7f7f" stroke-width="1.5"/>
+  <line x1="120" y1="165" x2="120" y2="205" stroke="#7f7f7f" stroke-width="1.5"/>
+  <line x1="160" y1="165" x2="160" y2="205" stroke="#7f7f7f" stroke-width="1.5"/>
+  <line x1="200" y1="165" x2="200" y2="205" stroke="#7f7f7f" stroke-width="1.5"/>
+  <!-- Side rails -->
+  <rect x="40" y="155" width="210" height="8" fill="#b8b8b8" stroke="#000000" stroke-width="2.5"/>
+  <!-- Small console at front -->
+  <rect x="115" y="140" width="60" height="20" fill="#7f7f7f" stroke="#000000" stroke-width="2.5"/>
+  <rect x="120" y="145" width="20" height="10" fill="#529929" stroke="#000000" stroke-width="1.5"/>
+  <!-- Person walking (full body) -->
+  <!-- Head -->
+  <circle cx="145" cy="80" r="12" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Hair -->
+  <path d="M 134 76 Q 145 65 156 76 Q 156 70 145 68 Q 134 70 134 76 Z" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Torso -->
+  <rect x="132" y="92" width="26" height="38" fill="#d01424" stroke="#000000" stroke-width="3"/>
+  <!-- Arm forward (toward desk) -->
+  <path d="M 132 98 L 115 105 L 118 112 L 138 105 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Arm back -->
+  <path d="M 158 98 L 175 110 L 172 117 L 152 105 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Hands -->
+  <circle cx="115" cy="108" r="4" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <circle cx="176" cy="113" r="4" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- Legs (walking pose) -->
+  <path d="M 134 130 L 128 165 L 138 167 L 144 130 Z" fill="#392170" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 146 130 L 158 165 L 168 162 L 156 130 Z" fill="#392170" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Shoes -->
+  <ellipse cx="132" cy="170" rx="10" ry="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="162" cy="167" rx="10" ry="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- Wheels -->
+  <circle cx="55" cy="215" r="6" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <circle cx="235" cy="215" r="6" fill="#000000" stroke="#000000" stroke-width="2"/>
+</g><g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl2980" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl2980)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

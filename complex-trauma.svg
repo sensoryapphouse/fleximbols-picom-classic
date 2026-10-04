@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- head profile facing right -->
+  <path d="M90 80 Q90 40 140 40 Q190 40 195 90 Q200 120 195 150 Q190 200 150 205 L120 205 L120 175 Q95 170 90 145 Q85 130 90 115 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- ear -->
+  <ellipse cx="145" cy="120" rx="8" ry="12" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <!-- eye -->
+  <circle cx="172" cy="100" r="3" fill="#000000"/>
+  <path d="M165 92 Q172 88 180 93" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- nose -->
+  <path d="M188 100 L196 118 L188 122" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- mouth (slight downturn) -->
+  <path d="M178 145 Q185 142 190 146" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- hair -->
+  <path d="M90 75 Q140 25 198 80 L195 95 Q150 55 95 95 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- tangled thread inside head (head interior near center) -->
+  <path d="M120 115 C135 105 155 130 140 140 C125 148 145 160 160 150 C170 144 155 130 145 138" fill="none" stroke="#d01424" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M125 130 C140 122 150 145 135 152" fill="none" stroke="#d01424" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- multiple thought clouds above/around -->
+  <path d="M40 50 Q30 50 30 60 Q22 62 25 72 Q20 80 30 82 Q35 88 45 84 Q55 92 60 80 Q70 78 65 68 Q70 58 58 55 Q52 46 40 50 Z" fill="#dff3fd" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M210 28 Q202 28 202 36 Q195 38 198 47 Q193 54 202 56 Q207 62 216 58 Q224 64 228 54 Q237 52 232 44 Q237 35 226 33 Q221 25 210 28 Z" fill="#dff3fd" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M232 100 Q224 100 224 108 Q218 110 221 118 Q216 124 224 126 Q229 131 237 127 Q245 132 248 124 Q256 122 252 114 Q256 106 246 104 Q242 97 232 100 Z" fill="#90a7d6" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M35 150 Q28 150 28 158 Q22 160 25 168 Q21 174 28 176 Q32 181 40 178 Q47 183 51 175 Q58 173 55 165 Q59 157 49 156 Q45 147 35 150 Z" fill="#dff3fd" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- healing arrow curving up from bottom -->
+  <path d="M150 215 Q220 200 250 150" fill="none" stroke="#529929" stroke-width="4" stroke-linecap="round"/>
+  <path d="M250 150 L246 158 M250 150 L242 152" fill="none" stroke="#529929" stroke-width="4" stroke-linecap="round"/>
+</svg>

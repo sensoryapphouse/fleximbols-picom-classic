@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- BACKGROUND PANEL -->
+  <rect x="22" y="22" width="246" height="196" rx="14" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- MONITOR (right side) -->
+  <rect x="134" y="30" width="120" height="86" rx="7" fill="#efefef" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="142" y="38" width="104" height="70" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Stand -->
+  <rect x="185" y="116" width="14" height="14" rx="2" fill="#b8b8b8" stroke="#000000" stroke-width="4"/>
+  <rect x="177" y="128" width="30" height="7" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="4"/>
+
+  <!-- LOCK on screen being probed -->
+  <rect x="176" y="54" width="22" height="20" rx="4" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M180 54 Q180 46 187 46 Q194 46 194 54" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="187" cy="65" r="3" fill="#000000"/>
+
+  <!-- KEY/PICK probing the lock -->
+  <line x1="158" y1="76" x2="176" y2="62" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="157" cy="78" r="6" fill="none" stroke="#ff9900" stroke-width="4"/>
+  <line x1="163" y1="74" x2="168" y2="70" stroke="#ff9900" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- CHECKLIST (bottom right area) -->
+  <rect x="218" y="48" width="22" height="30" rx="3" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="222" y1="56" x2="236" y2="56" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="222" y1="62" x2="236" y2="62" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="222" y1="68" x2="236" y2="68" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <polyline points="219,55 221,57 225,53" fill="none" stroke="#529929" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="219,61 221,63 225,59" fill="none" stroke="#529929" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- PERSON (full body) -->
+  <!-- Head -->
+  <circle cx="76" cy="58" r="20" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M58 52 Q60 38 76 36 Q92 38 94 52 L91 50 Q86 40 76 40 Q66 40 61 50 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <circle cx="69" cy="56" r="3" fill="#000000"/>
+  <circle cx="83" cy="56" r="3" fill="#000000"/>
+  <!-- Mouth -->
+  <path d="M70 65 Q76 69 82 65" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Torso -->
+  <path d="M54 80 Q52 80 50 92 L50 140 Q50 144 54 144 L98 144 Q102 144 102 140 L102 92 Q100 80 98 80 L90 74 L76 78 L62 74 Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Collar details -->
+  <path d="M70 78 L76 88 L82 78" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Left arm down -->
+  <path d="M50 92 L36 116 Q32 122 36 126 L40 128 Q44 130 48 122 L56 100" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="35" cy="127" rx="8" ry="6" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+
+  <!-- Right arm extended toward screen -->
+  <path d="M102 92 L122 106 Q128 110 126 116 L124 120 Q120 124 114 118 L100 104" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="126" cy="116" rx="8" ry="6" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+
+  <!-- Trousers -->
+  <path d="M54 144 L50 198 L66 198 L76 164 L86 198 L102 198 L98 144 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Shoes -->
+  <ellipse cx="58" cy="198" rx="14" ry="7" fill="#000000" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="94" cy="198" rx="14" ry="7" fill="#000000" stroke="#000000" stroke-width="4"/>
+</svg>

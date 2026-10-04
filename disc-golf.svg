@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- basket / target (right side) -->
+  <!-- pole -->
+  <rect x="224" y="80" width="8" height="148" rx="3" ry="3" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- basket rim top -->
+  <ellipse cx="228" cy="120" rx="28" ry="8" fill="none" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- basket chains -->
+  <line x1="210" y1="82" x2="216" y2="120" stroke="#b8b8b8" stroke-width="2" stroke-linecap="round"/>
+  <line x1="218" y1="80" x2="220" y2="120" stroke="#b8b8b8" stroke-width="2" stroke-linecap="round"/>
+  <line x1="226" y1="80" x2="226" y2="120" stroke="#b8b8b8" stroke-width="2" stroke-linecap="round"/>
+  <line x1="234" y1="80" x2="234" y2="120" stroke="#b8b8b8" stroke-width="2" stroke-linecap="round"/>
+  <line x1="242" y1="80" x2="238" y2="120" stroke="#b8b8b8" stroke-width="2" stroke-linecap="round"/>
+  <line x1="248" y1="82" x2="240" y2="120" stroke="#b8b8b8" stroke-width="2" stroke-linecap="round"/>
+  <!-- chain basket top marker -->
+  <ellipse cx="228" cy="80" rx="22" ry="6" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- basket catch rim bottom -->
+  <ellipse cx="228" cy="148" rx="28" ry="8" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- basket body -->
+  <path d="M 200,120 L 200,148 Q 200,158 228,158 Q 256,158 256,148 L 256,120" fill="#efefef" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- ground line -->
+  <line x1="20" y1="222" x2="270" y2="222" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- grass tufts -->
+  <path d="M 30,222 Q 34,210 38,222" fill="none" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 50,222 Q 54,212 58,222" fill="none" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <!-- figure: head -->
+  <circle cx="80" cy="50" r="20" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 62,42 Q 65,28 80,26 Q 94,28 96,44" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="74" cy="52" r="2" fill="#000000"/>
+  <circle cx="86" cy="52" r="2" fill="#000000"/>
+  <!-- torso leaning into throw -->
+  <path d="M 70,70 Q 65,74 66,108 Q 68,115 80,115 Q 92,115 93,108 L 92,74 Q 88,70 80,70 Z" fill="#137827" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- throwing arm extended right with disc -->
+  <path d="M 90,76 Q 128,60 162,52" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- left arm back for balance -->
+  <path d="M 68,78 Q 50,90 36,105" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- legs: stride pose -->
+  <path d="M 72,113 L 52,165 L 48,182 L 60,184 L 72,165 L 78,115" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 88,113 L 104,158 L 112,178 L 100,180 L 90,158 L 84,115" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- shoes -->
+  <ellipse cx="52" cy="184" rx="13" ry="6" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="106" cy="180" rx="13" ry="6" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- flying disc -->
+  <ellipse cx="172" cy="48" rx="22" ry="7" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="172" cy="46" rx="14" ry="4" fill="#d01424" stroke="none"/>
+  <!-- disc flight arc -->
+  <path d="M 162,50 Q 190,30 220,50" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-dasharray="7,5"/>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Body silhouette: full torso ghost side-profile hint via frontal with spine visible -->
+  <!-- Head -->
+  <ellipse cx="145" cy="30" rx="26" ry="28" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Neck -->
+  <rect x="133" y="54" width="24" height="22" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Torso -->
+  <path d="M92 74 Q72 82 68 118 L68 210 L222 210 L222 118 Q218 82 198 74 Q175 66 145 66 Q115 66 92 74 Z" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shoulders -->
+  <ellipse cx="78" cy="90" rx="20" ry="12" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="212" cy="90" rx="20" ry="12" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+
+  <!-- SPINE: full column with natural S-curve, highlighted -->
+  <!-- Cervical curve (neck, slight forward) -->
+  <!-- Thoracic curve (upper back, rearward) -->
+  <!-- Lumbar curve (lower back, forward) -->
+  <!-- Spine as a series of vertebra blocks along a curved path -->
+  <!-- Using an S-curve path as the spine centre line: -->
+  <!-- Cervical: C1-C7 top region -->
+  <!-- Thoracic: T1-T12 middle -->
+  <!-- Lumbar: L1-L5 lower -->
+  <!-- Sacrum: bottom -->
+
+  <!-- Spine column body: drawn as segmented blocks along S-curve path -->
+  <!-- We approximate S-curve by shifting x across segments -->
+  <!-- Cervical (forward curve = x shifts slightly right ~148) -->
+  <rect x="141" y="48" width="16" height="10" rx="3" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <rect x="141" y="61" width="16" height="10" rx="3" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <rect x="140" y="74" width="16" height="10" rx="3" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <!-- Thoracic (backward curve = x shifts left ~136) -->
+  <rect x="138" y="87" width="16" height="10" rx="3" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <rect x="136" y="100" width="16" height="10" rx="3" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <rect x="135" y="113" width="16" height="10" rx="3" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <rect x="135" y="126" width="16" height="10" rx="3" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <rect x="136" y="139" width="16" height="10" rx="3" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <!-- Lumbar (forward curve again = x shifts right ~140) -->
+  <rect x="138" y="152" width="16" height="10" rx="3" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <rect x="140" y="165" width="16" height="10" rx="3" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <rect x="141" y="178" width="16" height="10" rx="3" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <!-- Sacrum -->
+  <path d="M139 191 L161 191 L158 210 L142 210 Z" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Discs between vertebrae (small grey lines) -->
+  <rect x="141" y="58" width="16" height="3" rx="1" fill="#7f7f7f" stroke="none"/>
+  <rect x="141" y="71" width="16" height="3" rx="1" fill="#7f7f7f" stroke="none"/>
+  <rect x="140" y="84" width="16" height="3" rx="1" fill="#7f7f7f" stroke="none"/>
+  <rect x="138" y="97" width="16" height="3" rx="1" fill="#7f7f7f" stroke="none"/>
+  <rect x="136" y="110" width="16" height="3" rx="1" fill="#7f7f7f" stroke="none"/>
+  <rect x="135" y="123" width="16" height="3" rx="1" fill="#7f7f7f" stroke="none"/>
+  <rect x="135" y="136" width="16" height="3" rx="1" fill="#7f7f7f" stroke="none"/>
+  <rect x="136" y="149" width="16" height="3" rx="1" fill="#7f7f7f" stroke="none"/>
+  <rect x="138" y="162" width="16" height="3" rx="1" fill="#7f7f7f" stroke="none"/>
+  <rect x="140" y="175" width="16" height="3" rx="1" fill="#7f7f7f" stroke="none"/>
+  <rect x="141" y="188" width="16" height="3" rx="1" fill="#7f7f7f" stroke="none"/>
+
+  <!-- Pointer dot -->
+  <circle cx="170" cy="120" r="6" fill="#d01424" stroke="#000000" stroke-width="3"/>
+  <line x1="164" y1="120" x2="151" y2="120" stroke="#d01424" stroke-width="3" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl2690" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl2690)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

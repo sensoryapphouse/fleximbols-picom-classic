@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- tree trunk -->
+  <rect x="120" y="120" width="36" height="100" rx="10" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- tree canopy layers -->
+  <ellipse cx="138" cy="100" rx="60" ry="50" fill="#529929" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="138" cy="80" rx="46" ry="38" fill="#137827" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="138" cy="62" rx="32" ry="28" fill="#529929" stroke="#000000" stroke-width="4"/>
+  <!-- climbing rope hanging from tree -->
+  <path d="M164,118 Q172,140 168,165 Q164,185 160,200" fill="none" stroke="#9d7246" stroke-width="5" stroke-linecap="round"/>
+  <!-- rope knot marks -->
+  <ellipse cx="165" cy="150" rx="6" ry="4" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="162" cy="182" rx="6" ry="4" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <!-- person in tree: legs -->
+  <path d="M196,170 Q200,188 198,210" fill="none" stroke="#4d4d4d" stroke-width="14" stroke-linecap="round"/>
+  <path d="M218,162 Q224,180 220,202" fill="none" stroke="#4d4d4d" stroke-width="14" stroke-linecap="round"/>
+  <!-- boots -->
+  <ellipse cx="198" cy="211" rx="13" ry="6" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="220" cy="203" rx="13" ry="6" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <!-- harness straps across torso -->
+  <rect x="192" y="128" width="42" height="46" rx="8" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="200" y1="128" x2="195" y2="174" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
+  <line x1="225" y1="128" x2="226" y2="174" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
+  <!-- harness belt -->
+  <rect x="190" y="164" width="46" height="10" rx="4" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- right arm with pruning handsaw -->
+  <path d="M233,140 Q248,132 258,126" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <!-- handsaw -->
+  <rect x="254" y="118" width="12" height="32" rx="4" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="248" y="148" width="24" height="8" rx="2" fill="#b8b8b8" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- saw teeth -->
+  <path d="M248,156 L250,162 L254,156 L257,162 L260,156 L263,162 L266,156 L269,162 L272,156" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- left arm gripping rope -->
+  <path d="M193,138 Q180,144 170,148" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="169" cy="149" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- head -->
+  <ellipse cx="213" cy="106" rx="22" ry="23" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- safety helmet -->
+  <rect x="191" y="90" width="44" height="18" rx="6" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="213" cy="90" rx="26" ry="9" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="213" cy="102" rx="28" ry="7" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <!-- eyes -->
+  <ellipse cx="205" cy="110" rx="3" ry="3.5" fill="#000000"/>
+  <ellipse cx="221" cy="110" rx="3" ry="3.5" fill="#000000"/>
+  <!-- smile -->
+  <path d="M206,120 Q213,127 220,120" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl89" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl89)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

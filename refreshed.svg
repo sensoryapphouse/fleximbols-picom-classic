@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Water droplets floating around face -->
+  <!-- Left droplets -->
+  <ellipse cx="42" cy="80" rx="8" ry="11" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <polygon points="42,58 37,71 47,71" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="24" cy="130" rx="6" ry="8" fill="#90a7d6" stroke="#000000" stroke-width="2"/>
+  <polygon points="24,114 20,125 28,125" fill="#90a7d6" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Right droplets -->
+  <ellipse cx="248" cy="74" rx="8" ry="11" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <polygon points="248,52 243,65 253,65" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="265" cy="124" rx="6" ry="8" fill="#90a7d6" stroke="#000000" stroke-width="2"/>
+  <polygon points="265,108 261,119 269,119" fill="#90a7d6" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Small droplets scattered -->
+  <ellipse cx="70" cy="42" rx="5" ry="7" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="220" cy="40" rx="5" ry="7" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- Towel hint at shoulders base -->
+  <rect x="78" y="210" width="134" height="28" rx="6" fill="#dff3fd" stroke="#000000" stroke-width="4"/>
+  <!-- Towel stripes -->
+  <line x1="78" y1="222" x2="212" y2="222" stroke="#90a7d6" stroke-width="3" stroke-linecap="round"/>
+  <!-- Shoulders -->
+  <path d="M68 238 Q80 186 112 177 Q145 171 178 177 Q210 186 222 238 Z" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="128" y="155" width="34" height="28" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="116" rx="62" ry="64" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Cool blue freshness tint on face (cheeks and forehead) -->
+  <ellipse cx="93" cy="132" rx="17" ry="11" fill="#dff3fd" stroke="none"/>
+  <ellipse cx="197" cy="132" rx="17" ry="11" fill="#dff3fd" stroke="none"/>
+  <!-- Relaxed happy eyes - soft half-open -->
+  <ellipse cx="112" cy="108" rx="16" ry="14" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="114" cy="110" r="9" fill="#2a4ec0"/>
+  <circle cx="117" cy="107" r="3" fill="#ffffff"/>
+  <ellipse cx="178" cy="108" rx="16" ry="14" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="180" cy="110" r="9" fill="#2a4ec0"/>
+  <circle cx="183" cy="107" r="3" fill="#ffffff"/>
+  <!-- Relaxed eyebrows -->
+  <path d="M96 90 Q112 82 128 88" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M162 88 Q178 82 194 90" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Pleased soft smile -->
+  <path d="M118 144 Q145 162 172 144" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M140 120 Q145 130 150 120" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

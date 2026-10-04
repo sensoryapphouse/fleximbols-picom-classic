@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+
+  
+  
+  <path d="M88 155 L48 195 L58 205 L100 162Z" fill="#000000" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <path d="M44 197 Q40 207 52 210 L60 205 L50 196Z" fill="#d01424" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  
+  <path d="M102 155 L100 210 L115 210 L115 158Z" fill="#000000" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <path d="M98 208 Q100 216 115 216 L115 210Z" fill="#d01424" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  
+  <path d="M85 110 L80 158 L120 158 L115 110 Q100 102 85 110Z" fill="#000000" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <path d="M100 130 L98 158 L108 158 L106 130Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  
+  <rect x="93" y="96" width="13" height="14" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  
+  <ellipse cx="100" cy="82" rx="19" ry="21" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  
+  <path d="M81 78 Q84 60 100 57 Q116 60 119 76Z" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  
+  <ellipse cx="94" cy="81" rx="2.5" ry="2.5" fill="#000000"/>
+  <ellipse cx="106" cy="81" rx="2.5" ry="2.5" fill="#000000"/>
+  
+  <path d="M85 115 L55 92 L50 100 L80 124Z" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="50" cy="96" rx="8" ry="7" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  
+  <path d="M115 112 L155 105 L157 115 L117 122Z" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  
+  <path d="M138 175 L148 145" fill="none" stroke="#529929" stroke-width="4" stroke-linecap="round"/>
+  
+  <ellipse cx="150" cy="141" rx="10" ry="9" fill="#d01424" stroke="#000000" stroke-width="4"/>
+  <path d="M141 138 Q150 132 159 138 Q155 144 150 141 Q145 144 141 138Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  
+  <path d="M143 162 Q136 155 142 150 Q146 157 143 162Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  
+  
+  <path d="M175 155 L172 215 L190 215 L190 158Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <path d="M198 155 L240 192 L232 202 L190 162Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <path d="M232 200 Q240 208 250 204 Q248 196 238 193Z" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  
+  <path d="M168 213 Q172 221 190 220 L190 215Z" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  
+  <path d="M165 108 L168 158 L225 158 L222 108 Q200 97 185 96 Q170 97 165 108Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <path d="M185 108 L183 158 L197 158 L195 108Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  
+  <rect x="184" y="93" width="14" height="15" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  
+  <ellipse cx="192" cy="79" rx="20" ry="21" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  
+  <path d="M172 75 Q177 58 192 55 Q207 58 212 75Z" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  
+  <ellipse cx="185" cy="79" rx="2.5" ry="2.5" fill="#000000"/>
+  <ellipse cx="199" cy="79" rx="2.5" ry="2.5" fill="#000000"/>
+  
+  <path d="M165 115 L128 118 L126 128 L163 125Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="127" cy="123" rx="8" ry="7" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  
+  <path d="M222 110 L248 82 L242 74 L216 103Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="245" cy="78" rx="8" ry="7" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+</svg>

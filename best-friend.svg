@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground line -->
+  <path d="M20 225 L270 225" fill="none" stroke="#7f7f7f" stroke-width="2" stroke-linecap="round"/>
+  <!-- LEFT friend (full body) -->
+  <!-- head -->
+  <circle cx="85" cy="55" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M68 53 Q68 38 85 36 Q102 38 102 53 Q98 45 85 45 Q74 45 68 53 Z" fill="#7d5e23" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="79" cy="55" r="2" fill="#000000"/>
+  <circle cx="91" cy="55" r="2" fill="#000000"/>
+  <!-- smile -->
+  <path d="M79 62 Q85 67 91 62" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="80" y="71" width="10" height="7" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- torso -->
+  <path d="M65 78 L105 78 L108 145 L62 145 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- left arm (down by side) -->
+  <path d="M65 85 L52 130 L50 150" fill="none" stroke="#eed5b6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M65 85 L52 130 L50 150" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="50" cy="152" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- right arm reaching over to friend's shoulder -->
+  <path d="M105 85 L135 95 L165 90" fill="none" stroke="#eed5b6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M105 85 L135 95 L165 90" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- hand on right friend's shoulder -->
+  <circle cx="168" cy="90" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- legs -->
+  <rect x="68" y="145" width="16" height="65" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+  <rect x="86" y="145" width="16" height="65" fill="#2a4ec0" stroke="#000000" stroke-width="2.5"/>
+  <!-- feet -->
+  <ellipse cx="76" cy="215" rx="11" ry="6" fill="#000000"/>
+  <ellipse cx="94" cy="215" rx="11" ry="6" fill="#000000"/>
+  <!-- RIGHT friend (full body) -->
+  <!-- head -->
+  <circle cx="205" cy="55" r="18" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- hair (different colour) -->
+  <path d="M188 53 Q188 36 205 35 Q222 36 222 53 Q218 44 205 44 Q193 44 188 53 Z" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="199" cy="55" r="2" fill="#000000"/>
+  <circle cx="211" cy="55" r="2" fill="#000000"/>
+  <!-- smile -->
+  <path d="M199 62 Q205 67 211 62" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="200" y="71" width="10" height="7" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- torso -->
+  <path d="M185 78 L225 78 L228 145 L182 145 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- left arm (toward friend, lower) -->
+  <path d="M185 88 L165 120 L150 140" fill="none" stroke="#e6b98a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M185 88 L165 120 L150 140" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="148" cy="142" r="6" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- right arm (down by side) -->
+  <path d="M225 85 L238 130 L240 150" fill="none" stroke="#e6b98a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M225 85 L238 130 L240 150" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="240" cy="152" r="6" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- legs -->
+  <rect x="188" y="145" width="16" height="65" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
+  <rect x="206" y="145" width="16" height="65" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
+  <!-- feet -->
+  <ellipse cx="196" cy="215" rx="11" ry="6" fill="#000000"/>
+  <ellipse cx="214" cy="215" rx="11" ry="6" fill="#000000"/>
+  <!-- HEART between -->
+  <path d="M145 115 C138 108 128 108 128 118 C128 128 145 138 145 138 C145 138 162 128 162 118 C162 108 152 108 145 115 Z" fill="#f8130d" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- friendship bracelet between them (replaces BFF text) -->
+  <path d="M118 200 Q145 210 172 200" fill="none" stroke="#f266aa" stroke-width="6" stroke-linecap="round"/>
+  <path d="M118 200 Q145 215 172 200" fill="none" stroke="#f2e40d" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="118" cy="200" r="5" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <circle cx="145" cy="210" r="5" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <circle cx="172" cy="200" r="5" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+</svg>

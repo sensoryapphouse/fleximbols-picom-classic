@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Screen in background -->
+  <rect x="30" y="22" width="230" height="110" rx="5" fill="#efefef" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Screen content: shape popping out toward viewer -->
+  <polygon points="145,35 175,95 115,95" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Popping 3D star burst lines from triangle suggesting depth-pop -->
+  <line x1="145" y1="35" x2="130" y2="25" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="175" y1="95" x2="192" y2="102" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="115" y1="95" x2="98" y2="102" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- 3D Glasses frame -->
+  <rect x="55" y="148" width="180" height="52" rx="26" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Bridge of glasses -->
+  <rect x="127" y="160" width="36" height="10" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Left lens - red (cyan-red anaglyph) -->
+  <ellipse cx="98" cy="174" rx="42" ry="22" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Right lens - cyan/blue -->
+  <ellipse cx="192" cy="174" rx="42" ry="22" fill="#3aa6a0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Lens shine left -->
+  <ellipse cx="83" cy="166" rx="10" ry="6" fill="#f4a4b2"/>
+  <!-- Lens shine right -->
+  <ellipse cx="177" cy="166" rx="10" ry="6" fill="#dff3fd"/>
+  <!-- Temple arms -->
+  <line x1="55" y1="160" x2="28" y2="155" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="55" y1="188" x2="28" y2="195" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="235" y1="160" x2="262" y2="155" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="235" y1="188" x2="262" y2="195" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+</svg>

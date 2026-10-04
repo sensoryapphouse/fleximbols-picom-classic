@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- too = a matching second item alongside the first (me too / also / as well) -->
+  <!-- left disc (the original item) -->
+  <circle cx="100" cy="95" r="62" fill="#bce0f4" stroke="#1a1a1a" stroke-width="8"/>
+  <!-- right disc (the matching "too" item) -->
+  <circle cx="190" cy="95" r="62" fill="#f9a01b" stroke="#1a1a1a" stroke-width="8"/>
+  <!-- equals sign below = "same / as well" -->
+  <line x1="95" y1="195" x2="195" y2="195" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+  <line x1="95" y1="218" x2="195" y2="218" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
+</svg>

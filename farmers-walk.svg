@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Floor -->
+  <path d="M 30,218 L 260,218" stroke="#000000" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Figure walking upright, arms straight down, holding kettlebells at each side -->
+  <!-- Head -->
+  <circle cx="145" cy="46" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Hair -->
+  <path d="M 124,40 Q 126,24 145,24 Q 164,24 166,40 Q 156,30 145,31 Q 134,30 124,40 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <ellipse cx="137" cy="45" rx="3" ry="3.5" fill="#000000"/>
+  <ellipse cx="153" cy="45" rx="3" ry="3.5" fill="#000000"/>
+  <!-- Determined mouth -->
+  <path d="M 138,57 L 152,57" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Torso upright, chest proud -->
+  <path d="M 126,70 Q 128,62 145,60 Q 162,62 164,70 L 162,140 L 128,140 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left arm straight down, gripping kettlebell handle -->
+  <path d="M 128,80 Q 90,95 82,148 L 92,150 Q 98,100 134,86 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right arm straight down, gripping kettlebell handle -->
+  <path d="M 162,80 Q 200,95 208,148 L 198,150 Q 192,100 156,86 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left kettlebell: handle arc then bell body -->
+  <path d="M 78,150 Q 78,138 87,138 Q 96,138 96,150" fill="none" stroke="#4d4d4d" stroke-width="7" stroke-linecap="round"/>
+  <rect x="72" y="150" width="30" height="24" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Right kettlebell: handle arc then bell body -->
+  <path d="M 194,150 Q 194,138 203,138 Q 212,138 212,150" fill="none" stroke="#4d4d4d" stroke-width="7" stroke-linecap="round"/>
+  <rect x="188" y="150" width="30" height="24" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Left hand gripping handle -->
+  <ellipse cx="87" cy="148" rx="9" ry="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Right hand gripping handle -->
+  <ellipse cx="203" cy="148" rx="9" ry="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Left leg: thigh forward (walking stride) -->
+  <path d="M 128,140 Q 108,158 96,180 L 110,186 Q 120,166 136,150 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left shin -->
+  <path d="M 96,180 L 90,218 L 112,218 L 112,185 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right leg: thigh back (walking stride) -->
+  <path d="M 162,140 Q 178,158 186,180 L 170,186 Q 164,164 150,150 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Right shin -->
+  <path d="M 186,180 L 196,218 L 172,218 L 170,186 Z" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Left shoe -->
+  <ellipse cx="101" cy="218" rx="14" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Right shoe -->
+  <ellipse cx="184" cy="218" rx="14" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- clay-mask: clay jar + earthy texture + brush + face with clay applied to cheeks -->
+  <!-- Face (right side - has clay applied to cheek/forehead) -->
+  <!-- Head -->
+  <ellipse cx="210" cy="120" rx="52" ry="62" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Hair -->
+  <path d="M160 105 Q160 60 210 56 Q260 60 260 105 Q255 85 210 80 Q165 85 160 105 Z" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Clay patches on face (earthy brown, thick) -->
+  <ellipse cx="190" cy="125" rx="14" ry="10" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="230" cy="130" rx="14" ry="10" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="210" cy="92" rx="18" ry="7" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Clay texture cracks (earthy) -->
+  <path d="M186 122 L194 128 M226 125 L234 132 M205 91 L215 93" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Eyes -->
+  <circle cx="195" cy="115" r="2.5" fill="#000000"/>
+  <circle cx="225" cy="115" r="2.5" fill="#000000"/>
+  <!-- Mouth -->
+  <path d="M200 150 Q210 156 220 150" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Clay jar (left side) -->
+  <!-- Jar body (earthen pot - terracotta) -->
+  <path d="M30 140 Q30 130 38 128 L118 128 Q126 130 126 140 L122 200 Q120 215 110 215 L46 215 Q36 215 34 200 Z" fill="#e65a00" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Jar rim/lid (terracotta, wider) -->
+  <ellipse cx="78" cy="128" rx="50" ry="10" fill="#9d7246" stroke="#000000" stroke-width="5"/>
+  <!-- Clay inside jar (earthy paste visible at top) -->
+  <ellipse cx="78" cy="128" rx="42" ry="6" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <!-- Clay texture lumps in jar -->
+  <circle cx="65" cy="127" r="3" fill="#5e1f0a" stroke="none"/>
+  <circle cx="90" cy="129" r="2.5" fill="#5e1f0a" stroke="none"/>
+  <!-- Earthy texture lines on jar -->
+  <path d="M40 150 Q50 152 60 150 M70 160 Q82 158 96 160 M105 170 Q115 172 120 170" fill="none" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cosmetic brush (handle + soft bristle, applying clay) -->
+  <!-- Brush handle -->
+  <rect x="120" y="55" width="14" height="65" rx="3" ry="3" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Brush ferrule (metal band) -->
+  <rect x="118" y="115" width="18" height="10" rx="2" ry="2" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <!-- Brush bristles (soft, dabbed with clay) -->
+  <path d="M118 122 L116 145 Q116 155 127 158 Q138 155 138 145 L136 122 Z" fill="#efefef" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Clay on brush tip -->
+  <ellipse cx="127" cy="155" rx="11" ry="5" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <!-- Brush bristle texture -->
+  <line x1="122" y1="128" x2="121" y2="148" stroke="#b8b8b8" stroke-width="1.5"/>
+  <line x1="127" y1="128" x2="127" y2="150" stroke="#b8b8b8" stroke-width="1.5"/>
+  <line x1="132" y1="128" x2="133" y2="148" stroke="#b8b8b8" stroke-width="1.5"/>
+</svg>

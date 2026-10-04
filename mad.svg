@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shoulders -->
+  <path d="M 48 240 Q 48 185 145 185 Q 242 185 242 240" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="120" y="158" width="50" height="30" rx="8" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- Head - slightly warm toned for mild anger -->
+  <ellipse cx="145" cy="98" rx="72" ry="73" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M 73 86 Q 78 20 145 18 Q 212 20 217 86 Q 200 44 145 42 Q 90 44 73 86 Z" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Left brow - lowered, angled inward (anger) -->
+  <path d="M 88 66 Q 105 74 124 68" fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <!-- Right brow - lowered, angled inward -->
+  <path d="M 166 68 Q 185 74 202 66" fill="none" stroke="#000000" stroke-width="6" stroke-linecap="round"/>
+  <!-- Left eye - narrowed -->
+  <ellipse cx="110" cy="90" rx="17" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="110" cy="90" r="7" fill="#4d4d4d"/>
+  <circle cx="113" cy="87" r="2.5" fill="#ffffff"/>
+  <!-- Right eye - narrowed -->
+  <ellipse cx="180" cy="90" rx="17" ry="11" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="180" cy="90" r="7" fill="#4d4d4d"/>
+  <circle cx="183" cy="87" r="2.5" fill="#ffffff"/>
+  <!-- Angry frown - down-turned mouth -->
+  <path d="M 110 138 Q 145 128 180 138" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Slightly bared teeth - thin line mouth with hint of teeth -->
+  <path d="M 118 134 Q 145 125 172 134 L 172 140 Q 145 133 118 140 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <path d="M 125 134 Q 145 127 165 134" fill="#ffffff" stroke="none"/>
+  <!-- Cheek flush - mild anger pink/red -->
+  <ellipse cx="94" cy="112" rx="12" ry="8" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="196" cy="112" rx="12" ry="8" fill="#f4a4b2" stroke="none"/>
+</svg>

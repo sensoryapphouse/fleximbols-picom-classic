@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Phony: salesman face with fake smile, counterfeit stamp, crossed-out genuine mark -->
+  <!-- Torso (salesman: grey suit) -->
+  <path d="M88 102 Q96 92 124 94 L166 94 Q194 92 202 102 L208 178 L82 178 Z" fill="#7f7f7f" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shirt collar / tie area -->
+  <path d="M124 94 L145 110 L166 94 L158 94 L145 106 L132 94 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Tie -->
+  <polygon points="145,108 138,130 145,136 152,130" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="137" y="82" width="16" height="14" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head: salesman face -->
+  <circle cx="145" cy="53" r="31" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Exaggerated salesman smile -->
+  <path d="M128 62 Q145 80 162 62" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Teeth -->
+  <path d="M133 64 Q145 72 157 64 Q145 68 133 64 Z" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- Eyes: slightly too wide, forced -->
+  <ellipse cx="133" cy="47" rx="7" ry="7" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="157" cy="47" rx="7" ry="7" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="134" cy="47" r="4" fill="#000000"/>
+  <circle cx="158" cy="47" r="4" fill="#000000"/>
+  <circle cx="135" cy="45" r="1.5" fill="#ffffff"/>
+  <circle cx="159" cy="45" r="1.5" fill="#ffffff"/>
+  <!-- Eyebrows: raised too high (performed enthusiasm) -->
+  <path d="M125 37 Q133 31 141 36" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M149 36 Q157 31 165 37" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Rosy cheeks (over-the-top) -->
+  <ellipse cx="119" cy="58" rx="10" ry="8" fill="#f266aa"/>
+  <ellipse cx="171" cy="58" rx="10" ry="8" fill="#f266aa"/>
+  <!-- Arms: spread open, salesman pose -->
+  <path d="M89 106 Q66 118 58 142" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M89 106 Q66 118 58 142" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="56" cy="150" rx="13" ry="11" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <path d="M201 106 Q224 118 232 142" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M201 106 Q224 118 232 142" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="234" cy="150" rx="13" ry="11" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Counterfeit/PHONY stamp badge (top right) -->
+  <rect x="196" y="10" width="72" height="40" rx="6" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <!-- FAKE stamp text drawn as paths (bold diagonal stamp look) -->
+  <!-- "FAKE" as simple bold diagonal lines suggesting stamped text -->
+  <rect x="200" y="14" width="64" height="32" rx="4" fill="none" stroke="#f8130d" stroke-width="3"/>
+  <!-- Diagonal stamp lines -->
+  <line x1="204" y1="18" x2="260" y2="42" stroke="#f8130d" stroke-width="5" stroke-linecap="round"/>
+  <line x1="204" y1="28" x2="248" y2="42" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="216" y1="18" x2="260" y2="32" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <!-- Crossed-out genuine mark (bottom left, small) -->
+  <circle cx="44" cy="195" r="20" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- Genuine checkmark inside -->
+  <path d="M34 195 L41 203 L54 186" fill="none" stroke="#529929" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Cross-out over it -->
+  <line x1="28" y1="178" x2="60" y2="212" stroke="#f8130d" stroke-width="5" stroke-linecap="round"/>
+  <line x1="60" y1="178" x2="28" y2="212" stroke="#f8130d" stroke-width="5" stroke-linecap="round"/>
+  <!-- Legs -->
+  <rect x="112" y="176" width="24" height="44" rx="8" fill="#b8b8b8" stroke="#000000" stroke-width="5"/>
+  <rect x="154" y="176" width="24" height="44" rx="8" fill="#b8b8b8" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="124" cy="221" rx="18" ry="8" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="166" cy="221" rx="18" ry="8" fill="#000000" stroke="#000000" stroke-width="3"/>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- outdoor path / horizon line -->
+  <path d="M 10 215 Q 90 200 145 205 Q 200 210 280 215" fill="none" stroke="#9d7246" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 10 215 Q 90 200 145 205 Q 200 210 280 215" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- small bushes for outdoor cue -->
+  <path d="M 18 200 Q 25 188 32 200 Z" fill="#529929" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 250 200 Q 258 187 268 200 Z" fill="#529929" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- person walking, full body, left of center -->
+  <!-- back leg -->
+  <path d="M 75 145 L 65 195 L 75 195 L 86 148 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- front leg -->
+  <path d="M 92 145 L 108 195 L 118 195 L 102 148 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- shoes -->
+  <ellipse cx="70" cy="199" rx="10" ry="4.5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="113" cy="199" rx="10" ry="4.5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- torso -->
+  <path d="M 65 75 L 110 75 L 108 150 L 67 150 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- back arm -->
+  <path d="M 65 80 Q 45 100 42 130 L 54 132 Q 58 105 75 88 Z" fill="#e6b98a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- front arm -->
+  <path d="M 110 80 Q 130 100 128 130 L 116 132 Q 112 105 100 88 Z" fill="#e6b98a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="87" cy="50" r="22" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- hair -->
+  <path d="M 67 44 Q 67 25 87 25 Q 107 25 107 44 Q 100 36 87 36 Q 73 36 67 44 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- face -->
+  <circle cx="81" cy="52" r="2" fill="#000000"/>
+  <circle cx="93" cy="52" r="2" fill="#000000"/>
+  <path d="M 81 60 Q 87 64 93 60" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- BIG up arrow, right side -->
+  <path d="M 200 180 L 200 90 L 175 90 L 215 40 L 255 90 L 230 90 L 230 180 Z" fill="#137827" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- step counter watch on wrist (front arm) -->
+  <rect x="118" y="124" width="14" height="11" rx="2" ry="2" fill="#4d4d4d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="121" y="126" width="8" height="7" fill="#3aa6a0" stroke="#000000" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- footprint small ahead, on path -->
+  <ellipse cx="160" cy="210" rx="6" ry="3" fill="#7f7f7f" stroke="#000000" stroke-width="1.5" transform="rotate(-10 160 210)"/>
+  <ellipse cx="180" cy="207" rx="6" ry="3" fill="#7f7f7f" stroke="#000000" stroke-width="1.5" transform="rotate(-10 180 207)"/>
+</svg>

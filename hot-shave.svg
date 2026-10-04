@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Man's face with hot towel + shaving cream + straight razor -->
+  <!-- Neck/shoulders -->
+  <path d="M110 200 L110 184 L165 184 L165 200 L200 220 L200 230 L60 230 L60 220 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Face (profile facing right) -->
+  <path d="M165 84 Q186 88 190 112 Q192 134 186 152 L180 156 L184 184 L160 184 L138 184 Q126 182 118 168 Q108 150 108 124 Q110 94 140 84 Q155 82 165 84 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Ear -->
+  <path d="M138 122 Q132 130 136 144 Q142 148 150 146" fill="#e6b98a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Eye (closed, relaxed) -->
+  <path d="M168 114 Q172 117 176 114" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Eyebrow -->
+  <path d="M166 106 L180 106" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M190 116 Q196 126 190 132" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- HOT TOWEL wrapped around upper head (showing steam) -->
+  <path d="M100 60 Q105 50 130 48 Q170 46 195 56 Q210 64 208 84 Q200 102 184 108 L180 100 Q178 88 184 78 Q170 70 150 70 Q128 72 116 80 Q110 88 112 100 Q108 98 102 88 Q98 76 100 60 Z" fill="#f4a4b2" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Towel fold lines -->
+  <path d="M120 70 L130 60 M150 64 L155 54 M180 65 L188 58" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Steam puffs rising from towel -->
+  <path d="M115 45 Q112 38 118 32 Q124 28 122 22" fill="none" stroke="#7f7f7f" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M155 40 Q152 32 158 28 Q164 24 162 16" fill="none" stroke="#7f7f7f" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M192 50 Q188 42 194 38 Q200 34 198 26" fill="none" stroke="#7f7f7f" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- SHAVING CREAM lathered on jaw / chin / cheek -->
+  <path d="M120 150 Q116 168 126 184 Q140 188 158 188 Q178 188 184 178 Q188 162 178 152 Q172 168 158 168 Q140 168 130 162 Q124 158 120 150 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cream foam bubbles -->
+  <circle cx="135" cy="158" r="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="150" cy="172" r="3.5" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="170" cy="170" r="3" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="162" cy="180" r="2.5" fill="#ffffff" stroke="#000000" stroke-width="1.5"/>
+  <!-- STRAIGHT RAZOR (open) held against cheek -->
+  <!-- Blade -->
+  <path d="M210 140 L260 130 L260 138 L212 148 Z" fill="#efefef" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Blade edge highlight -->
+  <path d="M212 146 L258 137" fill="none" stroke="#7f7f7f" stroke-width="1.5"/>
+  <!-- Pivot -->
+  <circle cx="212" cy="146" r="3" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <!-- Handle -->
+  <rect x="195" y="148" width="20" height="6" rx="2" fill="#5e1f0a" stroke="#000000" stroke-width="2" transform="rotate(15 205 151)"/>
+</svg>

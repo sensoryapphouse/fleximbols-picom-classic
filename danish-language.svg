@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <clipPath id="bubble-clip">
+      <path d="M25,25 h220 a20,20 0 0 1 20,20 v140 a20,20 0 0 1 -20,20 h-130 l-25,30 l0,-30 h-65 a20,20 0 0 1 -20,-20 v-140 a20,20 0 0 1 20,-20 z"/>
+    </clipPath>
+  </defs>
+  <!-- Denmark: red field + plain white Nordic cross -->
+  <rect x="25" y="25" width="240" height="190" fill="#d01424" clip-path="url(#bubble-clip)"/>
+  <!-- White cross (offset hoist) -->
+  <rect x="96" y="25" width="28" height="190" fill="#ffffff" clip-path="url(#bubble-clip)"/>
+  <rect x="25" y="100" width="240" height="28" fill="#ffffff" clip-path="url(#bubble-clip)"/>
+  <!-- Bubble outline -->
+  <path d="M25,25 h220 a20,20 0 0 1 20,20 v140 a20,20 0 0 1 -20,20 h-130 l-25,30 l0,-30 h-65 a20,20 0 0 1 -20,-20 v-140 a20,20 0 0 1 20,-20 z" fill="none" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

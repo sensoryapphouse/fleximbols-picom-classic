@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Ground line -->
+  <line x1="50" y1="230" x2="240" y2="230" stroke="#b8b8b8" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Excitement burst lines radiating from figure -->
+  <line x1="145" y1="30" x2="145" y2="16" stroke="#f2e40d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="110" y1="40" x2="102" y2="28" stroke="#f2e40d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="180" y1="40" x2="188" y2="28" stroke="#f2e40d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="82" y1="68" x2="70" y2="60" stroke="#f2e40d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="208" y1="68" x2="220" y2="60" stroke="#f2e40d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="60" y1="106" x2="46" y2="102" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
+  <line x1="230" y1="106" x2="244" y2="102" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
+  <!-- Star bursts -->
+  <circle cx="72" cy="88" r="5" fill="#fff200" stroke="#000000" stroke-width="2"/>
+  <circle cx="218" cy="88" r="5" fill="#fff200" stroke="#000000" stroke-width="2"/>
+  <circle cx="56" cy="130" r="4" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <circle cx="234" cy="130" r="4" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+
+  <!-- Figure full body, arms thrown high -->
+  <!-- Legs (wide stance) -->
+  <line x1="120" y1="230" x2="128" y2="186" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <line x1="170" y1="230" x2="162" y2="186" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <!-- Shoes -->
+  <ellipse cx="120" cy="229" rx="13" ry="7" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="170" cy="229" rx="13" ry="7" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Trousers -->
+  <rect x="114" y="179" width="62" height="22" rx="8" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Torso -->
+  <rect x="112" y="120" width="66" height="62" rx="12" fill="#f266aa" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="136" y="108" width="18" height="16" rx="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Head -->
+  <circle cx="145" cy="88" r="26" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M120 84 Q124 64 145 62 Q166 64 170 84" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Eyes wide excited -->
+  <ellipse cx="135" cy="86" rx="7" ry="7" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="136" cy="87" r="4" fill="#1d0e82"/>
+  <ellipse cx="155" cy="86" rx="7" ry="7" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="156" cy="87" r="4" fill="#1d0e82"/>
+  <!-- Open mouth cheering -->
+  <ellipse cx="145" cy="102" rx="9" ry="7" fill="#000000"/>
+  <ellipse cx="145" cy="100" rx="7" ry="4" fill="#ffffff"/>
+  <!-- Teeth -->
+  <line x1="139" y1="100" x2="139" y2="103" stroke="#000000" stroke-width="2"/>
+  <line x1="145" y1="100" x2="145" y2="103" stroke="#000000" stroke-width="2"/>
+  <line x1="151" y1="100" x2="151" y2="103" stroke="#000000" stroke-width="2"/>
+
+  <!-- LEFT ARM thrown up high with raised fist -->
+  <path d="M112 132 Q88 116 72 94" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M112 132 Q88 116 72 94" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Left fist -->
+  <rect x="62" y="78" width="22" height="20" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+
+  <!-- RIGHT ARM thrown up high with raised fist -->
+  <path d="M178 132 Q202 116 218 94" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <path d="M178 132 Q202 116 218 94" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Right fist -->
+  <rect x="206" y="78" width="22" height="20" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="195" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- grass -->
+  <path d="M0 195 Q145 188 290 195 L290 240 L0 240 Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M40 210 L43 200 L46 210 Z" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M250 215 L253 205 L256 215 Z" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- KID'S BIKE (left) - small, with training wheels -->
+  <!-- main wheels -->
+  <circle cx="55" cy="190" r="22" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <circle cx="55" cy="190" r="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <circle cx="120" cy="190" r="22" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <circle cx="120" cy="190" r="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <line x1="55" y1="168" x2="55" y2="212" stroke="#7f7f7f" stroke-width="2"/>
+  <line x1="33" y1="190" x2="77" y2="190" stroke="#7f7f7f" stroke-width="2"/>
+  <line x1="120" y1="168" x2="120" y2="212" stroke="#7f7f7f" stroke-width="2"/>
+  <line x1="98" y1="190" x2="142" y2="190" stroke="#7f7f7f" stroke-width="2"/>
+  <!-- training wheels -->
+  <circle cx="38" cy="212" r="9" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <circle cx="137" cy="212" r="9" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <!-- frame -->
+  <line x1="55" y1="190" x2="88" y2="190" stroke="#f266aa" stroke-width="5" stroke-linecap="round"/>
+  <line x1="88" y1="190" x2="88" y2="155" stroke="#f266aa" stroke-width="5" stroke-linecap="round"/>
+  <line x1="88" y1="155" x2="65" y2="152" stroke="#f266aa" stroke-width="5" stroke-linecap="round"/>
+  <line x1="88" y1="190" x2="120" y2="190" stroke="#f266aa" stroke-width="5" stroke-linecap="round"/>
+  <line x1="120" y1="190" x2="108" y2="150" stroke="#f266aa" stroke-width="5" stroke-linecap="round"/>
+  <line x1="108" y1="150" x2="88" y2="155" stroke="#f266aa" stroke-width="5" stroke-linecap="round"/>
+  <!-- handlebars -->
+  <line x1="65" y1="152" x2="55" y2="138" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="55" y1="138" x2="72" y2="138" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- seat -->
+  <path d="M100 145 L116 145 L114 150 L102 150 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- CHILD on bike (FULL BODY) -->
+  <!-- legs -->
+  <path d="M82 153 Q75 175 70 192" fill="none" stroke="#2a4ec0" stroke-width="9" stroke-linecap="round"/>
+  <path d="M95 153 Q92 170 88 185" fill="none" stroke="#2a4ec0" stroke-width="9" stroke-linecap="round"/>
+  <path d="M82 153 Q75 175 70 192" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M95 153 Q92 170 88 185" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- torso -->
+  <path d="M78 125 L108 125 L102 152 L82 152 Z" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms to handlebars -->
+  <path d="M80 130 Q70 135 65 140" fill="none" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M80 130 Q70 135 65 140" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M105 130 Q82 135 70 140" fill="none" stroke="#eed5b6" stroke-width="7" stroke-linecap="round"/>
+  <path d="M105 130 Q82 135 70 140" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- head + helmet -->
+  <circle cx="92" cy="108" r="14" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M78 108 Q80 90 92 88 Q104 90 106 108 L106 104 L78 104 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="88" cy="110" r="1.5" fill="#000000"/>
+  <circle cx="96" cy="110" r="1.5" fill="#000000"/>
+  <path d="M87 116 Q92 119 97 116" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- PARENT (right side, FULL BODY, leaning to guide) -->
+  <!-- head -->
+  <circle cx="215" cy="75" r="18" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M197 72 Q200 55 215 53 Q230 55 233 72 Q228 65 215 65 Q202 65 197 72 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="209" cy="76" r="1.8" fill="#000000"/>
+  <circle cx="221" cy="76" r="1.8" fill="#000000"/>
+  <path d="M209 85 Q215 89 221 85" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- torso (leaning over to child) -->
+  <path d="M198 95 L235 92 L240 155 L205 158 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arm reaching down to bike/child -->
+  <path d="M200 105 Q180 130 160 145" fill="none" stroke="#e6b98a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M200 105 Q180 130 160 145" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- other arm -->
+  <path d="M235 100 Q250 115 252 135" fill="none" stroke="#e6b98a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M235 100 Q250 115 252 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- legs -->
+  <path d="M210 158 L205 215" fill="none" stroke="#392170" stroke-width="12" stroke-linecap="round"/>
+  <path d="M232 158 L240 215" fill="none" stroke="#392170" stroke-width="12" stroke-linecap="round"/>
+  <path d="M210 158 L205 215" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M232 158 L240 215" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="203" cy="220" rx="10" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="242" cy="220" rx="10" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+</svg>

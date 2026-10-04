@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Massage table -->
+  <rect x="20" y="135" width="250" height="30" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="20" y="135" width="250" height="12" fill="#f5e7c4" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Table legs -->
+  <rect x="35" y="165" width="10" height="55" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="245" y="165" width="10" height="55" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Support pillow under head -->
+  <ellipse cx="70" cy="120" rx="22" ry="11" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <!-- Support pillow under belly -->
+  <ellipse cx="175" cy="125" rx="28" ry="13" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+
+  <!-- Pregnant woman side-lying -->
+  <!-- Head -->
+  <circle cx="70" cy="105" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Hair -->
+  <path d="M 52 100 Q 60 80 78 85 Q 88 90 88 105 Q 84 95 70 95 Q 58 96 55 110 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="62" cy="106" r="1.5" fill="#000000"/>
+  <path d="M 56 112 Q 60 116 64 114" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Body side-lying (lying on side, big belly visible) -->
+  <!-- Upper torso -->
+  <path d="M 85 115 Q 100 110 120 115 Q 130 118 138 122 L 130 130 Q 100 128 85 130 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Big pregnant belly bulging out (front of body, facing up since side-lying) -->
+  <path d="M 138 122 Q 175 90 210 122 Q 215 130 210 135 L 145 135 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lower torso/hips -->
+  <path d="M 145 135 L 220 135 Q 235 132 240 130 L 245 132 Q 240 138 220 138 L 145 138 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Legs (bent at knees, side view) -->
+  <path d="M 220 132 Q 250 130 255 125 Q 258 130 250 138 Q 232 142 222 140 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Arm resting -->
+  <path d="M 95 130 Q 110 138 130 138" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M 95 130 Q 110 138 130 138" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Therapist hands gently on back -->
+  <ellipse cx="105" cy="118" rx="8" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="125" cy="118" rx="8" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+
+  <!-- Heart over belly (love/care motif) -->
+  <path d="M 175 65 Q 168 55 162 60 Q 156 65 162 73 L 175 85 L 188 73 Q 194 65 188 60 Q 182 55 175 65 Z" fill="#f4a4b2" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

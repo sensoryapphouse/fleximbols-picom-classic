@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ios-developer: full body + Apple-style phone + Swift code + iOS label -->
+
+  <!-- Apple-style phone (rounded, large screen, notch) -->
+  <rect x="178" y="56" width="76" height="140" rx="14" fill="#efefef" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="186" y="68" width="60" height="112" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Notch -->
+  <rect x="206" y="68" width="20" height="6" rx="3" fill="#000000"/>
+  <!-- Home indicator -->
+  <rect x="206" y="188" width="20" height="3" rx="1.5" fill="#7f7f7f" stroke="#000000" stroke-width="1"/>
+  <!-- Swift bird icon on screen -->
+  <path d="M196,108 Q216,90 234,112 Q228,128 218,130 Q230,140 226,150 Q210,156 196,144 Q204,142 210,138 Q200,132 196,120 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- iOS label below phone -->
+  <rect x="190" y="204" width="52" height="20" rx="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- 'i' -->
+  <circle cx="200" cy="210" r="2" fill="#ffffff"/>
+  <rect x="198" y="213" width="4" height="9" fill="#ffffff"/>
+  <!-- 'O' -->
+  <circle cx="214" cy="216" r="5" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <!-- 'S' -->
+  <path d="M232,212 Q226,212 226,216 Q226,219 232,219 Q236,219 236,221 Q236,224 230,224" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Swift code panel top-left -->
+  <rect x="20" y="20" width="100" height="50" rx="4" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <rect x="26" y="28" width="20" height="4" fill="#ff9900"/>
+  <rect x="50" y="28" width="34" height="4" fill="#f2e40d"/>
+  <rect x="26" y="38" width="22" height="4" fill="#f266aa"/>
+  <rect x="52" y="38" width="40" height="4" fill="#dff3fd"/>
+  <rect x="26" y="48" width="14" height="4" fill="#ff9900"/>
+  <rect x="44" y="48" width="46" height="4" fill="#137827"/>
+  <rect x="26" y="58" width="30" height="4" fill="#dff3fd"/>
+
+  <!-- Person full body -->
+  <circle cx="80" cy="100" r="18" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <path d="M62,96 Q62,82 80,80 Q98,82 98,96 L94,90 Q80,84 66,90 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Torso -->
+  <rect x="60" y="118" width="40" height="50" rx="6" fill="#7f7f7f" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm -->
+  <line x1="62" y1="128" x2="42" y2="154" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="40" cy="156" r="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Right arm reaching to phone -->
+  <line x1="98" y1="128" x2="170" y2="120" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="172" cy="120" r="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Hips -->
+  <rect x="58" y="166" width="44" height="22" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Legs -->
+  <rect x="60" y="186" width="16" height="40" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="84" y="186" width="16" height="40" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <rect x="54" y="222" width="22" height="10" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="82" y="222" width="22" height="10" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

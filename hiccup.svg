@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Ground line -->
+  <line x1="40" y1="228" x2="250" y2="228" stroke="#b8b8b8" stroke-width="4" stroke-linecap="round"/>
+  <!-- Legs (jolted pose - slightly bent) -->
+  <line x1="128" y1="228" x2="132" y2="185" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <line x1="162" y1="228" x2="158" y2="185" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <!-- Trousers -->
+  <rect x="122" y="178" width="46" height="22" rx="7" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Torso (jolted - slightly tilted) -->
+  <rect x="124" y="130" width="42" height="50" rx="10" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm (raised in surprise) -->
+  <line x1="124" y1="143" x2="96" y2="120" stroke="#eed5b6" stroke-width="13" stroke-linecap="round"/>
+  <!-- Right arm (hand near chest) -->
+  <line x1="166" y1="143" x2="180" y2="155" stroke="#eed5b6" stroke-width="13" stroke-linecap="round"/>
+  <!-- Right hand at chest -->
+  <circle cx="183" cy="159" r="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Left hand open -->
+  <circle cx="93" cy="117" r="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head (slightly tilted - jolt) -->
+  <circle cx="148" cy="107" r="26" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M122 102 Q126 82 148 80 Q170 82 174 102" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Eyes - wide/surprised -->
+  <ellipse cx="139" cy="104" rx="7" ry="8" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="140" cy="105" r="4" fill="#1d0e82"/>
+  <circle cx="141" cy="104" r="1.5" fill="#ffffff"/>
+  <ellipse cx="157" cy="104" rx="7" ry="8" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="158" cy="105" r="4" fill="#1d0e82"/>
+  <circle cx="159" cy="104" r="1.5" fill="#ffffff"/>
+  <!-- Mouth - small open O (surprised) -->
+  <ellipse cx="148" cy="118" rx="5" ry="6" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <!-- HIC burst bubble near throat/mouth -->
+  <ellipse cx="175" cy="98" rx="18" ry="13" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <!-- "hic" represented as small jagged lines (sound mark) inside bubble -->
+  <line x1="165" y1="98" x2="185" y2="98" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="172" y1="92" x2="172" y2="104" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="178" y1="93" x2="182" y2="103" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Jolt motion lines from body -->
+  <line x1="108" y1="148" x2="96" y2="148" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="110" y1="155" x2="97" y2="157" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="182" y1="130" x2="194" y2="128" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="183" y1="138" x2="196" y2="139" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Surprise marks above head -->
+  <line x1="148" y1="76" x2="148" y2="66" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="136" y1="72" x2="130" y2="64" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="160" y1="72" x2="166" y2="64" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+</svg>

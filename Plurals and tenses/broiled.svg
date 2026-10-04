@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(8,92) scale(0.82)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Broiler/oven top section (just the upper part) -->
+  <rect x="30" y="28" width="230" height="70" rx="8" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Broiler interior -->
+  <rect x="38" y="35" width="214" height="55" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Top heating element (glowing red coils) -->
+  <path d="M50 50 Q60 44 70 50 Q80 56 90 50 Q100 44 110 50 Q120 56 130 50 Q140 44 150 50 Q160 56 170 50 Q180 44 190 50 Q200 56 210 50 Q220 44 230 50 Q238 46 242 50" fill="none" stroke="#f8130d" stroke-width="8" stroke-linecap="round"/>
+  <!-- Heating element glow (orange inner) -->
+  <path d="M50 50 Q60 44 70 50 Q80 56 90 50 Q100 44 110 50 Q120 56 130 50 Q140 44 150 50 Q160 56 170 50 Q180 44 190 50 Q200 56 210 50 Q220 44 230 50 Q238 46 242 50" fill="none" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
+  <!-- Heat rays (intense top-down) -->
+  <line x1="72" y1="58" x2="72" y2="105" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="98" y1="58" x2="98" y2="115" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="124" y1="58" x2="124" y2="120" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="145" y1="58" x2="145" y2="122" stroke="#f8130d" stroke-width="5" stroke-linecap="round"/>
+  <line x1="166" y1="58" x2="166" y2="120" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="192" y1="58" x2="192" y2="115" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <line x1="218" y1="58" x2="218" y2="105" stroke="#f8130d" stroke-width="4" stroke-linecap="round"/>
+  <!-- Heat ray arrowheads -->
+  <polygon points="145,130 138,115 152,115" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <polygon points="124,128 118,114 130,114" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <polygon points="166,128 160,114 172,114" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <!-- Broiler rack/grill grate -->
+  <rect x="40" y="152" width="210" height="8" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="3"/>
+  <!-- Grill bars -->
+  <line x1="60" y1="152" x2="60" y2="160" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="82" y1="152" x2="82" y2="160" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="104" y1="152" x2="104" y2="160" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="126" y1="152" x2="126" y2="160" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="148" y1="152" x2="148" y2="160" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="170" y1="152" x2="170" y2="160" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="192" y1="152" x2="192" y2="160" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="214" y1="152" x2="214" y2="160" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Food on rack (steak/fish) -->
+  <ellipse cx="145" cy="147" rx="72" ry="20" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Food browned top from broiling -->
+  <ellipse cx="145" cy="144" rx="60" ry="13" fill="#7d5e23" stroke="none"/>
+  <!-- Grill char marks on food -->
+  <line x1="95" y1="138" x2="95" y2="152" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="115" y1="136" x2="115" y2="152" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="145" y1="135" x2="145" y2="152" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="175" y1="136" x2="175" y2="152" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="195" y1="138" x2="195" y2="152" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Drip pan below rack -->
+  <rect x="50" y="162" width="190" height="14" rx="4" fill="#7f7f7f" stroke="#000000" stroke-width="3"/>
+  <!-- Drippings -->
+  <ellipse cx="115" cy="169" rx="15" ry="4" fill="#7d5e23" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="168" cy="170" rx="12" ry="3" fill="#7d5e23" stroke="#000000" stroke-width="2"/>
+  <!-- Steam/smoke wisps -->
+  <path d="M115 140 Q112 130 115 122 Q118 115 115 108" fill="none" stroke="#efefef" stroke-width="3" stroke-linecap="round"/>
+  <path d="M145 135 Q142 125 145 117 Q148 110 145 103" fill="none" stroke="#efefef" stroke-width="3" stroke-linecap="round"/>
+  <path d="M175 140 Q172 130 175 122 Q178 115 175 108" fill="none" stroke="#efefef" stroke-width="3" stroke-linecap="round"/>
+</g><g transform="translate(0,0) scale(0.5664,0.4688) translate(460,5) scale(0.4825) translate(-166,-5)"><polygon points="82,149 83,157 84,166 86,174 89,182 92,189 97,196 101,202 107,208 113,214 119,219 126,223 134,226 141,229 149,231 158,232 166,233 175,232 183,231 191,229 199,226 206,223 213,219 220,214 226,208 231,202 236,196 240,189 244,182 246,174 249,166 250,157 250,149 250,140 249,132 246,124 244,116 240,109 236,102 231,95 226,89 220,84 213,79 206,75 199,71 191,69 183,67 175,65 166,65 158,65 149,67 141,69 134,71 126,75 119,79 113,84 107,89 101,95 97,102 92,109 89,116 86,124 84,132 83,140 82,149" fill="#ffffff" stroke="#000000" stroke-width="8" fill-rule="evenodd"/><polyline points="166,209 166,225" fill="none" stroke="#000000" stroke-width="8"/><polyline points="106,149 90,149"  fill="none" stroke="#000000" stroke-width="8"/><polyline points="243,149 226,149" fill="none" stroke="#000000" stroke-width="8"/><polyline points="124,191 112,203" fill="none" stroke="#000000" stroke-width="8"/><polyline points="220,95 209,106"  fill="none" stroke="#000000" stroke-width="8"/><polyline points="220,203 209,191" fill="none" stroke="#000000" stroke-width="8"/><polyline points="112,95 123,106"  fill="none" stroke="#000000" stroke-width="8"/><polygon points="158,81 159,84 161,87 164,89 167,90 171,89 173,87 175,84 176,81 175,77 173,74 171,72 167,72 164,72 161,74 159,77 158,81" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="168,98 174,153 159,151 168,98" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="157,149 158,152 160,155 163,157 166,158 170,157 173,155 175,152 175,149 175,145 173,142 170,141 166,140 163,141 160,142 158,145 157,149" fill="#000000" stroke="#000000" stroke-width="5"/><polygon points="135,33 170,5 180,17 145,45 153,55 104,66 127,23 135,33" fill="#e03734" stroke="#000000" stroke-width="6"/></g></svg>

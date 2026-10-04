@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shoulders / bust base -->
+  <path d="M40,240 Q40,185 80,172 Q112,162 145,162 Q178,162 210,172 Q250,185 250,240 Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="131" y="142" width="28" height="28" rx="8" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Head — turned slightly, gentle -->
+  <ellipse cx="145" cy="106" rx="46" ry="50" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Hair -->
+  <path d="M99,98 Q100,60 145,56 Q190,60 191,98 Q185,70 145,68 Q105,70 99,98 Z" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Eyes — gazing to upper-right (toward window) -->
+  <ellipse cx="130" cy="98" rx="8" ry="7" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="160" cy="98" rx="8" ry="7" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="133" cy="96" r="4" fill="#4d4d4d"/>
+  <circle cx="163" cy="96" r="4" fill="#4d4d4d"/>
+  <!-- Faint half-smile (gentle longing) -->
+  <path d="M132,120 Q145,128 158,122" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Hand on chin (simplified fist/palm shape) -->
+  <ellipse cx="130" cy="148" rx="14" ry="10" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Arm going down from chin to shoulder -->
+  <path d="M130,158 Q122,165 110,172" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M130,158 Q122,165 110,172" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Window frame at top-right -->
+  <rect x="196" y="38" width="60" height="70" rx="4" ry="4" fill="#dff3fd" stroke="#000000" stroke-width="4"/>
+  <!-- Window cross pane -->
+  <line x1="226" y1="38" x2="226" y2="108" stroke="#000000" stroke-width="3"/>
+  <line x1="196" y1="73" x2="256" y2="73" stroke="#000000" stroke-width="3"/>
+  <!-- Sigh wisp from lips -->
+  <path d="M155,126 Q168,118 175,122 Q180,126 172,130" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M158,124 Q172,112 180,118" fill="none" stroke="#b8b8b8" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- shared calendar top -->
+  <rect x="100" y="10" width="90" height="50" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="100" y="10" width="90" height="12" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="115" y1="6" x2="115" y2="22" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="175" y1="6" x2="175" y2="22" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- calendar grid -->
+  <line x1="115" y1="34" x2="175" y2="34" stroke="#7f7f7f" stroke-width="1.5"/>
+  <line x1="115" y1="46" x2="175" y2="46" stroke="#7f7f7f" stroke-width="1.5"/>
+  <line x1="130" y1="22" x2="130" y2="58" stroke="#7f7f7f" stroke-width="1.5"/>
+  <line x1="145" y1="22" x2="145" y2="58" stroke="#7f7f7f" stroke-width="1.5"/>
+  <line x1="160" y1="22" x2="160" y2="58" stroke="#7f7f7f" stroke-width="1.5"/>
+  <!-- two date markers on calendar (blue & pink) -->
+  <circle cx="137" cy="40" r="4" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <circle cx="168" cy="52" r="4" fill="#f266aa" stroke="#000000" stroke-width="2"/>
+  <!-- heart around child (dashed circle of love) -->
+  <path d="M145 100 C140 92 128 92 128 102 C128 116 145 130 145 130 C145 130 162 116 162 102 C162 92 150 92 145 100 Z" fill="none" stroke="#f8130d" stroke-width="3" stroke-linejoin="round" stroke-dasharray="5 3"/>
+  <!-- left parent, full body -->
+  <circle cx="50" cy="110" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M32 108 Q32 90 50 90 Q68 90 68 108 Q64 100 50 100 Q36 100 32 108 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="44" cy="112" r="2" fill="#000000"/>
+  <circle cx="56" cy="112" r="2" fill="#000000"/>
+  <path d="M44 120 Q50 124 56 120" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="46" y="126" width="8" height="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M30 134 Q30 130 38 130 L62 130 Q70 130 70 134 L70 180 Q70 184 62 184 L38 184 Q30 184 30 180 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- left arm out down -->
+  <path d="M32 140 Q22 160 22 180" fill="none" stroke="#2a4ec0" stroke-width="9" stroke-linecap="round"/>
+  <path d="M32 140 Q22 160 22 180" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="22" cy="182" r="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- inner arm reaching to child -->
+  <path d="M68 140 Q86 144 100 152" fill="none" stroke="#2a4ec0" stroke-width="9" stroke-linecap="round"/>
+  <path d="M68 140 Q86 144 100 152" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="34" y="184" width="13" height="36" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <rect x="52" y="184" width="13" height="36" fill="#1d0e82" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="40" cy="222" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="58" cy="222" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- child in centre, full body, smaller -->
+  <circle cx="145" cy="140" r="14" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M131 138 Q131 124 145 124 Q159 124 159 138 Q155 132 145 132 Q135 132 131 138 Z" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="140" cy="140" r="1.8" fill="#000000"/>
+  <circle cx="150" cy="140" r="1.8" fill="#000000"/>
+  <path d="M140 146 Q145 150 150 146" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="142" y="152" width="6" height="5" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <path d="M128 158 Q128 154 136 154 L154 154 Q162 154 162 158 L162 192 Q162 196 154 196 L136 196 Q128 196 128 192 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- child arms held up to parents -->
+  <path d="M132 162 Q116 158 102 154" fill="none" stroke="#ff9900" stroke-width="8" stroke-linecap="round"/>
+  <path d="M132 162 Q116 158 102 154" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M158 162 Q174 158 188 154" fill="none" stroke="#ff9900" stroke-width="8" stroke-linecap="round"/>
+  <path d="M158 162 Q174 158 188 154" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <rect x="134" y="196" width="10" height="24" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <rect x="146" y="196" width="10" height="24" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="139" cy="222" rx="7" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="151" cy="222" rx="7" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- right parent, full body -->
+  <circle cx="240" cy="110" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M222 108 Q218 88 240 88 Q262 88 260 108 Q262 96 250 92 Q234 92 228 98 Q222 102 222 108 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="234" cy="112" r="2" fill="#000000"/>
+  <circle cx="246" cy="112" r="2" fill="#000000"/>
+  <path d="M234 120 Q240 124 246 120" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="236" y="126" width="8" height="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M220 134 Q220 130 228 130 L252 130 Q260 130 260 134 L260 180 Q260 184 252 184 L228 184 Q220 184 220 180 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- inner arm reaching to child -->
+  <path d="M222 140 Q204 144 190 152" fill="none" stroke="#f266aa" stroke-width="9" stroke-linecap="round"/>
+  <path d="M222 140 Q204 144 190 152" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- outer arm down -->
+  <path d="M258 140 Q268 160 268 180" fill="none" stroke="#f266aa" stroke-width="9" stroke-linecap="round"/>
+  <path d="M258 140 Q268 160 268 180" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="268" cy="182" r="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <rect x="225" y="184" width="13" height="36" fill="#7c3fac" stroke="#000000" stroke-width="3"/>
+  <rect x="243" y="184" width="13" height="36" fill="#7c3fac" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="231" cy="222" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="249" cy="222" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+</svg>

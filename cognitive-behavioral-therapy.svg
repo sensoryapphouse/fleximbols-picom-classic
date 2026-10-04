@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground -->
+  <rect x="20" y="210" width="250" height="14" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- head profile facing right -->
+  <path d="M70 60 Q60 50 65 38 Q75 18 105 18 Q140 18 150 50 L155 90 L150 105 L140 110 L140 130 Q140 145 125 150 L95 150 Q80 150 80 135 L80 120 L70 115 Q58 105 60 90 Z" fill="#e6b98a" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- hair -->
+  <path d="M70 55 Q70 25 105 18 Q140 15 150 45 Q140 30 110 32 Q85 35 80 60 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- eye -->
+  <circle cx="120" cy="75" r="3.5" fill="#000000"/>
+  <!-- nose -->
+  <path d="M148 75 L156 92 L148 95" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- mouth -->
+  <path d="M130 108 Q138 112 145 108" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- gear-thought inside head -->
+  <g transform="translate(105 75)">
+    <path d="M0 -18 L4 -18 L5 -22 L11 -22 L12 -18 L16 -18 L18 -14 L22 -12 L22 -6 L26 -5 L26 1 L22 2 L22 8 L18 10 L16 14 L12 14 L11 18 L5 18 L4 14 L0 14 L-2 10 L-6 8 L-6 2 L-10 1 L-10 -5 L-6 -6 L-6 -12 L-2 -14 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="8" cy="-2" r="5" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  </g>
+  <!-- cycle arrows: thought -> behaviour -->
+  <g>
+    <!-- top arc arrow -->
+    <path d="M180 70 Q230 60 250 110" fill="none" stroke="#d01424" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="250,110 244,100 256,102" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+    <!-- bottom arc arrow back -->
+    <path d="M250 140 Q230 185 180 175" fill="none" stroke="#529929" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="180,175 190,170 188,182" fill="#529929" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <!-- behaviour box (person icon) -->
+  <rect x="210" y="100" width="60" height="60" rx="8" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="240" cy="118" r="8" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <path d="M228 150 L228 138 Q228 128 240 128 Q252 128 252 138 L252 150 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>

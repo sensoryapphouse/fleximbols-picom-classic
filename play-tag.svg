@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="180" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- grass -->
+  <path d="M0 180 Q145 170 290 180 L290 240 L0 240 Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- grass blades -->
+  <path d="M30 200 L33 188 L36 200 Z" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M150 210 L153 196 L156 210 Z" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M255 205 L258 192 L261 205 Z" fill="#67832d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- CHILD A (chaser, right side) FULL BODY -->
+  <!-- head -->
+  <circle cx="200" cy="80" r="18" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M183 78 Q188 62 200 60 Q212 62 217 78 Q212 70 200 70 Q188 70 183 78 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="194" cy="80" r="1.8" fill="#000000"/>
+  <circle cx="206" cy="80" r="1.8" fill="#000000"/>
+  <path d="M194 88 Q200 93 206 88" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- torso (leaning forward chasing) -->
+  <path d="M185 100 L218 96 L222 150 L192 153 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms reaching forward -->
+  <path d="M188 110 Q170 120 158 122" fill="none" stroke="#e6b98a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M188 110 Q170 120 158 122" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M218 105 Q230 95 240 95" fill="none" stroke="#e6b98a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M218 105 Q230 95 240 95" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- running legs -->
+  <path d="M198 152 Q190 180 175 195" fill="none" stroke="#2a4ec0" stroke-width="11" stroke-linecap="round"/>
+  <path d="M215 152 Q230 175 245 180" fill="none" stroke="#2a4ec0" stroke-width="11" stroke-linecap="round"/>
+  <path d="M198 152 Q190 180 175 195" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M215 152 Q230 175 245 180" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="173" cy="198" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="247" cy="183" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+
+  <!-- CHILD B (runner, left side) FULL BODY -->
+  <circle cx="80" cy="85" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M63 80 Q70 65 80 64 Q92 65 97 78 Q90 60 80 60 Q70 65 63 80 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="74" cy="86" r="1.8" fill="#000000"/>
+  <circle cx="86" cy="86" r="1.8" fill="#000000"/>
+  <path d="M73 94 Q80 100 87 94" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- torso -->
+  <path d="M65 105 L95 105 L98 155 L62 155 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms (pumping) -->
+  <path d="M65 112 Q50 100 45 90" fill="none" stroke="#eed5b6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M65 112 Q50 100 45 90" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M95 112 Q108 125 115 130" fill="none" stroke="#eed5b6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M95 112 Q108 125 115 130" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- legs running -->
+  <path d="M70 156 Q60 180 50 200" fill="none" stroke="#7c3fac" stroke-width="11" stroke-linecap="round"/>
+  <path d="M92 156 Q105 175 118 190" fill="none" stroke="#7c3fac" stroke-width="11" stroke-linecap="round"/>
+  <path d="M70 156 Q60 180 50 200" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M92 156 Q105 175 118 190" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="48" cy="203" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="120" cy="193" rx="9" ry="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+
+  <!-- motion lines behind chaser -->
+  <line x1="245" y1="110" x2="270" y2="105" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="245" y1="125" x2="275" y2="125" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="245" y1="140" x2="270" y2="145" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- motion lines behind runner -->
+  <line x1="125" y1="115" x2="140" y2="112" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="125" y1="130" x2="145" y2="130" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

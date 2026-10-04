@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- String from top -->
+  <path d="M145 30 Q130 50 122 70" fill="none" stroke="#9d7246" stroke-width="4" stroke-linecap="round"/>
+  <!-- Kite/swing tag shape -->
+  <path d="M122 70 L80 100 L100 185 L190 185 L210 100 Z" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Tag top notch hole -->
+  <circle cx="145" cy="78" r="7" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- String through hole knot -->
+  <path d="M140 72 Q145 68 150 72" fill="none" stroke="#9d7246" stroke-width="4" stroke-linecap="round"/>
+  <!-- Barcode block on tag -->
+  <rect x="100" y="105" width="90" height="50" rx="3" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="108" y1="112" x2="108" y2="147" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="114" y1="112" x2="114" y2="147" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="120" y1="112" x2="120" y2="147" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="125" y1="112" x2="125" y2="147" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="130" y1="112" x2="130" y2="147" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="135" y1="112" x2="135" y2="147" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="141" y1="112" x2="141" y2="147" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="147" y1="112" x2="147" y2="147" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="152" y1="112" x2="152" y2="147" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="158" y1="112" x2="158" y2="147" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="164" y1="112" x2="164" y2="147" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="170" y1="112" x2="170" y2="147" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="176" y1="112" x2="176" y2="147" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="182" y1="112" x2="182" y2="147" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Price area below barcode -->
+  <line x1="115" y1="165" x2="175" y2="165" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="125" y1="175" x2="165" y2="175" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl2244" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl2244)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

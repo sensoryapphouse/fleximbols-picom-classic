@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shoulders -->
+  <path d="M 40 240 Q 40 185 145 185 Q 250 185 250 240" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="120" y="158" width="50" height="30" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="99" rx="73" ry="74" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair - slightly disheveled -->
+  <path d="M 72 88 Q 77 22 145 20 Q 213 22 218 88 Q 202 46 145 44 Q 88 46 72 88 Z" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Left brow - very high raised, horizontal -->
+  <path d="M 88 58 Q 107 46 124 54" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Right brow - very high raised, horizontal -->
+  <path d="M 166 54 Q 183 46 202 58" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Left eye - very wide, gasping -->
+  <ellipse cx="110" cy="86" rx="20" ry="20" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="110" cy="86" r="10" fill="#4d4d4d"/>
+  <circle cx="113" cy="83" r="3.5" fill="#ffffff"/>
+  <!-- Right eye - very wide -->
+  <ellipse cx="180" cy="86" rx="20" ry="20" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="180" cy="86" r="10" fill="#4d4d4d"/>
+  <circle cx="183" cy="83" r="3.5" fill="#ffffff"/>
+  <!-- Gasping open mouth - wide oval -->
+  <ellipse cx="145" cy="140" rx="26" ry="20" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <!-- Teeth top -->
+  <rect x="125" y="126" width="40" height="12" rx="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- Both hands up -->
+  <!-- Left arm/hand up -->
+  <path d="M 50 230 Q 38 175 60 148 Q 70 132 84 128" fill="none" stroke="#eed5b6" stroke-width="15" stroke-linecap="round"/>
+  <ellipse cx="86" cy="124" rx="17" ry="14" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm/hand up -->
+  <path d="M 240 230 Q 252 175 230 148 Q 220 132 206 128" fill="none" stroke="#eed5b6" stroke-width="15" stroke-linecap="round"/>
+  <ellipse cx="204" cy="124" rx="17" ry="14" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Shaking lines (3 vertical wavy lines on each side) -->
+  <path d="M 62 95 Q 56 103 62 111 Q 68 119 62 127" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 72 92 Q 66 100 72 108 Q 78 116 72 124" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 218 95 Q 224 103 218 111 Q 212 119 218 127" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 228 92 Q 234 100 228 108 Q 222 116 228 124" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

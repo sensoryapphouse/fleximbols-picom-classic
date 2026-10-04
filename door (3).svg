@@ -1,0 +1,27 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--noto" preserveAspectRatio="xMidYMid meet" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+<path d="M33.28 123.87l61.43.13c1.22 0 2.2-.89 2.2-1.99V6.12c0-1.1-.98-1.99-2.19-1.99L33.29 4c-1.22 0-2.2.89-2.2 1.99v115.88c0 1.1.98 2 2.19 2z" fill="#9d7246" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+
+<path d="M78.72 20.72v30.32H49.28V20.72h29.44m4.91-5H44.37v40.32h39.26V15.72z" fill="#724211" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+
+<path fill="#9d7246" d="M83.63 15.9l-5.1 4.82h.19v30.32H49.65l-5.28 5h39.26z" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+
+<g>
+
+<path d="M78.72 78.96v28.32H49.28V78.96h29.44m4.91-5H44.37v38.32h39.26V73.96z" fill="#724211" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+
+<path fill="#9d7246" d="M83.63 74.14l-5.1 4.82h.19v28.32H49.65l-5.28 5h39.26z" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+
+</g>
+
+<g>
+
+<circle cx="44.18" cy="66" r="5.25" fill="#724211" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+
+<circle cx="42.14" cy="64.45" r="5.25" fill="#b2bec3" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+
+<path d="M43.38 61.11c.13.65-.25.97-.79 1.36c-.54.39-1.21.7-1.7 1.53c-.35.59-.46 1.37-1.03 1.76c-.56.38-1.2.31-1.5-.36c-.43-.95-.44-2.6.77-3.95c1.16-1.29 3.93-1.98 4.25-.34z" fill="#b2bec3" stroke="#000000" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+
+</g>
+
+</svg>

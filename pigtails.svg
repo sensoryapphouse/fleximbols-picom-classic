@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(11,-12) scale(0.52)" stroke="#000000" stroke-width="8" stroke-linejoin="round" stroke-linecap="round">
+    <!-- back hair bunches behind face -->
+    <path d="M140 240 C 90 250 50 330 85 400 C 98 425 140 432 162 418 C 178 406 182 372 176 348 C 166 312 152 270 140 240 Z" fill="#7a3a1a"/>
+    <path d="M372 240 C 422 250 462 330 427 400 C 414 425 372 432 350 418 C 334 406 330 372 336 348 C 346 312 360 270 372 240 Z" fill="#7a3a1a"/>
+    <!-- bow ties at top of each bunch -->
+    <path d="M118 254 L 86 236 L 86 286 L 118 266 Z" fill="#ff5a8a"/>
+    <path d="M118 254 L 150 236 L 150 286 L 118 266 Z" fill="#ff5a8a"/>
+    <circle cx="118" cy="260" r="13" fill="#ff5a8a"/>
+    <path d="M394 254 L 426 236 L 426 286 L 394 266 Z" fill="#ff5a8a"/>
+    <path d="M394 254 L 362 236 L 362 286 L 394 266 Z" fill="#ff5a8a"/>
+    <circle cx="394" cy="260" r="13" fill="#ff5a8a"/>
+    <!-- face -->
+    <circle cx="256" cy="270" r="122" fill="#fcd9b6"/>
+    <!-- top hair / fringe -->
+    <path d="M138 232 C 128 150 200 98 256 98 C 312 98 384 150 374 232 C 372 254 360 232 350 222 C 320 180 280 170 256 170 C 232 170 192 180 162 222 C 152 232 142 254 138 232 Z" fill="#7a3a1a"/>
+    <!-- eyes -->
+    <circle cx="220" cy="282" r="9" fill="#000000" stroke="none"/>
+    <circle cx="292" cy="282" r="9" fill="#000000" stroke="none"/>
+    <!-- smile -->
+    <path d="M228 332 Q 256 354 284 332" fill="none" stroke="#000000" stroke-width="8"/>
+  </g>
+</svg>

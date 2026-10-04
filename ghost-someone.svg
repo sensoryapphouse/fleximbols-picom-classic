@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Person FULL BODY (dotted/fading outline - disappearing) -->
+  <!-- Head (dashed outline, faint fill) -->
+  <circle cx="80" cy="56" r="18" fill="#efefef" stroke="#7f7f7f" stroke-width="3" stroke-dasharray="5,4"/>
+  <!-- Eyes -->
+  <circle cx="74" cy="56" r="1.8" fill="#7f7f7f"/>
+  <circle cx="86" cy="56" r="1.8" fill="#7f7f7f"/>
+  <!-- Torso dashed -->
+  <path d="M58,76 L102,76 L106,138 L54,138 Z" fill="#efefef" stroke="#7f7f7f" stroke-width="3" stroke-dasharray="5,4" stroke-linejoin="round"/>
+  <!-- Arms dashed -->
+  <line x1="58" y1="86" x2="40" y2="124" stroke="#7f7f7f" stroke-width="6" stroke-dasharray="5,4" stroke-linecap="round"/>
+  <line x1="102" y1="86" x2="118" y2="124" stroke="#7f7f7f" stroke-width="6" stroke-dasharray="5,4" stroke-linecap="round"/>
+  <!-- Hands dashed -->
+  <circle cx="38" cy="128" r="6" fill="#efefef" stroke="#7f7f7f" stroke-width="2.5" stroke-dasharray="3,3"/>
+  <circle cx="120" cy="128" r="6" fill="#efefef" stroke="#7f7f7f" stroke-width="2.5" stroke-dasharray="3,3"/>
+  <!-- Legs dashed -->
+  <path d="M62,138 L52,210 L74,210 L78,138 Z" fill="#efefef" stroke="#7f7f7f" stroke-width="3" stroke-dasharray="5,4" stroke-linejoin="round"/>
+  <path d="M84,138 L88,138 L100,210 L80,210 Z" fill="#efefef" stroke="#7f7f7f" stroke-width="3" stroke-dasharray="5,4" stroke-linejoin="round"/>
+  <!-- Ghost floating away (top right) -->
+  <path d="M168,52 Q168,28 200,28 Q232,28 232,52 L232,114 Q232,118 228,118 Q224,118 222,114 L218,108 L214,116 Q212,120 208,118 L204,112 L200,118 Q196,120 194,116 L190,108 L186,116 Q182,120 178,114 L174,108 Q170,118 168,114 Z" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Ghost eyes -->
+  <ellipse cx="188" cy="58" rx="3.5" ry="5" fill="#000000"/>
+  <ellipse cx="212" cy="58" rx="3.5" ry="5" fill="#000000"/>
+  <!-- Ghost mouth -->
+  <ellipse cx="200" cy="74" rx="4" ry="3" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <!-- Trail wisps from person to ghost -->
+  <circle cx="130" cy="80" r="4" fill="#dff3fd" stroke="#7f7f7f" stroke-width="2"/>
+  <circle cx="148" cy="68" r="5" fill="#dff3fd" stroke="#7f7f7f" stroke-width="2"/>
+  <!-- Phone with no-response (bottom right) -->
+  <rect x="186" y="138" width="62" height="90" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="192" y="148" width="50" height="68" rx="2" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <circle cx="217" cy="222" r="3" fill="#7f7f7f" stroke="#000000" stroke-width="1.5"/>
+  <!-- Sent message bubble on phone -->
+  <path d="M236,156 L200,156 Q196,156 196,160 L196,176 Q196,180 200,180 L228,180 L236,186 L234,180 L236,180 Q240,180 240,176 L240,160 Q240,156 236,156 Z" fill="#529929" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <line x1="202" y1="164" x2="232" y2="164" stroke="#ffffff" stroke-width="2"/>
+  <line x1="202" y1="172" x2="226" y2="172" stroke="#ffffff" stroke-width="2"/>
+  <!-- No response indicator: typing dots faded crossed -->
+  <circle cx="206" cy="200" r="3" fill="#b8b8b8" stroke="#7f7f7f" stroke-width="1.5"/>
+  <circle cx="218" cy="200" r="3" fill="#b8b8b8" stroke="#7f7f7f" stroke-width="1.5"/>
+  <circle cx="230" cy="200" r="3" fill="#b8b8b8" stroke="#7f7f7f" stroke-width="1.5"/>
+  <line x1="196" y1="194" x2="240" y2="208" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Van body -->
+  <rect x="130" y="138" width="132" height="68" rx="8" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Van cab section -->
+  <rect x="210" y="118" width="52" height="42" rx="6" fill="#f2e40d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Windscreen -->
+  <rect x="216" y="124" width="38" height="26" rx="4" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Van side window -->
+  <rect x="136" y="144" width="30" height="22" rx="4" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Van door line -->
+  <line x1="196" y1="138" x2="196" y2="206" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Wheels -->
+  <circle cx="162" cy="208" r="18" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <circle cx="162" cy="208" r="8" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <circle cx="238" cy="208" r="18" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <circle cx="238" cy="208" r="8" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <!-- Headlight -->
+  <rect x="256" y="148" width="12" height="10" rx="3" fill="#fff200" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Parcel box -->
+  <rect x="34" y="148" width="48" height="44" rx="4" fill="#f5e7c4" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Box tape cross -->
+  <line x1="34" y1="170" x2="82" y2="170" stroke="#ff9900" stroke-width="5" stroke-linecap="round"/>
+  <line x1="58" y1="148" x2="58" y2="192" stroke="#ff9900" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Driver person body -->
+  <ellipse cx="95" cy="158" rx="30" ry="40" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Head -->
+  <circle cx="95" cy="106" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Face -->
+  <circle cx="88" cy="103" r="2.5" fill="#000000"/>
+  <circle cx="102" cy="103" r="2.5" fill="#000000"/>
+  <path d="M88 113 Q95 119 102 113" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Hair / cap -->
+  <rect x="75" y="84" width="40" height="16" rx="6" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="71" y="96" width="48" height="8" rx="3" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- Arm holding box -->
+  <path d="M66 155 Q56 165 56 178" stroke="#eed5b6" stroke-width="13" stroke-linecap="round" fill="none"/>
+  <path d="M66 155 Q56 165 56 178" stroke="#000000" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M124 155 Q134 165 134 178" stroke="#eed5b6" stroke-width="13" stroke-linecap="round" fill="none"/>
+  <path d="M124 155 Q134 165 134 178" stroke="#000000" stroke-width="5" stroke-linecap="round" fill="none"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl747" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl747)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

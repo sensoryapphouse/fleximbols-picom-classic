@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,29.280) scale(0.878)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- cutting-board top -->
+  <rect x="35" y="50" width="220" height="22" fill="#9d7246" stroke="#000000" stroke-width="3"/>
+  <line x1="55" y1="55" x2="240" y2="55" stroke="#7d5e23" stroke-width="1.5"/>
+  <line x1="55" y1="62" x2="240" y2="62" stroke="#7d5e23" stroke-width="1.5"/>
+  <line x1="55" y1="68" x2="240" y2="68" stroke="#7d5e23" stroke-width="1.5"/>
+
+  <!-- cart body -->
+  <rect x="45" y="72" width="200" height="130" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+
+  <!-- side rails (towel bars) -->
+  <rect x="38" y="78" width="6" height="60" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+  <rect x="246" y="78" width="6" height="60" fill="#b8b8b8" stroke="#000000" stroke-width="2"/>
+
+  <!-- drawer 1 -->
+  <rect x="55" y="82" width="180" height="35" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <rect x="125" y="95" width="40" height="8" fill="#7f7f7f" stroke="#000000" stroke-width="1.5"/>
+
+  <!-- drawer 2 -->
+  <rect x="55" y="125" width="180" height="35" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <rect x="125" y="138" width="40" height="8" fill="#7f7f7f" stroke="#000000" stroke-width="1.5"/>
+
+  <!-- cabinet door at bottom -->
+  <rect x="55" y="168" width="180" height="30" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <circle cx="220" cy="183" r="4" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+
+  <!-- WHEELS -->
+  <circle cx="62" cy="212" r="13" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <circle cx="62" cy="212" r="4" fill="#b8b8b8" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="228" cy="212" r="13" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <circle cx="228" cy="212" r="4" fill="#b8b8b8" stroke="#000000" stroke-width="1.5"/>
+</g><g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl1470" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl1470)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

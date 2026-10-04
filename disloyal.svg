@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Disloyal: figure walking away/turning back, broken cracked heart between two people -->
+  <!-- === FIGURE LEFT (staying, sad) === -->
+  <!-- Left figure head -->
+  <circle cx="62" cy="56" r="25" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Sad eyes -->
+  <ellipse cx="53" cy="51" rx="4" ry="5" fill="#000000"/>
+  <ellipse cx="71" cy="51" rx="4" ry="5" fill="#000000"/>
+  <circle cx="55" cy="49" r="1.5" fill="#ffffff"/>
+  <circle cx="73" cy="49" r="1.5" fill="#ffffff"/>
+  <!-- Sad eyebrows (inner up) -->
+  <path d="M47 44 Q53 40 59 44" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M63 44 Q69 40 75 44" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Sad mouth -->
+  <path d="M52 63 Q62 57 72 63" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Tear drop -->
+  <ellipse cx="51" cy="56" rx="3" ry="4" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- Left neck -->
+  <rect x="55" y="79" width="14" height="12" rx="3" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Left torso -->
+  <path d="M32 90 Q38 82 54 83 L70 83 Q86 82 92 90 L96 172 L28 172 Z" fill="#90a7d6" stroke="#000000" stroke-width="5"/>
+  <!-- Left arm reaching out -->
+  <path d="M92 94 Q110 100 118 114" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M92 94 Q110 100 118 114" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="122" cy="120" rx="11" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Left arm (other, down) -->
+  <path d="M33 93 Q18 106 16 128" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M33 93 Q18 106 16 128" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="15" cy="135" rx="10" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Left legs -->
+  <rect x="44" y="170" width="18" height="46" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <rect x="66" y="170" width="18" height="46" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="53" cy="217" rx="14" ry="7" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="75" cy="217" rx="14" ry="7" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- === BROKEN CRACKED HEART (center) === -->
+  <path d="M134 98 Q134 88 145 95 Q156 88 156 98 Q156 112 145 122 Q134 112 134 98 Z" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Crack through heart -->
+  <path d="M145 89 L141 98 L148 104 L142 122" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Small crack pieces -->
+  <line x1="141" y1="98" x2="136" y2="94" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="148" y1="104" x2="153" y2="102" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- === FIGURE RIGHT (walking away, back turned) === -->
+  <!-- Right figure: seen from behind, walking away -->
+  <!-- Head (back of head) -->
+  <circle cx="228" cy="56" r="25" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- Hair (back of head) -->
+  <path d="M210 56 Q212 38 228 36 Q244 38 246 56" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <!-- Right neck -->
+  <rect x="221" y="79" width="14" height="12" rx="3" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Right torso (back view, walking away — slightly rotated) -->
+  <path d="M198 92 Q204 83 220 84 L236 84 Q252 83 258 92 L264 174 L192 174 Z" fill="#529929" stroke="#000000" stroke-width="5"/>
+  <!-- Right arm (close, by side) -->
+  <path d="M199 96 Q180 108 176 130" fill="none" stroke="#e6b98a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M199 96 Q180 108 176 130" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="175" cy="138" rx="11" ry="9" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm (other side) -->
+  <path d="M257 96 Q270 110 274 132" fill="none" stroke="#e6b98a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M257 96 Q270 110 274 132" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="275" cy="140" rx="11" ry="9" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Right legs (walking stride) -->
+  <rect x="210" y="172" width="18" height="46" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <rect x="234" y="170" width="18" height="44" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="219" cy="219" rx="14" ry="7" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="243" cy="215" rx="14" ry="7" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Arrow indicating walking away -->
+  <path d="M245 55 L262 55 L257 49 M262 55 L257 61" fill="none" stroke="#f8130d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Crescent moon top left -->
+  <path d="M 50 40 A 18 18 0 1 0 50 76 A 14 14 0 1 1 50 40 Z" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Star next to moon -->
+  <path d="M 90 55 L 94 64 L 104 65 L 96 71 L 99 81 L 90 76 L 81 81 L 84 71 L 76 65 L 86 64 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Plate of sweets -->
+  <ellipse cx="145" cy="195" rx="80" ry="14" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="145" cy="190" rx="80" ry="10" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <!-- Sweet ball 1 -->
+  <circle cx="105" cy="180" r="12" fill="#e65a00" stroke="#000000" stroke-width="2.5"/>
+  <!-- Sweet square -->
+  <rect x="130" y="168" width="24" height="20" fill="#f4a4b2" stroke="#000000" stroke-width="2.5"/>
+  <!-- Sweet ball 2 -->
+  <circle cx="180" cy="180" r="12" fill="#ff9900" stroke="#000000" stroke-width="2.5"/>
+  <!-- Family group: parent figure left -->
+  <circle cx="100" cy="105" r="14" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M 86 119 L 86 160 L 114 160 L 114 119 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 86 130 L 76 150 L 82 154 L 92 138 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 114 130 L 124 150 L 118 154 L 108 138 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 90 160 L 90 175 L 100 175 L 100 160 Z" fill="#392170" stroke="#000000" stroke-width="2.5"/>
+  <path d="M 100 160 L 100 175 L 110 175 L 110 160 Z" fill="#392170" stroke="#000000" stroke-width="2.5"/>
+  <!-- Child figure right -->
+  <circle cx="190" cy="120" r="11" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M 180 131 L 180 162 L 200 162 L 200 131 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 180 140 L 173 156 L 178 159 L 184 146 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 200 140 L 207 156 L 202 159 L 196 146 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 183 162 L 183 175 L 190 175 L 190 162 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
+  <path d="M 190 162 L 190 175 L 197 175 L 197 162 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
+  <!-- Geometric pattern decoration top right corner -->
+  <path d="M 230 35 L 245 50 L 230 65 L 215 50 Z" fill="#529929" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="230" cy="50" r="5" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+</svg>

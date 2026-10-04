@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Studio floor -->
+  <rect x="10" y="155" width="270" height="70" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Back wall (serene) -->
+  <rect x="10" y="20" width="270" height="135" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Window with calm view -->
+  <rect x="40" y="35" width="60" height="55" fill="#90a7d6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="70" y1="35" x2="70" y2="90" stroke="#000000" stroke-width="2"/>
+  <line x1="40" y1="62" x2="100" y2="62" stroke="#000000" stroke-width="2"/>
+  <!-- Wall plant/decor -->
+  <rect x="200" y="60" width="36" height="30" fill="#f5e7c4" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 210,60 Q 218,40 218,60 M 218,60 Q 226,38 226,60 M 226,60 Q 232,42 232,60" fill="#137827" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Three yoga mats on floor -->
+  <ellipse cx="55" cy="200" rx="34" ry="8" fill="#7c3fac" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="145" cy="208" rx="36" ry="8" fill="#3aa6a0" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="235" cy="200" rx="34" ry="8" fill="#ff9900" stroke="#000000" stroke-width="3"/>
+  <!-- Student 1 (left) - seated cross-legged FULL BODY -->
+  <!-- Crossed legs -->
+  <path d="M 35,195 Q 40,180 55,180 Q 70,180 75,195 L 70,200 Q 55,196 40,200 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Torso -->
+  <path d="M 42,180 Q 42,160 55,158 Q 68,160 68,180 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Arms resting on knees -->
+  <path d="M 42,170 Q 32,180 36,192" fill="none" stroke="#e6b98a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 68,170 Q 78,180 74,192" fill="none" stroke="#e6b98a" stroke-width="6" stroke-linecap="round"/>
+  <!-- Head -->
+  <circle cx="55" cy="148" r="13" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Hair (bun) -->
+  <circle cx="55" cy="138" r="6" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <!-- Calm face -->
+  <circle cx="51" cy="148" r="1.5" fill="#000000" stroke="none"/>
+  <circle cx="59" cy="148" r="1.5" fill="#000000" stroke="none"/>
+  <path d="M 51,154 Q 55,156 59,154" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Student 2 (centre) - tree pose FULL BODY -->
+  <!-- Standing leg -->
+  <rect x="140" y="155" width="10" height="50" fill="#392170" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Bent leg (foot resting on standing thigh) -->
+  <path d="M 145,170 Q 130,178 128,162 Q 138,162 145,168 Z" fill="#392170" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Torso -->
+  <path d="M 134,155 Q 134,128 145,126 Q 156,128 156,155 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Arms raised in prayer above head -->
+  <path d="M 138,128 Q 132,108 142,90" fill="none" stroke="#e6b98a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M 152,128 Q 158,108 148,90" fill="none" stroke="#e6b98a" stroke-width="6" stroke-linecap="round"/>
+  <!-- Hands joined -->
+  <ellipse cx="145" cy="85" rx="6" ry="8" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- Head -->
+  <circle cx="145" cy="118" r="11" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Hair -->
+  <path d="M 135,113 Q 140,103 145,103 Q 150,103 155,113" fill="#000000" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Face -->
+  <circle cx="141" cy="118" r="1.5" fill="#000000" stroke="none"/>
+  <circle cx="149" cy="118" r="1.5" fill="#000000" stroke="none"/>
+  <path d="M 141,123 Q 145,125 149,123" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Foot of standing leg -->
+  <ellipse cx="145" cy="207" rx="9" ry="3" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Student 3 (right) - downward dog FULL BODY -->
+  <!-- Hands on mat -->
+  <ellipse cx="210" cy="195" rx="6" ry="3" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <!-- Arms going up -->
+  <path d="M 210,193 L 232,160" fill="none" stroke="#e6b98a" stroke-width="6" stroke-linecap="round"/>
+  <!-- Torso (inverted V) -->
+  <path d="M 230,160 L 245,140 L 260,160 L 254,165 L 245,150 L 236,165 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Head hanging down between arms -->
+  <circle cx="232" cy="170" r="9" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M 224,170 Q 228,162 232,162 Q 236,162 240,170" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="229" cy="172" r="1.2" fill="#000000" stroke="none"/>
+  <!-- Legs going down to mat -->
+  <path d="M 258,162 L 268,200" fill="none" stroke="#7c3fac" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 256,162 L 262,200" fill="none" stroke="#7c3fac" stroke-width="8" stroke-linecap="round"/>
+  <!-- Feet -->
+  <ellipse cx="265" cy="200" rx="7" ry="3" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+</svg>

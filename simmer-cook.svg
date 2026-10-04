@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Gentle steam wisps -->
+  <path d="M110 100 Q104 86 110 72 Q116 58 110 44" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M145 92 Q139 78 145 64 Q151 50 145 36" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M180 100 Q174 86 180 72 Q186 58 180 44" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pot body -->
+  <path d="M55 130 Q55 210 75 218 L215 218 Q235 210 235 130 Z" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Pot rim -->
+  <ellipse cx="145" cy="130" rx="90" ry="12" fill="#7f7f7f" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="145" cy="130" rx="84" ry="8" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <!-- Handles -->
+  <rect x="22" y="142" width="36" height="14" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <rect x="232" y="142" width="36" height="14" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="4"/>
+  <!-- Water surface -->
+  <ellipse cx="145" cy="130" rx="80" ry="6" fill="#90a7d6" stroke="none"/>
+  <!-- Gentle small bubbles (few, not vigorous) -->
+  <circle cx="105" cy="124" r="5" fill="none" stroke="#000000" stroke-width="3"/>
+  <circle cx="130" cy="120" r="6" fill="none" stroke="#000000" stroke-width="3"/>
+  <circle cx="160" cy="122" r="5" fill="none" stroke="#000000" stroke-width="3"/>
+  <circle cx="185" cy="125" r="4" fill="none" stroke="#000000" stroke-width="3"/>
+  <!-- Low flame underneath -->
+  <path d="M115 232 Q108 220 115 208 Q118 214 122 208 Q124 200 130 194 Q132 204 128 212 Q135 206 133 198 Q140 208 136 218 Q140 214 140 208 Q146 218 142 232 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M150 232 Q143 220 150 208 Q153 214 157 208 Q159 200 165 194 Q167 204 163 212 Q170 206 168 198 Q175 208 171 218 Q175 214 175 208 Q181 218 177 232 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Low heat indicator -->
+  <path d="M252 110 L252 80" stroke="#2a4ec0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M244 102 L252 116 L260 102 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M244 86 L260 86" stroke="#2a4ec0" stroke-width="4" stroke-linecap="round"/>
+</svg>

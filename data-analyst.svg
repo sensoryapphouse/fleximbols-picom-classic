@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- data-analyst: full-body person at screen showing bar+pie dashboard -->
+
+  <!-- Monitor stand -->
+  <rect x="170" y="175" width="8" height="24" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="158" y="196" width="32" height="6" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- Monitor screen body -->
+  <rect x="142" y="70" width="118" height="108" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Screen face -->
+  <rect x="150" y="78" width="102" height="90" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Bar chart on screen -->
+  <rect x="158" y="126" width="10" height="28" fill="#f8130d" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="172" y="116" width="10" height="38" fill="#2a4ec0" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="186" y="108" width="10" height="46" fill="#529929" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <rect x="200" y="120" width="10" height="34" fill="#ff9900" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Chart baseline -->
+  <line x1="155" y1="156" x2="220" y2="156" stroke="#000000" stroke-width="2"/>
+
+  <!-- Pie chart circle on screen -->
+  <circle cx="232" cy="118" r="16" fill="#efefef" stroke="#000000" stroke-width="2"/>
+  <!-- Pie wedge 1 -->
+  <path d="M232,118 L248,118 A16,16 0 0,0 240,104 Z" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <!-- Pie wedge 2 -->
+  <path d="M232,118 L240,104 A16,16 0 0,0 216,118 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <!-- Pie wedge 3 -->
+  <path d="M232,118 L216,118 A16,16 0 0,0 248,118 Z" fill="#529929" stroke="#000000" stroke-width="2"/>
+
+  <!-- Desk surface -->
+  <rect x="118" y="200" width="152" height="10" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- Person: full body, seated at desk -->
+  <!-- Head -->
+  <circle cx="80" cy="52" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <ellipse cx="80" cy="38" rx="20" ry="10" fill="#5e1f0a" stroke="#000000" stroke-width="4"/>
+  <!-- Torso -->
+  <rect x="60" y="74" width="40" height="50" rx="6" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm (reaching toward desk) -->
+  <line x1="60" y1="84" x2="38" y2="110" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="38" cy="112" r="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Right arm (reaching toward desk) -->
+  <line x1="100" y1="84" x2="128" y2="110" stroke="#eed5b6" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="130" cy="112" r="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Hips -->
+  <rect x="58" y="122" width="44" height="22" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left leg -->
+  <rect x="58" y="142" width="16" height="48" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Right leg -->
+  <rect x="86" y="142" width="16" height="48" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Left foot -->
+  <rect x="52" y="186" width="22" height="10" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Right foot -->
+  <rect x="84" y="186" width="22" height="10" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+</svg>

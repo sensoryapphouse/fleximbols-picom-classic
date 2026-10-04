@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shower water streams from top -->
+  <line x1="50" y1="10" x2="44" y2="38" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+  <line x1="68" y1="8" x2="62" y2="36" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+  <line x1="86" y1="6" x2="82" y2="34" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+  <line x1="104" y1="5" x2="101" y2="33" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+  <line x1="122" y1="4" x2="120" y2="32" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+  <line x1="140" y1="4" x2="140" y2="32" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+  <line x1="158" y1="4" x2="160" y2="32" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+  <line x1="176" y1="5" x2="179" y2="33" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+  <!-- Shampoo bottle (right) -->
+  <rect x="225" y="130" width="40" height="70" rx="8" fill="#f266aa" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="231" y="118" width="28" height="16" rx="5" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Pump on bottle -->
+  <rect x="240" y="100" width="10" height="22" rx="3" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Bottle label -->
+  <rect x="229" y="148" width="32" height="34" rx="3" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Figure — full bust in shower, arms raised to head -->
+  <!-- Head -->
+  <circle cx="130" cy="95" r="52" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Wet/lathered hair with bubbles on top -->
+  <path d="M78,82 Q86,34 130,38 Q174,34 182,82 Q172,55 130,58 Q88,55 78,82 Z" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Lather/bubbles on hair -->
+  <circle cx="108" cy="42" r="12" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="130" cy="36" r="14" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="152" cy="40" r="12" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="118" cy="32" r="9" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="143" cy="28" r="10" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- Eyes -->
+  <ellipse cx="110" cy="90" rx="9" ry="10" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="150" cy="90" rx="9" ry="10" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="112" cy="91" r="4.5" fill="#1d0e82"/>
+  <circle cx="152" cy="91" r="4.5" fill="#1d0e82"/>
+  <!-- Happy mouth -->
+  <path d="M114,116 Q130,128 146,116" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="112" y="144" width="36" height="20" rx="5" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Shoulders -->
+  <path d="M52,164 Q72,155 130,152 Q188,155 208,164 L208,200 L52,200 Z" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Left arm raised to head -->
+  <path d="M70,165 Q58,140 68,110 Q74,92 90,80" fill="none" stroke="#eed5b6" stroke-width="10" stroke-linecap="round"/>
+  <!-- Left hand on head lathering -->
+  <ellipse cx="92" cy="76" rx="16" ry="12" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm raised to head -->
+  <path d="M190,165 Q202,140 192,110 Q186,92 170,80" fill="none" stroke="#eed5b6" stroke-width="10" stroke-linecap="round"/>
+  <!-- Right hand on head lathering -->
+  <ellipse cx="168" cy="76" rx="16" ry="12" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Water droplets on shoulders -->
+  <circle cx="80" cy="195" r="4" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <circle cx="115" cy="200" r="3.5" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <circle cx="175" cy="198" r="4" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+</svg>

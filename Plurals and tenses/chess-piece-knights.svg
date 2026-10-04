@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- chessboard base squares -->
+  <rect x="20" y="215" width="62" height="20" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <rect x="82" y="215" width="62" height="20" fill="#efefef" stroke="#000000" stroke-width="2"/>
+  <rect x="144" y="215" width="62" height="20" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <rect x="206" y="215" width="62" height="20" fill="#efefef" stroke="#000000" stroke-width="2"/>
+  <!-- base -->
+  <path d="M100 215 L190 215 L180 200 L110 200 Z" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="110" y="190" width="70" height="14" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- short pedestal/neck base -->
+  <rect x="120" y="170" width="50" height="22" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- horse head silhouette in profile (defining feature) -->
+  <path d="M125 170 L120 130 Q120 105 135 90 Q145 80 155 75 Q170 70 185 60 Q200 55 200 70 Q200 80 190 90 L185 100 Q185 115 195 120 L195 135 Q180 145 175 165 L175 170 Z" fill="#efefef" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- mane along back of horse head -->
+  <path d="M125 130 Q115 115 125 100" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M125 145 Q115 140 122 130" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- mane tuft details -->
+  <path d="M120 110 L113 105" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M122 122 L115 120" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- ear -->
+  <path d="M138 88 L142 70 L150 80 Z" fill="#efefef" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- eye -->
+  <circle cx="158" cy="92" r="3" fill="#000000"/>
+  <!-- nostril -->
+  <circle cx="192" cy="80" r="2.5" fill="#000000"/>
+  <!-- mouth line -->
+  <path d="M180 95 Q188 97 192 92" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl505" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl505)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

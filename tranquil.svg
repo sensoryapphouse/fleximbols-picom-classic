@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Seated body / crossed legs -->
+  <ellipse cx="145" cy="218" rx="72" ry="20" fill="#2a4ec0" stroke="#000000" stroke-width="5"/>
+  <!-- Left leg -->
+  <path d="M88 218 Q75 215 68 228 Q80 235 100 230 Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Right leg -->
+  <path d="M202 218 Q215 215 222 228 Q210 235 190 230 Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Torso -->
+  <path d="M108 185 Q108 165 145 160 Q182 165 182 185 Q182 210 145 215 Q108 210 108 185 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5"/>
+  <!-- Hands resting on knees -->
+  <ellipse cx="100" cy="205" rx="18" ry="12" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="190" cy="205" rx="18" ry="12" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Neck -->
+  <rect x="128" y="140" width="34" height="26" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="105" rx="58" ry="60" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Meditative closed eyes -->
+  <path d="M108 100 Q122 93 136 100" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M154 100 Q168 93 182 100" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Peaceful slight smile -->
+  <path d="M124 130 Q145 144 166 130" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Soft cheeks -->
+  <ellipse cx="105" cy="118" rx="12" ry="7" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="185" cy="118" rx="12" ry="7" fill="#f4a4b2" stroke="none"/>
+  <!-- Soft aura ring -->
+  <ellipse cx="145" cy="105" rx="80" ry="84" fill="none" stroke="#f7de58" stroke-width="6" stroke-dasharray="12,8"/>
+  <!-- Nose -->
+  <path d="M140 110 Q145 118 150 110" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

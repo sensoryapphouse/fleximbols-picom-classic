@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Bust / torso -->
+  <rect x="100" y="170" width="90" height="58" rx="8" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="128" y="148" width="34" height="28" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="116" rx="52" ry="54" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Tired defeated eyes, half closed -->
+  <ellipse cx="126" cy="110" rx="8" ry="6" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="126" cy="111" rx="4" ry="3" fill="#000000"/>
+  <!-- Heavy lid left -->
+  <path d="M117 107 Q126 103 135 107" fill="#eed5b6" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="164" cy="110" rx="8" ry="6" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="164" cy="111" rx="4" ry="3" fill="#000000"/>
+  <!-- Heavy lid right -->
+  <path d="M155 107 Q164 103 173 107" fill="#eed5b6" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Brows flat/down -->
+  <path d="M116 98 Q126 102 136 98" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M154 98 Q164 102 174 98" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Flat grimace mouth -->
+  <path d="M128 133 Q145 130 162 133" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Hand on forehead -->
+  <path d="M108 172 Q85 155 88 132" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M108 172 Q85 155 88 132" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <rect x="80" y="124" width="26" height="13" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Puzzle piece in lower right that doesn't fit -->
+  <!-- Puzzle piece body -->
+  <rect x="195" y="155" width="38" height="38" rx="4" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <!-- Puzzle tab on top -->
+  <ellipse cx="214" cy="153" rx="7" ry="6" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <!-- Puzzle notch on right (missing) -->
+  <rect x="230" y="168" width="8" height="12" rx="4" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- Dead-end wall / block — small wall beside piece -->
+  <rect x="240" y="148" width="14" height="45" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <!-- Gap indicator — piece vs wall -->
+  <path d="M234 175 L240 175" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M237 170 L237 180" fill="none" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+</svg>

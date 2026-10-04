@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <path d="M 55,105 Q 55,95 65,95 L 70,95" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 70,95 Q 68,85 72,80" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 218,105 Q 218,95 208,95 L 203,95" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 203,95 Q 205,85 201,80" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="72,80 218,80 218,105 218,105 203,95 201,80" fill="none" stroke="none"/>
+  <path d="M 72,80 L 201,80 Q 218,80 218,97 L 218,165 Q 218,182 201,182 L 89,182 Q 72,182 72,165 L 72,97 Q 72,80 72,80 Z" fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 80,113 Q 145,100 210,113" fill="none" stroke="#90a7d6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 80,131 Q 145,118 210,131" fill="none" stroke="#90a7d6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 80,149 Q 145,136 210,149" fill="none" stroke="#90a7d6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 80,167 Q 145,154 210,167" fill="none" stroke="#90a7d6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 55,105 Q 55,131 55,131 Q 55,145 72,145" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 218,145 Q 235,145 235,131 L 235,105" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

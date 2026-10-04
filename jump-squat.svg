@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Jump squat: figure mid-air after explosive squat jump, feet off ground, arms thrown up -->
+  <!-- Head -->
+  <circle cx="145" cy="28" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M 124,22 Q 126,6 145,6 Q 164,6 166,22 Q 158,13 145,14 Q 132,13 124,22 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Eyes (excited/exertion) -->
+  <ellipse cx="138" cy="27" rx="2.5" ry="3" fill="#000000"/>
+  <ellipse cx="152" cy="27" rx="2.5" ry="3" fill="#000000"/>
+  <!-- Open mouth (exertion cry) -->
+  <path d="M 138,37 Q 145,43 152,37" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Torso (upright, mid-air) -->
+  <path d="M 133,48 Q 135,45 145,44 Q 155,45 157,48 L 158,92 L 132,92 Z" fill="#d01424" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- LEFT ARM: thrown up overhead (explosive upswing) -->
+  <path d="M 133,60 Q 116,48 100,34" stroke="#000000" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <path d="M 100,34 Q 86,22 74,12" stroke="#000000" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <circle cx="71" cy="10" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- RIGHT ARM: thrown up overhead (explosive upswing) -->
+  <path d="M 157,60 Q 174,48 190,34" stroke="#000000" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <path d="M 190,34 Q 204,22 216,12" stroke="#000000" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <circle cx="219" cy="10" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Upward arrows above hands (explosive jump cue) -->
+  <path d="M 68,8 L 68,0" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M 219,8 L 219,0" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- LEFT LEG: bent in jump (thighs drop, shins hang) -->
+  <!-- Left upper thigh going down-left -->
+  <path d="M 133,92 Q 114,110 96,130" stroke="#1d0e82" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <!-- Left shin hanging from bent knee -->
+  <path d="M 96,130 Q 88,152 84,174" stroke="#1d0e82" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <!-- Left foot (elevated - NOT touching ground) -->
+  <path d="M 78,174 L 64,178" stroke="#000000" stroke-width="7" stroke-linecap="round"/>
+  <!-- RIGHT LEG: bent in jump (mirrored) -->
+  <path d="M 157,92 Q 176,110 194,130" stroke="#1d0e82" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M 194,130 Q 202,152 206,174" stroke="#1d0e82" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <!-- Right foot (elevated - NOT touching ground) -->
+  <path d="M 200,174 L 218,178" stroke="#000000" stroke-width="7" stroke-linecap="round"/>
+  <!-- Ground line (below feet showing gap = airborne) -->
+  <path d="M 40,210 L 250,210" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Gap arrows (airborne gap indicators) -->
+  <path d="M 70,196 L 70,208 M 66,200 L 70,194 L 74,200" stroke="#2a4ec0" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M 206,196 L 206,208 M 202,200 L 206,194 L 210,200" stroke="#2a4ec0" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <!-- Explosive burst lines at feet -->
+  <path d="M 60,180 L 50,172 M 62,183 L 50,182 M 64,186 L 52,192" stroke="#f7de58" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 210,180 L 220,172 M 208,183 L 220,182 M 206,186 L 218,192" stroke="#f7de58" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

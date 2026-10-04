@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Soft sunrise glow arc at top -->
+  <path d="M55 105 Q145 28 235 105" fill="none" stroke="#f7de58" stroke-width="8" stroke-linecap="round"/>
+  <path d="M72 120 Q145 52 218 120" fill="none" stroke="#ff9900" stroke-width="5" stroke-linecap="round"/>
+  <!-- Sunrise rays -->
+  <line x1="145" y1="14" x2="145" y2="30" stroke="#f7de58" stroke-width="5" stroke-linecap="round"/>
+  <line x1="108" y1="22" x2="116" y2="36" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <line x1="182" y1="22" x2="174" y2="36" stroke="#f7de58" stroke-width="4" stroke-linecap="round"/>
+  <line x1="76" y1="46" x2="88" y2="56" stroke="#f7de58" stroke-width="3" stroke-linecap="round"/>
+  <line x1="214" y1="46" x2="202" y2="56" stroke="#f7de58" stroke-width="3" stroke-linecap="round"/>
+  <!-- Green sprout/leaf on left side -->
+  <!-- Stem -->
+  <line x1="38" y1="185" x2="38" y2="145" stroke="#529929" stroke-width="5" stroke-linecap="round"/>
+  <!-- Leaf left -->
+  <ellipse cx="22" cy="162" rx="18" ry="10" fill="#529929" stroke="#000000" stroke-width="3" transform="rotate(-30 22 162)"/>
+  <!-- Leaf right -->
+  <ellipse cx="54" cy="155" rx="18" ry="10" fill="#137827" stroke="#000000" stroke-width="3" transform="rotate(30 54 155)"/>
+  <!-- Small bud -->
+  <circle cx="38" cy="142" r="8" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <!-- Shoulders -->
+  <path d="M68 240 Q80 188 112 178 Q145 172 178 178 Q210 188 222 240 Z" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="128" y="155" width="34" height="28" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="116" rx="62" ry="64" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Serene closed/half eyes -->
+  <path d="M96 106 Q112 96 128 106" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M162 106 Q178 96 194 106" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Gentle serene smile -->
+  <path d="M118 144 Q145 162 172 144" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Soft rosy cheeks -->
+  <ellipse cx="93" cy="133" rx="15" ry="9" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="197" cy="133" rx="15" ry="9" fill="#f4a4b2" stroke="none"/>
+  <!-- Nose -->
+  <path d="M140 120 Q145 130 150 120" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

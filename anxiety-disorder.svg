@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- figure torso — slightly hunched, shoulders raised -->
+  <path d="M118 118 Q110 112 114 126 L114 182 Q114 192 128 192 L162 192 Q176 192 176 182 L176 126 Q180 112 172 118 Z" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="145" cy="86" r="28" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- worried brows -->
+  <path d="M128 76 Q133 71 138 75" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M152 75 Q157 71 162 76" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- wide worried eyes -->
+  <circle cx="134" cy="82" r="4" fill="#000000"/>
+  <circle cx="156" cy="82" r="4" fill="#000000"/>
+  <!-- tight downturned mouth -->
+  <path d="M135 95 Q145 92 155 95" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- raised tense shoulders (lines) -->
+  <line x1="114" y1="120" x2="92" y2="108" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="176" y1="120" x2="198" y2="108" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- arms tight to body -->
+  <line x1="92" y1="108" x2="84" y2="152" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="80" cy="158" rx="10" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <line x1="198" y1="108" x2="206" y2="152" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="210" cy="158" rx="10" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- legs -->
+  <line x1="128" y1="192" x2="120" y2="222" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="162" y1="192" x2="170" y2="222" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- many small worry clouds around figure -->
+  <!-- cloud 1 upper left -->
+  <path d="M46 58 Q50 50 58 54 Q62 46 70 52 Q76 48 76 58 Q82 62 78 70 Q70 76 60 72 Q48 74 44 66 Q40 60 46 58 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- cloud 2 upper right -->
+  <path d="M196 42 Q200 34 208 38 Q212 30 220 36 Q226 32 226 42 Q232 46 228 54 Q220 60 210 56 Q198 58 194 50 Q190 44 196 42 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- cloud 3 left mid -->
+  <path d="M22 108 Q26 102 32 105 Q36 98 42 103 Q46 99 46 107 Q50 111 47 117 Q41 121 34 118 Q24 120 21 113 Q18 109 22 108 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- cloud 4 right mid -->
+  <path d="M232 112 Q236 106 242 109 Q246 102 252 107 Q256 103 256 111 Q260 115 257 121 Q251 125 244 122 Q234 124 231 117 Q228 113 232 112 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- cloud 5 small top centre -->
+  <path d="M126 28 Q129 22 135 25 Q138 19 144 23 Q148 19 150 25 Q155 27 153 34 Q148 38 141 36 Q130 38 126 32 Q123 29 126 28 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

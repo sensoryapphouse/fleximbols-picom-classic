@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Full-body figure with multi-zone pain aura -->
+  <!-- Head -->
+  <circle cx="145" cy="34" r="18" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Neck -->
+  <rect x="138" y="50" width="14" height="12" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Torso -->
+  <path d="M116,62 Q116,54 145,54 Q174,54 174,62 L178,130 Q178,136 145,136 Q112,136 112,130 Z" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm -->
+  <path d="M116,68 Q94,80 90,108 Q88,124 98,130" fill="none" stroke="#eed5b6" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M116,68 Q94,80 90,108 Q88,124 98,130" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right arm -->
+  <path d="M174,68 Q196,80 200,108 Q202,124 192,130" fill="none" stroke="#eed5b6" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M174,68 Q196,80 200,108 Q202,124 192,130" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left leg -->
+  <path d="M132,136 L126,196" stroke="#000000" stroke-width="13" stroke-linecap="round"/>
+  <path d="M132,136 L126,196" stroke="#e6b98a" stroke-width="7" stroke-linecap="round"/>
+  <!-- Right leg -->
+  <path d="M158,136 L164,196" stroke="#000000" stroke-width="13" stroke-linecap="round"/>
+  <path d="M158,136 L164,196" stroke="#e6b98a" stroke-width="7" stroke-linecap="round"/>
+  <!-- Feet -->
+  <ellipse cx="122" cy="200" rx="13" ry="6" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="168" cy="200" rx="13" ry="6" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Pain aura zones: head -->
+  <circle cx="145" cy="34" r="26" fill="none" stroke="#f8130d" stroke-width="3" stroke-dasharray="4,4"/>
+  <!-- Pain zone: left shoulder -->
+  <circle cx="108" cy="74" r="14" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="102" y1="68" x2="96" y2="62" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="114" y1="66" x2="118" y2="60" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="106" y1="80" x2="100" y2="86" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pain zone: right shoulder -->
+  <circle cx="182" cy="74" r="14" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <line x1="188" y1="68" x2="194" y2="62" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="176" y1="66" x2="172" y2="60" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="184" y1="80" x2="190" y2="86" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pain zone: lower back -->
+  <circle cx="145" cy="118" r="16" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <line x1="138" y1="110" x2="132" y2="104" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="152" y1="110" x2="158" y2="104" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="145" y1="108" x2="145" y2="102" stroke="#f8130d" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pain zone: left knee -->
+  <circle cx="126" cy="174" r="12" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <!-- Pain zone: right knee -->
+  <circle cx="164" cy="174" r="12" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+</svg>

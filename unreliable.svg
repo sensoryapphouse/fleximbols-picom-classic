@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Wobbly cracked base platform -->
+  <path d="M75 210 Q90 200 110 208 Q130 215 150 205 Q175 196 200 207 Q215 213 218 210 L215 225 Q175 218 150 225 Q120 232 90 224 Z" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Crack in base -->
+  <path d="M145 205 L152 218 L143 226" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Legs slightly tilted -->
+  <path d="M108 172 L112 208" stroke="#000000" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <path d="M172 168 L182 208" stroke="#000000" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <!-- Body torso - slightly tilted -->
+  <path d="M100 108 Q103 102 178 98 Q185 104 180 162 Q177 170 105 174 Q97 168 100 108 Z" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Arms - loose, shrugging -->
+  <path d="M100 118 Q80 112 62 122 Q58 126 64 130 Q72 126 90 128" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 116 Q200 108 220 118 Q224 123 218 128 Q210 124 192 126" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="130" y="88" width="26" height="20" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Head slightly tilted -->
+  <ellipse cx="145" cy="70" rx="30" ry="28" fill="#eed5b6" stroke="#000000" stroke-width="5" transform="rotate(-5 145 70)"/>
+  <!-- Hair -->
+  <ellipse cx="144" cy="47" rx="30" ry="14" fill="#7d5e23" stroke="#000000" stroke-width="4"/>
+  <!-- Uneasy eyes -->
+  <ellipse cx="135" cy="67" rx="5" ry="4" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="155" cy="65" rx="5" ry="4" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <!-- Eyebrow raised on one side -->
+  <path d="M130 59 Q135 55 141 59" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Uneasy frown/grimace -->
+  <path d="M136 80 Q142 77 154 81" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Broken/cracked clock upper right -->
+  <circle cx="230" cy="55" r="26" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- Crack through clock face -->
+  <path d="M220 38 L228 55 L218 72" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M228 55 L238 45" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="228" cy="55" r="3" fill="#000000"/>
+  <!-- Clock hands - wrong/broken, pointing random -->
+  <line x1="228" y1="55" x2="218" y2="38" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="228" y1="55" x2="248" y2="62" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Big X over clock / question mark area -->
+  <line x1="215" y1="82" x2="230" y2="97" stroke="#f8130d" stroke-width="5" stroke-linecap="round"/>
+  <line x1="230" y1="82" x2="215" y2="97" stroke="#f8130d" stroke-width="5" stroke-linecap="round"/>
+  <!-- Question mark on chest -->
+  <path d="M136 128 Q136 118 145 116 Q157 114 158 124 Q158 130 148 134 L147 138" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="147" cy="143" r="3" fill="#ffffff"/>
+</svg>

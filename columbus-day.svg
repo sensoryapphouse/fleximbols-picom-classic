@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sky sun -->
+  <circle cx="240" cy="50" r="20" fill="#f2e40d" stroke="#000000" stroke-width="2.5"/>
+  <!-- sea waves -->
+  <path d="M 0 175 Q 30 165 60 175 Q 90 185 120 175 Q 150 165 180 175 Q 210 185 240 175 Q 270 165 290 175 L 290 240 L 0 240 Z" fill="#2a4ec0" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 0 185 Q 30 195 60 185 Q 90 178 120 188 Q 150 198 180 188 Q 210 178 240 188 Q 270 198 290 188" fill="none" stroke="#90a7d6" stroke-width="2"/>
+  <!-- ship hull (galleon) -->
+  <path d="M 50 175 L 240 175 L 220 215 L 70 215 Z" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 60 188 L 230 188" stroke="#5e1f0a" stroke-width="2"/>
+  <!-- portholes -->
+  <circle cx="90" cy="195" r="4" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="120" cy="195" r="4" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="150" cy="195" r="4" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="180" cy="195" r="4" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="210" cy="195" r="4" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <!-- 3 masts -->
+  <rect x="83" y="60" width="4" height="115" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <rect x="143" y="40" width="4" height="135" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <rect x="203" y="60" width="4" height="115" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <!-- foremast sails -->
+  <path d="M 65 75 L 105 75 L 110 110 L 60 110 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 60 115 L 110 115 L 115 150 L 55 150 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- mainmast sails (tallest) -->
+  <path d="M 120 55 L 170 55 L 175 100 L 115 100 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 115 105 L 175 105 L 180 150 L 110 150 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- mizzenmast sails -->
+  <path d="M 185 75 L 225 75 L 230 110 L 180 110 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M 180 115 L 230 115 L 235 150 L 175 150 Z" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- red crosses on main sails -->
+  <path d="M 145 60 L 145 95 M 130 75 L 160 75" stroke="#d01424" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 145 110 L 145 145 M 128 125 L 162 125" stroke="#d01424" stroke-width="3" stroke-linecap="round"/>
+  <!-- crow's nest flags -->
+  <path d="M 145 40 L 165 35 L 145 30 Z" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 85 60 L 100 56 L 85 52 Z" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M 205 60 L 220 56 L 205 52 Z" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+</svg>

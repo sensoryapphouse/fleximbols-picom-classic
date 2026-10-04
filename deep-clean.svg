@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- bucket with sudsy water -->
+  <path d="M30 140 l8 70 h54 l8 -70 z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- suds -->
+  <circle cx="50" cy="148" r="8" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="68" cy="146" r="10" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="84" cy="148" r="7" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="58" cy="156" r="5" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- bucket handle -->
+  <path d="M32 140 q30 -28 60 0" fill="none" stroke="#000000" stroke-width="3"/>
+
+  <!-- person FULL BODY scrubbing -->
+  <!-- head -->
+  <circle cx="160" cy="50" r="16" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- bandana on hair -->
+  <path d="M144 46 q16 -16 32 0 v-4 q-16 -12 -32 0 z" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <path d="M144 42 h32" stroke="#000000" stroke-width="1"/>
+  <circle cx="150" cy="44" r="1.5" fill="#ffffff"/>
+  <circle cx="170" cy="44" r="1.5" fill="#ffffff"/>
+  <!-- face -->
+  <circle cx="154" cy="52" r="1.5" fill="#000000"/>
+  <circle cx="166" cy="52" r="1.5" fill="#000000"/>
+  <path d="M154 60 q6 4 12 0" fill="none" stroke="#000000" stroke-width="2"/>
+  <!-- torso (apron) -->
+  <path d="M138 68 q22 -6 44 0 v60 q-22 6 -44 0 z" fill="#fff200" stroke="#000000" stroke-width="3"/>
+  <path d="M150 68 v60" stroke="#000000" stroke-width="1"/>
+  <path d="M170 68 v60" stroke="#000000" stroke-width="1"/>
+  <!-- glove arm scrubbing -->
+  <path d="M138 76 q-16 12 -10 30" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="125" cy="110" rx="8" ry="10" fill="#f266aa" stroke="#000000" stroke-width="2"/>
+  <!-- sponge in glove -->
+  <rect x="108" y="105" width="20" height="12" rx="2" fill="#ff9900" stroke="#000000" stroke-width="2"/>
+  <!-- mop/broom arm -->
+  <path d="M182 76 q16 8 12 24" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="196" cy="102" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- mop handle -->
+  <rect x="205" y="60" width="6" height="100" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <!-- mop head -->
+  <path d="M196 160 h26 l-4 20 h-18 z" fill="#90a7d6" stroke="#000000" stroke-width="2"/>
+  <path d="M200 180 v18" stroke="#90a7d6" stroke-width="3"/>
+  <path d="M208 180 v18" stroke="#90a7d6" stroke-width="3"/>
+  <path d="M216 180 v18" stroke="#90a7d6" stroke-width="3"/>
+  <!-- legs -->
+  <rect x="142" y="128" width="14" height="50" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <rect x="164" y="128" width="14" height="50" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <!-- shoes -->
+  <rect x="138" y="178" width="20" height="8" rx="2" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <rect x="160" y="178" width="20" height="8" rx="2" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+
+  <!-- sparkles -->
+  <path d="M120 60 l2 -6 l2 6 l6 2 l-6 2 l-2 6 l-2 -6 l-6 -2 z" fill="#fff200" stroke="#000000" stroke-width="2"/>
+  <path d="M250 50 l2 -6 l2 6 l6 2 l-6 2 l-2 6 l-2 -6 l-6 -2 z" fill="#fff200" stroke="#000000" stroke-width="2"/>
+  <path d="M260 130 l2 -5 l2 5 l5 2 l-5 2 l-2 5 l-2 -5 l-5 -2 z" fill="#fff200" stroke="#000000" stroke-width="2"/>
+</svg>

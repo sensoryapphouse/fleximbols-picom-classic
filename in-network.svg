@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Green network circle (background) -->
+  <circle cx="145" cy="120" r="100" fill="#dff3fd" stroke="#529929" stroke-width="6"/>
+  <!-- Inner glow ring -->
+  <circle cx="145" cy="120" r="92" fill="none" stroke="#67832d" stroke-width="2" stroke-linecap="round"/>
+  <!-- Doctor FULL BODY centered -->
+  <!-- Head -->
+  <circle cx="145" cy="78" r="16" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Hair -->
+  <path d="M131 75 Q131 64 145 64 Q159 64 159 75 Q155 70 145 70 Q135 70 131 75 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <circle cx="140" cy="78" r="1.5" fill="#000000"/>
+  <circle cx="150" cy="78" r="1.5" fill="#000000"/>
+  <!-- Smile -->
+  <path d="M141 84 Q145 88 149 84" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="141" y="93" width="8" height="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- White coat torso -->
+  <path d="M125 100 L165 100 L172 165 L118 165 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Coat lapels -->
+  <path d="M145 100 L138 130 L145 138 L152 130 Z" fill="#efefef" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Stethoscope around neck -->
+  <path d="M137 100 Q130 115 135 130 Q140 138 145 138 Q150 138 155 130 Q160 115 153 100" fill="none" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="145" cy="142" r="4" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <!-- Buttons -->
+  <circle cx="145" cy="120" r="2" fill="#000000"/>
+  <circle cx="145" cy="135" r="2" fill="#000000"/>
+  <!-- Arms -->
+  <path d="M125 102 L110 150 L118 155 L132 112 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M165 102 L180 150 L172 155 L158 112 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Hands -->
+  <circle cx="114" cy="153" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <circle cx="176" cy="153" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- Pants -->
+  <rect x="123" y="165" width="20" height="35" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <rect x="147" y="165" width="20" height="35" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <!-- Shoes -->
+  <ellipse cx="132" cy="205" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="157" cy="205" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- Big checkmark in upper right -->
+  <circle cx="240" cy="55" r="28" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <path d="M226 56 L236 67 L255 45" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lower cost dollar (down arrow + small dollar) in lower right -->
+  <circle cx="245" cy="190" r="22" fill="#f2e40d" stroke="#000000" stroke-width="3"/>
+  <path d="M245 178 L245 200 M239 182 Q239 178 245 178 L250 178 Q254 178 254 182 Q254 186 250 187 L245 188 Q239 189 239 194 Q239 197 243 197 L250 197 Q254 197 254 194" fill="none" stroke="#529929" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Down arrow next to dollar -->
+  <path d="M245 210 L240 218 L250 218 Z" fill="#529929" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+</svg>

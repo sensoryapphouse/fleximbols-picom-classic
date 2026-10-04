@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- floating question mark above cake -->
+  <path d="M132 30 Q132 14 145 14 Q162 14 162 30 Q162 42 148 48 Q145 50 145 60" fill="none" stroke="#7c3fac" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="72" r="6" fill="#7c3fac" stroke="#000000" stroke-width="2.5"/>
+  <path d="M132 30 Q132 14 145 14 Q162 14 162 30 Q162 42 148 48 Q145 50 145 60" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- cake plate -->
+  <ellipse cx="145" cy="218" rx="100" ry="9" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <!-- single round cake body, white frosting outside -->
+  <rect x="65" y="110" width="160" height="105" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- frosting drips along top -->
+  <path d="M65 110 Q75 100 85 110 Q95 100 105 110 Q115 100 125 110 Q135 100 145 110 Q155 100 165 110 Q175 100 185 110 Q195 100 205 110 Q215 100 225 110" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- cake-top base for drips (oval top showing it's round 3D) -->
+  <ellipse cx="145" cy="110" rx="80" ry="10" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- pink and blue sprinkles on top of cake -->
+  <rect x="105" y="106" width="6" height="3" fill="#f4a4b2" stroke="#000000" stroke-width="1"/>
+  <rect x="125" y="104" width="6" height="3" fill="#90a7d6" stroke="#000000" stroke-width="1"/>
+  <rect x="145" y="106" width="6" height="3" fill="#f4a4b2" stroke="#000000" stroke-width="1"/>
+  <rect x="165" y="104" width="6" height="3" fill="#90a7d6" stroke="#000000" stroke-width="1"/>
+  <rect x="185" y="106" width="6" height="3" fill="#f4a4b2" stroke="#000000" stroke-width="1"/>
+  <!-- LARGE wedge cut-out at front showing pink/blue interior -->
+  <!-- wedge gap (transparent / white background where wedge removed) -->
+  <path d="M120 215 L145 130 L170 215 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- pink interior layer (top half of wedge) -->
+  <path d="M132 175 L145 130 L158 175 Z" fill="#f4a4b2" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- blue interior layer (bottom half of wedge) -->
+  <path d="M120 215 L132 175 L158 175 L170 215 Z" fill="#90a7d6" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- horizontal divider line between pink and blue -->
+  <path d="M132 175 L158 175" stroke="#000000" stroke-width="2.5"/>
+</svg>

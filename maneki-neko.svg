@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<path d="M55 195 Q45 90 145 80 Q245 90 235 195 Q220 220 145 220 Q70 220 55 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.32" stroke-linejoin="round"></path>
+<path d="M95 90 L80 50 L120 75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.85" stroke-linejoin="round"></path>
+<path d="M195 90 L210 50 L170 75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.85" stroke-linejoin="round"></path>
+<path d="M95 65 L100 75 L108 70 Z" fill="#fabad8"></path>
+<path d="M195 65 L190 75 L182 70 Z" fill="#fabad8"></path>
+<g fill="#1a1a1a"><circle cx="118" cy="120" r="6"></circle><circle cx="172" cy="120" r="6"></circle></g>
+<g fill="#ffffff"><circle cx="120" cy="117" r="2"></circle><circle cx="174" cy="117" r="2"></circle></g>
+<path d="M138 138 L152 138 L145 148 Z" fill="#fabad8" stroke="#1a1a1a" stroke-width="1.90" stroke-linejoin="round"></path>
+<path d="M145 148 Q138 158 132 154 M145 148 Q152 158 158 154" fill="none" stroke="#1a1a1a" stroke-width="1.90" stroke-linecap="round"></path>
+<g stroke="#1a1a1a" stroke-width="1.42"><line x1="95" y1="135" x2="115" y2="135"></line><line x1="95" y1="145" x2="115" y2="143"></line><line x1="195" y1="135" x2="175" y2="135"></line><line x1="195" y1="145" x2="175" y2="143"></line></g>
+<circle cx="145" cy="170" r="14" fill="#e24940" stroke="#1a1a1a" stroke-width="2.38"></circle>
+<rect x="125" y="165" width="40" height="6" fill="#a42c3b"></rect>
+<text x="145" y="176" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="11" font-weight="900" fill="#f8e49c">金</text>
+<path d="M205 130 Q235 110 240 80 Q235 105 220 120 Q210 130 205 145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.85" stroke-linejoin="round"></path>
+<rect x="115" y="195" width="60" height="20" rx="3" fill="#edc641" stroke="#1a1a1a" stroke-width="1.90"></rect>
+<text x="145" y="210" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" font-weight="900" fill="#a42c3b">福</text>
+</g></svg>

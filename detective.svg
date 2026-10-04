@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Footprint clues on ground (path-only) -->
+  <ellipse cx="40" cy="218" rx="8" ry="5" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="58" cy="225" rx="8" ry="5" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="240" cy="222" rx="8" ry="5" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <!-- Trench coat (tan) - body -->
+  <path d="M 105 95 L 105 178 L 88 200 L 88 222 L 180 222 L 180 200 L 165 178 L 165 95 Z" fill="#e6b98a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Lapels -->
+  <polygon points="135,95 117,135 135,138" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <polygon points="135,95 152,135 135,138" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Belt -->
+  <rect x="105" y="150" width="60" height="10" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="132" y="150" width="8" height="10" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Arms -->
+  <rect x="78" y="100" width="22" height="65" rx="8" fill="#e6b98a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="170" y="100" width="22" height="65" rx="8" fill="#e6b98a" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Left hand holding magnifying glass -->
+  <circle cx="89" cy="172" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <circle cx="181" cy="172" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Legs -->
+  <rect x="108" y="208" width="22" height="18" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="138" y="208" width="22" height="18" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="119" cy="228" rx="14" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="149" cy="228" rx="14" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Head -->
+  <circle cx="135" cy="68" r="24" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Eyes -->
+  <circle cx="127" cy="68" r="2.5" fill="#000000"/>
+  <circle cx="143" cy="68" r="2.5" fill="#000000"/>
+  <!-- Moustache -->
+  <path d="M 122 80 Q 135 86 148 80 Q 145 84 135 84 Q 125 84 122 80 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Deerstalker/fedora hat -->
+  <ellipse cx="135" cy="46" rx="38" ry="7" fill="#7d5e23" stroke="#000000" stroke-width="4"/>
+  <path d="M 113 46 Q 113 24 135 24 Q 157 24 157 46 Z" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="113" y="42" width="44" height="5" fill="#5e1f0a" stroke="none"/>
+  <!-- Magnifying glass (large, key detective tool) -->
+  <circle cx="225" cy="115" r="32" fill="#dff3fd" stroke="#000000" stroke-width="5"/>
+  <circle cx="225" cy="115" r="32" fill="none" stroke="#90a7d6" stroke-width="2"/>
+  <line x1="247" y1="137" x2="275" y2="180" stroke="#7d5e23" stroke-width="11" stroke-linecap="round"/>
+  <line x1="247" y1="137" x2="275" y2="180" stroke="#000000" stroke-width="13" stroke-linecap="round" fill="none"/>
+  <line x1="247" y1="137" x2="275" y2="180" stroke="#7d5e23" stroke-width="9" stroke-linecap="round"/>
+  <!-- Glass highlight -->
+  <path d="M 207 100 Q 215 90 225 90" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+</svg>

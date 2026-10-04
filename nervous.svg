@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Bust / torso -->
+  <rect x="100" y="170" width="90" height="58" rx="8" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="128" y="148" width="34" height="28" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="116" rx="52" ry="54" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Anxious eyes — wide but worried -->
+  <ellipse cx="126" cy="108" rx="9" ry="9" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="126" cy="108" rx="4" ry="4" fill="#000000"/>
+  <ellipse cx="164" cy="108" rx="9" ry="9" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="164" cy="108" rx="4" ry="4" fill="#000000"/>
+  <!-- Worried brows — inner raised anxious V -->
+  <path d="M114 94 Q121 88 130 93" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M160 93 Q169 88 176 94" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Wavy uneasy mouth -->
+  <path d="M126 133 Q132 128 138 133 Q144 138 150 133 Q156 128 162 133 Q165 135 166 137" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Arm biting nail — hand to mouth -->
+  <path d="M175 170 Q192 158 192 143" fill="none" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <path d="M175 170 Q192 158 192 143" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Finger at mouth -->
+  <ellipse cx="182" cy="136" rx="9" ry="7" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Finger touching lips -->
+  <rect x="178" y="128" width="8" height="14" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- Sweat bead — upper right of head -->
+  <ellipse cx="196" cy="88" rx="7" ry="9" fill="#dff3fd" stroke="#000000" stroke-width="3"/>
+  <!-- Sweat bead top point -->
+  <path d="M196 79 L196 74" fill="none" stroke="#dff3fd" stroke-width="4" stroke-linecap="round"/>
+</svg>

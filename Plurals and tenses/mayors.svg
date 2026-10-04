@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- city skyline behind -->
+  <rect x="10" y="100" width="30" height="80" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <rect x="40" y="75" width="35" height="105" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <rect x="75" y="90" width="28" height="90" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <rect x="195" y="85" width="30" height="95" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <rect x="225" y="100" width="28" height="80" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+  <rect x="253" y="80" width="27" height="100" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- windows -->
+  <rect x="48" y="85" width="4" height="6" fill="#f2e40d"/>
+  <rect x="58" y="85" width="4" height="6" fill="#f2e40d"/>
+  <rect x="48" y="100" width="4" height="6" fill="#f2e40d"/>
+  <rect x="58" y="115" width="4" height="6" fill="#f2e40d"/>
+  <rect x="205" y="95" width="4" height="6" fill="#f2e40d"/>
+  <rect x="215" y="110" width="4" height="6" fill="#f2e40d"/>
+  <rect x="260" y="95" width="4" height="6" fill="#f2e40d"/>
+  <rect x="265" y="110" width="4" height="6" fill="#f2e40d"/>
+  <!-- ground line -->
+  <rect x="0" y="180" width="290" height="60" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- mayor body, full body, centered -->
+  <circle cx="145" cy="65" r="20" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M129 55 Q132 43 145 41 Q158 43 161 55 Q155 49 145 49 Q135 49 129 55 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="139" cy="67" r="2" fill="#000000"/>
+  <circle cx="151" cy="67" r="2" fill="#000000"/>
+  <path d="M140 76 Q145 79 150 76" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- suit -->
+  <path d="M115 95 Q115 87 128 85 L145 82 L162 85 Q175 87 175 95 L182 200 L108 200 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- sash diagonal -->
+  <path d="M118 92 L172 180 L182 175 L128 87 Z" fill="#d01424" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- shirt + tie -->
+  <path d="M138 87 L145 95 L152 87 L150 115 L140 115 Z" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- arms -->
+  <path d="M115 100 Q98 125 95 165 L108 170 Q108 130 125 105 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M175 100 Q192 125 195 165 L182 170 Q182 130 165 105 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- left hand holds microphone -->
+  <ellipse cx="100" cy="170" rx="7" ry="6" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <rect x="96" y="140" width="3" height="30" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="97" cy="135" rx="7" ry="9" fill="#7f7f7f" stroke="#000000" stroke-width="2.5"/>
+  <!-- right hand holds key to city -->
+  <ellipse cx="195" cy="170" rx="7" ry="6" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <rect x="200" y="150" width="30" height="6" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <circle cx="234" cy="153" r="9" fill="#f2e40d" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="234" cy="153" r="3" fill="#000000"/>
+  <rect x="225" y="156" width="3" height="6" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <rect x="220" y="156" width="3" height="6" fill="#f2e40d" stroke="#000000" stroke-width="1.5"/>
+  <!-- legs -->
+  <rect x="125" y="200" width="14" height="30" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <rect x="151" y="200" width="14" height="30" fill="#4d4d4d" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="132" cy="232" rx="10" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="158" cy="232" rx="10" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl1712" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl1712)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

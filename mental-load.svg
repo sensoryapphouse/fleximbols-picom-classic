@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Figure standing, head bowed slightly under weight -->
+  <!-- Legs -->
+  <line x1="128" y1="188" x2="114" y2="220" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="152" y1="188" x2="166" y2="220" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Torso -->
+  <rect x="118" y="138" width="44" height="52" rx="8" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Arms braced outward under load -->
+  <line x1="118" y1="152" x2="88" y2="168" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="162" y1="152" x2="192" y2="168" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Head, slightly forward/bowed -->
+  <circle cx="140" cy="124" r="16" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Stacked task blocks on top of head -->
+  <!-- Block 1 (bottom of stack, on head) -->
+  <rect x="108" y="90" width="64" height="22" rx="4" fill="#f8130d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Clock icon in block 1 -->
+  <circle cx="130" cy="101" r="7" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <line x1="130" y1="101" x2="130" y2="96" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="130" y1="101" x2="134" y2="103" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Email icon in block 1 -->
+  <rect x="148" y="95" width="16" height="12" rx="2" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <polyline points="148,95 156,103 164,95" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Block 2 -->
+  <rect x="114" y="64" width="52" height="20" rx="4" fill="#ff9900" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shopping cart icon -->
+  <polyline points="122,70 126,70 130,78 148,78 150,70 154,70" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="130" cy="81" r="2" fill="#000000"/>
+  <circle cx="146" cy="81" r="2" fill="#000000"/>
+  <!-- Block 3 -->
+  <rect x="120" y="40" width="40" height="18" rx="4" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Person icon -->
+  <circle cx="136" cy="47" r="4" fill="#000000"/>
+  <line x1="136" y1="51" x2="136" y2="58" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Star/task icon -->
+  <polygon points="152,44 154,50 160,50 155,54 157,60 152,56 147,60 149,54 144,50 150,50" fill="#000000"/>
+  <!-- Block 4 (top, smallest) -->
+  <rect x="126" y="22" width="28" height="14" rx="4" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Checkmark in top block -->
+  <polyline points="131,29 136,34 149,26" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

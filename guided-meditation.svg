@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- speech bubble with calm voice icon (wave) -->
+  <path d="M195 35 L260 35 Q272 35 272 47 L272 80 Q272 92 260 92 L225 92 L215 105 L218 92 L195 92 Q183 92 183 80 L183 47 Q183 35 195 35 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M198 64 Q210 50 220 64 T240 64 T260 64" fill="none" stroke="#3aa6a0" stroke-width="3" stroke-linecap="round"/>
+  <!-- head -->
+  <circle cx="105" cy="80" r="24" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- closed eyes -->
+  <path d="M92 78 Q98 82 104 78" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M106 78 Q112 82 118 78" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- smile -->
+  <path d="M97 90 Q105 94 113 90" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- headphones band -->
+  <path d="M80 70 Q105 45 130 70" fill="none" stroke="#4d4d4d" stroke-width="6" stroke-linecap="round"/>
+  <!-- earcups -->
+  <ellipse cx="80" cy="80" rx="10" ry="14" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="130" cy="80" rx="10" ry="14" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- torso -->
+  <path d="M82 108 Q105 104 128 108 L130 150 Q105 155 80 150 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- lotus legs -->
+  <path d="M50 205 L160 205 L142 160 L68 160 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="78" cy="190" rx="13" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="132" cy="190" rx="13" ry="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- arms to knees -->
+  <path d="M80 140 Q60 165 70 188" fill="none" stroke="#7c3fac" stroke-width="13" stroke-linecap="round"/>
+  <path d="M80 140 Q60 165 70 188" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M130 140 Q150 165 140 188" fill="none" stroke="#7c3fac" stroke-width="13" stroke-linecap="round"/>
+  <path d="M130 140 Q150 165 140 188" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="70" cy="188" r="8" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <circle cx="140" cy="188" r="8" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <path d="M30 220 L180 220" stroke="#9d7246" stroke-width="4" stroke-linecap="round"/>
+</svg>

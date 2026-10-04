@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <clipPath id="tr-clip">
+      <path d="M25,20 Q25,20 265,20 Q270,20 270,25 L270,175 Q270,180 265,180 L160,180 L145,210 L130,180 L25,180 Q20,180 20,175 L20,25 Q20,20 25,20 Z"/>
+    </clipPath>
+  </defs>
+  <!-- Red fill -->
+  <path d="M25,20 Q25,20 265,20 Q270,20 270,25 L270,175 Q270,180 265,180 L160,180 L145,210 L130,180 L25,180 Q20,180 20,175 L20,25 Q20,20 25,20 Z" fill="#d01424"/>
+  <!-- White crescent: large circle minus small circle offset -->
+  <circle cx="130" cy="100" r="46" fill="#ffffff" clip-path="url(#tr-clip)"/>
+  <circle cx="143" cy="95" r="36" fill="#d01424" clip-path="url(#tr-clip)"/>
+  <!-- White 5-point star -->
+  <polygon points="178,78 181,89 193,89 183,96 187,107 178,100 169,107 173,96 163,89 175,89" fill="#ffffff" stroke="#ffffff" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Bubble outline + tail -->
+  <path d="M25,20 Q25,20 265,20 Q270,20 270,25 L270,175 Q270,180 265,180 L160,180 L145,210 L130,180 L25,180 Q20,180 20,175 L20,25 Q20,20 25,20 Z" fill="none" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

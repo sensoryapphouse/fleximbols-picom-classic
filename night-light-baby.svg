@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- table surface -->
+  <line x1="20" y1="220" x2="270" y2="220" stroke="#9d7246" stroke-width="3" stroke-linecap="round"/>
+  <!-- soft glow halo (single ring, palette colour, no opacity) -->
+  <circle cx="145" cy="125" r="115" fill="none" stroke="#f7de58" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 8"/>
+  <circle cx="145" cy="125" r="95" fill="none" stroke="#f2e40d" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 9"/>
+  <!-- bear ears -->
+  <circle cx="95" cy="65" r="22" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <circle cx="95" cy="65" r="11" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="195" cy="65" r="22" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <circle cx="195" cy="65" r="11" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- bear head/body (lamp body) -->
+  <ellipse cx="145" cy="135" rx="78" ry="85" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <!-- inner glow patch (lighter yellow) -->
+  <ellipse cx="145" cy="135" rx="55" ry="62" fill="#fff200" stroke="#000000" stroke-width="2.5"/>
+  <!-- snout patch -->
+  <ellipse cx="145" cy="165" rx="32" ry="22" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- nose -->
+  <ellipse cx="145" cy="153" rx="7" ry="5" fill="#000000"/>
+  <!-- mouth -->
+  <path d="M145 158 L145 170 Q145 178 135 178" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M145 170 Q145 178 155 178" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- closed sleepy eyes -->
+  <path d="M115 125 Q125 132 135 125" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M155 125 Q165 132 175 125" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

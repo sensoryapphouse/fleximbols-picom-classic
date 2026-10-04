@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Suit body (dark grey/black) -->
+  <path d="M 100 100 L 100 180 L 85 200 L 85 220 L 175 220 L 175 200 L 160 180 L 160 100 Z" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Shirt collar V -->
+  <polygon points="115,100 130,140 145,100" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Tie -->
+  <polygon points="130,108 124,118 130,165 136,118" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- 'PI' badge on lapel (path shapes only) -->
+  <rect x="105" y="118" width="20" height="20" rx="3" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- 'P' formed by paths -->
+  <rect x="109" y="121" width="3" height="14" fill="#000000" stroke="none"/>
+  <path d="M 112 121 L 117 121 Q 120 121 120 124 Q 120 127 117 127 L 112 127" fill="#000000" stroke="none"/>
+  <!-- 'I' formed by path -->
+  <rect x="120" y="121" width="3" height="14" fill="#000000" stroke="none"/>
+  <!-- Arms -->
+  <rect x="73" y="105" width="22" height="65" rx="8" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="165" y="105" width="22" height="65" rx="8" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Hands -->
+  <circle cx="84" cy="178" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <circle cx="176" cy="178" r="9" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Legs (full body) -->
+  <rect x="105" y="208" width="22" height="18" fill="#000000" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="133" y="208" width="22" height="18" fill="#000000" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="116" cy="228" rx="14" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="144" cy="228" rx="14" ry="5" fill="#000000" stroke="#000000" stroke-width="3"/>
+  <!-- Head -->
+  <circle cx="130" cy="70" r="22" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Eyes -->
+  <circle cx="123" cy="69" r="2.5" fill="#000000"/>
+  <circle cx="137" cy="69" r="2.5" fill="#000000"/>
+  <!-- Hat (small fedora) -->
+  <ellipse cx="130" cy="50" rx="32" ry="6" fill="#2a4ec0" stroke="#000000" stroke-width="4"/>
+  <path d="M 113 50 Q 113 32 130 32 Q 147 32 147 50 Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="113" y="46" width="34" height="5" fill="#1d0e82" stroke="none"/>
+  <!-- Camera around neck (in left hand area) -->
+  <rect x="195" y="158" width="60" height="42" rx="4" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="225" cy="180" r="14" fill="#4d4d4d" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="225" cy="180" r="8" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <rect x="240" y="163" width="10" height="5" fill="#f7de58" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Camera strap to right hand -->
+  <path d="M 195 168 Q 185 175 178 178" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Small magnifying glass upper left -->
+  <circle cx="35" cy="60" r="20" fill="#dff3fd" stroke="#000000" stroke-width="4"/>
+  <line x1="50" y1="75" x2="68" y2="98" stroke="#7d5e23" stroke-width="8" stroke-linecap="round"/>
+  <path d="M 24 50 Q 30 44 38 44" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+</svg>

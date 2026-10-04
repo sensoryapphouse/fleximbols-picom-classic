@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Perpetrator (left) holding a dimmed gas lamp; victim (right) with confused thought spiral -->
+
+  <!-- GAS LAMP (left side, held by perpetrator) -->
+  <!-- Lamp post/handle -->
+  <rect x="52" y="90" width="8" height="60" rx="3" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Lamp body -->
+  <rect x="38" y="55" width="36" height="42" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Lamp top cap -->
+  <rect x="34" y="48" width="44" height="10" rx="4" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Lamp glass (dimmed — dark fill, small flame) -->
+  <rect x="44" y="60" width="24" height="28" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Small dimmed flame inside lamp -->
+  <path d="M56 82 C54 77 50 72 54 66 C56 63 58 66 58 66 C58 66 60 63 62 66 C66 72 62 77 60 82 Z" fill="#ff9900" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- PERPETRATOR figure (left) -->
+  <circle cx="95" cy="55" r="18" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Body -->
+  <path d="M79 77 Q95 70 111 77 L115 135 L75 135 Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Arm reaching to lamp -->
+  <path d="M79 95 Q68 105 62 118" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Other arm pointing at victim -->
+  <path d="M111 95 Q130 100 148 105" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Arrow tip pointing at victim -->
+  <polygon points="148,101 152,108 144,108" fill="#000000"/>
+  <!-- Legs -->
+  <line x1="85" y1="135" x2="82" y2="195" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="105" y1="135" x2="108" y2="195" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="82" y1="195" x2="66" y2="200" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="108" y1="195" x2="124" y2="200" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- VICTIM figure (right) -->
+  <circle cx="210" cy="55" r="18" fill="#e6b98a" stroke="#000000" stroke-width="5"/>
+  <!-- Body -->
+  <path d="M194 77 Q210 70 226 77 L230 135 L190 135 Z" fill="#90a7d6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Arms (slumped/passive) -->
+  <line x1="194" y1="95" x2="178" y2="118" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="226" y1="95" x2="242" y2="118" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="200" y1="135" x2="197" y2="195" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="220" y1="135" x2="223" y2="195" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="197" y1="195" x2="181" y2="200" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="223" y1="195" x2="239" y2="200" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Confused thought spiral above victim's head -->
+  <path d="M210 32 C218 28 226 22 222 14 C218 7 208 8 204 14 C200 20 204 28 212 30 C218 32 222 26 220 20" fill="none" stroke="#7c3fac" stroke-width="3" stroke-linecap="round"/>
+  <!-- Thought dots connecting head to spiral -->
+  <circle cx="210" cy="37" r="3" fill="#7c3fac" stroke="#000000" stroke-width="2"/>
+  <circle cx="212" cy="30" r="2" fill="#7c3fac" stroke="#000000" stroke-width="2"/>
+</svg>

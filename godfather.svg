@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground -->
+  <ellipse cx="145" cy="228" rx="80" ry="6" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+
+  <!-- GODFATHER FULL BODY (protective stance + nurturing + sparkles) -->
+  <!-- trouser legs -->
+  <path d="M116 138 L110 220 L132 220 L134 138 Z" fill="#392170" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M156 138 L158 220 L180 220 L174 138 Z" fill="#392170" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- shoes -->
+  <ellipse cx="121" cy="222" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="169" cy="222" rx="11" ry="5" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- robe / long coat -->
+  <path d="M98 88 L96 200 L194 200 L192 88 Q145 78 98 88 Z" fill="#7c3fac" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- robe inner -->
+  <path d="M132 88 L138 200 L152 200 L158 88 Q145 84 132 88 Z" fill="#f2e40d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- belt -->
+  <rect x="98" y="138" width="96" height="8" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <!-- neck -->
+  <rect x="138" y="72" width="14" height="16" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- head -->
+  <ellipse cx="145" cy="54" rx="20" ry="20" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- hair greying -->
+  <path d="M126 52 Q126 32 145 30 Q164 32 164 52 Q160 40 145 38 Q130 40 126 52 Z" fill="#b8b8b8" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- eyes -->
+  <circle cx="138" cy="56" r="2.2" fill="#000000"/>
+  <circle cx="152" cy="56" r="2.2" fill="#000000"/>
+  <!-- smile -->
+  <path d="M137 64 Q145 70 153 64" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- beard greying -->
+  <path d="M128 60 Q130 78 145 80 Q160 78 162 60 Q160 70 145 72 Q130 70 128 60 Z" fill="#b8b8b8" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- protective arms forward (over imaginary child / heart) -->
+  <path d="M98 96 Q70 134 92 162 L106 156 Q92 134 116 116 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M192 96 Q220 134 198 162 L184 156 Q198 134 174 116 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- hands -->
+  <circle cx="98" cy="160" r="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <circle cx="192" cy="160" r="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+
+  <!-- heart over chest -->
+  <path d="M138 110 C138 104 145 104 145 110 C145 104 152 104 152 110 C152 118 145 126 145 126 C145 126 138 118 138 110 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- sparkles -->
+  <path d="M40 60 L44 52 L48 60 L56 58 L50 64 L54 72 L46 70 L40 76 L38 68 L32 64 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M242 80 L246 72 L250 80 L258 78 L252 84 L256 92 L248 90 L242 96 L240 88 L234 84 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="36" cy="180" r="3" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="252" cy="200" r="3" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="60" cy="30" r="3" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="230" cy="30" r="3" fill="#fff200" stroke="#000000" stroke-width="1.5"/>
+</svg>

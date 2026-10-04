@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Gift box body -->
+  <rect x="65" y="120" width="160" height="95" rx="6" ry="6" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Gift box lid -->
+  <rect x="58" y="95" width="174" height="32" rx="6" ry="6" fill="#1d0e82" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Vertical ribbon on body -->
+  <rect x="133" y="120" width="24" height="95" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Vertical ribbon on lid -->
+  <rect x="133" y="95" width="24" height="32" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Bow left loop -->
+  <ellipse cx="118" cy="80" rx="22" ry="13" transform="rotate(-30 118 80)" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Bow right loop -->
+  <ellipse cx="172" cy="80" rx="22" ry="13" transform="rotate(30 172 80)" fill="#f7de58" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Bow centre knot -->
+  <circle cx="145" cy="95" r="12" fill="#f2e40d" stroke="#000000" stroke-width="5"/>
+  <!-- Star tag (5-pointed) -->
+  <polygon points="174,133 177,143 188,143 179,149 182,160 174,153 165,160 168,149 160,143 171,143" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Tag string -->
+  <line x1="174" y1="133" x2="181" y2="120" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="60" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- deck -->
+  <rect x="0" y="60" width="290" height="30" fill="#efefef" stroke="#000000" stroke-width="3"/>
+  <!-- pool tile -->
+  <rect x="0" y="88" width="290" height="5" fill="#90a7d6" stroke="#000000" stroke-width="2"/>
+  <!-- pool water -->
+  <rect x="0" y="93" width="290" height="147" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+
+  <!-- lane lines -->
+  <line x1="0" y1="130" x2="290" y2="130" stroke="#fff200" stroke-width="3" stroke-dasharray="8 5"/>
+  <line x1="0" y1="180" x2="290" y2="180" stroke="#fff200" stroke-width="3" stroke-dasharray="8 5"/>
+  <line x1="0" y1="220" x2="290" y2="220" stroke="#fff200" stroke-width="3" stroke-dasharray="8 5"/>
+
+  <!-- INSTRUCTOR on deck (FULL BODY) center -->
+  <circle cx="145" cy="30" r="12" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M133 28 Q137 18 145 17 Q153 18 157 28 Q152 23 145 23 Q138 23 133 28 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="141" cy="30" r="1.4" fill="#000000"/>
+  <circle cx="149" cy="30" r="1.4" fill="#000000"/>
+  <path d="M141 36 Q145 39 149 36" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- torso -->
+  <path d="M133 42 L157 42 L160 85 L130 85 Z" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms -->
+  <path d="M133 50 Q115 60 110 75" fill="none" stroke="#e6b98a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M157 50 Q175 60 180 75" fill="none" stroke="#e6b98a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M133 50 Q115 60 110 75" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M157 50 Q175 60 180 75" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- legs -->
+  <line x1="138" y1="85" x2="137" y2="90" stroke="#392170" stroke-width="10" stroke-linecap="round"/>
+  <line x1="152" y1="85" x2="153" y2="90" stroke="#392170" stroke-width="10" stroke-linecap="round"/>
+  <line x1="138" y1="85" x2="137" y2="90" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="152" y1="85" x2="153" y2="90" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- whistle -->
+  <line x1="145" y1="42" x2="150" y2="55" stroke="#fff200" stroke-width="2"/>
+  <circle cx="150" cy="57" r="2.5" fill="#7f7f7f" stroke="#000000" stroke-width="2"/>
+
+  <!-- CHILD 1 in lane 1 (top) - FULL BODY swimming -->
+  <circle cx="50" cy="108" r="10" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <path d="M42 106 Q44 98 50 97 Q56 98 58 106 Q54 102 50 102 Q46 102 42 106 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="47" cy="108" r="1.2" fill="#000000"/>
+  <circle cx="53" cy="108" r="1.2" fill="#000000"/>
+  <path d="M40 118 Q42 124 50 124 L90 124 L88 112 L52 112 Z" fill="#f266aa" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M58 115 Q72 108 80 105" fill="none" stroke="#eed5b6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M58 115 Q72 108 80 105" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M85 118 Q100 115 108 122" fill="none" stroke="#eed5b6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M88 122 Q105 130 115 122" fill="none" stroke="#eed5b6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M85 118 Q100 115 108 122" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M88 122 Q105 130 115 122" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- CHILD 2 in lane 2 (middle) -->
+  <circle cx="190" cy="155" r="10" fill="#e6b98a" stroke="#000000" stroke-width="2"/>
+  <path d="M182 153 Q184 145 190 144 Q196 145 198 153 Q194 149 190 149 Q186 149 182 153 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="187" cy="155" r="1.2" fill="#000000"/>
+  <circle cx="193" cy="155" r="1.2" fill="#000000"/>
+  <path d="M180 165 Q182 172 190 172 L230 172 L228 160 L192 160 Z" fill="#3aa6a0" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M198 162 Q212 155 220 152" fill="none" stroke="#e6b98a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M198 162 Q212 155 220 152" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M225 168 Q240 168 248 175" fill="none" stroke="#e6b98a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M228 172 Q245 180 255 172" fill="none" stroke="#e6b98a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M225 168 Q240 168 248 175" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M228 172 Q245 180 255 172" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- CHILD 3 in lane 3 (bottom) -->
+  <circle cx="85" cy="200" r="10" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <path d="M77 198 Q79 190 85 189 Q91 190 93 198 Q89 194 85 194 Q81 194 77 198 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="82" cy="200" r="1.2" fill="#000000"/>
+  <circle cx="88" cy="200" r="1.2" fill="#000000"/>
+  <path d="M75 210 Q77 218 85 218 L125 218 L123 206 L87 206 Z" fill="#fff200" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M93 208 Q108 200 115 198" fill="none" stroke="#eed5b6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M93 208 Q108 200 115 198" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M120 215 Q135 215 143 222" fill="none" stroke="#eed5b6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M125 220 Q140 226 150 220" fill="none" stroke="#eed5b6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M120 215 Q135 215 143 222" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M125 220 Q140 226 150 220" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- ripples around swimmers -->
+  <path d="M30 135 Q45 132 60 135" fill="none" stroke="#90a7d6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M170 185 Q185 182 200 185" fill="none" stroke="#90a7d6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M65 228 Q80 225 95 228" fill="none" stroke="#90a7d6" stroke-width="2" stroke-linecap="round"/>
+</svg>

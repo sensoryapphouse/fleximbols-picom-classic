@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- guffaw: figure head thrown back, huge open-mouth belly laugh, big bold "HA" burst -->
+  <!-- Figure with head thrown back (upper body, sitting/standing, belly laughing) -->
+  <!-- Body/torso (upper body, leaning back) -->
+  <path d="M 55 235 L 72 155 Q 115 140 165 148 L 188 228 Z" fill="#ff9900" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Belly (round belly bulge, belly laugh) -->
+  <ellipse cx="122" cy="190" rx="42" ry="32" fill="#ff9900" stroke="#000000" stroke-width="5"/>
+  <!-- Neck (tilted back) -->
+  <rect x="108" y="128" width="26" height="18" rx="5" fill="#eed5b6" stroke="#000000" stroke-width="4" transform="rotate(15,121,137)"/>
+  <!-- Head thrown BACK (rotated, looking up/backward) -->
+  <circle cx="148" cy="98" r="50" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Hair -->
+  <path d="M 100 82 Q 102 44 148 41 Q 190 44 196 82 Q 184 56 148 56 Q 112 56 100 82 Z" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Eyes SQUINTED shut from laughing hard (curved lines) -->
+  <path d="M 128 85 Q 138 76 148 85" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 152 85 Q 162 76 172 85" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Laugh lines / crow's feet -->
+  <path d="M 128 85 Q 122 80 118 76" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 172 85 Q 178 80 182 76" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Rosy red cheeks (big flush from laughing) -->
+  <ellipse cx="122" cy="105" rx="16" ry="11" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="174" cy="105" rx="16" ry="11" fill="#f4a4b2" stroke="none"/>
+  <!-- Mouth: HUGE open laughing mouth (head thrown back) -->
+  <ellipse cx="148" cy="130" rx="38" ry="26" fill="#000000" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="148" cy="133" rx="30" ry="18" fill="#d01424"/>
+  <ellipse cx="148" cy="136" rx="20" ry="12" fill="#4d4d4d"/>
+  <!-- Top teeth row (wide) -->
+  <rect x="114" y="107" width="68" height="14" rx="5" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- Bottom teeth hint -->
+  <rect x="120" y="152" width="56" height="10" rx="4" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- Arms out to sides from belly laughing -->
+  <!-- Left arm out -->
+  <path d="M 72 162 Q 45 155 28 165 Q 20 172 22 185" fill="none" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M 72 162 Q 45 155 28 165 Q 20 172 22 185" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="22" cy="190" rx="12" ry="9" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm out -->
+  <path d="M 175 162 Q 202 155 220 162 Q 230 170 228 185" fill="none" stroke="#eed5b6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M 175 162 Q 202 155 220 162 Q 230 170 228 185" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="228" cy="190" rx="12" ry="9" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- BIG bold "HA" burst (as bold polygon shapes, NOT text) -->
+  <!-- "HA" rendered as abstract thick strokes / starburst fill label burst -->
+  <!-- Starburst / speech burst shape -->
+  <polygon points="230,10 238,28 258,18 250,36 270,34 256,48 274,52 258,62 270,74 252,70 256,90 242,78 236,96 228,78 214,92 218,72 200,74 214,60 198,54 216,46 204,34 222,36 218,18 234,28" fill="#f8130d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- "H" shape as polygons inside burst -->
+  <rect x="214" y="40" width="7" height="28" rx="2" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <rect x="221" y="52" width="12" height="7" rx="2" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <rect x="233" y="40" width="7" height="28" rx="2" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- "A" shape as polygons -->
+  <polygon points="246,68 254,40 262,68" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="248,68 254,40 260,68 248,68" fill="#f8130d"/>
+  <rect x="248" y="58" width="12" height="5" rx="1" fill="#ffffff"/>
+  <!-- Second smaller HA burst (echo) -->
+  <polygon points="262,102 267,112 278,106 274,118 285,118 278,126 285,132 276,130 278,142 270,134 265,145 262,134 254,144 256,132 246,132 254,124 246,118 258,118 254,106 264,112" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

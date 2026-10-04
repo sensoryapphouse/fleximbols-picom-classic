@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground -->
+  <path d="M15 218 L275 218" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- PARENT FULL BODY right (smaller, neutral) -->
+  <circle cx="232" cy="70" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M216 66 Q232 52 248 66" fill="#7d5e23" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="226" cy="71" r="2" fill="#000000"/>
+  <circle cx="238" cy="71" r="2" fill="#000000"/>
+  <path d="M226 82 L238 82" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M218 90 L246 90 L250 170 L214 170 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M218 96 L208 145" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M218 96 L208 145" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M246 96 L258 145" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M246 96 L258 145" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M224 170 L222 218" fill="none" stroke="#4d4d4d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M240 170 L242 218" fill="none" stroke="#4d4d4d" stroke-width="11" stroke-linecap="round"/>
+  <!-- CHILD FULL BODY centre-left with confused expression -->
+  <circle cx="95" cy="80" r="22" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M74 76 Q95 60 116 76" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
+  <!-- one eye open, one squint (confused) -->
+  <circle cx="87" cy="83" r="2.5" fill="#000000"/>
+  <path d="M99 83 L107 83" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- raised one brow -->
+  <path d="M80 73 L92 73" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M100 70 L110 76" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- zigzag confused mouth -->
+  <path d="M85 95 L90 98 L95 95 L100 98 L105 95" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- swirl above head (confusion mark) -->
+  <path d="M95 35 Q105 28 108 38 Q108 48 96 46 Q88 44 92 36" fill="none" stroke="#7c3fac" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- torso -->
+  <path d="M77 105 L113 105 L120 172 L70 172 Z" fill="#ff9900" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- one arm forward toward parent, one arm back away -->
+  <path d="M113 112 L155 130" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M113 112 L155 130" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M77 112 L40 130" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M77 112 L40 130" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- child legs -->
+  <path d="M87 172 L82 218" fill="none" stroke="#1d0e82" stroke-width="11" stroke-linecap="round"/>
+  <path d="M103 172 L108 218" fill="none" stroke="#1d0e82" stroke-width="11" stroke-linecap="round"/>
+  <!-- ARROW toward parent (right) -->
+  <path d="M130 60 L195 60" fill="none" stroke="#529929" stroke-width="4" stroke-linecap="round"/>
+  <path d="M195 60 L188 55 M195 60 L188 65" fill="none" stroke="#529929" stroke-width="4" stroke-linecap="round"/>
+  <!-- ARROW away from parent (left) -->
+  <path d="M75 50 L20 50" fill="none" stroke="#d01424" stroke-width="4" stroke-linecap="round"/>
+  <path d="M20 50 L27 45 M20 50 L27 55" fill="none" stroke="#d01424" stroke-width="4" stroke-linecap="round"/>
+</svg>

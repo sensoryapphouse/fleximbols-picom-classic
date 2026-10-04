@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Bust: neck + shoulders -->
+  <rect x="88" y="180" width="114" height="48" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shirt -->
+  <path d="M88 192 Q145 212 202 192" fill="#f7de58" stroke="#000000" stroke-width="4"/>
+  <!-- Neck -->
+  <rect x="126" y="163" width="38" height="24" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="120" rx="52" ry="56" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M95 110 Q93 72 118 62 Q145 52 172 62 Q195 72 195 110" fill="#7d5e23" stroke="#000000" stroke-width="4"/>
+  <!-- Eyes: slightly wide, nervous -->
+  <ellipse cx="122" cy="115" rx="13" ry="11" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="122" cy="115" rx="7" ry="8" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="120" cy="113" rx="2" ry="2" fill="#ffffff"/>
+  <ellipse cx="168" cy="115" rx="13" ry="11" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="168" cy="115" rx="7" ry="8" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="166" cy="113" rx="2" ry="2" fill="#ffffff"/>
+  <!-- Eyebrows slightly raised -->
+  <path d="M108 101 Q122 96 136 101" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M154 101 Q168 96 182 101" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Mouth: small uncertain line -->
+  <path d="M130 148 Q145 145 160 148" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Twiddling hands — two hands in front of bust, fingers intertwined -->
+  <!-- Left hand blob -->
+  <ellipse cx="116" cy="208" rx="18" ry="12" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Finger bumps on left hand -->
+  <ellipse cx="100" cy="202" rx="6" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="107" cy="198" rx="6" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="115" cy="196" rx="6" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Right hand blob -->
+  <ellipse cx="172" cy="208" rx="18" ry="12" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Finger bumps on right hand -->
+  <ellipse cx="188" cy="202" rx="6" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="181" cy="198" rx="6" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="173" cy="196" rx="6" ry="5" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Jitter motion lines around the hands -->
+  <line x1="90" y1="195" x2="82" y2="188" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="88" y1="208" x2="78" y2="208" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="92" y1="220" x2="84" y2="226" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="198" y1="195" x2="206" y2="188" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="208" x2="210" y2="208" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="196" y1="220" x2="204" y2="226" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Extra small jitter arcs near hands -->
+  <path d="M104 230 Q110 236 118 230" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M170 230 Q176 236 184 230" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+</svg>

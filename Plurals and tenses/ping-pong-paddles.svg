@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,22.920) scale(0.9045)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- handle -->
+  <path d="M155,170 L175,170 Q180,170 180,175 L180,215 Q180,222 173,222 L157,222 Q150,222 150,215 L150,175 Q150,170 155,170 Z"
+        fill="#5e1f0a" stroke="#000000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- handle grip stripes -->
+  <path d="M152,185 L178,185 M152,195 L178,195 M152,205 L178,205" fill="none" stroke="#000000" stroke-width="1.5"/>
+  <!-- handle wood band -->
+  <path d="M150,168 L180,168 L180,178 L150,178 Z" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- round paddle blade (wood edge) -->
+  <circle cx="165" cy="100" r="78" fill="#eed5b6" stroke="#000000" stroke-width="3.5"/>
+  <!-- rubber face (red) -->
+  <circle cx="165" cy="100" r="68" fill="#d01424" stroke="#000000" stroke-width="3"/>
+  <!-- rubber face highlight -->
+  <path d="M125,65 Q140,50 165,48 Q145,55 130,80 Z" fill="#f8130d" stroke="none"/>
+  <!-- rubber pip texture (few dots) -->
+  <circle cx="140" cy="80" r="2" fill="#5e1f0a" stroke="none"/>
+  <circle cx="155" cy="75" r="2" fill="#5e1f0a" stroke="none"/>
+  <circle cx="175" cy="80" r="2" fill="#5e1f0a" stroke="none"/>
+  <circle cx="190" cy="90" r="2" fill="#5e1f0a" stroke="none"/>
+  <circle cx="145" cy="115" r="2" fill="#5e1f0a" stroke="none"/>
+  <circle cx="165" cy="105" r="2" fill="#5e1f0a" stroke="none"/>
+  <circle cx="185" cy="120" r="2" fill="#5e1f0a" stroke="none"/>
+  <circle cx="155" cy="140" r="2" fill="#5e1f0a" stroke="none"/>
+  <circle cx="175" cy="145" r="2" fill="#5e1f0a" stroke="none"/>
+  <!-- small white ball beside -->
+  <circle cx="50" cy="170" r="20" fill="#ffffff" stroke="#000000" stroke-width="3.5"/>
+  <ellipse cx="44" cy="163" rx="5" ry="3.5" fill="#efefef" stroke="none"/>
+</g><g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl2143" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl2143)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

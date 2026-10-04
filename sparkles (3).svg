@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- large sparkle (centre) - 4-point star -->
+  <polygon points="145,18 152,108 242,115 152,122 145,212 138,122 48,115 138,108" fill="#fff200" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- large sparkle inner glow -->
+  <polygon points="145,60 149,108 196,112 149,116 145,164 141,116 94,112 141,108" fill="#f7de58" stroke="none"/>
+  <!-- small sparkle top-right -->
+  <polygon points="228,22 232,56 266,60 232,64 228,98 224,64 190,60 224,56" fill="#fff200" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- small sparkle bottom-left -->
+  <polygon points="56,140 59,168 88,171 59,174 56,202 53,174 24,171 53,168" fill="#fff200" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- tiny sparkle top-left -->
+  <polygon points="32,38 34,52 48,54 34,56 32,70 30,56 16,54 30,52" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

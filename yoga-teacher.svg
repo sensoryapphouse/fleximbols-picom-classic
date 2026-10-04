@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- mats: teacher (front) and two students -->
+  <rect x="20" y="205" width="80" height="15" rx="4" ry="4" fill="#f266aa" stroke="#000000" stroke-width="2.5"/>
+  <rect x="190" y="205" width="80" height="15" rx="4" ry="4" fill="#f266aa" stroke="#000000" stroke-width="2.5"/>
+  <rect x="105" y="215" width="80" height="20" rx="5" ry="5" fill="#7c3fac" stroke="#000000" stroke-width="3"/>
+  <!-- TEACHER in centre, FULL BODY, arms raised (mountain pose) -->
+  <circle cx="145" cy="58" r="14" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <path d="M 132,55 Q 132,42 145,40 Q 159,42 158,57 Q 154,49 146,47 Q 137,49 134,52 Z" fill="#7d5e23" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="141" cy="60" r="1.6" fill="#000000"/>
+  <circle cx="149" cy="60" r="1.6" fill="#000000"/>
+  <path d="M 141,66 Q 145,68 149,66" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <rect x="142" y="72" width="6" height="5" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- torso -->
+  <path d="M 132,77 L 158,77 L 156,135 L 134,135 Z" fill="#3aa6a0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms raised high -->
+  <path d="M 132,80 Q 115,55 122,30" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 134,80 Q 117,55 124,32 Q 128,33 127,37 Q 121,56 138,80 Z" fill="#3aa6a0" stroke="#000000" stroke-width="2.5"/>
+  <path d="M 158,80 Q 175,55 168,30" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 156,80 Q 173,55 166,32 Q 162,33 163,37 Q 169,56 152,80 Z" fill="#3aa6a0" stroke="#000000" stroke-width="2.5"/>
+  <!-- hands -->
+  <circle cx="122" cy="28" r="4" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <circle cx="168" cy="28" r="4" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- legs -->
+  <rect x="135" y="135" width="10" height="60" fill="#392170" stroke="#000000" stroke-width="2.5"/>
+  <rect x="147" y="135" width="10" height="60" fill="#392170" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="140" cy="197" rx="8" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="152" cy="197" rx="8" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- STUDENT LEFT (FULL BODY, child pose / forward bend simplified standing forward fold) -->
+  <circle cx="55" cy="135" r="11" fill="#e6b98a" stroke="#000000" stroke-width="2.5"/>
+  <path d="M 45,134 Q 45,124 55,122 Q 66,124 65,135 Q 62,128 56,127 Q 49,128 46,131 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <circle cx="52" cy="137" r="1.3" fill="#000000"/>
+  <circle cx="58" cy="137" r="1.3" fill="#000000"/>
+  <!-- torso bent forward -->
+  <path d="M 45,145 L 65,145 L 70,175 L 40,175 Z" fill="#ff9900" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- arms hanging down -->
+  <path d="M 45,148 Q 38,170 42,195" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 65,148 Q 72,170 68,195" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- legs -->
+  <rect x="43" y="175" width="10" height="32" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <rect x="57" y="175" width="10" height="32" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <!-- STUDENT RIGHT (FULL BODY, warrior arms) -->
+  <circle cx="235" cy="135" r="11" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <path d="M 225,134 Q 225,124 235,122 Q 246,124 245,135 Q 242,128 236,127 Q 229,128 226,131 Z" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <circle cx="232" cy="137" r="1.3" fill="#000000"/>
+  <circle cx="238" cy="137" r="1.3" fill="#000000"/>
+  <path d="M 225,145 L 245,145 L 250,175 L 220,175 Z" fill="#7c3fac" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- arms outstretched horizontally -->
+  <path d="M 225,148 Q 210,150 200,148" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M 245,148 Q 260,150 270,148" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- legs -->
+  <rect x="223" y="175" width="10" height="32" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <rect x="237" y="175" width="10" height="32" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+</svg>

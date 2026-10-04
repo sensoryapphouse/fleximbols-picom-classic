@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Man's face profile + clippers trimming beard -->
+  <!-- Neck/shoulders -->
+  <path d="M110 195 L110 178 L160 178 L160 195 L195 215 L195 230 L60 230 L60 215 Z" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Face (profile facing right) -->
+  <path d="M160 80 Q182 82 188 108 Q190 130 184 148 L178 152 L182 178 L160 178 L140 178 Q128 176 120 164 Q108 148 108 122 Q110 92 138 80 Q150 78 160 80 Z" fill="#eed5b6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Ear -->
+  <path d="M138 118 Q132 124 136 138 Q142 144 150 142" fill="#e6b98a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Eye -->
+  <circle cx="172" cy="112" r="2.5" fill="#000000" stroke="#000000" stroke-width="1"/>
+  <!-- Eyebrow -->
+  <path d="M166 104 L180 104" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M188 112 Q194 122 188 128" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Hair (regular short hair on top) -->
+  <path d="M108 100 Q108 60 150 56 Q188 60 192 95 L190 108 Q182 84 168 78 Q150 74 138 78 Q120 84 112 100 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- BEARD covering jaw, chin and cheek -->
+  <path d="M122 148 Q118 168 130 178 L160 178 L182 178 L184 168 Q186 152 178 148 Q172 158 162 158 Q150 158 140 156 Q128 152 122 148 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Beard texture lines (stubble flow) -->
+  <path d="M138 158 L136 175 M148 162 L148 178 M158 162 L160 178 M168 162 L170 178 M176 158 L178 174" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Moustache -->
+  <path d="M170 132 Q178 134 184 132 L184 138 Q175 142 168 138 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Mouth -->
+  <path d="M178 142 Q182 144 184 142" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- CLIPPERS / TRIMMER held to the beard -->
+  <!-- Trimmer body -->
+  <rect x="206" y="155" width="56" height="28" rx="4" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Trimmer detail line -->
+  <rect x="212" y="162" width="44" height="6" fill="#4d4d4d" stroke="#000000" stroke-width="1.5"/>
+  <!-- Blade head pointing at beard -->
+  <path d="M206 160 L188 158 L188 178 L206 176 Z" fill="#b8b8b8" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Blade teeth -->
+  <path d="M188 162 L186 158 M192 162 L190 158 M196 162 L194 158 M200 162 L198 158 M204 162 L202 158" fill="none" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Trimmer button -->
+  <circle cx="234" cy="168" r="3" fill="#f8130d" stroke="#000000" stroke-width="1.5"/>
+  <!-- Falling cut hairs -->
+  <path d="M200 188 L198 196 M210 190 L210 200 M195 195 L193 205" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl214" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl214)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

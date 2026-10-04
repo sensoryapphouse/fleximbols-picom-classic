@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Cloud (small, grey, gentle) -->
+  <ellipse cx="210" cy="45" rx="28" ry="16" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="226" cy="50" rx="20" ry="13" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="195" cy="52" rx="18" ry="12" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="192" y="55" width="58" height="8" fill="#b8b8b8" stroke="none"/>
+
+  <!-- Parent body (torso, skin) -->
+  <rect x="105" y="120" width="60" height="70" rx="10" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Parent top / shirt -->
+  <rect x="105" y="118" width="60" height="40" rx="8" fill="#90a7d6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Parent head -->
+  <ellipse cx="135" cy="100" rx="24" ry="26" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Parent hair -->
+  <ellipse cx="135" cy="79" rx="24" ry="12" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Parent eyes (tired) - half-closed lines -->
+  <line x1="124" y1="100" x2="130" y2="100" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="140" y1="100" x2="146" y2="100" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Parent left arm cradling -->
+  <path d="M105 140 Q75 160 80 185" fill="none" stroke="#eed5b6" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M105 140 Q75 160 80 185" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Parent right arm -->
+  <path d="M165 140 Q190 155 185 180" fill="none" stroke="#eed5b6" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M165 140 Q190 155 185 180" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Baby body (small, wrapped) -->
+  <ellipse cx="135" cy="175" rx="30" ry="22" fill="#f4a4b2" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Baby head -->
+  <ellipse cx="155" cy="162" rx="16" ry="14" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Baby eyes closed (sleeping) -->
+  <path d="M148 162 Q150 160 152 162" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M155 162 Q157 160 159 162" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Parent legs -->
+  <rect x="110" y="185" width="20" height="35" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="140" y="185" width="20" height="35" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+</svg>

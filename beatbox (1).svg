@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Single performer FULL BODY, hand near mouth, sound-wave bursts emanating -->
+
+  <!-- Legs -->
+  <rect x="108" y="160" width="14" height="52" rx="4" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="130" y="160" width="14" height="52" rx="4" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Sneakers -->
+  <path d="M102 214 L102 224 L132 224 L132 214 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M124 214 L124 224 L154 224 L154 214 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="106" y1="218" x2="128" y2="218" stroke="#d01424" stroke-width="2"/>
+  <line x1="128" y1="218" x2="150" y2="218" stroke="#d01424" stroke-width="2"/>
+
+  <!-- Torso (hoodie style) -->
+  <rect x="98" y="98" width="56" height="68" rx="6" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Hoodie collar V -->
+  <path d="M118 98 L126 116 L134 98" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Head -->
+  <circle cx="126" cy="68" r="22" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Hair / cap -->
+  <path d="M104 64 Q104 44 126 42 Q148 44 148 64 L144 60 Q140 50 126 50 Q112 50 108 60 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Eyes (focused) -->
+  <ellipse cx="118" cy="66" rx="3" ry="4" fill="#000000"/>
+  <ellipse cx="134" cy="66" rx="3" ry="4" fill="#000000"/>
+  <!-- Eyebrows -->
+  <path d="M112 58 Q118 55 124 58" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M128 58 Q134 55 140 58" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Open mouth (O shape) -->
+  <ellipse cx="126" cy="82" rx="6" ry="5" fill="#000000" stroke="#000000" stroke-width="2.5"/>
+
+  <!-- Right arm bringing hand/mic up to mouth -->
+  <path d="M154 110 L172 96 L168 80" fill="none" stroke="#e6b98a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Cupped hand near mouth -->
+  <ellipse cx="156" cy="80" rx="11" ry="9" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <path d="M148 78 Q156 70 164 78" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Left arm down -->
+  <path d="M98 112 L88 144 L96 158" fill="none" stroke="#e6b98a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Sound-wave burst bursts emanating to right -->
+  <path d="M180 60 Q196 64 200 80" fill="none" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
+  <path d="M188 50 Q210 56 216 80" fill="none" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
+  <path d="M196 40 Q224 48 232 78" fill="none" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
+  <!-- Spiky burst star -->
+  <polygon points="220,100 232,90 230,104 248,102 234,114 244,128 228,122 222,138 218,124 204,128 214,114 200,108 216,106" fill="#f7de58" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- More waves right -->
+  <path d="M250 138 Q264 144 264 158" fill="none" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
+  <path d="M242 152 Q256 160 254 174" fill="none" stroke="#ff9900" stroke-width="4" stroke-linecap="round"/>
+  <!-- Music note pop -->
+  <ellipse cx="262" cy="78" rx="5" ry="4" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <line x1="267" y1="76" x2="267" y2="56" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M267 56 Q278 60 276 72" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Left side small burst lines -->
+  <line x1="80" y1="60" x2="68" y2="50" stroke="#ff9900" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="76" y1="78" x2="60" y2="76" stroke="#ff9900" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

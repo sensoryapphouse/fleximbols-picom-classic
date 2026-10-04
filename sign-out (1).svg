@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Door frame -->
+  <rect x="80" y="40" width="90" height="160" rx="4" fill="#efefef" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Door threshold line -->
+  <line x1="80" y1="200" x2="170" y2="200" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Door panel (slightly ajar) -->
+  <rect x="80" y="40" width="60" height="160" rx="4" fill="#b8b8b8" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Door knob -->
+  <circle cx="136" cy="125" r="7" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <!-- Arrow pointing OUT of the door (going right, away from doorway) -->
+  <line x1="152" y1="120" x2="220" y2="120" stroke="#f8130d" stroke-width="7" stroke-linecap="round"/>
+  <!-- Arrow head pointing right -->
+  <polygon points="232,120 212,108 212,132" fill="#f8130d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Person figure leaving (just exited, left side of door heading right) -->
+  <!-- Head -->
+  <circle cx="60" cy="80" r="18" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Body -->
+  <rect x="47" y="98" width="26" height="38" rx="6" fill="#f8130d" stroke="#000000" stroke-width="4"/>
+  <!-- Legs (walking) -->
+  <line x1="55" y1="136" x2="48" y2="172" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <line x1="65" y1="136" x2="72" y2="172" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Arms (one pointing toward exit) -->
+  <line x1="73" y1="108" x2="90" y2="116" stroke="#eed5b6" stroke-width="5" stroke-linecap="round"/>
+  <line x1="47" y1="108" x2="40" y2="120" stroke="#eed5b6" stroke-width="5" stroke-linecap="round"/>
+</svg>

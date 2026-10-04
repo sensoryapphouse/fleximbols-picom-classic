@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- baseline -->
+  <path d="M20 140 L270 140" stroke="#b8b8b8" stroke-width="2" stroke-linecap="round"/>
+  <!-- sine wave: crests at x=70 and x=210 (crest-to-crest distance = wavelength) -->
+  <path d="M20 140 C40 140 50 60 70 60 C90 60 100 220 140 220 C180 220 190 60 210 60 C230 60 240 140 270 140" fill="none" stroke="#2a4ec0" stroke-width="5" stroke-linecap="round"/>
+  <!-- vertical dashed guide lines at the two crests -->
+  <path d="M70 60 L70 35" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M210 60 L210 35" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- horizontal double-arrow measuring crest-to-crest distance (bracket shapes) -->
+  <path d="M70 30 L210 30" stroke="#d01424" stroke-width="4" stroke-linecap="round"/>
+  <!-- left arrowhead bracket -->
+  <path d="M85 20 L70 30 L85 40" fill="none" stroke="#d01424" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- right arrowhead bracket -->
+  <path d="M195 20 L210 30 L195 40" fill="none" stroke="#d01424" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- small dots at crest peaks -->
+  <circle cx="70" cy="60" r="5" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <circle cx="210" cy="60" r="5" fill="#d01424" stroke="#000000" stroke-width="2"/>
+</svg>

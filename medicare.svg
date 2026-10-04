@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Medicare card -->
+  <rect x="20" y="30" width="160" height="95" rx="6" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- Card top stripe (red+white+blue patriotic) -->
+  <rect x="20" y="30" width="160" height="14" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <rect x="20" y="44" width="160" height="6" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+  <rect x="20" y="50" width="160" height="14" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <!-- Card body info bars -->
+  <rect x="32" y="74" width="80" height="6" fill="#4d4d4d"/>
+  <rect x="32" y="86" width="120" height="5" fill="#7f7f7f"/>
+  <rect x="32" y="96" width="100" height="5" fill="#7f7f7f"/>
+  <rect x="32" y="108" width="70" height="6" fill="#4d4d4d"/>
+  <!-- Medical cross badge on card -->
+  <rect x="140" y="78" width="32" height="40" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <rect x="152" y="82" width="8" height="32" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <rect x="144" y="94" width="24" height="8" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <!-- Senior figure FULL BODY -->
+  <!-- Head with grey hair -->
+  <circle cx="225" cy="60" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- Grey hair -->
+  <path d="M209 55 Q209 44 225 44 Q241 44 241 55 Q241 50 235 50 Q230 47 225 48 Q220 47 215 50 Q209 50 209 55 Z" fill="#b8b8b8" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Glasses -->
+  <circle cx="219" cy="61" r="4" fill="none" stroke="#000000" stroke-width="2"/>
+  <circle cx="231" cy="61" r="4" fill="none" stroke="#000000" stroke-width="2"/>
+  <path d="M223 61 L227 61" stroke="#000000" stroke-width="2"/>
+  <!-- Smile -->
+  <path d="M220 68 Q225 72 230 68" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="221" y="77" width="8" height="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- Torso (cardigan) -->
+  <path d="M205 84 L245 84 L250 140 L200 140 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Shirt collar V -->
+  <path d="M220 84 L225 95 L230 84" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Arms -->
+  <path d="M205 88 L188 130 L196 138 L212 100 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M245 88 L262 130 L254 138 L238 100 Z" fill="#7c3fac" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Hands -->
+  <circle cx="192" cy="134" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- Right hand holding cane -->
+  <circle cx="258" cy="134" r="6" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <!-- Cane -->
+  <path d="M260 130 Q265 125 270 130 L270 215" fill="none" stroke="#9d7246" stroke-width="4" stroke-linecap="round"/>
+  <!-- Pants -->
+  <rect x="205" y="140" width="18" height="60" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <rect x="227" y="140" width="18" height="60" fill="#4d4d4d" stroke="#000000" stroke-width="3"/>
+  <!-- Shoes -->
+  <ellipse cx="210" cy="208" rx="12" ry="6" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="240" cy="208" rx="12" ry="6" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <!-- Dollar sign in corner -->
+  <circle cx="50" cy="170" r="22" fill="#f2e40d" stroke="#000000" stroke-width="3"/>
+  <path d="M50 155 L50 185 M42 161 Q42 156 50 156 L57 156 Q62 156 62 161 Q62 166 57 167 L50 169 Q42 170 42 176 Q42 181 47 181 L57 181 Q62 181 62 176" fill="none" stroke="#529929" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bottom medical cross -->
+  <rect x="100" y="155" width="40" height="50" fill="#d01424" stroke="#000000" stroke-width="3"/>
+  <rect x="115" y="155" width="10" height="50" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <rect x="100" y="173" width="40" height="14" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+</svg>

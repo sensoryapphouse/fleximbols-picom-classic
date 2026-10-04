@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- floor -->
+  <line x1="10" y1="210" x2="280" y2="210" stroke="#000000" stroke-width="3"/>
+  <!-- headboard -->
+  <rect x="40" y="60" width="20" height="120" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- mattress -->
+  <rect x="60" y="100" width="200" height="40" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- pillow -->
+  <rect x="70" y="80" width="50" height="25" fill="#f4a4b2" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- blanket overhang -->
+  <path d="M60 130 L260 130 L260 175 L60 175 Z" fill="#2a4ec0" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- bed frame legs -->
+  <rect x="60" y="175" width="14" height="35" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <rect x="246" y="175" width="14" height="35" fill="#7d5e23" stroke="#000000" stroke-width="3"/>
+  <!-- under-bed flat storage container sliding out to the right -->
+  <rect x="170" y="180" width="120" height="28" fill="#90a7d6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- lid line -->
+  <line x1="170" y1="187" x2="290" y2="187" stroke="#000000" stroke-width="2"/>
+  <!-- handle -->
+  <rect x="270" y="190" width="14" height="6" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- motion lines showing it sliding out -->
+  <line x1="155" y1="190" x2="165" y2="190" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="155" y1="200" x2="165" y2="200" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl3034" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl3034)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

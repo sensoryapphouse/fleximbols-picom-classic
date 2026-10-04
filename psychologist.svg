@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Person body -->
+  <ellipse cx="100" cy="155" rx="32" ry="42" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Person head -->
+  <circle cx="100" cy="100" r="24" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Face -->
+  <circle cx="93" cy="97" r="2.5" fill="#000000"/>
+  <circle cx="107" cy="97" r="2.5" fill="#000000"/>
+  <path d="M93 107 Q100 113 107 107" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Hair -->
+  <path d="M78 96 Q100 76 122 96" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Arm holding clipboard -->
+  <path d="M68 155 Q55 168 62 185" stroke="#eed5b6" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <path d="M68 155 Q55 168 62 185" stroke="#000000" stroke-width="5" stroke-linecap="round" fill="none"/>
+
+  <!-- Clipboard -->
+  <rect x="60" y="182" width="36" height="44" rx="4" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="70" y="178" width="16" height="8" rx="3" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="66" y1="196" x2="90" y2="196" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="66" y1="204" x2="90" y2="204" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <line x1="66" y1="212" x2="82" y2="212" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Brain silhouette (large, right side) -->
+  <path d="M168 60
+    C168 44 180 34 192 38
+    C196 32 208 30 216 38
+    C226 32 240 38 240 52
+    C250 52 256 62 252 72
+    C260 78 260 92 250 96
+    C252 108 244 118 234 116
+    C230 126 218 130 208 124
+    C200 132 186 130 180 120
+    C170 118 162 108 166 96
+    C158 88 158 72 168 66Z"
+    fill="#dff3fd" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Brain fold lines -->
+  <path d="M192 52 C196 60 194 70 200 76" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M214 44 C210 54 212 64 206 72" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M232 56 C228 66 230 78 224 84" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M178 82 C186 86 194 84 200 90" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M220 88 C228 90 236 86 242 92" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+  <!-- Thought bubble from head to brain -->
+  <circle cx="130" cy="88" r="6" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="146" cy="78" r="8" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <circle cx="162" cy="70" r="5" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+</svg>

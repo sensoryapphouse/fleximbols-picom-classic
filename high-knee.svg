@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- High knee run in place: left knee raised high to chest level, right arm forward, left arm back -->
+  <!-- Floor line -->
+  <path d="M 50,220 L 240,220" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Head -->
+  <circle cx="145" cy="40" r="22" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M 124,34 Q 126,18 145,18 Q 164,18 166,34 Q 158,25 145,26 Q 132,25 124,34 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Eyes (focused forward) -->
+  <ellipse cx="138" cy="39" rx="2.5" ry="3" fill="#000000"/>
+  <ellipse cx="152" cy="39" rx="2.5" ry="3" fill="#000000"/>
+  <!-- Focused expression -->
+  <path d="M 139,49 L 151,49" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Torso (slight lean forward while running) -->
+  <path d="M 134,60 Q 136,57 145,56 Q 154,57 156,60 L 158,106 L 132,106 Z" fill="#d01424" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- RIGHT ARM: forward (driving) -->
+  <path d="M 132,72 Q 118,66 104,58" stroke="#000000" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path d="M 104,58 Q 94,52 84,44" stroke="#000000" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <circle cx="82" cy="42" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- LEFT ARM: back (pumping back) -->
+  <path d="M 158,72 Q 172,78 184,88" stroke="#000000" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path d="M 184,88 Q 194,96 202,106" stroke="#000000" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <circle cx="204" cy="108" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- LEFT LEG: raised HIGH - thigh horizontal at chest level -->
+  <!-- Upper left thigh (raised up nearly horizontal) -->
+  <path d="M 134,106 Q 122,104 108,102 Q 96,100 84,100" stroke="#1d0e82" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <!-- Left shin: hanging down from bent knee -->
+  <path d="M 84,100 Q 80,118 78,140" stroke="#1d0e82" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <!-- Left foot (elevated, not touching ground) -->
+  <path d="M 72,140 L 60,144" stroke="#000000" stroke-width="7" stroke-linecap="round"/>
+  <!-- HIGH KNEE emphasis: dashed line showing knee height vs chest -->
+  <path d="M 68,100 L 172,100" stroke="#f7de58" stroke-width="2" stroke-dasharray="5,3" stroke-linecap="round"/>
+  <!-- Knee highlight circle -->
+  <circle cx="84" cy="100" r="10" fill="none" stroke="#2a4ec0" stroke-width="3"/>
+  <!-- Arrow indicating knee direction UP -->
+  <path d="M 84,88 L 84,78 M 80,83 L 84,78 L 88,83" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- RIGHT LEG: supporting (planted on ground) -->
+  <!-- Right upper thigh going down -->
+  <path d="M 156,106 Q 164,126 168,148" stroke="#1d0e82" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <!-- Right shin -->
+  <path d="M 168,148 Q 170,178 170,220" stroke="#1d0e82" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <!-- Right foot on ground -->
+  <path d="M 162,220 L 182,220" stroke="#000000" stroke-width="7" stroke-linecap="round"/>
+  <!-- Motion blur lines (running in place cues) -->
+  <path d="M 155,218 Q 158,212 154,208" stroke="#2a4ec0" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M 175,218 Q 178,212 174,208" stroke="#2a4ec0" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>

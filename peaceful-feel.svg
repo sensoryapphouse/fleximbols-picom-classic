@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Soft halo -->
+  <ellipse cx="145" cy="52" rx="44" ry="14" fill="none" stroke="#f7de58" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="52" rx="38" ry="10" fill="#f7de58" stroke="none"/>
+  <!-- Shoulders -->
+  <path d="M55,240 L55,186 Q75,166 102,160 L145,156 L188,160 Q215,166 235,186 L235,240 Z" fill="#e6b98a" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- White shirt/top -->
+  <path d="M102,160 Q117,176 145,179 Q173,176 188,160" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="127" y="140" width="36" height="24" rx="6" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="103" rx="57" ry="60" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Hair - flowing peaceful -->
+  <path d="M90,96 Q89,60 103,48 Q117,36 145,34 Q173,36 187,48 Q201,60 200,96 Q193,72 178,62 Q162,54 145,54 Q128,54 112,62 Q97,72 90,96 Z" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Blissful closed crescent eyes -->
+  <path d="M107,102 Q120,94 133,102" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M107,102 Q120,107 133,102" fill="#eed5b6" stroke="none"/>
+  <path d="M157,102 Q170,94 183,102" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M157,102 Q170,107 183,102" fill="#eed5b6" stroke="none"/>
+  <!-- Peaceful brows - gentle arches -->
+  <path d="M108,90 Q120,86 132,90" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M158,90 Q170,86 182,90" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Blissful wide smile -->
+  <path d="M120,126 Q145,144 170,126" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Rosy cheeks -->
+  <ellipse cx="107" cy="118" rx="14" ry="9" fill="#f4a4b2" stroke="none"/>
+  <ellipse cx="183" cy="118" rx="14" ry="9" fill="#f4a4b2" stroke="none"/>
+  <!-- Dove - upper right, simple -->
+  <path d="M200,75 Q210,62 225,65 Q218,70 215,76 Q222,74 228,78 Q220,82 212,80 Q208,86 200,88 Q202,82 200,75 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Dove wing -->
+  <path d="M208,76 Q215,72 220,76" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Leaf - upper left -->
+  <path d="M65,78 Q68,65 80,62 Q85,72 78,80 Q72,82 65,78 Z" fill="#529929" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M65,78 Q73,71 80,62" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Soft glow dots around halo -->
+  <ellipse cx="108" cy="46" rx="4" ry="4" fill="#f7de58" stroke="none"/>
+  <ellipse cx="182" cy="46" rx="4" ry="4" fill="#f7de58" stroke="none"/>
+  <ellipse cx="145" cy="40" rx="3" ry="3" fill="#fff200" stroke="none"/>
+</svg>

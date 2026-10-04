@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Money tree trunk -->
+  <rect x="174" y="170" width="14" height="50" rx="5" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Tree pot/base -->
+  <path d="M158,218 L166,198 L196,198 L204,218 Z" fill="#7d5e23" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Tree canopy layers (growing wealth) -->
+  <ellipse cx="181" cy="168" rx="44" ry="28" fill="#529929" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="181" cy="148" rx="34" ry="22" fill="#67832d" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="181" cy="130" rx="24" ry="16" fill="#137827" stroke="#000000" stroke-width="5"/>
+  <!-- Coin leaves -->
+  <circle cx="162" cy="160" r="9" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <circle cx="200" cy="156" r="9" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <circle cx="168" cy="138" r="8" fill="#f2e40d" stroke="#000000" stroke-width="3"/>
+  <circle cx="194" cy="140" r="8" fill="#f2e40d" stroke="#000000" stroke-width="3"/>
+  <circle cx="181" cy="128" r="7" fill="#fff200" stroke="#000000" stroke-width="3"/>
+  <!-- Shield (wealth protection) -->
+  <path d="M230,60 L230,40 L248,34 L266,40 L266,60 Q248,74 230,60 Z" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <polyline points="236,52 246,60 262,44" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Person: head -->
+  <circle cx="72" cy="46" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <path d="M52,42 Q56,24 72,26 Q88,24 92,42" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Torso - sharp suit -->
+  <rect x="54" y="68" width="36" height="38" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="72,70 68,80 72,104 76,80" fill="#fff200" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Left arm gesturing up at tree -->
+  <line x1="54" y1="76" x2="30" y2="106" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="28" cy="108" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Right arm reaching to tree area -->
+  <line x1="90" y1="76" x2="128" y2="130" stroke="#eed5b6" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="130" cy="132" r="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Legs -->
+  <rect x="56" y="104" width="14" height="48" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="74" y="104" width="14" height="48" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <rect x="52" y="150" width="20" height="10" rx="4" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="72" y="150" width="20" height="10" rx="4" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Stacked asset bars (portfolio) lower left -->
+  <rect x="26" y="150" width="20" height="34" rx="3" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="26" y="160" width="20" height="8" rx="2" fill="#1d0e82" stroke="none"/>
+  <rect x="26" y="170" width="20" height="8" rx="2" fill="#1d0e82" stroke="none"/>
+</svg>

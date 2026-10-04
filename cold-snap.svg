@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Sky/scene background panel -->
+  <rect x="26" y="16" width="238" height="172" rx="8" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Frozen ground strip -->
+  <rect x="26" y="180" width="238" height="42" rx="0" fill="#90a7d6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Frosted town silhouette: house left -->
+  <rect x="34" y="152" width="56" height="42" fill="#b8b8b8" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <polygon points="34,152 62,122 90,152" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Snow on house roof -->
+  <path d="M34,152 Q48,144 62,142 Q76,144 90,152" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Small building right of house -->
+  <rect x="96" y="160" width="36" height="34" fill="#b8b8b8" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M96,160 Q114,148 132,160" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96,160 Q114,152 132,160" fill="#ffffff" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Large snowflake (left-centre) -->
+  <g stroke="#2a4ec0" stroke-width="4" stroke-linecap="round">
+    <line x1="72" y1="38" x2="72" y2="112"/>
+    <line x1="35" y1="75" x2="109" y2="75"/>
+    <line x1="49" y1="52" x2="95" y2="98"/>
+    <line x1="95" y1="52" x2="49" y2="98"/>
+    <!-- Barbs -->
+    <line x1="72" y1="54" x2="61" y2="43"/>
+    <line x1="72" y1="54" x2="83" y2="43"/>
+    <line x1="72" y1="96" x2="61" y2="107"/>
+    <line x1="72" y1="96" x2="83" y2="107"/>
+    <line x1="50" y1="75" x2="39" y2="64"/>
+    <line x1="50" y1="75" x2="39" y2="86"/>
+    <line x1="94" y1="75" x2="105" y2="64"/>
+    <line x1="94" y1="75" x2="105" y2="86"/>
+  </g>
+  <circle cx="72" cy="75" r="8" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <!-- Thermometer (right side, plunged LOW) -->
+  <rect x="186" y="24" width="26" height="148" rx="13" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="191" y="44" width="16" height="128" rx="6" fill="#efefef" stroke="#000000" stroke-width="2"/>
+  <!-- Blue mercury LOW: only bottom quarter filled -->
+  <rect x="191" y="132" width="16" height="40" fill="#2a4ec0"/>
+  <!-- Mercury bulb -->
+  <circle cx="199" cy="186" r="22" fill="#2a4ec0" stroke="#000000" stroke-width="5"/>
+  <!-- Tick marks -->
+  <line x1="176" y1="60" x2="186" y2="60" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="176" y1="80" x2="186" y2="80" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="176" y1="100" x2="186" y2="100" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="176" y1="120" x2="186" y2="120" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="176" y1="140" x2="186" y2="140" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Down arrow: temperature falling -->
+  <path d="M220,80 L220,96 M215,90 L220,96 L225,90" fill="none" stroke="#2a4ec0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Shivering figure (centre-right area) -->
+  <circle cx="148" cy="110" r="20" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Woolly hat -->
+  <rect x="130" y="94" width="36" height="12" rx="4" fill="#1d0e82" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="148" cy="92" r="6" fill="#f8130d" stroke="#000000" stroke-width="2.5"/>
+  <!-- Body with coat -->
+  <rect x="133" y="130" width="30" height="36" rx="8" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Arms crossed/hugging self -->
+  <path d="M133,138 Q124,144 122,152" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <path d="M163,138 Q172,144 174,152" fill="none" stroke="#eed5b6" stroke-width="9" stroke-linecap="round"/>
+  <!-- Shiver wavy lines beside figure -->
+  <path d="M118,120 Q114,124 118,128" fill="none" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M114,126 Q110,130 114,134" fill="none" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M178,120 Q182,124 178,128" fill="none" stroke="#2a4ec0" stroke-width="3" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="141" y1="166" x2="138" y2="188" stroke="#1d0e82" stroke-width="5" stroke-linecap="round"/>
+  <line x1="153" y1="166" x2="156" y2="188" stroke="#1d0e82" stroke-width="5" stroke-linecap="round"/>
+  <!-- Frost crystals on ground -->
+  <path d="M50,186 L50,180 M47,183 L53,183" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M248,182 L248,176 M245,179 L251,179" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

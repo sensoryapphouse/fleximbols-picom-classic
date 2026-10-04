@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <!-- putty-knife / paint scraper, blade down-left, handle up-right -->
+    <!-- wide flat blade -->
+    <polygon points="40,196 120,150 150,168 70,214" fill="#c9ccd1"/>
+    <!-- ferrule / neck connecting blade to handle -->
+    <polygon points="120,150 150,168 168,138 140,121" fill="#9aa0a8"/>
+    <!-- handle -->
+    <path d="M150,118 L210,84 Q232,72 244,92 Q256,112 234,124 L174,158 Z" fill="#7a3a1a"/>
+    <!-- handle rivets -->
+    <circle cx="190" cy="120" r="4" fill="#3a2410" stroke="none"/>
+    <circle cx="214" cy="106" r="4" fill="#3a2410" stroke="none"/>
+  </g>
+<g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl2484" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl2484)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

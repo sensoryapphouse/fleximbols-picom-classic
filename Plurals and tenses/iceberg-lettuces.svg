@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,3.936) scale(0.9836)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Iceberg: dense, tight round head, pale-green wrapper leaves -->
+  <!-- tight wrapper leaves around a dense sphere -->
+  <circle cx="145" cy="135" r="92" fill="#529929" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- inner pale-green dense core -->
+  <circle cx="145" cy="135" r="72" fill="#f5e7c4" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- wrapper-leaf seams: radial folds suggesting tight overlapping leaves -->
+  <path d="M145 43 Q150 90 145 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M82 90 Q115 110 145 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M208 90 Q175 110 145 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M58 145 Q100 138 145 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M232 145 Q190 138 145 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M82 188 Q115 162 145 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M208 188 Q175 162 145 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M145 225 Q150 180 145 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- subtle inner veins -->
+  <path d="M115 110 Q130 125 145 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M175 110 Q160 125 145 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M115 165 Q130 150 145 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M175 165 Q160 150 145 135" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+</g><g transform="translate(0,0) scale(0.5664,0.4688) translate(360 8) scale(0.2812)"><defs><radialGradient id="pcxpl1383" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pcxpl1383)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

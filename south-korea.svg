@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Pole -->
+  <rect x="30" y="50" width="8" height="155" fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- White field -->
+  <rect x="38" y="50" width="222" height="148" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Taegeuk circle background (white already) -->
+  <!-- Red half of taegeuk (top-left swirl simplified as semicircle top) -->
+  <path d="M149,124 m-38,0 a38,38 0 0,1 76,0 a19,19 0 0,1 -38,0 a19,19 0 0,0 -38,0 Z" fill="#d01424" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Blue half of taegeuk (bottom) -->
+  <path d="M149,124 m-38,0 a38,38 0 0,0 76,0 a19,19 0 0,0 -38,0 a19,19 0 0,1 -38,0 Z" fill="#1d0e82" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Taegeuk outline -->
+  <circle cx="149" cy="124" r="38" fill="none" stroke="#000000" stroke-width="4"/>
+  <!-- Trigram top-left (3 solid bars = Geon) -->
+  <rect x="65" y="70" width="34" height="6" fill="#000000"/>
+  <rect x="65" y="80" width="34" height="6" fill="#000000"/>
+  <rect x="65" y="90" width="34" height="6" fill="#000000"/>
+  <!-- Trigram top-right (3 broken bars = Gon) -->
+  <rect x="193" y="70" width="14" height="6" fill="#000000"/>
+  <rect x="213" y="70" width="14" height="6" fill="#000000"/>
+  <rect x="193" y="80" width="14" height="6" fill="#000000"/>
+  <rect x="213" y="80" width="14" height="6" fill="#000000"/>
+  <rect x="193" y="90" width="14" height="6" fill="#000000"/>
+  <rect x="213" y="90" width="14" height="6" fill="#000000"/>
+  <!-- Trigram bottom-left (Gam: broken, solid, broken) -->
+  <rect x="65" y="152" width="14" height="6" fill="#000000"/>
+  <rect x="83" y="152" width="14" height="6" fill="#000000"/>
+  <rect x="65" y="162" width="34" height="6" fill="#000000"/>
+  <rect x="65" y="172" width="14" height="6" fill="#000000"/>
+  <rect x="83" y="172" width="14" height="6" fill="#000000"/>
+  <!-- Trigram bottom-right (Li: solid, broken, solid) -->
+  <rect x="193" y="152" width="34" height="6" fill="#000000"/>
+  <rect x="193" y="162" width="14" height="6" fill="#000000"/>
+  <rect x="211" y="162" width="14" height="6" fill="#000000"/>
+  <rect x="193" y="172" width="34" height="6" fill="#000000"/>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- sky -->
+  <rect x="0" y="0" width="290" height="180" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <!-- ground/snow -->
+  <rect x="0" y="180" width="290" height="60" fill="#efefef" stroke="#000000" stroke-width="2"/>
+  <!-- distant tall snow peak -->
+  <path d="M80 180 L160 50 L240 180 Z" fill="#90a7d6" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- snow cap on peak -->
+  <path d="M135 90 L160 50 L185 90 L175 95 L165 88 L155 95 L145 88 Z" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- smaller secondary peak -->
+  <path d="M0 180 L50 110 L100 180 Z" fill="#7f7f7f" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M35 130 L50 110 L65 130 L55 135 L50 130 L45 135 Z" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- prayer flag line -->
+  <line x1="20" y1="55" x2="120" y2="35" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- prayer flags -->
+  <rect x="30" y="40" width="14" height="18" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <rect x="48" y="40" width="14" height="18" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <rect x="66" y="38" width="14" height="18" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <rect x="84" y="38" width="14" height="18" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <rect x="102" y="35" width="14" height="18" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <!-- yak FULL BODY (right) -->
+  <ellipse cx="230" cy="180" rx="28" ry="16" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <!-- shaggy fur fringe -->
+  <path d="M205 192 L208 200 L211 192 L214 200 L217 192 L220 200 L223 192 L226 200 L229 192 L232 200 L235 192 L238 200 L241 192 L244 200 L247 192 L250 200 L253 192" fill="none" stroke="#5e1f0a" stroke-width="4" stroke-linecap="round"/>
+  <!-- yak head -->
+  <circle cx="205" cy="172" r="11" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <!-- horns -->
+  <path d="M200 165 L195 158 L201 162" fill="#efefef" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M210 165 L215 158 L209 162" fill="#efefef" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- yak legs -->
+  <rect x="215" y="195" width="6" height="14" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <rect x="240" y="195" width="6" height="14" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <!-- yak tail -->
+  <line x1="258" y1="172" x2="268" y2="180" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- trekker FULL BODY (left/center foreground) -->
+  <!-- head with hat -->
+  <circle cx="135" cy="130" r="9" fill="#eed5b6" stroke="#000000" stroke-width="2"/>
+  <path d="M124 125 L146 125 L142 118 L128 118 Z" fill="#d01424" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- torso/jacket -->
+  <rect x="125" y="139" width="20" height="28" fill="#e65a00" stroke="#000000" stroke-width="2"/>
+  <!-- backpack -->
+  <rect x="145" y="142" width="10" height="22" fill="#67832d" stroke="#000000" stroke-width="2"/>
+  <!-- arms -->
+  <line x1="125" y1="145" x2="116" y2="165" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <line x1="145" y1="145" x2="156" y2="160" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- trekking poles -->
+  <line x1="116" y1="165" x2="110" y2="200" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round"/>
+  <line x1="156" y1="160" x2="162" y2="200" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round"/>
+  <!-- legs/pants -->
+  <rect x="126" y="167" width="8" height="22" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <rect x="136" y="167" width="8" height="22" fill="#2a4ec0" stroke="#000000" stroke-width="2"/>
+  <!-- boots -->
+  <ellipse cx="130" cy="192" rx="6" ry="3" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="140" cy="192" rx="6" ry="3" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+</svg>

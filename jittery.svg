@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Bust / torso — slightly offset to convey shake -->
+  <rect x="103" y="172" width="88" height="56" rx="8" fill="#2a4ec0" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="129" y="150" width="33" height="28" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Head — slightly tilted for shake feel -->
+  <ellipse cx="146" cy="117" rx="50" ry="53" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Wide jittery eyes -->
+  <ellipse cx="127" cy="107" rx="11" ry="11" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="127" cy="107" rx="5" ry="5" fill="#000000"/>
+  <!-- Extra white showing (jittery) -->
+  <ellipse cx="164" cy="107" rx="11" ry="11" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <ellipse cx="164" cy="107" rx="5" ry="5" fill="#000000"/>
+  <!-- Alert straight brows -->
+  <path d="M114 91 Q127 87 138 91" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <path d="M152 91 Q164 87 176 91" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <!-- Tense grit teeth mouth -->
+  <rect x="128" y="131" width="34" height="10" rx="4" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- Teeth lines -->
+  <path d="M136 131 L136 141" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M144 131 L144 141" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M152 131 L152 141" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Vibration/shake lines around figure — 8 lines -->
+  <path d="M60 95 L72 90" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M58 115 L71 114" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M62 135 L74 138" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M68 155 L80 160" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M220 90 L232 95" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M219 110 L232 112" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M218 132 L230 135" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M222 154 L234 158" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Coffee cup hint — lower right -->
+  <!-- Cup body -->
+  <rect x="220" y="185" width="34" height="30" rx="4" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <!-- Cup handle -->
+  <path d="M254 191 Q264 191 264 200 Q264 209 254 209" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Steam wiggles -->
+  <path d="M229 180 Q232 173 229 166" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M237 180 Q240 173 237 166" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M245 180 Q248 173 245 166" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Coffee surface -->
+  <ellipse cx="237" cy="186" rx="14" ry="4" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+</svg>

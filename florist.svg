@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- === FLOWER STAND / TABLE === -->
+  <rect x="148" y="140" width="120" height="12" rx="4" fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Table legs -->
+  <rect x="152" y="150" width="10" height="62" rx="4" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <rect x="254" y="150" width="10" height="62" rx="4" fill="#9d7246" stroke="#000000" stroke-width="4"/>
+  <!-- Floor -->
+  <rect x="22" y="210" width="246" height="8" rx="4" fill="#b8b8b8" stroke="#000000" stroke-width="4"/>
+
+  <!-- === FLOWER BUCKETS on stand === -->
+  <!-- Bucket 1 (red) -->
+  <path d="M158 140 L154 108 L174 108 L170 140Z" fill="#2a4ec0" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="164" cy="108" rx="10" ry="5" fill="#2a4ec0" stroke="#000000" stroke-width="3"/>
+  <!-- Stems in bucket 1 -->
+  <line x1="160" y1="108" x2="156" y2="78" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <line x1="164" y1="108" x2="162" y2="74" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <line x1="168" y1="108" x2="172" y2="76" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <!-- Flower 1a -->
+  <circle cx="156" cy="74" r="9" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <circle cx="156" cy="74" r="4" fill="#f7de58"/>
+  <!-- Flower 1b -->
+  <circle cx="162" cy="70" r="9" fill="#f266aa" stroke="#000000" stroke-width="3"/>
+  <circle cx="162" cy="70" r="4" fill="#f7de58"/>
+  <!-- Flower 1c -->
+  <circle cx="172" cy="72" r="9" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <circle cx="172" cy="72" r="4" fill="#f7de58"/>
+
+  <!-- Bucket 2 (yellow) -->
+  <path d="M188" y1="140" />
+  <path d="M186 140 L182 112 L202 112 L198 140Z" fill="#f7de58" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="192" cy="112" rx="10" ry="5" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <line x1="188" y1="112" x2="184" y2="82" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <line x1="192" y1="112" x2="190" y2="78" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <line x1="196" y1="112" x2="200" y2="80" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <!-- Flower 2a -->
+  <circle cx="184" cy="78" r="9" fill="#7c3fac" stroke="#000000" stroke-width="3"/>
+  <circle cx="184" cy="78" r="4" fill="#ffffff"/>
+  <!-- Flower 2b -->
+  <circle cx="190" cy="74" r="9" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="190" cy="74" r="4" fill="#f7de58"/>
+  <!-- Flower 2c -->
+  <circle cx="200" cy="76" r="9" fill="#7c3fac" stroke="#000000" stroke-width="3"/>
+  <circle cx="200" cy="76" r="4" fill="#ffffff"/>
+
+  <!-- Bucket 3 (green) -->
+  <path d="M216 140 L212 116 L232 116 L228 140Z" fill="#529929" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="222" cy="116" rx="10" ry="5" fill="#529929" stroke="#000000" stroke-width="3"/>
+  <line x1="218" y1="116" x2="214" y2="86" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <line x1="222" y1="116" x2="220" y2="82" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <line x1="226" y1="116" x2="230" y2="84" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="214" cy="82" r="9" fill="#ff9900" stroke="#000000" stroke-width="3"/>
+  <circle cx="214" cy="82" r="4" fill="#f7de58"/>
+  <circle cx="220" cy="78" r="9" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <circle cx="220" cy="78" r="4" fill="#f7de58"/>
+  <circle cx="230" cy="80" r="9" fill="#ff9900" stroke="#000000" stroke-width="3"/>
+  <circle cx="230" cy="80" r="4" fill="#f7de58"/>
+
+  <!-- === PERSON (left, arranging bouquet) === -->
+  <!-- Head -->
+  <circle cx="70" cy="50" r="20" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M50 48 Q54 28 70 26 Q86 28 90 48 Q85 36 70 34 Q55 36 50 48Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="63" y="68" width="14" height="12" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Apron-over-top -->
+  <path d="M44 80 L70 76 L96 80 L100 158 L40 158Z" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Apron bib -->
+  <rect x="57" y="78" width="26" height="36" rx="4" fill="#f5e7c4" stroke="#000000" stroke-width="3"/>
+  <!-- Arms extended forward to arrange flowers -->
+  <path d="M44 80 L26 112 L38 118 L52 92" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="28" cy="122" rx="10" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <path d="M96 80 L118 108 L108 116 L88 92" fill="#529929" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <ellipse cx="120" cy="118" rx="10" ry="8" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- Bouquet being held between hands -->
+  <!-- Stems -->
+  <path d="M64 130 L72 108 L80 130" fill="none" stroke="#529929" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="72" y1="108" x2="68" y2="92" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <line x1="72" y1="108" x2="76" y2="90" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <line x1="72" y1="108" x2="84" y2="94" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <line x1="72" y1="108" x2="60" y2="94" stroke="#529929" stroke-width="3" stroke-linecap="round"/>
+  <!-- Bouquet wrapper -->
+  <path d="M62 122 L72 132 L82 122 L78 112 L66 112Z" fill="#f4a4b2" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Bouquet flowers -->
+  <circle cx="68" cy="88" r="9" fill="#f266aa" stroke="#000000" stroke-width="3"/>
+  <circle cx="68" cy="88" r="4" fill="#ffffff"/>
+  <circle cx="76" cy="86" r="9" fill="#f8130d" stroke="#000000" stroke-width="3"/>
+  <circle cx="76" cy="86" r="4" fill="#f7de58"/>
+  <circle cx="84" cy="90" r="8" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <circle cx="84" cy="90" r="4" fill="#f7de58"/>
+  <circle cx="60" cy="90" r="8" fill="#ff9900" stroke="#000000" stroke-width="3"/>
+  <circle cx="60" cy="90" r="4" fill="#f7de58"/>
+  <!-- Legs -->
+  <path d="M50 158 L44 210 L58 210 L62 163Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M90 158 L94 210 L108 210 L98 163Z" fill="#4d4d4d" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Shoes -->
+  <ellipse cx="50" cy="212" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="100" cy="212" rx="14" ry="6" fill="#000000" stroke="#000000" stroke-width="4"/>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- tiara -->
+  <path d="M118 28 L132 18 L145 8 L158 18 L172 28 Z" fill="#f7de58" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="145" cy="14" r="3" fill="#dff3fd" stroke="#000000" stroke-width="2"/>
+  <circle cx="132" cy="22" r="2.5" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="158" cy="22" r="2.5" fill="#f266aa" stroke="#000000" stroke-width="1.5"/>
+  <!-- hair behind head -->
+  <path d="M120 30 Q115 55 120 80 L170 80 Q175 55 170 30 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="145" cy="46" r="18" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- eyes -->
+  <circle cx="139" cy="45" r="1.8" fill="#000000"/>
+  <circle cx="151" cy="45" r="1.8" fill="#000000"/>
+  <!-- smile -->
+  <path d="M139 53 Q145 57 151 53" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="141" y="63" width="8" height="8" fill="#eed5b6" stroke="#000000" stroke-width="2.5"/>
+  <!-- torso/bodice (fitted) -->
+  <path d="M125 72 L165 72 L168 115 L122 115 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- arms -->
+  <!-- left arm holding bouquet -->
+  <path d="M125 76 L100 110 L105 150" fill="none" stroke="#eed5b6" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M125 76 L100 110 L105 150" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- right arm holding bouquet -->
+  <path d="M165 76 L185 105 L185 150" fill="none" stroke="#eed5b6" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M165 76 L185 105 L185 150" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- ballgown skirt (huge pink) -->
+  <path d="M122 115 L168 115 L220 225 L70 225 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- skirt ruffles -->
+  <path d="M90 200 Q100 195 110 200 Q120 195 130 200 Q140 195 150 200 Q160 195 170 200 Q180 195 190 200 Q200 195 210 200" fill="none" stroke="#f4a4b2" stroke-width="3" stroke-linecap="round"/>
+  <path d="M82 215 Q95 210 108 215 Q121 210 134 215 Q147 210 160 215 Q173 210 186 215 Q199 210 212 215" fill="none" stroke="#f4a4b2" stroke-width="3" stroke-linecap="round"/>
+  <!-- waist sash -->
+  <rect x="122" y="108" width="46" height="9" fill="#d01424" stroke="#000000" stroke-width="2"/>
+  <!-- legs hidden by gown, but show shoes peeking -->
+  <ellipse cx="130" cy="225" rx="9" ry="4" fill="#7d5e23" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="160" cy="225" rx="9" ry="4" fill="#7d5e23" stroke="#000000" stroke-width="2"/>
+  <!-- bouquet held in both hands at front -->
+  <!-- bouquet base/stems -->
+  <rect x="138" y="135" width="14" height="20" fill="#67832d" stroke="#000000" stroke-width="2"/>
+  <!-- flower cluster -->
+  <circle cx="135" cy="130" r="9" fill="#f8130d" stroke="#000000" stroke-width="2"/>
+  <circle cx="148" cy="125" r="10" fill="#fff200" stroke="#000000" stroke-width="2"/>
+  <circle cx="158" cy="132" r="9" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  <circle cx="142" cy="140" r="7" fill="#f266aa" stroke="#000000" stroke-width="2"/>
+  <circle cx="155" cy="142" r="7" fill="#f4a4b2" stroke="#000000" stroke-width="2"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Blue top band -->
+  <rect x="30" y="50" width="230" height="28" fill="#1d0e82" stroke="none"/>
+  <!-- White stripe top -->
+  <rect x="30" y="78" width="230" height="10" fill="#ffffff" stroke="none"/>
+  <!-- Red centre band -->
+  <rect x="30" y="88" width="230" height="64" fill="#d01424" stroke="none"/>
+  <!-- White stripe bottom -->
+  <rect x="30" y="152" width="230" height="10" fill="#ffffff" stroke="none"/>
+  <!-- Blue bottom band -->
+  <rect x="30" y="162" width="230" height="28" fill="#1d0e82" stroke="none"/>
+  <!-- White disc -->
+  <circle cx="105" cy="120" r="28" fill="#ffffff" stroke="none"/>
+  <!-- Red 5-point star on disc -->
+  <polygon points="105,96 110.5,113 128,113 114,123 119.5,140 105,130 90.5,140 96,123 82,113 99.5,113" fill="#d01424" stroke="none"/>
+  <!-- Outer flag outline -->
+  <rect x="30" y="50" width="230" height="140" fill="none" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Band divider lines -->
+  <line x1="30" y1="78" x2="260" y2="78" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="30" y1="88" x2="260" y2="88" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="30" y1="152" x2="260" y2="152" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <line x1="30" y1="162" x2="260" y2="162" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- Disc outline -->
+  <circle cx="105" cy="120" r="28" fill="none" stroke="#000000" stroke-width="3"/>
+  <!-- Star outline -->
+  <polygon points="105,96 110.5,113 128,113 114,123 119.5,140 105,130 90.5,140 96,123 82,113 99.5,113" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Pole -->
+  <line x1="30" y1="40" x2="30" y2="200" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+</svg>

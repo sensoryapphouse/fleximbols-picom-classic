@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Head bust - childish droopy face -->
+  <ellipse cx="145" cy="92" rx="62" ry="67" fill="#eed5b6" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Neck -->
+  <rect x="122" y="148" width="46" height="28" rx="8" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Shoulders -->
+  <ellipse cx="145" cy="198" rx="78" ry="28" fill="#f266aa" stroke="#000000" stroke-width="5"/>
+  <!-- Droopy downturned eyes - sad/whiny -->
+  <ellipse cx="122" cy="84" rx="13" ry="10" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="122" cy="86" rx="6" ry="6" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="168" cy="84" rx="13" ry="10" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <ellipse cx="168" cy="86" rx="6" ry="6" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Sad drooping inner brows -->
+  <path d="M112 70 Q122 76 130 68" fill="none" stroke="#9d7246" stroke-width="4" stroke-linecap="round"/>
+  <path d="M160 68 Q168 76 178 70" fill="none" stroke="#9d7246" stroke-width="4" stroke-linecap="round"/>
+  <!-- Nose -->
+  <ellipse cx="145" cy="100" rx="9" ry="7" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Very downturned childish mouth - deep frown -->
+  <path d="M118 128 Q132 142 145 144 Q158 142 172 128" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round"/>
+  <!-- Quivering lower lip hint -->
+  <path d="M132 138 Q145 144 158 138" fill="#f4a4b2" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <!-- Single large tear from left eye -->
+  <path d="M115 93 Q110 102 112 112 Q116 118 118 112 Q118 102 115 93 Z" fill="#dff3fd" stroke="#2a4ec0" stroke-width="3"/>
+  <!-- Nasal wavy whiny lines (nasally sound waves) -->
+  <path d="M172 96 Q180 91 188 96 Q196 101 204 96 Q212 91 220 96" fill="none" stroke="#b8b8b8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M172 107 Q180 102 188 107 Q196 112 204 107 Q212 102 220 107" fill="none" stroke="#b8b8b8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M175 118 Q183 113 191 118 Q199 123 207 118" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Small pout/nose emphasis - nasal quality -->
+  <path d="M138 105 Q145 110 152 105" fill="none" stroke="#9d7246" stroke-width="3" stroke-linecap="round"/>
+</svg>

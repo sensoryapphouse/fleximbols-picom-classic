@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Legs -->
+  <rect x="120" y="178" width="20" height="48" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="150" y="178" width="20" height="48" rx="6" fill="#4d4d4d" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Feet -->
+  <rect x="113" y="218" width="30" height="14" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="147" y="218" width="30" height="14" rx="5" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Torso -->
+  <rect x="110" y="108" width="70" height="74" rx="10" fill="#e65a00" stroke="#000000" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left arm raised tossing money toward bin -->
+  <path d="M110 115 Q88 104 68 108" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <!-- Right arm at side loose -->
+  <path d="M180 118 Q200 112 218 120" fill="none" stroke="#eed5b6" stroke-width="14" stroke-linecap="round"/>
+  <!-- Trash bin right side -->
+  <rect x="210" y="148" width="42" height="52" rx="4" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Bin lid -->
+  <rect x="205" y="140" width="52" height="12" rx="4" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Bin handle on lid -->
+  <rect x="224" y="136" width="14" height="8" rx="4" fill="#7f7f7f" stroke="#000000" stroke-width="3"/>
+  <!-- Bin stripes -->
+  <line x1="222" y1="156" x2="222" y2="196" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round"/>
+  <line x1="231" y1="156" x2="231" y2="196" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round"/>
+  <line x1="240" y1="156" x2="240" y2="196" stroke="#7f7f7f" stroke-width="3" stroke-linecap="round"/>
+  <!-- Coins tossing/falling toward bin -->
+  <circle cx="170" cy="105" r="10" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <line x1="170" y1="99" x2="170" y2="111" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="195" cy="118" r="9" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <circle cx="188" cy="100" r="7" fill="#f7de58" stroke="#000000" stroke-width="2.5"/>
+  <!-- Coins falling/spilling out of hand -->
+  <circle cx="68" cy="110" r="9" fill="#f7de58" stroke="#000000" stroke-width="3"/>
+  <circle cx="52" cy="122" r="7" fill="#f7de58" stroke="#000000" stroke-width="2.5"/>
+  <circle cx="42" cy="138" r="6" fill="#f7de58" stroke="#000000" stroke-width="2.5"/>
+  <!-- Motion arc lines for toss -->
+  <path d="M75 108 Q100 82 130 95" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6,5"/>
+  <!-- Neck -->
+  <rect x="132" y="94" width="26" height="18" rx="4" fill="#eed5b6" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Head -->
+  <ellipse cx="145" cy="74" rx="30" ry="28" fill="#eed5b6" stroke="#000000" stroke-width="5"/>
+  <!-- Hair -->
+  <ellipse cx="145" cy="51" rx="30" ry="14" fill="#5e1f0a" stroke="#000000" stroke-width="4"/>
+  <!-- Careless eyes - rolled/half -->
+  <ellipse cx="135" cy="71" rx="5" ry="4.5" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="155" cy="71" rx="5" ry="4.5" fill="#1d0e82" stroke="#000000" stroke-width="2"/>
+  <!-- Raised eyebrow - cocky -->
+  <path d="M130 62 Q135 57 142 61" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M148 62 Q153 57 160 62" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Careless grin/smirk -->
+  <path d="M134 83 Q140 90 158 84" fill="none" stroke="#000000" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

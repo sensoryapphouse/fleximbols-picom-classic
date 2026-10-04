@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ground -->
+  <ellipse cx="145" cy="228" rx="80" ry="6" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+
+  <!-- MOTHER FIGURE FULL BODY (warm, motherly, comforting) -->
+  <!-- long dress / skirt -->
+  <path d="M108 122 Q88 200 92 220 L198 220 Q202 200 182 122 Z" fill="#f266aa" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- apron front -->
+  <path d="M126 130 Q120 195 124 218 L166 218 Q170 195 164 130 Z" fill="#f5e7c4" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- apron tie -->
+  <path d="M108 132 Q145 138 182 132" fill="none" stroke="#d01424" stroke-width="3" stroke-linecap="round"/>
+  <!-- shoes peek -->
+  <ellipse cx="118" cy="222" rx="9" ry="4" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="172" cy="222" rx="9" ry="4" fill="#5e1f0a" stroke="#000000" stroke-width="2"/>
+  <!-- torso top / bodice -->
+  <path d="M118 84 L112 124 L178 124 L172 84 Q145 76 118 84 Z" fill="#f266aa" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <!-- neckline -->
+  <path d="M132 84 Q145 92 158 84" fill="none" stroke="#000000" stroke-width="2"/>
+  <!-- neck -->
+  <rect x="138" y="70" width="14" height="14" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <!-- head -->
+  <ellipse cx="145" cy="52" rx="20" ry="22" fill="#eed5b6" stroke="#000000" stroke-width="4"/>
+  <!-- hair (warm brown, bun shape) -->
+  <path d="M124 50 Q124 28 145 26 Q166 28 166 50 Q162 36 145 34 Q128 36 124 50 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="145" cy="22" r="8" fill="#5e1f0a" stroke="#000000" stroke-width="3"/>
+  <!-- eyes -->
+  <circle cx="138" cy="54" r="2.2" fill="#000000"/>
+  <circle cx="152" cy="54" r="2.2" fill="#000000"/>
+  <!-- warm smile -->
+  <path d="M137 62 Q145 68 153 62" fill="none" stroke="#000000" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- rosy cheeks -->
+  <circle cx="130" cy="60" r="3" fill="#f4a4b2" stroke="#000000" stroke-width="1.5"/>
+  <circle cx="160" cy="60" r="3" fill="#f4a4b2" stroke="#000000" stroke-width="1.5"/>
+  <!-- arms hugging forward (comforting) -->
+  <path d="M112 96 Q80 140 96 168 L108 162 Q98 140 122 116 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M178 96 Q210 140 194 168 L182 162 Q192 140 168 116 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- open hands -->
+  <circle cx="102" cy="166" r="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+  <circle cx="188" cy="166" r="8" fill="#eed5b6" stroke="#000000" stroke-width="3"/>
+
+  <!-- heart over chest (caring) -->
+  <path d="M134 100 C134 94 142 94 142 100 C142 94 150 94 150 100 C150 108 142 116 142 116 C142 116 134 108 134 100 Z" fill="#d01424" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- floating heart top right -->
+  <path d="M232 30 C232 24 240 24 240 30 C240 24 248 24 248 30 C248 38 240 46 240 46 C240 46 232 38 232 30 Z" fill="#f266aa" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+</svg>

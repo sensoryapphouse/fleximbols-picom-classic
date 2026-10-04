@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Kitchen back wall (subtle) -->
+  <rect x="0" y="0" width="290" height="155" fill="#f5e7c4" stroke="none"/>
+  <!-- Counter line -->
+  <rect x="0" y="155" width="290" height="6" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <!-- Stove top right -->
+  <rect x="175" y="100" width="100" height="55" rx="4" fill="#b8b8b8" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="205" cy="110" rx="14" ry="5" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="248" cy="110" rx="14" ry="5" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <!-- Big pot on stove -->
+  <rect x="218" y="65" width="42" height="42" rx="3" fill="#7f7f7f" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="239" cy="66" rx="24" ry="6" fill="#b8b8b8" stroke="#000000" stroke-width="3"/>
+  <circle cx="239" cy="60" r="4" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
+  <path d="M232,62 Q229,52 232,42" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M239,62 Q236,52 239,42" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M246,62 Q243,52 246,42" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <!-- Row of meal-prep containers along bottom -->
+  <rect x="10" y="180" width="55" height="38" rx="3" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="14" y="184" width="47" height="14" rx="2" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <rect x="14" y="200" width="22" height="14" rx="2" fill="#ff9900" stroke="#000000" stroke-width="2"/>
+  <rect x="38" y="200" width="23" height="14" rx="2" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+
+  <rect x="72" y="180" width="55" height="38" rx="3" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="76" y="184" width="47" height="14" rx="2" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <rect x="76" y="200" width="22" height="14" rx="2" fill="#ff9900" stroke="#000000" stroke-width="2"/>
+  <rect x="100" y="200" width="23" height="14" rx="2" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+
+  <rect x="225" y="180" width="55" height="38" rx="3" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <rect x="229" y="184" width="47" height="14" rx="2" fill="#529929" stroke="#000000" stroke-width="2"/>
+  <rect x="229" y="200" width="22" height="14" rx="2" fill="#ff9900" stroke="#000000" stroke-width="2"/>
+  <rect x="253" y="200" width="23" height="14" rx="2" fill="#f7de58" stroke="#000000" stroke-width="2"/>
+  <!-- Figure full body, centered between counters -->
+  <!-- Head -->
+  <circle cx="155" cy="80" r="17" fill="#e6b98a" stroke="#000000" stroke-width="4"/>
+  <!-- Chef hat -->
+  <ellipse cx="155" cy="58" rx="18" ry="9" fill="#ffffff" stroke="#000000" stroke-width="3"/>
+  <rect x="142" y="60" width="26" height="8" fill="#ffffff" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Eyes & smile -->
+  <circle cx="149" cy="79" r="1.8" fill="#000000"/>
+  <circle cx="161" cy="79" r="1.8" fill="#000000"/>
+  <path d="M150,87 Q155,90 160,87" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Apron body -->
+  <rect x="138" y="97" width="34" height="50" rx="4" fill="#ffffff" stroke="#000000" stroke-width="4" stroke-linejoin="round"/>
+  <line x1="146" y1="97" x2="142" y2="108" stroke="#b8b8b8" stroke-width="3"/>
+  <line x1="164" y1="97" x2="168" y2="108" stroke="#b8b8b8" stroke-width="3"/>
+  <!-- Right arm extending toward pot -->
+  <line x1="172" y1="108" x2="200" y2="100" stroke="#e6b98a" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="205" cy="98" r="6" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Wooden spoon in hand -->
+  <line x1="205" y1="98" x2="225" y2="78" stroke="#9d7246" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="226" cy="76" rx="5" ry="3" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <!-- Left arm down toward container -->
+  <line x1="138" y1="108" x2="118" y2="135" stroke="#e6b98a" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="116" cy="138" r="6" fill="#e6b98a" stroke="#000000" stroke-width="3"/>
+  <!-- Legs -->
+  <line x1="148" y1="147" x2="145" y2="185" stroke="#2a4ec0" stroke-width="6" stroke-linecap="round"/>
+  <line x1="145" y1="185" x2="137" y2="185" stroke="#4d4d4d" stroke-width="5" stroke-linecap="round"/>
+  <line x1="162" y1="147" x2="165" y2="185" stroke="#2a4ec0" stroke-width="6" stroke-linecap="round"/>
+  <line x1="165" y1="185" x2="173" y2="185" stroke="#4d4d4d" stroke-width="5" stroke-linecap="round"/>
+  <!-- Steam from pot -->
+  <path d="M225,38 Q228,28 225,18" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M239,38 Q242,28 239,18" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M253,38 Q256,28 253,18" fill="none" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round"/>
+</svg>

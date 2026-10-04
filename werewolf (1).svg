@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- legs (full body, muscular) -->
+  <path d="M120 165 L 110 220 L 130 220 L 138 165 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M152 165 L 160 220 L 180 220 L 170 165 Z" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- feet with claws -->
+  <path d="M105 218 L 135 218 L 132 230 L 108 230 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M108 230 L 108 234 M 116 230 L 116 234 M 124 230 L 124 234 M 132 230 L 132 234" stroke="#efefef" stroke-width="2" stroke-linecap="round"/>
+  <path d="M155 218 L 183 218 L 180 230 L 158 230 Z" fill="#5e1f0a" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M158 230 L 158 234 M 166 230 L 166 234 M 174 230 L 174 234 M 180 230 L 180 234" stroke="#efefef" stroke-width="2" stroke-linecap="round"/>
+  <!-- muscular torso -->
+  <path d="M100 95 L 190 95 L 185 170 L 105 170 Z" fill="#9d7246" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- torn shirt remnant -->
+  <path d="M105 95 L 185 95 L 180 130 L 170 125 L 160 135 L 150 122 L 140 135 L 130 122 L 120 130 L 110 125 Z" fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- chest fur -->
+  <path d="M130 105 L 145 130 L 160 105" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- arms muscular -->
+  <path d="M100 100 L 65 130 L 60 165" fill="none" stroke="#9d7246" stroke-width="18" stroke-linecap="round"/>
+  <path d="M100 100 L 65 130 L 60 165" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M190 100 L 225 130 L 230 165" fill="none" stroke="#9d7246" stroke-width="18" stroke-linecap="round"/>
+  <path d="M190 100 L 225 130 L 230 165" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <!-- clawed hands -->
+  <circle cx="60" cy="170" r="11" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <path d="M52 178 L 48 188 M 58 180 L 56 192 M 64 180 L 64 192 M 70 178 L 72 188" stroke="#efefef" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="230" cy="170" r="11" fill="#9d7246" stroke="#000000" stroke-width="2"/>
+  <path d="M222 178 L 220 188 M 228 180 L 226 192 M 234 180 L 234 192 M 240 178 L 242 188" stroke="#efefef" stroke-width="3" stroke-linecap="round"/>
+  <!-- wolf head -->
+  <path d="M115 75 Q 115 40, 145 38 Q 175 40, 175 75 L 175 95 L 115 95 Z" fill="#7d5e23" stroke="#000000" stroke-width="3" stroke-linejoin="round"/>
+  <!-- ears pointed -->
+  <path d="M115 55 L 105 25 L 125 45 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M175 55 L 185 25 L 165 45 Z" fill="#7d5e23" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M112 38 L 118 48" stroke="#f4a4b2" stroke-width="2"/>
+  <path d="M178 38 L 172 48" stroke="#f4a4b2" stroke-width="2"/>
+  <!-- snout -->
+  <path d="M125 75 L 165 75 L 170 95 L 120 95 Z" fill="#9d7246" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
+  <!-- nose -->
+  <path d="M138 75 L 152 75 L 145 82 Z" fill="#000000" stroke="#000000" stroke-width="1" stroke-linejoin="round"/>
+  <!-- yellow eyes -->
+  <ellipse cx="130" cy="60" rx="5" ry="4" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <ellipse cx="160" cy="60" rx="5" ry="4" fill="#f2e40d" stroke="#000000" stroke-width="2"/>
+  <circle cx="130" cy="60" r="2" fill="#000000"/>
+  <circle cx="160" cy="60" r="2" fill="#000000"/>
+  <!-- snarling mouth + fangs -->
+  <path d="M125 90 L 165 90 L 162 96 L 128 96 Z" fill="#000000" stroke="#000000" stroke-width="1"/>
+  <path d="M132 90 L 134 100 L 136 90 Z" fill="#ffffff" stroke="#000000" stroke-width="1" stroke-linejoin="round"/>
+  <path d="M154 90 L 156 100 L 158 90 Z" fill="#ffffff" stroke="#000000" stroke-width="1" stroke-linejoin="round"/>
+</svg>

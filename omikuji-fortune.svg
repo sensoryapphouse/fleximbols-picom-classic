@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
+<rect x="105" y="35" width="80" height="190" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.32"></rect>
+<rect x="105" y="35" width="80" height="22" fill="#a42c3b" stroke="#1a1a1a" stroke-width="2.38"></rect>
+<text x="145" y="51" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" font-weight="900" fill="#f8e49c">御神籤</text>
+<g fill="#a42c3b" font-family="serif" font-size="35" font-weight="900" text-anchor="middle"><text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="145" y="105">大</text><text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="145" y="155">吉</text></g>
+<g stroke="#5c3a26" stroke-width="1.90" fill="none"><line x1="115" y1="175" x2="175" y2="175"></line></g>
+<g text-anchor="middle" font-family="serif" font-size="9" fill="#5c3a26"><text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="145" y="188">愛情・◎</text><text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="145" y="200">健康・○</text><text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="145" y="212">金運・○</text></g>
+<g><path d="M55 80 Q40 90 35 70 Q45 50 60 65 Z" fill="#f8e49c" stroke="#1a1a1a" stroke-width="1.90"></path></g>
+<g><path d="M235 80 Q250 90 255 70 Q245 50 230 65 Z" fill="#f8e49c" stroke="#1a1a1a" stroke-width="1.90"></path></g>
+<g fill="#5cac4c"><path d="M50 70 L55 78 L62 73 M240 70 L235 78 L228 73"></path></g>
+<g><path d="M40 195 Q60 200 60 215" fill="none" stroke="#a42c3b" stroke-width="2.85" stroke-linecap="round"></path><circle cx="40" cy="195" r="6" fill="#a42c3b"></circle></g>
+<g><path d="M250 195 Q230 200 230 215" fill="none" stroke="#a42c3b" stroke-width="2.85" stroke-linecap="round"></path><circle cx="250" cy="195" r="6" fill="#a42c3b"></circle></g>
+<g fill="#f8e49c" stroke="#1a1a1a" stroke-width="1.42"><path d="M70 130 L73 140 L83 142 L75 147 L77 157 L70 150 L63 157 L65 147 L57 142 L67 140 Z"></path></g>
+<g fill="#f8e49c" stroke="#1a1a1a" stroke-width="1.42"><path d="M220 130 L223 140 L233 142 L225 147 L227 157 L220 150 L213 157 L215 147 L207 142 L217 140 Z"></path></g>
+</g></svg>
