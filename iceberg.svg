@@ -1,6 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <path d="M 5,145 L 285,145" fill="none" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 80,148 Q 100,90 145,55 Q 175,30 195,55 Q 215,98 218,148 Z" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 80,148 Q 50,170 35,200 Q 60,225 110,222 Q 150,225 200,222 Q 245,225 260,200 Q 240,168 218,148 Z" fill="#dff3fd" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 30,160 L 70,160 M 130,168 L 178,168 M 220,160 L 258,160" fill="none" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"></path>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 583 483" width="583" height="483">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="2915" bottom="2415" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="4,251 28,255 579,231 579,479 8,479 4,251" fill="#7bd3f7" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="42,299 49,277 64,278 72,259 86,257 113,242 143,245 174,235 203,233 232,230 248,216 272,192 275,174 307,146 317,123 344,127 361,120 376,143 392,161 392,177 414,188 426,200 426,200 433,205 439,209 442,210 445,210 445,210 450,211 458,214 467,217 467,217 469,223 472,227 475,231 475,231 478,235 482,238 487,240 495,242 495,242 500,243 504,245 508,248 510,251 514,256 515,258 526,292 522,306 443,299 392,299 305,294 256,295 202,295 135,295 85,298 42,299" fill="#e1f3f8" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+  </g>
 </svg>

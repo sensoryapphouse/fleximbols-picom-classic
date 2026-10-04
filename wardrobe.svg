@@ -1,10 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <path d="M 30,30 L 30,225 L 260,225 L 260,30 Z" fill="#7d5e23" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 145,30 L 145,225" fill="none" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 130,108 L 130,140" fill="none" stroke="#000000" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 160,108 L 160,140" fill="none" stroke="#000000" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 45,50 L 130,50 L 130,90 L 45,90 Z" fill="none" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 160,50 L 245,50 L 245,90 L 160,90 Z" fill="none" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 45,160 L 130,160 L 130,210 L 45,210 Z" fill="none" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 160,160 L 245,160 L 245,210 L 160,210 Z" fill="none" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"></path>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="152,39 152,423 322,437 365,411 365,38 316,33 152,39" fill="#b98349" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="316,33 316,437" fill="#cf9251" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polyline points="316,33 316,437" fill="none" stroke="#000000" stroke-width="8"/>
+    <polygon points="229,39 229,429" fill="#cf9251" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+    <polyline points="229,39 229,429" fill="none" stroke="#000000" stroke-width="8"/>
+    <polygon points="162,58 162,222 217,225 217,58 162,58" fill="#7f5a32" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="162,242 218,243 218,414 162,410 162,242" fill="#7f5a32" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="249,58 298,58 298,229 249,229 249,58" fill="#7f5a32" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="248,242 301,242 301,419 246,414 248,242" fill="#7f5a32" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="218,233 218,233 218,237 216,240 213,243 210,243 210,243 206,243 204,240 202,237 201,233 201,233 202,229 204,226 206,224 210,223 210,223 213,224 216,226 218,229 218,233 218,233" fill="#3c1f10" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="261,235 261,235 260,239 258,242 255,244 252,245 252,245 248,244 245,242 243,239 242,235 242,235 243,232 245,229 248,227 252,226 252,226 255,227 258,229 260,232 261,235 261,235" fill="#3c1f10" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+  </g>
 </svg>

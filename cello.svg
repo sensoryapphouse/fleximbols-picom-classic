@@ -1,130 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <!-- BOW (upper right) -->
-  <!-- Bow stick -->
-  <line x1="162" y1="16" x2="278" y2="50" stroke="#7d5e23" stroke-width="4" stroke-linecap="round"/>
-  <!-- Bow hair -->
-  <line x1="165" y1="22" x2="276" y2="55" stroke="#efefef" stroke-width="3" stroke-linecap="round"/>
-  <line x1="164" y1="20" x2="277" y2="53" stroke="#efefef" stroke-width="1.5" stroke-linecap="round"/>
-  <!-- Frog -->
-  <rect x="155" y="14" width="14" height="10" rx="2" fill="#5e1f0a" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Tip -->
-  <path d="M 276,50 L 282,48 L 280,56 Z" fill="#f5e7c4" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
-
-  <!-- CELLO BODY — proper hourglass, large body with endpin -->
-  <path d="M 108,68
-    Q 84,70 72,86
-    Q 58,102 62,118
-    Q 66,132 78,138
-    C 82,144 80,156 76,162
-    Q 66,176 62,192
-    Q 60,208 74,216
-    Q 92,224 118,225
-    Q 144,224 162,216
-    Q 176,208 174,192
-    Q 170,176 160,162
-    C 156,156 154,144 158,138
-    Q 170,132 174,118
-    Q 178,102 164,86
-    Q 152,70 128,68
-    Q 118,66 108,68 Z"
-    fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Body top face (front plate) -->
-  <path d="M 110,71
-    Q 86,73 74,89
-    Q 60,104 64,120
-    Q 68,134 80,140
-    C 84,146 82,158 78,164
-    Q 68,178 64,194
-    Q 62,208 76,214
-    Q 94,222 118,223
-    Q 142,222 160,214
-    Q 174,208 172,194
-    Q 168,178 158,164
-    C 154,158 152,146 156,140
-    Q 168,134 172,120
-    Q 176,104 162,89
-    Q 150,73 126,71
-    Q 118,69 110,71 Z"
-    fill="#9d7246" stroke="none"/>
-  <!-- C-bout waist left -->
-  <path d="M 64,128 Q 74,124 78,136 Q 74,148 64,145"
-    fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- C-bout waist right -->
-  <path d="M 172,128 Q 162,124 158,136 Q 162,148 172,145"
-    fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Edge purfling -->
-  <path d="M 72,86 Q 58,102 62,118"
-    fill="none" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
-  <path d="M 164,86 Q 178,102 174,118"
-    fill="none" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
-
-  <!-- Left f-hole -->
-  <path d="M 87,128 Q 83,136 85,144 Q 87,150 91,148 Q 89,154 87,162 Q 85,168 89,170"
-    fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="88" cy="130" r="4.5" fill="#000000" stroke="none"/>
-  <circle cx="88" cy="168" r="4.5" fill="#000000" stroke="none"/>
-  <!-- Right f-hole -->
-  <path d="M 149,128 Q 153,136 151,144 Q 149,150 145,148 Q 147,154 149,162 Q 151,168 147,170"
-    fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="148" cy="130" r="4.5" fill="#000000" stroke="none"/>
-  <circle cx="148" cy="168" r="4.5" fill="#000000" stroke="none"/>
-
-  <!-- Scroll -->
-  <path d="M 112,22
-    Q 105,17 103,11
-    Q 101,5 107,1
-    Q 113,-3 117,3
-    Q 121,9 117,15
-    Q 114,19 110,19"
-    fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Scroll spiral -->
-  <path d="M 109,5 Q 105,6 106,10 Q 107,14 111,15 Q 115,16 116,13 Q 117,10 115,8"
-    fill="none" stroke="#5e1f0a" stroke-width="2" stroke-linecap="round"/>
-
-  <!-- Pegbox -->
-  <path d="M 113,22 L 109,22 L 107,42 L 131,42 L 129,22 L 125,22 Z"
-    fill="#9d7246" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- 4 cello pegs (larger than violin pegs) -->
-  <ellipse cx="103" cy="27" rx="6" ry="3.5" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
-  <line x1="103" y1="27" x2="135" y2="27" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
-  <ellipse cx="135" cy="27" rx="6" ry="3.5" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
-  <ellipse cx="103" cy="37" rx="6" ry="3.5" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
-  <line x1="103" y1="37" x2="135" y2="37" stroke="#5e1f0a" stroke-width="3" stroke-linecap="round"/>
-  <ellipse cx="135" cy="37" rx="6" ry="3.5" fill="#5e1f0a" stroke="#000000" stroke-width="2.5"/>
-  <!-- Nut -->
-  <rect x="109" y="41" width="20" height="4" rx="1" fill="#efefef" stroke="#000000" stroke-width="2"/>
-
-  <!-- Neck (cello neck is shorter relative to body than violin) -->
-  <path d="M 111,43 L 107,70 L 131,70 L 127,43 Z"
-    fill="#9d7246" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Fingerboard (ebony) -->
-  <path d="M 113,43 L 109,70 L 129,70 L 125,43 Z"
-    fill="#4d4d4d" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-
-  <!-- Bridge with cutouts -->
-  <path d="M 98,143 L 96,158 M 140,143 L 142,158"
-    fill="none" stroke="#f5e7c4" stroke-width="2"/>
-  <path d="M 96,158 Q 108,152 118,154 Q 128,152 142,158 L 140,143 Q 128,138 118,140 Q 108,138 98,143 Z"
-    fill="#f5e7c4" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="108" cy="153" r="4" fill="#9d7246" stroke="none"/>
-  <circle cx="128" cy="153" r="4" fill="#9d7246" stroke="none"/>
-
-  <!-- Tailpiece (cello has a large tailpiece, no chinrest) -->
-  <path d="M 104,186 Q 100,192 102,200 Q 110,208 118,208 Q 126,208 134,208 Q 142,200 138,190 Q 134,186 118,185 Q 108,185 104,186 Z"
-    fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Tailgut (attaches tailpiece to end button) -->
-  <line x1="108" y1="208" x2="108" y2="216" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
-  <line x1="128" y1="208" x2="128" y2="216" stroke="#4d4d4d" stroke-width="2.5" stroke-linecap="round"/>
-  <!-- End button -->
-  <circle cx="118" cy="218" r="5" fill="#4d4d4d" stroke="#000000" stroke-width="2"/>
-
-  <!-- Endpin spike (cello is played upright, resting on the spike) -->
-  <line x1="118" y1="223" x2="118" y2="234" stroke="#7f7f7f" stroke-width="5" stroke-linecap="round"/>
-  <polygon points="118,237 114,232 122,232" fill="#7f7f7f" stroke="#000000" stroke-width="2" stroke-linejoin="round"/>
-
-  <!-- 4 strings — C G D A (lowest to highest, thickest to thinnest) -->
-  <line x1="110" y1="46" x2="106" y2="200" stroke="#4d4d4d" stroke-width="3.5" stroke-linecap="round"/>
-  <line x1="115" y1="46" x2="112" y2="200" stroke="#4d4d4d" stroke-width="3" stroke-linecap="round"/>
-  <line x1="121" y1="46" x2="124" y2="200" stroke="#b8b8b8" stroke-width="2.5" stroke-linecap="round"/>
-  <line x1="126" y1="46" x2="130" y2="200" stroke="#b8b8b8" stroke-width="2" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="260,162 260,162 263,159 272,153 279,150 286,147 294,144 303,142 312,142 322,143 331,146 340,151 345,154 349,159 354,164 358,169 366,183 373,201 373,201 373,203 376,206 380,210 382,211 385,211 385,211 385,211 386,213 385,215 380,218 380,218 379,219 378,221 378,224 378,228 381,233 385,239 391,246 391,246 397,252 403,257 411,263 420,266 425,268 429,268 434,267 438,265 443,262 447,257 447,257 449,257 450,257 451,259 451,259 451,261 452,264 453,267 455,269 458,271 462,273 462,273 467,276 479,282 487,287 495,293 503,300 511,308 518,317 524,327 528,338 530,344 531,350 531,356 530,363 529,369 527,376 525,383 521,391 516,398 511,406 511,406 507,411 496,422 489,430 480,437 470,445 460,452 448,459 436,464 423,467 416,468 410,468 403,467 396,466 390,464 383,461 376,458 369,453 363,448 356,441 356,441 353,437 346,426 341,418 336,409 332,398 328,386 328,386 326,383 323,381 319,378 319,378 318,378 315,378 314,377 314,376 314,374 316,372 316,372 318,371 323,367 325,364 327,360 328,356 327,351 327,351 325,342 321,334 316,324 309,315 306,311 302,308 297,305 292,303 287,302 282,303 282,303 281,304 279,306 279,307 278,307 277,305 276,303 276,303 276,302 275,299 272,296 265,291 265,291 261,289 250,283 244,278 237,272 231,265 225,258 221,249 218,239 217,234 217,228 217,223 219,217 220,211 223,204 227,198 231,191 237,184 243,177 251,169 260,162 260,162" fill="#bb6128" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="162,77 328,281 352,261 172,67 162,77" fill="#bcbec0" stroke="#000000" stroke-width="4" fill-rule="evenodd"/>
+    <polygon points="393,296 360,325 356,321 389,292 393,296" fill="#bcbec0" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="402,365 402,365 416,374 429,383 443,395 450,401 456,408 461,415 465,422 467,429 467,435 465,442 463,445 461,448 461,448 465,447 475,442 481,438 487,433 493,426 498,418 498,418 496,418 491,417 483,415 473,409 468,405 462,401 456,395 450,387 444,379 438,369 432,357 426,344 426,344 425,347 422,354 419,358 414,361 409,364 402,365 402,365" fill="#6c5635" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="160,77 172,67 143,38 145,33 142,30 145,27 139,21 136,24 133,22 130,24 122,19 116,24 121,32 118,35 119,38 117,40 125,46 129,42 133,47 136,46 160,77" fill="#bb6128" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="155,74 147,81 142,76 142,76 141,78 138,81 137,84 137,86 137,89 138,93 138,93 139,93 143,94 148,93 151,91 154,89 151,85 160,77 155,74" fill="#bcbec0" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="142,57 134,64 129,60 129,60 127,61 125,64 124,67 123,70 123,73 125,76 125,76 126,77 129,77 134,76 137,74 140,72 137,68 146,60 142,57" fill="#bcbec0" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="157,43 165,36 162,30 162,30 163,29 167,27 169,26 172,26 175,27 179,29 179,29 179,30 179,33 177,38 175,41 172,43 169,40 160,48 157,43" fill="#bcbec0" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="171,58 179,51 176,45 176,45 177,44 181,42 184,41 187,41 190,42 193,44 193,44 193,45 193,48 191,53 189,56 186,58 183,55 174,63 171,58" fill="#bcbec0" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polyline points="155,62 407,362" fill="none" stroke="#000000" stroke-width="4"/>
+    <polyline points="158,60 415,356" fill="none" stroke="#000000" stroke-width="4"/>
+    <polyline points="165,55 421,351" fill="none" stroke="#000000" stroke-width="4"/>
+  </g>
 </svg>

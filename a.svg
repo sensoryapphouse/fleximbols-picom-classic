@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 128 128" viewBox="0 0 128 128" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><path d="m115.37 117.77-37.59-99.96c-0.33-0.87-1.16-1.45-2.1-1.45h-23.36c-0.94 0-1.77 0.58-2.1 1.45l-37.59 99.96c-0.26 0.69-0.17 1.46 0.25 2.06s1.1 0.97 1.84 0.97h24.64c0.96 0 1.82-0.62 2.13-1.54l5.7-17.18h33.61l5.71 17.18c0.3 0.92 1.16 1.54 2.13 1.54h24.64c0.73 0 1.42-0.36 1.84-0.97 0.41-0.6 0.51-1.37 0.25-2.06zm-61.14-36.9 9.77-29.42 9.77 29.43h-19.54z" fill="#90a7d6" stroke="#000000" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 290 240" width="290" height="240">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="1450" bottom="1200" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <path d="M106,94L68,87L68,87L71,76L76,67L82,59L90,53L90,53L98,48L109,45L122,43L136,42L136,42L149,42L160,44L170,46L178,49L178,49L184,52L189,56L194,61L197,66L197,66L199,72L201,80L202,91L203,103L202,152L202,152L203,171L204,183L204,183L207,194L212,205L170,205L170,205L166,192L166,192L164,188L164,188L159,192L153,197L147,200L141,203L141,203L135,206L129,207L122,208L115,209L115,209L104,208L94,205L85,201L77,195L77,195L71,188L67,180L64,171L63,161L63,161L63,155L65,149L67,143L69,137L69,137L73,132L77,128L82,124L87,121L87,121L94,119L101,116L120,111L120,111L145,106L161,101L161,97L161,97L161,91L160,86L158,82L155,79L155,79L152,77L147,75L140,74L133,74L133,74L128,74L123,75L119,77L116,79L116,79L113,81L110,85L108,89L106,94L106,94Z M161,129L161,129L151,132L136,135L136,135L121,139L113,142L113,142L110,146L107,149L106,153L105,157L105,157L105,162L107,166L109,169L112,173L112,173L115,175L119,177L123,179L128,179L128,179L134,179L139,177L144,175L150,172L150,172L153,169L156,165L158,162L159,158L159,158L161,150L161,137L161,129Z" fill="#000000" stroke="none" stroke-width="0" fill-rule="evenodd"/>
+  </g>
+</svg>

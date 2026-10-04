@@ -1,11 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <path d="M 110,228 L 130,80 L 160,80 L 180,228 Z" fill="#f5e7c4" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 135,228 Q 135,205 145,202 Q 155,205 155,228 Z" fill="#5e1f0a" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="145" cy="165" r="8" fill="#dff3fd" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <path d="M 120,80 Q 110,52 145,48 Q 180,52 170,80 Z" fill="#5e1f0a" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="145" cy="65" r="10" fill="#000000" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <path d="M 145,65 Q 105,40 75,30 Q 78,15 92,18 Q 130,40 152,55 Z" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 145,65 Q 185,90 215,100 Q 212,115 198,112 Q 160,90 138,75 Z" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 145,65 Q 170,25 180,15 Q 195,18 192,32 Q 170,68 155,72 Z" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 145,65 Q 120,105 110,115 Q 95,112 98,98 Q 120,62 135,58 Z" fill="#ffffff" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="308,455 308,455 307,459 305,462 302,464 298,465 298,465 298,465 294,464 291,462 288,459 288,455 288,140 288,140 288,136 291,133 294,131 298,130 298,130 298,130 302,131 305,133 307,136 308,140 308,455" fill="#d9f1f7" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="226,19 281,125 214,249 297,139 441,127 304,118 226,19" fill="#d9f1f7" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="310,133 310,133 310,136 309,140 307,143 304,146 302,148 298,150 294,151 290,151 290,151 286,151 283,150 279,148 276,146 274,143 272,140 271,136 270,133 270,133 271,129 272,125 274,122 276,119 279,117 283,115 286,114 290,114 290,114 294,114 298,115 302,117 304,119 307,122 309,125 310,129 310,133 310,133" fill="#d9f1f7" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polyline points="357,39 357,39 363,44 369,49 376,55 383,63 389,71 391,76 393,81 394,85 394,90" fill="none" stroke="#000000" stroke-width="8"/>
+    <polyline points="402,37 402,37 408,43 413,51 418,60 423,71 425,76 427,82 427,88 427,94 426,100 424,106" fill="none" stroke="#000000" stroke-width="8"/>
+    <polyline points="398,202 398,202 394,209 389,215 383,222 376,230 368,236 363,239 359,241 354,242 350,243" fill="none" stroke="#000000" stroke-width="8"/>
+    <polyline points="430,203 430,203 426,211 421,219 415,227 407,236 402,240 398,244 392,247 387,249 381,250 375,251" fill="none" stroke="#000000" stroke-width="8"/>
+    <polyline points="187,137 187,137 185,130 183,122 182,113 182,102 183,92 184,87 186,82 188,78 191,74" fill="none" stroke="#000000" stroke-width="8"/>
+    <polyline points="164,159 164,159 161,151 159,143 157,132 156,120 156,114 157,108 158,102 161,97 164,92 168,87" fill="none" stroke="#000000" stroke-width="8"/>
+  </g>
 </svg>

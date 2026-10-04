@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><path d="M 125,30 L 165,30 L 165,90 L 125,90 Z" fill="#d01424" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path><path d="M 130,32 L 130,85 M 145,30 L 145,88 M 160,32 L 160,85" stroke="#a01020" stroke-width="2"></path><path d="M 125,30 L 165,30 L 160,18 L 130,18 Z" fill="#a01020" stroke="#000000" stroke-width="4" stroke-linejoin="round"></path><rect x="115" y="90" width="60" height="20" fill="#f7de58" stroke="#000000" stroke-width="5"></rect><path d="M 105,110 L 185,110 L 185,210 Q 185,222 175,222 L 115,222 Q 105,222 105,210 Z" fill="#7c3fac" stroke="#000000" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"></path><path d="M 115,125 L 175,125 M 115,145 L 175,145" stroke="#392170" stroke-width="3"></path><text x="145" y="190" text-anchor="middle" font-family="serif" font-size="11" font-weight="700" fill="#f7de58">L</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="275,292 270,296 270,446 270,446 277,452 287,457 299,462 306,464 313,465 321,465 330,465 339,463 348,460 358,456 368,449 370,302 364,292 364,292 355,289 344,286 332,283 317,282 310,281 303,282 295,283 288,285 282,288 275,292 275,292" fill="#ec008c" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="285,138 275,145 275,299 275,299 281,303 287,306 297,309 309,312 315,312 323,312 331,311 340,309 349,307 359,303 364,146 364,146 360,142 354,139 346,135 335,133 328,132 321,132 313,132 304,133 295,135 285,138 285,138" fill="#ccced0" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="155,267 155,450 155,450 163,455 172,460 184,464 190,465 198,466 206,466 214,466 223,464 232,461 241,456 250,450 250,268 155,267" fill="#ec008c" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="252,270 252,270 251,273 248,276 243,279 237,281 230,283 221,285 212,286 202,286 202,286 192,286 182,285 174,283 166,281 160,279 156,276 153,273 152,270 152,270 153,266 156,263 160,260 166,258 174,256 182,255 192,254 202,253 202,253 212,254 221,255 230,256 237,258 243,260 248,263 251,266 252,270 252,270" fill="#a74173" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+    <polygon points="289,152 289,54 289,54 291,49 297,37 302,30 306,24 312,18 317,15 317,15 320,13 322,13 326,14 330,16 335,21 341,29 347,40 351,58 351,155 351,155 347,157 342,158 335,159 326,160 315,159 303,157 289,152 289,152" fill="#ed1c24" stroke="#000000" stroke-width="8" fill-rule="evenodd"/>
+  </g>
+</svg>

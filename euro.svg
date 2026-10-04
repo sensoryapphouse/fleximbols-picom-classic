@@ -1,4 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-<circle cx="145" cy="120" r="98" fill="#5ab048" stroke="#1a1a1a" stroke-width="8"></circle>
-<g transform="translate(145.000 120.000) scale(0.160000 -0.160000) translate(-295.500 -353.000)"><path d="M515 547 576 672Q478 722 394 722Q275 722 196 646Q121 576 97 455H46L15 383H88Q87 381 87 367V341H47L16 269H93Q114 138 184 65Q261 -16 387 -16Q474 -16 541 23L542 174Q463 111 388 111Q272 111 240 269H414L445 341H232L233 383H457L488 455H244Q279 592 384 592Q445 592 515 547Z" fill="#1a1a1a"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 580 480" width="580" height="480">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polyline points="510,112 510,112 502,105 493,98 481,89 466,79 448,69 428,60 406,52 394,49 382,46 370,44 357,42 345,42 332,43 318,44 305,47 292,51 278,56 265,63 251,71 238,81 225,92 211,106 199,121 199,121 193,131 187,142 181,157 174,175 168,196 163,218 161,231 160,243 160,256 160,269 162,282 164,295 168,308 173,321 179,334 187,347 196,360 206,372 219,384 233,396 249,407 267,418 287,428 310,437 310,437 315,438 328,442 338,443 350,444 363,445 377,444 392,442 408,439 425,435 442,428 460,419 477,407 486,401 495,393 504,385 512,376" fill="none" stroke="#000000" stroke-width="12"/>
+    <polyline points="68,202 471,202" fill="none" stroke="#000000" stroke-width="12"/>
+    <polyline points="66,287 469,287" fill="none" stroke="#000000" stroke-width="12"/>
+  </g>
 </svg>

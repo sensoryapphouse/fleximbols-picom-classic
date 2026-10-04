@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 128 128" viewBox="0 0 128 128" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><path d="m72.51 15.42h-37.86c-0.15 0-0.28 0.06-0.42 0.08h-6.47c-1.24 0-2.24 1-2.24 2.24v100.97c0 1.24 1 2.24 2.24 2.24h21.9c1.24 0 2.24-1 2.24-2.24v-32.08h20.61c19.83 0 35.96-15.97 35.96-35.6 0.01-19.63-16.13-35.61-35.96-35.61zm-1.72 50.22c-0.35 0.03-0.7 0.06-1.06 0.06h-17.45c-0.05 0-0.09-0.04-0.14-0.06-0.09-0.02-0.17-0.04-0.24-0.1-0.12-0.11-0.21-0.25-0.21-0.43v-28.17c0-0.18 0.09-0.32 0.21-0.43 0.06-0.06 0.14-0.07 0.22-0.09 0.06-0.02 0.09-0.06 0.15-0.06h17.45c0.4 0 0.8 0.03 1.19 0.06 7.25 0.63 12.97 6.94 12.97 14.61 0.01 7.71-5.77 14.05-13.09 14.61z" fill="#90a7d6" stroke="#000000" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 290 375" width="290" height="375">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="1450" bottom="1875" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <text x="65" y="235" fill="#000000" font-size="12">p</text>
+  </g>
+</svg>

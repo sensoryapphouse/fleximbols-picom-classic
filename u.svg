@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 128 128" viewBox="0 0 128 128" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><path d="m109.05 16.65h-24.63c-1.24 0-2.24 1-2.24 2.24v49.74c0 0.07-0.1 6.96-0.36 11.03-1.58 9.94-7.09 14.38-17.82 14.38s-16.23-4.43-17.79-14.17c-0.29-4.28-0.38-11.17-0.38-11.21v-49.77c0-1.24-1.01-2.24-2.24-2.24h-24.64c-1.23 0-2.24 1-2.24 2.24v49.76c0 0.32 0.02 7.82 1.09 16.76 1.64 10.26 7 19.63 11.59 24.37 2.99 3.07 14.3 13.11 34.61 13.11 20.32 0 31.62-10.04 34.61-13.11 4.59-4.73 9.95-14.1 11.6-24.45 1.08-8.87 1.09-16.37 1.09-16.68v-49.76c-0.01-1.24-1.01-2.24-2.25-2.24z" fill="#90a7d6" stroke="#000000" stroke-width="2.0" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:mdcr="http://sensory.com/mdcr" viewBox="0 0 290 388" width="290" height="388">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="1450" bottom="1940" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <text x="38" y="249" fill="#000000" font-size="12">u</text>
+  </g>
+</svg>
